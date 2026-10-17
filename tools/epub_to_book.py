@@ -267,6 +267,10 @@ def convert(epub_path, book_id, out_root):
         entries.append((''.join(link.itertext()).strip(), href))
 
     out = Path(out_root) / str(book_id)
+    # Each conversion is a new version, so the app downloads the chapters again.
+    version = 1
+    if (out / 'book.json').exists():
+        version = json.loads((out / 'book.json').read_text(encoding='utf-8')).get('version', 0) + 1
     if out.exists():
         shutil.rmtree(out)
     out.mkdir(parents=True)
@@ -308,7 +312,11 @@ def convert(epub_path, book_id, out_root):
             title = listed['title']
 
     (out / 'book.json').write_text(
-        json.dumps({'id': book_id, 'title': title, 'chapters': chapters}, ensure_ascii=False, indent=2),
+        json.dumps(
+            {'id': book_id, 'title': title, 'version': version, 'chapters': chapters},
+            ensure_ascii=False,
+            indent=2,
+        ),
         encoding='utf-8',
     )
 

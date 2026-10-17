@@ -43,12 +43,13 @@ Everything here is public, and the app reads it as is. Change a file and push to
 
 Each book is split into chapters, so the app only downloads what's being read.
 
-**`books/{id}/book.json`**: the table of contents. `part` groups chapters under a part of the book, when it has parts.
+**`books/{id}/book.json`**: the table of contents. `part` groups chapters under a part of the book, when it has parts. `version` goes up by one whenever any of the book's chapters change: the app keeps chapters on the phone and only downloads them again for a new version. The converter raises it on every run; when editing chapters by hand, raise it yourself.
 
 ```json
 {
   "id": 6016,
   "title": "Hadislerle İslam 1",
+  "version": 2,
   "chapters": [
     { "n": 8, "title": "İstiâze: Âlemlerin Rabbine Sığınmak" },
     { "n": 12, "title": "Allah: Âlemlerin Rabbi", "part": "1. Bölüm: Allah, Âlem, İnsan ve Din" }
