@@ -43,31 +43,36 @@ Everything here is public, and the app reads it as is. Change a file and push to
 
 Each book is split into chapters, so the app only downloads what's being read.
 
-**`books/{id}/book.json`**: the table of contents.
+**`books/{id}/book.json`**: the table of contents. `part` groups chapters under a part of the book, when it has parts.
 
 ```json
 {
-  "id": 3001,
+  "id": 6016,
+  "title": "Hadislerle İslam 1",
   "chapters": [
-    { "n": 1, "title": "Birinci Söz" },
-    { "n": 2, "title": "İkinci Söz" }
+    { "n": 8, "title": "İstiâze: Âlemlerin Rabbine Sığınmak" },
+    { "n": 12, "title": "Allah: Âlemlerin Rabbi", "part": "1. Bölüm: Allah, Âlem, İnsan ve Din" }
   ]
 }
 ```
 
-**`books/{id}/{n}.json`**: one chapter, as a list of blocks.
+**`books/{id}/{n}.json`**: one chapter, as a list of blocks, and its footnotes.
 
 ```json
 {
-  "n": 1,
-  "title": "Birinci Söz",
+  "n": 8,
+  "title": "İstiâze: Âlemlerin Rabbine Sığınmak",
   "blocks": [
-    { "type": "heading", "text": "Bismillah her hayrın başıdır." },
-    { "type": "paragraph", "text": "Biz dahi başta ona başlarız…" },
-    { "type": "arabic", "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيمِ" },
-    { "type": "quote", "text": "…" },
-    { "type": "note", "text": "…" }
-  ]
+    { "type": "arabic", "text": "قَالَ أَبُو هُرَيْرَةَ: إِنَّ رَسُولَ اللَّهِ ﷺ كَانَ يَدْعُو…" },
+    { "type": "paragraph", "text": "Ebû Hüreyre, Allah Resûlü’nün (sav) şöyle dua ettiğini söylemektedir:" },
+    { "type": "paragraph", "parts": [
+      { "text": "“Allah’ım! Bozgunculuktan… sana sığınırım.”", "italic": true },
+      { "note": "12" }
+    ] },
+    { "type": "source", "text": "(D1546 Ebû Dâvûd, Vitr, 32)" },
+    { "type": "divider" }
+  ],
+  "notes": [{ "id": "12", "text": "Müslim, Salât, 222." }]
 }
 ```
 
@@ -77,6 +82,17 @@ Each book is split into chapters, so the app only downloads what's being read.
 | `paragraph` | body text |
 | `arabic` | Arabic text, right to left, in the Qur'an font |
 | `quote` | an indented quotation |
-| `note` | a smaller footnote |
+| `source` | a hadith's or quotation's source, small and grey |
+| `divider` | a break between sections (no text) |
 
-The app draws everything with its own fonts and colors, so the text has no formatting of its own: only plain text in these blocks.
+A block has either `text` (plain) or `parts`, for text with italic or bold runs and footnote references: each part is `{ "text", "italic"?, "bold"? }` or `{ "note": "<id>" }`, pointing at an entry in the chapter's `notes`.
+
+The app draws everything with its own fonts and colors, so the text carries no formatting beyond italic and bold.
+
+## Converting an EPUB
+
+```
+python3 tools/epub_to_book.py BOOK.epub BOOK_ID
+```
+
+Writes `books/BOOK_ID/` (table of contents, chapters, cover). Then set the book's `hasText` to `true` in `books/index.json`, its `cover` to `https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/BOOK_ID/cover.jpg`, and check a few chapters. The script was built on Diyanet's EPUBs; other publishers' EPUBs may need it extended.

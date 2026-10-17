@@ -1,0 +1,1732 @@
+{
+ "n": 7,
+ "title": "I. Hikem Veri Tabanı",
+ "blocks": [
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Konulu Hadis Projesi",
+     "italic": true
+    },
+    {
+     "text": ", öncelikle temel hadis kaynaklarındaki hadisleri bir araya toplamayı ve konularına göre güncel bir bakış açısıyla yeniden tasnif etmeyi amaçlamış, bunun için de bir “elektronik veri tabanı” hazırlamıştır. Bu veri tabanı, yayımlanan kitap ile ilişkili olduğu kadar ondan bağımsız da kullanılabilecek mahiyettedir. Veri tabanı, elinizdeki kitaba"
+    },
+    {
+     "text": " ",
+     "italic": true
+    },
+    {
+     "text": "veri sağlaması ve kitabın içeriğinin kayıt altına alınması açısından ‘elektronik ortamda depo ve hafıza’ işlevine sahiptir. Bu veri tabanı, ileriki zamanlarda müstakil olarak ya da bir proje çapında araştırma yapmak isteyenlere önemli fırsatlar sunma kabiliyetine sahiptir. Sistem birbiriyle organik ilişkisi olan farklı alt birimlerden oluşmaktadır."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Haziran 2012 tarihi itibariyle bu elektronik veri tabanında yaklaşık 205.000 (iki yüz beş bin) kayıt yer almaktadır. Veri tabanına tamamıyla kaydedilen eserler ve bu eserlere dair bilgiler şöyledir:"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "1. ",
+     "italic": true,
+     "bold": true
+    },
+    {
+     "text": "Kur’ân-ı Kerîm",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "• Âyetlerin tercümesinde büyük oranda Diyanet İşleri Başkanlığı tarafından yayınlanmış olan meal kullanılmıştır."
+  },
+  {
+   "type": "paragraph",
+   "text": "• Âyetler, sistemde KK kısaltması kullanılarak önce sûre, sonra da âyet numarası verilerek numaralandırılmıştır. Örneğin Bakara sûresinin 100. âyeti KK2/100 şeklinde numaralandırılmıştır."
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "2. ",
+     "italic": true,
+     "bold": true
+    },
+    {
+     "text": "Buhârî’nin es-Sahîh’i",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "3. ",
+     "italic": true,
+     "bold": true
+    },
+    {
+     "text": "Müslim’in es-Sahîh’i",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "4. ",
+     "italic": true,
+     "bold": true
+    },
+    {
+     "text": "Mâlik’in el-Muvatta’ı",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "5. ",
+     "italic": true,
+     "bold": true
+    },
+    {
+     "text": "Ebû Dâvûd’un es-Sünen’i",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "6. ",
+     "italic": true,
+     "bold": true
+    },
+    {
+     "text": "Tirmizî’nin es-Sünen’i",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "7. ",
+     "italic": true,
+     "bold": true
+    },
+    {
+     "text": "Nesâî’nin es-Sünen’i",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "8. ",
+     "italic": true,
+     "bold": true
+    },
+    {
+     "text": "İbn Mâce’nin es-Sünen’i",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Kütüb-i Seb’a:",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "• "
+    },
+    {
+     "text": "Kütüb-i Seb’a",
+     "italic": true
+    },
+    {
+     "text": "’daki (yedi temel hadis kaynağındaki) hadis metinleri "
+    },
+    {
+     "text": "İhsân (el-Meknezü’l-İslâmî",
+     "italic": true
+    },
+    {
+     "text": ") programından alınmıştır."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "• "
+    },
+    {
+     "text": "Kütüb-i Sitte",
+     "italic": true
+    },
+    {
+     "text": " hadislerinin ve bâblarının numaralandırılmasında Dârü’s- Selâm tarafından tek cilt hâlinde basılmış olan "
+    },
+    {
+     "text": "Mevsûatü’l-Hadîsi’ş-Şerîf ",
+     "italic": true
+    },
+    {
+     "text": "adındaki "
+    },
+    {
+     "text": "Kütüb-i Sitte",
+     "italic": true
+    },
+    {
+     "text": " baskısı esas alınmıştır. Mukayese imkânı daha iyi olduğu ve numaralar peşpeşe verildiği için bu eser tercih edilmiştir."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "• Söz konusu baskıda "
+    },
+    {
+     "text": "Muvatta’ ",
+     "italic": true
+    },
+    {
+     "text": "yer almadığı için, "
+    },
+    {
+     "text": "Muvatta’",
+     "italic": true
+    },
+    {
+     "text": "ın numaralandırılmasında "
+    },
+    {
+     "text": "İhsân ",
+     "italic": true
+    },
+    {
+     "text": "CD’si esas alınmıştır."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "• Hadisin yer aldığı kaynağın hemen tespit edilebilmesi için hadis numaraları, bulundukları kaynağı gösteren harflerle beraber verilmiştir. Buhârî ‘B’, Müslim ‘M’, Ebû Dâvûd ‘D’, Tirmizî ‘T’, Nesâî ‘N’, İbn Mâce ‘İM’, Muvatta’ ‘MU’ kısaltması ile ifade edilmiştir."
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "9. ",
+     "italic": true,
+     "bold": true
+    },
+    {
+     "text": "Dârimî’nin es-Sünen’i",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "• "
+    },
+    {
+     "text": "Sünen",
+     "italic": true
+    },
+    {
+     "text": "’in hadislerinin numaralandırılmasında Dârü İbn Hazm tarafından 2002 yılında Beyrut’ta yapılmış olan tek ciltlik 1. baskı esas alınmıştır."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "• "
+    },
+    {
+     "text": "Sünen-i Dârimî",
+     "italic": true
+    },
+    {
+     "text": " ‘DM’ şeklinde simgelendirilmiştir."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "10. ",
+     "italic": true,
+     "bold": true
+    },
+    {
+     "text": "Ahmed b. Hanbel’in el-Müsned’i",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "• "
+    },
+    {
+     "text": "Müsned",
+     "italic": true
+    },
+    {
+     "text": " hadislerinin numaralandırılması Beytü’l-Efkâri’d-Düveliyye tarafından basılan birleşik baskı esas alınarak yapılmıştır."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "• "
+    },
+    {
+     "text": "Müsned",
+     "italic": true
+    },
+    {
+     "text": " ‘HM’ şeklinde simgelendirilmiştir."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "11. ",
+     "italic": true,
+     "bold": true
+    },
+    {
+     "text": "Abdürrezzâk’ın el-Musannef’i",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "• Abdürrezzâk’ın "
+    },
+    {
+     "text": "el-Musannef’",
+     "italic": true
+    },
+    {
+     "text": "inin numaralandırılmasında el-Mektebe­tü’l-İslâmî tarafından basılmış olan 12 ciltlik (11+1) baskıdaki numaralar esas alınmıştır."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "• Abdürrezzâk’ın "
+    },
+    {
+     "text": "Musannef",
+     "italic": true
+    },
+    {
+     "text": "’i ‘MA’ şeklinde simgelendirilmiştir."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "12. ",
+     "italic": true,
+     "bold": true
+    },
+    {
+     "text": "İbn Ebû Şeybe’nin el-Musannef’i",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "• İbn Ebû Şeybe’nin "
+    },
+    {
+     "text": "el-Musannef",
+     "italic": true
+    },
+    {
+     "text": "’inin numaralandırmasında Dârü’l-Kütübi’l-İlmiyye tarafından yapılmış olan dokuz (7+2) ciltlik baskıdaki numaralar esas alınmıştır."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "• İbn Ebû Şeybe’nin "
+    },
+    {
+     "text": "el-Musannef",
+     "italic": true
+    },
+    {
+     "text": "’i ‘MŞ’ şeklinde simgelendirilmiştir."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "13. ",
+     "italic": true,
+     "bold": true
+    },
+    {
+     "text": "Ebû Dâvûd et-Tayâlisî’nin el-Müsned’i:",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "• Tayâlisî’nin "
+    },
+    {
+     "text": "el-Müsned",
+     "italic": true
+    },
+    {
+     "text": "’inin numaralandırmasında Dârü’l-Kütübi’l-İlmiyye tarafından üç cilt hâlinde yapılmış olan Beyrut baskısı esas alınmıştır."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "• Ebû Dâvûd et-Tayâlisî’nin "
+    },
+    {
+     "text": "el-Müsned",
+     "italic": true
+    },
+    {
+     "text": "’i ‘TM’ şeklinde kısaltılmıştır."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "14. ",
+     "italic": true,
+     "bold": true
+    },
+    {
+     "text": "Beyhakî’nin Kitâbü’s-süneni’l-kebîr’i:",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "• Beyhakî’nin "
+    },
+    {
+     "text": "Kitâbü’s-süneni’l-kebîr (es-Sünenü’l-kübrâ) ",
+     "italic": true
+    },
+    {
+     "text": "adlı eseri için Mektebetü’r-Rüşd tarafından on cilt hâlinde yapılmış olan baskı esas alınmıştır."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "• Beyhakî’nin "
+    },
+    {
+     "text": "Kitâbü’s-süneni’l-kebîr’i ",
+     "italic": true
+    },
+    {
+     "text": "‘BS’ olarak kısaltılmıştır."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "15. Tirmizî’nin eş- Şemâil’i:",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "• Tirmizî’nin "
+    },
+    {
+     "text": "eş-Şemâilü’l-Muhammediyye ve’l-Hasâilü’l-Mustafaviyye",
+     "italic": true
+    },
+    {
+     "text": " adlı eseri için Dârü’l-Kütübi’l-İlmiyye’nin Muhammed Abdülaziz el-Hâlidî tashihli baskısı esas alınmıştır."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "• Tirmizî’nin "
+    },
+    {
+     "text": "eş- Şemâil",
+     "italic": true
+    },
+    {
+     "text": "’i ‘TŞ’ olarak kısaltılmıştır."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "16. ",
+     "italic": true,
+     "bold": true
+    },
+    {
+     "text": "Buhârî’nin el-Edebü’l-Müfred’i:",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "• Buhârî’nin "
+    },
+    {
+     "text": "el-Edebü’l-müfred",
+     "italic": true
+    },
+    {
+     "text": " adlı eseri"
+    },
+    {
+     "text": " ",
+     "italic": true
+    },
+    {
+     "text": "için"
+    },
+    {
+     "text": " ",
+     "italic": true
+    },
+    {
+     "text": "Dârü’l-Beşâirü’l-İslâmiyye tarafından Muhammed Fuâd Abdülbâkî’nin tahkîki ile bir cilt hâlinde basılmış olan nüsha esas alınmıştır (Beyrut, 1989/1409)."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "• "
+    },
+    {
+     "text": "el-Edebü’l-müfred",
+     "italic": true
+    },
+    {
+     "text": ", ‘EM’ şeklinde kısaltılmıştır."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "17. ",
+     "italic": true,
+     "bold": true
+    },
+    {
+     "text": "Taberânî’nin el-Mu’cemü’l-kebîr’i",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "• Rivayetlerin numaralandırılmasında Dârü İhyâi’t-Türâsi’l-Arabî tarafından, Hamdî Abdulmecîd es-Silefî tahkîkiyle, yirmi beş cilt hâlinde Beyrut’ta basılmış olan nüshadaki sıralama ile müselsel olarak yapılmış numaralandırma kullanılmıştır. (Müselsel numaralandırma baskının aslında olmadığı için Hikem tarafından yapılmıştır.)"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "• "
+    },
+    {
+     "text": "el-Mu’cemü’l-kebîr",
+     "italic": true
+    },
+    {
+     "text": ", ‘MK’ şeklinde kısaltılmıştır."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "18. ",
+     "italic": true,
+     "bold": true
+    },
+    {
+     "text": "Dârekutnî’nin es-Sünen’i:",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "• Rivayetlerin numaralandırılmasında Dârü’l-Ma’rife tarafından Beyrut’ta 2001/1422 yılında, Âdil Ahmed Abdülmevcûd ve Ali Muhammed Muavviz tahkîki ile basılmış olan nüshadaki peşpeşe gelen numaralar kullanılmıştır."
+  },
+  {
+   "type": "paragraph",
+   "text": "• Rivayetlerin kaynakları Dârü’l-Ma’rife tarafından, Beyrut’ta, 1966/ 1386 yılında, Abdullah Hâşim Yemânî tahkîkiyle basılmış olan dört ciltlik baskı esas alınarak belirtilmiştir."
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "• "
+    },
+    {
+     "text": "Sünen-i Dârekutnî",
+     "italic": true
+    },
+    {
+     "text": ", ‘DK’ olarak kısaltılmıştır."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "19. ",
+     "italic": true,
+     "bold": true
+    },
+    {
+     "text": "Hâkim en-Neysâbûrî’nin, el-Müstedrek ale’s-Sahîhayn’ı:",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "• Rivayetlerin numaralandırılmasında el-Mektebetü’l-Asriyye tarafından on cilt hâlinde Beyrut’ta 2000/1420 yılında basılan nüsha esas alınmıştır. Rivayetlerin tahrici yine bu nüshaya göre verilmiş, ayrıca Dârü’l-Kütübi’l-İlmiyye tarafından Beyrut’ta 1990/1411 tarihinde dört cilt hâlinde basılan nüshadaki karşılıkları da parantez içinde belirtilmiştir."
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "• Hâkim’in "
+    },
+    {
+     "text": "el-Müstedrek",
+     "italic": true
+    },
+    {
+     "text": "’i ‘NM’ olarak kısaltılmıştır."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "20. ",
+     "italic": true,
+     "bold": true
+    },
+    {
+     "text": "Beyhakî’nin Ma’rifetü’s-sünen ve’l- âsâr’ı:",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "• Rivayetlerin numaralandırmasında Dâr’ul-Kütübi’l-İlmiyye"
+    },
+    {
+     "text": " ",
+     "italic": true
+    },
+    {
+     "text": "tarafından Beyrut’ta 2001/1422 yılında Seyyid Kesrevî Hasan tahkîkiyle yapılan baskıdaki numaralar esas alınmıştır. Rivayetlerin kaynakları aynı baskı esas alınarak belirtilmiştir."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "• Beyhakî’nin "
+    },
+    {
+     "text": "Ma’rife",
+     "italic": true
+    },
+    {
+     "text": "’si ‘BM’ olarak kısaltılmıştır."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Yukarıda kaydedilen eserler elektronik veri tabanına bütünüyle girilmiştir. Diğer yandan konu yazımında bu kaynakların dışında muhtelif eserlerden alınan ve kullanılan bilgiler de veri tabanına kaydedilmiştir. Bu durum dağınık bilgilerin ilgili konu başlığı altında doğrudan kullanılmasına imkân sunmaktadır. Bu bilgilerin alındıkları kaynak sayısı iki yüz otuz civarındadır. Söz konusu veriler de sisteme rumuz ve cilt/sayfa bilgileri kullanılarak kaydedilmiştir. (Örn: Vâkıdî, "
+    },
+    {
+     "text": "Meğâzî",
+     "italic": true
+    },
+    {
+     "text": ", II, 671’de yer alan bilgi için VM2/671 rumuzu kullanılmıştır.)"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Veri tabanında kayıtlı rivayetler konularına ve içeriklerine göre tasnif edilmiştir. Bu faaliyet neticesinde dört bin beş yüz civarında konu başlığına ulaşılmıştır. Elde edilen bu başlıklar, daha sonra, kitapta yer alması uygun görülen üç yüz elli iki ana başlık altında toplanmıştır."
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "II. Hadislerle İslâm",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "A. Bölümler",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Bölümler",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Elinizdeki kitap bir mukaddime, bir giriş ve sekiz ana bölümden oluşmaktadır. Bu bölümler şunlardır:"
+  },
+  {
+   "type": "paragraph",
+   "text": "1. Allah, Âlem, İnsan ve Din"
+  },
+  {
+   "type": "paragraph",
+   "text": "2. Bilgi"
+  },
+  {
+   "type": "paragraph",
+   "text": "3. İman"
+  },
+  {
+   "type": "paragraph",
+   "text": "4. İbadet"
+  },
+  {
+   "type": "paragraph",
+   "text": "5. Ahlâk"
+  },
+  {
+   "type": "paragraph",
+   "text": "6. Toplumsal Hayat"
+  },
+  {
+   "type": "paragraph",
+   "text": "7. Tarih ve Medeniyet"
+  },
+  {
+   "type": "paragraph",
+   "text": "8. Ebedî Hayat: Âhiret"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Kitapta yer alan konular, bu sekiz bölüme yerleştirilmiştir. Kitabın başında ayrıca esere giriş mahiyetinde bir mukaddime yer almaktadır. Söz konusu mukaddimede, hadis tarihi ve edebiyatı, sünnet ve hadisi anlamanın temel ilke ve esasları, "
+    },
+    {
+     "text": "Konulu Hadis Projesi",
+     "italic": true
+    },
+    {
+     "text": "’ni ortaya çıkaran şartlar ( esbâb-ı mûcibe) ve elinizdeki kitabın ilkeleri, dili ve üslûbu, bilimsel düzeyi ve metin iyileştirme süreci gibi hususlarda genel bilgiler verilmektedir."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "B. Konular",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Kitaptaki makaleler belli ilkeler gözetilerek hazırlanmıştır. Bu ilkeleri şöyle sıralayabiliriz:"
+  },
+  {
+   "type": "paragraph",
+   "text": "a) Konular, yaşadığımız çağın gerçekleri, edebî zevki, hassasiyetleri ve niteliği dikkate alınarak tespit edilmiş ve kaleme alınmıştır."
+  },
+  {
+   "type": "paragraph",
+   "text": "b) Rivayetlerin yorumunda zaman zaman güncel bilimsel verilerle ilişki kurulmuş, ancak geçmişi bugünün algısıyla tasavvur etmekten ve aşırı yorumlardan sakınılmıştır."
+  },
+  {
+   "type": "paragraph",
+   "text": "c) Eser, temel olarak hadis alanındaki birikimi ve hadis kültürünü ortalama okura taşımayı hedeflediğinden, konu yazımında hadis alanındaki akademik problemlere değinilmediği gibi tefsir, fıkıh, kelâm ve tasavvuf gibi bilim dalları kapsamındaki teknik tartışmalara da yer verilmemiştir. Özellikle fıkhî konular bu sahanın kaynak kitaplarına bırakılmış, ilgili yazılarda fıkhî ihtilâflar yerine konunun hikmet yönü üzerinde durulmuştur. Öte yandan okuyucuda konularla ilgili düşünsel sorunları fark etme ve sağduyu ile yaklaşma hassasiyetinin oluşması hedeflenmiştir."
+  },
+  {
+   "type": "paragraph",
+   "text": "d) Konu yazımında farklı kaynaklarda yer alan aynı konudaki rivayetler ile aynı rivayetin farklı tarîkleri mümkün mertebe bir araya getirilerek değerlendirilmiş, rivayetler sade bir üslûpla izah edilmeye ve değerlendirilmeye çalışılmıştır."
+  },
+  {
+   "type": "paragraph",
+   "text": "e) Metinlerde yer alan rivayetlerin sebeb-i vürûdlarına dair veriler/bilgiler dikkate alınarak rivayetlerin serüvenine işaret edilmiştir."
+  },
+  {
+   "type": "paragraph",
+   "text": "f) Tarihsel süreç içerisinde rivayetler üzerine yapılan yorumlardan dikkate değer olanlar metne yansıtılmış, yanlış anlama ve değerlendirmeler söz konusu ise bunlar tashih edilmiş, ancak bütün mesele ve yorumlara yer verilmemiştir."
+  },
+  {
+   "type": "paragraph",
+   "text": "g) Konuların işlenişinde öncelikle hadislerin âyetlerle irtibatı gözetilmiş ve yine hadislerle izahı yöntemi takip edilmiştir."
+  },
+  {
+   "type": "paragraph",
+   "text": "h) Hadisler değerlendirilirken temel dinî metinlerin birbirleriyle olan irtibatı ve metinler arası iç bütünlük dikkate alınmış; özellikle Kur’an, hadis, sünnet ve sîret birlikteliğinin metne yansıtılmasına gayret edilmiştir."
+  },
+  {
+   "type": "paragraph",
+   "text": "ı) Hadislerin yorumlanması sırasında erken dönem hadis kaynaklarının yanında, İslâm kültüründe ortaya çıkan şerhlerden; tefsir, fıkıh, kelâm, siyer- meğâzî kaynaklarından yararlanılmıştır."
+  },
+  {
+   "type": "paragraph",
+   "text": "j) Konuların yazımı sırasında konuyla ilgili rivayetlerin tamamının kullanılması mümkün olmadığı gibi, çoğu zaman onlara işaret edilmesi dahi mümkün olamamıştır. Zira kitapta yer alan konuların pek çoğu hakkında yüzlerle hatta binlerle ifade edilebilecek sayıda hadis bulunmaktadır. Sayfa ve kelime sınırlaması nedeniyle her konuda ortalama otuz hadise yer verilebilmiştir. Ancak bu hadislerin mânâ itibariyle kuşatıcı olmasına ve metinde yer verilemeyen diğer hadislerin de içeriğini yansıtacak nitelikte olmasına dikkat edilmiştir. Ayrıca çok uzun olan, birden fazla konusu bulunan, metni tamamen zikredilmeyen veya daha önce verilen metinden sadece birkaç kelime farklılığı olan hadisler, konu bütünlüğü dikkate alınarak yazı içinde mezcedilmiş ve atıf yoluyla zikredilmiştir."
+  },
+  {
+   "type": "paragraph",
+   "text": "k) Metinlerin sayfa/kelime sayısı belirlenirken okuyucunun metni rahatlıkla ve tek seferde bitirebileceği bir uzunlukta olmasına gayret edilmiş, bu nedenle metinler —birkaç istisna dışında— iki bin-üç bin beş yüz kelime (6-8 sayfa) ile sınırlı tutulmuştur."
+  },
+  {
+   "type": "paragraph",
+   "text": "l) Eserde kullanılan dilin sade, anlaşılır ve akıcı olmasına özen gösterilmiştir."
+  },
+  {
+   "type": "paragraph",
+   "text": "m) Hadis metinlerinin çevirisi yeniden özel olarak ve titizlikle, günümüz Türkçesi ile yapılmıştır."
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "C. Konu Yazım Tekniği ve Metnin Yapısı",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Elinizdeki eser, üslûp ve içerik itibariyle özgün bir yapıya sahiptir. Kitaptaki metinlerin özellikleri şunlardır:"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Başlık",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Eserde yer alan konular için mümkün olduğunca konuyu kuşatan, özgün ve ana fikri temsil eden başlıklar belirlenmiştir. Başlık seçiminde genellikle konuda işlenen âyet ve hadislerdeki bir ifade yahut deyiş niteliğindeki bir cümleden istifade edilmiştir."
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Serlevha hadisler",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Eserde yer alan bütün konuların baş kısmında, başlıktan sonra, ortalama dört-beş hadise yer verilmiştir. “Serlevha hadis” denilen bu rivayetlerin sahâbî râvisi, Arapça metni, Türkçe tercümesi ve kaynağı da belirtilmiştir. Serlevha hadisler, muteber kaynaklardan, sahih rivayetlerden ve konunun ana fikrini yansıtan hadislerden seçilmiştir. Serlevha hadislerin kısa ve ezberlenmesinin kolay olmasına, ayrıca konuların serlevha hadisler çerçevesinde işlenmesine olabildiğince dikkat edilmiştir."
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Üslûp ve tahkiye",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Metinlerin yazımında, anlatım tarzı olarak bazen tasvir edici, çoğunlukla da öyküleyici anlatım biçimi tercih edilmiştir. Özellikle metinlerin girişinde konuyla ilgili bir hadisin hikâyesi anlatılmış ve okuyucunun hadisi ve konuyu bir hikâye üzerinden zihninde canlandırarak algılaması amaçlanmıştır. Hadisin vârid olduğu zaman, mekân, durum ve hadiste geçen kişiler imkân nisbetinde tespit edilmiş ve bu çerçevede bir tahkiye ile konuya başlangıç yapılmıştır. Ancak bu hikâye, yazar tarafından kurgulanmış olmayıp ağırlıklı olarak hadiste anlatılan unsurlara dayanmaktadır. Tahkiyede yer alan betimleyici unsurların da hadis kaynaklarına dayanmasına dikkat edilmiştir."
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Şahıs/kabile/yer/kavram bilgisi",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Metinlerde yer alan ve rivayette geçen ve metnin anlaşılması açısından önem taşıyan bazı şahıslar, râviler, kabileler, şehirler/mekânlar ve kavramlar ile ilgili kısa bilgiler, konu bütünlüğünü bozmayacak biçimde metne yansıtılmıştır."
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Kaynaklar",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Metinlerde yer alan bilgiler, esas olarak Kur’ân-ı Kerîm ve on dokuz hadis kitabına dayanmaktadır. Bunların dışında konu yazımında kullanılan bilgilere kaynaklık eden iki yüzden fazla esere atıfta bulunulmuştur. Kaynakların başında yer alan rumuzlar (ID numaraları), "
+    },
+    {
+     "text": "Konulu Hadis Projesi",
+     "italic": true
+    },
+    {
+     "text": "’nin web sitesindeki kayıt numaraları olup ilgili web sitesinden bu numaralarla hadislerin metinlerine ulaşmak mümkündür."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "D. Metinlerin Şekillendirilmesi Süreci",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Elinizdeki eser, makale yazarlarının kaleme aldıkları ön metinler, son şekli verilmeden önce üst kurul üyeleri ve proje bünyesinde çalışan uzmanlar tarafından içerik ve üslûp açısından aşağıda belirtilen ölçütler çerçevesinde incelenmiş ve notlandırılmıştır. Bu notlar dikkate alınarak metinler tashih edilmiş ve redaksiyon sürecinde olabildiğince farklı okumalar yapılmak suretiyle en iyi metin elde edilmeye çalışılmıştır. Çalışma yöntemi gereği kitapta yer alan makalelerin büyük bir kısmı belirli bir yazarın metni olmayıp, kollektif bir metin olarak şekillenmiştir. Bilhassa üst kurul okuması ve nihaî okuma esnasında pek çok ön metin yeniden yazılmış ve inşa edilmiştir."
+  },
+  {
+   "type": "paragraph",
+   "text": "Kitaptaki metinler genel olarak beş aşamalı bir incelemeye tâbi tutulmuştur:"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "1. Üst Kurul İlk Okuması ",
+     "italic": true
+    },
+    {
+     "text": "a) İlk olarak önerilen başlık ile içerik arasındaki uyum incelenmiştir. Ardından genel anlamda konunun çerçevesinin doğru bir şekilde çizilip çizilmediği tespit edilmiştir. Çerçeve üzerinde görüş alışverişinde bulunulmuştur."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "b) Serlevha olarak belirlenen hadislerin, konuyu kuşatacak nitelikte olup olmadığına ve metin içerisinde konunun her yönüne temas edip etmediğine bakılmıştır. İhtiyaç görülen yerlerde yeni serlevhalar belirlenmiştir. Aynı şekilde serlevha ölçütlerine uymadığı tespit edilen serlevha hadisleri çıkarılmıştır. Üst Kurul’un onayıyla bu değişiklikler metne yansıtılmıştır."
+  },
+  {
+   "type": "paragraph",
+   "text": "c) Metinler üslûp açısından değerlendirilmiştir. Ortalama okur kitlesine hitap etmesi amaçlanan yazıların üslûp itibariyle de bu amaca uyup uymadığına dikkat edilmiştir. Özellikle yazılara okurun dikkatini çekecek bir tahkiye ile başlanmış olmasına özen gösterilmiştir. Yazılarda öyküleme temel bir yaklaşım olarak belirlenmiştir. Bu bakımdan yazıların akademik bir makale veya ansiklopedi maddesi görünümünde olmamasına özen gösterilmiştir."
+  },
+  {
+   "type": "paragraph",
+   "text": "d) Metinler bilimsel açıdan incelenmiştir. Yazılarda yer verilen rivayetlerin ve yapılan atıfların her biri gözden geçirilmiştir. Metin içerisindeki bilgilerin gösterilen kaynaklarda bulunup bulunmadığı hususu titizlikle incelenmiştir. İlgisiz atıflar kaldırılmıştır."
+  },
+  {
+   "type": "paragraph",
+   "text": "e) Serlevha hadislerin çevirileri özenle yapılmış; sade ve anlaşılır bir Türkçe kullanmaya dikkat edilmiştir."
+  },
+  {
+   "type": "paragraph",
+   "text": "f) Metinler konu bütünlüğü açısından değerlendirilmiştir. Varsa konu bütünlüğünü bozan çelişkiler giderilmiştir."
+  },
+  {
+   "type": "paragraph",
+   "text": "g) Rivayetlerin tarihsel bağlamlarını tespit için rivayetlerde yer alan kişi, yer ve zamanla ilgili unsurlar araştırılarak kapalı noktalar izah edilmiştir."
+  },
+  {
+   "type": "paragraph",
+   "text": "h) Bilgilerin, birbirleriyle ilişkileri dikkate alınmak suretiyle tutarlı bir iç örgü içinde sunulmasına dikkat edilmiştir. Ayrıca konunun kuşatıcı bir şekilde ele alınıp alınmadığı, konunun işlenişinde, zihinlerde mevcut veya oluşması muhtemel sorunların dikkate alınıp alınmadığı, konuyla ilgili güncel düşünce sorunlarının ve ihtiyaçların usulüne uygun bir biçimde ele alınıp alınmadığı soruşturulmuştur."
+  },
+  {
+   "type": "paragraph",
+   "text": "i) Belirtilen yönlerden okunan yazılar notlandırılmış ve buna göre tashihleri yapılmıştır."
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "2. İlmî Redaksiyon",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "İlmî redaksiyon aşamasında aşağıdaki maddelerde ifade edilen işlemler yerine getirilmiştir:"
+  },
+  {
+   "type": "paragraph",
+   "text": "a) Metinde belirtilen bütün kaynaklar gözden geçirilmiş, bütün atıfların bilgiyle mutabakatı ve yerli yerinde kullanılıp kullanılmadığı gözden geçirilmiştir."
+  },
+  {
+   "type": "paragraph",
+   "text": "b) Serlevhada yer alan hadis ile aynı hadisin konunun içinde geçen metninin aynı çeviri ve kaynak eşliğinde zikredilmesine dikkat edilmiştir."
+  },
+  {
+   "type": "paragraph",
+   "text": "c) Serlevhada yer alan hadislerin kaynak metindeki isnad ile kaydedilmesi temin edilmiştir."
+  },
+  {
+   "type": "paragraph",
+   "text": "d) Sistemde (veri tabanında) bulunmayan ancak sonradan yazım esnasında kaydedilen kaynaklar sisteme girilmiş ve ID numaraları verilmiştir."
+  },
+  {
+   "type": "paragraph",
+   "text": "e) Metnin başındaki serlevha hadislerin metnin içinde de aynı sıralama ile yer alması sağlanmıştır."
+  },
+  {
+   "type": "paragraph",
+   "text": "f) Metinde geçen isimlerle ilgili nitelemelerin doğruluğu (sahâbî, tâbiûn, Yemenli vb. gibi) araştırılmış ve gerektiğinde kaynak ilâvesi yapılmıştır."
+  },
+  {
+   "type": "paragraph",
+   "text": "g) Metinde geçen isimlerin okunuşu gözden geçirilmiştir."
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "3. Edebî Redaksiyon",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Edebî redaksiyon sürecinde metinler üç aşamalı bir yöntem ile tashih edilmiştir. Bunlar:"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "a) İmlâ ve noktalama redaksiyonu: Bu aşamada, kelimelerin yazım ve telaffuzundan kaynaklanabilecek karışıklıkların önüne geçmek için her kelime imlâ kuralları açısından incelenmiş, eş zamanlı olarak noktalama işaretlerine yönelik düzenlemeler yapılmıştır. Yazım birliğinin sağlanması açısından Diyanet İslâm Ansiklopedisi’nde ("
+    },
+    {
+     "text": "DİA",
+     "italic": true
+    },
+    {
+     "text": ") kullanılan imlâ esasları uygulanmış, Türk Dil Kurumu’nun sözlüklerinden de istifade edilmiştir. Ayrıca diğer Türkçe sözlük ve yazım kılavuzlarına da gerektikçe bakılarak tartışmalı bazı uygulamalar elden geldiğince netleştirilmeye çalışılmıştır. Bu doğrultuda imlâ ve noktalama uygulaması tektipleştirilmeye çalışılmıştır."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "b) Dil ve üslûp tashihi: Bu basamakta cümlelerdeki dil hataları, düşüklükler, anlatım bozuklukları, dil ve üslûp sorunları Türk Dili kuralları çerçevesinde tashih edilmiştir."
+  },
+  {
+   "type": "paragraph",
+   "text": "c) Anlam bütünlüğü tashihi: Bu aşamada bir bütün olarak metnin iç tutarlılığı, mantıksal ve düşünsel bütünlüğü, kurgu ve akış başarısı incelenmiş ve gerekli düzeltmeler yapılmıştır. Ayrıca metinler birbirleri ile mukayese edilerek çapraz okumaya tâbi tutulmuş, böylece kitabın diğer yazılarını da dikkate alan bütüncül bir bakışla hareket edilmiştir."
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "4. Üst Kurul Nihaî Okuması ",
+     "italic": true
+    },
+    {
+     "text": "a) Bütün başlık, serlevha ve metin içinde yer alan rivayetlerin uygunluğu gözden geçirilmiştir."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "b) Serlevha hadislerin ve metin içindeki hadislerin çevirisinin sade bir Türkçe ile yapılıp yapılmadığı gözden geçirilmiş; çeviri hataları ve anlatım bozuklukları varsa tespit edilmiş ve giderilmiştir."
+  },
+  {
+   "type": "paragraph",
+   "text": "c) Metinlerin kurgusu, giriş, gelişme ve akışının insicamı değerlendirilmiştir."
+  },
+  {
+   "type": "paragraph",
+   "text": "d) Yazılan yazılar metin siyaseti açısından tetkik edilmiş, gerek metin içindeki gerekse metinler arasındaki uyumsuzluklar imkân nisbetinde giderilmiştir."
+  },
+  {
+   "type": "paragraph",
+   "text": "e) Yanlış anlaşılabilecek ifade ve tabirler tashih edilmiştir."
+  },
+  {
+   "type": "paragraph",
+   "text": "f) Metinlerin önceden belirlenen metin yazım ölçütlerine uyup uymadığı kontrol edilmiştir."
+  },
+  {
+   "type": "paragraph",
+   "text": "g) Lugatçede yer alması gereken sözcükler belirlenmiştir."
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Yapılan Atıflara Dair İstatistiki Bilgiler",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Kitap Adı"
+  },
+  {
+   "type": "paragraph",
+   "text": "Mükerrer"
+  },
+  {
+   "type": "paragraph",
+   "text": "Tekrarsız"
+  },
+  {
+   "type": "paragraph",
+   "text": "Buhârî"
+  },
+  {
+   "type": "paragraph",
+   "text": "4443"
+  },
+  {
+   "type": "paragraph",
+   "text": "2326"
+  },
+  {
+   "type": "paragraph",
+   "text": "Müslim"
+  },
+  {
+   "type": "paragraph",
+   "text": "4161"
+  },
+  {
+   "type": "paragraph",
+   "text": "1933"
+  },
+  {
+   "type": "paragraph",
+   "text": "Ebû Dâvûd"
+  },
+  {
+   "type": "paragraph",
+   "text": "2185"
+  },
+  {
+   "type": "paragraph",
+   "text": "1247"
+  },
+  {
+   "type": "paragraph",
+   "text": "İbn Mâce"
+  },
+  {
+   "type": "paragraph",
+   "text": "1129"
+  },
+  {
+   "type": "paragraph",
+   "text": "716"
+  },
+  {
+   "type": "paragraph",
+   "text": "Nesâî"
+  },
+  {
+   "type": "paragraph",
+   "text": "940"
+  },
+  {
+   "type": "paragraph",
+   "text": "603"
+  },
+  {
+   "type": "paragraph",
+   "text": "Tirmizî"
+  },
+  {
+   "type": "paragraph",
+   "text": "2112"
+  },
+  {
+   "type": "paragraph",
+   "text": "1085"
+  },
+  {
+   "type": "paragraph",
+   "text": "Dârimî"
+  },
+  {
+   "type": "paragraph",
+   "text": "266"
+  },
+  {
+   "type": "paragraph",
+   "text": "206"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Muvatta’",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "226"
+  },
+  {
+   "type": "paragraph",
+   "text": "156"
+  },
+  {
+   "type": "paragraph",
+   "text": "İbn Hanbel"
+  },
+  {
+   "type": "paragraph",
+   "text": "1264"
+  },
+  {
+   "type": "paragraph",
+   "text": "854"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "İbn Ebû Şeybe, "
+    },
+    {
+     "text": "Musannef",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "60"
+  },
+  {
+   "type": "paragraph",
+   "text": "49"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Beyhakî, "
+    },
+    {
+     "text": "es-Sünenü’l-kübrâ",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "181"
+  },
+  {
+   "type": "paragraph",
+   "text": "160"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Beyhakî, "
+    },
+    {
+     "text": "Şuâbü’l-îmân",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "8"
+  },
+  {
+   "type": "paragraph",
+   "text": "8"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Dârekutnî, "
+    },
+    {
+     "text": "Sünen",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "4"
+  },
+  {
+   "type": "paragraph",
+   "text": "4"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Buhârî, "
+    },
+    {
+     "text": "el-Edebü’l-müfred",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "76"
+  },
+  {
+   "type": "paragraph",
+   "text": "64"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Humeydî, "
+    },
+    {
+     "text": "Müsned",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "1"
+  },
+  {
+   "type": "paragraph",
+   "text": "1"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Müttakî el-Hindî, "
+    },
+    {
+     "text": "Kenzü’l-ummâl",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "19"
+  },
+  {
+   "type": "paragraph",
+   "text": "19"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Abdürrezzâk, "
+    },
+    {
+     "text": "Musannef",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "147"
+  },
+  {
+   "type": "paragraph",
+   "text": "116"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Taberânî,"
+    },
+    {
+     "text": " el-Mu’cemü’l-evsat",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "22"
+  },
+  {
+   "type": "paragraph",
+   "text": "16"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Taberânî, "
+    },
+    {
+     "text": "el-Mu’cemü’l-kebîr",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "111"
+  },
+  {
+   "type": "paragraph",
+   "text": "84"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Taberânî,"
+    },
+    {
+     "text": " el-Mu’cemü’s-sağîr",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "2"
+  },
+  {
+   "type": "paragraph",
+   "text": "2"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Hâkim, "
+    },
+    {
+     "text": "Müstedrek",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "82"
+  },
+  {
+   "type": "paragraph",
+   "text": "70"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "İbn Huzeyme, "
+    },
+    {
+     "text": "Sahîh",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "9"
+  },
+  {
+   "type": "paragraph",
+   "text": "9"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "İbn Hibbân, "
+    },
+    {
+     "text": "Sahîh",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "16"
+  },
+  {
+   "type": "paragraph",
+   "text": "14"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Tayâlisî, "
+    },
+    {
+     "text": "Müsned",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "11"
+  },
+  {
+   "type": "paragraph",
+   "text": "9"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Tirmizî, "
+    },
+    {
+     "text": "Şemâil",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "58"
+  },
+  {
+   "type": "paragraph",
+   "text": "25"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Ebû Ya’lâ, "
+    },
+    {
+     "text": "Müsned",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "9"
+  },
+  {
+   "type": "paragraph",
+   "text": "6"
+  },
+  {
+   "type": "paragraph",
+   "text": "Ayetlerin Toplamı"
+  },
+  {
+   "type": "paragraph",
+   "text": "5781"
+  },
+  {
+   "type": "paragraph",
+   "text": "Hadislerin Toplamı"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "17542 "
+    },
+    {
+     "text": "toplam",
+     "bold": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "25147",
+     "bold": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "9782",
+     "bold": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Temel Kaynaklara Yapılan Atıflar",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Eser Türü"
+  },
+  {
+   "type": "paragraph",
+   "text": "Toplam Atıf"
+  },
+  {
+   "type": "paragraph",
+   "text": "Tefsir (17 Eser)"
+  },
+  {
+   "type": "paragraph",
+   "text": "150"
+  },
+  {
+   "type": "paragraph",
+   "text": "Tarih-Siyer (40 Eser)"
+  },
+  {
+   "type": "paragraph",
+   "text": "868"
+  },
+  {
+   "type": "paragraph",
+   "text": "Hadis Şerhi (25 Eser)"
+  },
+  {
+   "type": "paragraph",
+   "text": "227"
+  }
+ ]
+}

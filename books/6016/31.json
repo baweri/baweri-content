@@ -1,0 +1,961 @@
+{
+ "n": 31,
+ "title": "Bilgi Ahlâkı: Âlimin İlimle Sınavı",
+ "blocks": [
+  {
+   "type": "arabic",
+   "text": "عَنْ أُسَامَةَ بْنِ زَيْدٍ قَالَ ... سَمِعْتُ رَسُولَ اللَّهِ ﷺ يَقُولُ:"
+  },
+  {
+   "type": "arabic",
+   "text": "“يُؤْتَى بِالرَّجُلِ يَوْمَ الْقِيَامَةِ فَيُلْقَى فِى النَّارِ، فَتَنْدَلِقُ أَقْتَابُ بَطْنِهِ، فَيَدُورُ بِهَا كَمَا يَدُورُ الْحِمَارُ بِالرَّحَى، فَيَجْتَمِعُ إِلَيْهِ أَهْلُ النَّارِ، فَيَقُولُونَ: يَا فُلاَنُ! مَا لَكَ؟ أَلَمْ تَكُنْ تَأْمُرُ بِالْمَعْرُوفِ وَتَنْهَى عَنِ الْمُنْكَرِ؟ فَيَقُولُ: بَلَى، قَدْ كُنْتُ آمُرُ بِالْمَعْرُوفِ وَلاَ آتِيهِ، وَأَنْهَى عَنِ الْمُنْكَرِ وَآتِيهِ.”"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Üsâme b. Zeyd’in işitip naklettiğine göre..., Resûlullah (sav) şöyle buyurmuştur: "
+    },
+    {
+     "text": "“ Kıyamet günü bir adam getirilip cehenneme atılır ve bağırsakları dışarı fırlar. O kişi, eşeğin değirmen taşı ile döndüğü gibi bağırsaklarıyla birlikte dönmeye başlar. Derken etrafına cehennemlikler toplanır ve ‘Ey falan, ne bu hâl? Sen iyiliği emredip, kötülükten alıkoymaz mıydın?’ derler. O da, ‘Evet, ben iyiliği emrederdim, ama onu kendim yapmazdım. Kötülükten alıkoyardım, ama onu kendim yapardım.’ diye karşılık verir.”",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "source",
+   "text": "(M7483 Müslim, Zühd, 51)"
+  },
+  {
+   "type": "arabic",
+   "text": "عَنْ أَبِى هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ :"
+  },
+  {
+   "type": "arabic",
+   "text": "“مَنْ سُئِلَ عَنْ عِلْمٍ عَلِمَهُ ثُمَّ كَتَمَهُ أُلْجِمَ يَوْمَ الْقِيَامَةِ بِلِجَامٍ مِنْ نَارٍ.”"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "arabic",
+   "text": "عَنْ أَبِى هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ :"
+  },
+  {
+   "type": "arabic",
+   "text": "“مَنْ تَعَلَّمَ عِلْمًا مِمَّا يُبْتَغَى بِهِ وَجْهُ اللَّهِ لاَ يَتَعَلَّمُهُ إِلاَّ لِيُصِيبَ بِهِ عَرَضًا مِنَ الدُّنْيَا لَمْ يَجِدْ عَرْفَ الْجَنَّةِ يَوْمَ الْقِيَامَةِ.”"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "arabic",
+   "text": "عَنِ ابْنِ مَسْعُودٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: سَمِعْتُ النَّبِيَّ ﷺ يَقُولُ:"
+  },
+  {
+   "type": "arabic",
+   "text": "“لاَ حَسَدَ إِلاَّ فِى اثْنَتَيْنِ: رَجُلٌ آتَاهُ اللَّهُ مَالاً فَسَلَّطَهُ عَلَى هَلَكَتِهِ فِى الْحَقِّ، وَرَجُلٌ آتَاهُ اللَّهُ حِكْمَةً فَهْوَ يَقْضِى بِهَا وَيُعَلِّمُهَا.”"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "arabic",
+   "text": "عَنْ أَبِى هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ :"
+  },
+  {
+   "type": "arabic",
+   "text": "“اللَّهُمَّ انْفَعْنِى بِمَا عَلَّمْتَنِى وَعَلِّمْنِى مَا يَنْفَعُنِى وَزِدْنِى عِلْمًا...”"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Ebû Hüreyre’den rivayet edildiğine göre, Resûlullah (sav) şöyle buyurmuştur: "
+    },
+    {
+     "text": "“Her kim, bildiği bir konuda kendisine danışılır da onu gizlerse kıyamet günü ağzına ateşten bir gem vurulur.”",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "source",
+   "text": "(T2649 Tirmizî, İlim, 3; D3658 Ebû Dâvûd, İlim, 9)"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Ebû Hüreyre’den rivayet edildiğine göre, Resûlullah (sav) şöyle buyurmuştur: "
+    },
+    {
+     "text": "“Allah’ın rızası için öğrenil(mesi gerek)en bir ilmi, sırf dünya menfaati elde etmek için öğrenen bir kimse kıyamet günü cennetin kokusunu (dahi) alamayacaktır.”",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "source",
+   "text": "(D3664 Ebû Dâvûd, İlim, 12; HM8438 İbn Hanbel, II, 338)"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "İbn Mes’ûd’un (ra) işitip naklettiğine göre, Hz. Peygamber (sav) şöyle buyurmuştur: "
+    },
+    {
+     "text": "“Ancak iki kişiye haset ( gıpta) edilir. Bunlar, Allah’ın kendisine mal verdiği ve onu hak yolunda harcayan kimse ile Allah’ın kendisine (ilim ve) hikmet verdiği ve ona göre karar verip, onu başkalarına da öğreten kimsedir.”",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "source",
+   "text": "(B1409 Buhârî, Zekât, 5; M1896 Müslim, Müsâfirîn, 268)"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Ebû Hüreyre’den (ra) rivayet edildiğine göre, Resûlullah (sav) şöyle buyurmuştur: "
+    },
+    {
+     "text": "“Allah’ım, bana öğrettiklerinle beni faydalandır. Bana fayda verecek ilmi bana öğret ve ilmimi artır...”",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "source",
+   "text": "(T3599 Tirmizî, Deavât 128; İM251 İbn Mâce, Sünnet, 23)"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Hz. Ebû Bekir ve Hz. Ömer’in idaresi altında geçirilen huzur ve sükûn yılları ne yazık ki Hz. Osman’ın halifeliğinin ikinci yarısında yerini huzursuzluklara ve iç karışıklıklara bırakmıştır. Bu duruma bir son verilmesi için girişimlerde bulunulmuştur. Üsâme b. Zeyd’den de gelişen tatsız olaylara müdahale etmesi istenmiştir. Zira Üsâme, vaktiyle Peygamberimizin Müslüman ordusuna başkumandan tayin ettiği bir kişidir. Üsâme, Hz. Osman’ın şehîd edilmesinden sonra kargaşa ortamını terk edip Şam’a yerleşmiş, ardından Medine’ye dönmüş ve orada vefat etmiştir."
+    },
+    {
+     "note": "1475"
+    },
+    {
+     "text": " Üsâme b. Zeyd’e, “Osman’ın yanına girmez misin, (bu durumu) onunla bir konuşsan.” denilmişti. Üsâme, “Sizinle paylaştıklarımın dışında onunla bir şey konuşmadığımı mı sanıyorsunuz? Ben onunla bu konuları, kapısını açan ilk kişi olmayı istemeyeceğim bir işe (fitneye) meydan vermemek için (özel olarak) konuştum. Resûlullah’tan işittiğim şu sözden sonra, başıma yönetici olan bir kişi için “ İnsanların en hayırlısıdır.” diyecek de değilim: Resûlullah şöyle buyurmuştur: "
+    },
+    {
+     "text": "“ Kıyamet günü bir adam getirilip cehenneme atılır ve bağırsakları dışarı fırlar. O kişi, eşeğin değirmen taşı ile döndüğü gibi bağırsaklarıyla birlikte dönmeye başlar. Derken etrafına cehennemlikler toplanır ve ‘Ey falan, ne bu hâl? Sen iyiliği emredip, kötülükten alıkoymaz mıydın?’ derler. O da, ‘Evet, ben iyiliği emrederdim, ama onu kendim yapmazdım. Kötülükten alıkoyardım, ama onu kendim yapardım.’ diye karşılık verir.”",
+     "italic": true
+    },
+    {
+     "note": "1476"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Hadiste yapılan benzetme, bilgi ahlâkına ve yönetim sorumluluğuna sahip olmamanın vahim durumunu ve akıbetini bizlere tasvir etmektedir. Bir insan düşünün, ateşe atılmış, ardından iç organları dışarı fırlamış ve onların etrafında tıpkı eşeğin değirmen taşı etrafında döndüğü gibi dönerek kıvranmaya başlamış... Bu arada dünyadayken kendisini iyi bilen kişiler de etrafına toplanmış onu seyrediyorlar! Bu insanın zavallı, iğrenç ve ürkütücü hâli neyse, bilgiyle ve insanların yönetimiyle meşgul olup da bunun yükümlülüğünü yerine getirmeyenlerin durumu da işte budur. Cehennemde azap gören bu kişinin iç organlarının dışarı fırlaması, bir anlamda içinde gizlediğinin dışa vurulmasına, bir anlamda da ilimden ve sahip olduğu makamdan nemalanarak midesini bunların üzerinden kazandıklarıyla doldurmasına işaret olsa gerektir. Kur’an’ın benzetmesine göre, böyle bir kimse tıpkı ciltler dolusu kitap taşıyan ama taşıdığı kitaplardan faydalanamayan merkep gibidir."
+    },
+    {
+     "note": "1477"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Hiç şüphesiz insanı diğer varlıklardan ayıran temel özelliği, bilgi elde etme ve bilgisi doğrultusunda hareket etme yetisidir. "
+    },
+    {
+     "text": "“Şüphesiz biz emaneti göklere, yere ve dağlara teklif ettik de onlar onu yüklenmek istemediler, ondan çekindiler. Onu insan yüklendi. Çünkü o çok zalimdir, çok cahildir.”",
+     "italic": true
+    },
+    {
+     "note": "1478"
+    },
+    {
+     "text": " âyeti, bize “ emanet” kavramı kapsamında din, itaat, akıl, sınırlar ve sorumlulukların yanı sıra ilim ve hidayeti yüklenmeye de sadece insan tabiatının kabiliyetli olduğunu bildirir. İlim ve hidayetin göklere, yere ve dağlara teklif edilmesi karşısında onların bunu kabullenmekten kaçınması, gerçekte bu varlıkların tabiatlarının emaneti sahiplenmeye uygun olmadığına işaret etmektedir. Bilgi gibi bir değeri taşıyabilecek ve onu yeryüzünde Rabbin rızasına uygun bir hayatın inşası yolunda kullanabilecek tek varlık insandır."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Bizâtihi muhterem ve değerli olan bilginin bu saygınlığına uygun hareket etmek de, en az onu elde etmek kadar önemlidir. Bilgi sahibi, onu bu asil konumuna yaraşır bir şekilde, doğru ve ahlâklı bir yöntemle kullandığı zaman âlim sıfatını kazanır. Aksi takdirde aynı bilgi birikimine sahip olduğu hâlde zalim ve cahil konumuna düşebilir. Gerçek âlim başkalarına aktardığı bilgiyi öncelikle kendisi özümseyen ve hayatına yansıtan kişidir. Bildiği ve insanları teşvik ettiği doğrulara göre yaşamayan bilgili kişinin hadiste temsilî olarak anlatılan içler acısı durumuna karşılık, bilgisini kendi ruhu ve kalbi üzerinde etkin kılarak imanını güçlendiren, bilgisi doğrultusunda davranışlarını biçimlendiren kişiler Kur’ân-ı Kerîm’de övülmektedir."
+    },
+    {
+     "note": "1479"
+    },
+    {
+     "text": " Buna göre ilim, insanı imana götüren bir vasıtadır. Kur’an’da iman edenlerin, "
+    },
+    {
+     "text": "“Rablerinden gelen gerçeği bilenler”",
+     "italic": true
+    },
+    {
+     "note": "1480"
+    },
+    {
+     "text": " olarak zikredilmesi, bilgi ile iman arasındaki kuvvetli bağın bir göstergesidir. Amele dönüşmeyen, ahlâk veya davranış boyutunda olumlu bir yansıması olmayan ilim, sahibine yük olmaktan başka bir işe yaramaz."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "İlim sahibinin bilginin ışığıyla etrafını aydınlatırken, onun feyiz ve bereketi ile kendi iç dünyasını da aydınlatması ve davranışlarını bu bilginin gerektirdiği şekilde düzeltmesi âlim olmanın temel şartıdır. Süfyân b. Uyeyne, kişinin, sahip olduğu bilgiyi başkalarına aktarmadan önce iyice belleyip özümsemesi gerektiğini şu şekilde ifade eder: “ İlmin başı güzelce dinlemektir. Sonra onu bellemek, sonra anlayıp kavramak, sonra bilgiyi uygulamak ve en sonunda da onu neşredip yaymak gelir.”"
+    },
+    {
+     "note": "1481"
+    },
+    {
+     "text": " Kur’ân-ı Kerîm’de başkalarına iyiliği telkin edip de kendileri unutanlar eleştirilmiş ve akıllarını kullanmaya davet edilmişlerdir."
+    },
+    {
+     "note": "1482"
+    },
+    {
+     "text": " Allah Resûlü, bilgisini başkalarına aktaran ama kendisini bundan mahrum bırakan kişileri, "
+    },
+    {
+     "text": "‘etrafını aydınlattığı hâlde kendisini yakan kandil’",
+     "italic": true
+    },
+    {
+     "text": "e benzetmiştir."
+    },
+    {
+     "note": "1483"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Topluma öncülük etmek, insanları doğruya ve güzele sevk etmek, bilgi sahibi kişilerin temel sorumluluğudur. Onlar bu özellikleri sayesinde peygamberlerin vârisleri konumunu elde ederler."
+    },
+    {
+     "note": "1484"
+    },
+    {
+     "text": " Muâz b. Cebel ile Peygamberimiz arasında geçen şu konuşma, ilim adamlarının toplum içindeki rollerine ve sorumluluklarına dikkat çekmektedir: Genç sahâbî Muâz der ki: “Resûlullah tavaf yaparken ona yanaştım ve “İnsanların hangisi en şerlidir?” diye sordum. "
+    },
+    {
+     "text": "“Allah’ım (bizi) affet! (Muâz!) sen şerden değil, hayırdan sor. İnsanların en şerlileri en şerli âlimler, en hayırlıları da en hayırlı âlimlerdir.”",
+     "italic": true
+    },
+    {
+     "text": " buyurdu."
+    },
+    {
+     "note": "1485"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Şerli yani kötü niyet ve davranışlara sahip olmakla bilgili olmak arasındaki bu garip çelişki, bilginin toplumu yönlendirmedeki etkisine işaret etmektedir. İlim adamı, peygamberlerin yolundan giderek bilgisinin gücüyle insanları doğru ve güzele teşvik edip onların en hayırlısı konumuna yükselebileceği gibi, yanlış yollara özendirip topluma en büyük kötülüğü de yapabilir. İşte bu ikinci tip bilgi adamı, topluma herhangi bir kötü insandan kat kat daha fazla zarar verebilmektedir. İlim sahibi kimselerin sadece kasıtlı ya da sorumsuz davranışları değil, farkında olmadan yaptıkları hatalar bile toplumsal çürüme ve yozlaşmaya sebep olabilir. Nitekim Hz. Peygamber, “âlimlerin ayak sürçmesi”ni vefatından sonra ümmeti için endişe ettiği en tehlikeli durumlardan biri olarak zikretmiştir."
+    },
+    {
+     "note": "1486"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Bilgiyi gizlemek ve insanlardan esirgemek ilim adamının gösterebileceği en büyük sorumsuzluklardan biridir. Hata ihtimaline rağmen bilgi üretmek, bilgiyi paylaşmak, aktarmak ve yaymak âlimin geri duramayacağı bir iştir. Kur’an’a göre de bozgunculuğun yayılmasında, görevlerini hakkıyla yerine getiren ilim ve irfan sahibi, hayırlı ve faziletli kimselerin azlığının"
+    },
+    {
+     "note": "1487"
+    },
+    {
+     "text": " yanı sıra, bildikleri hâlde insanları haram yemekten ve günah işlemekten alıkoymayan bilgin din adamlarının"
+    },
+    {
+     "note": "1488"
+    },
+    {
+     "text": " umursamaz ve sorumsuz tavırları önemli rol oynamaktadır. Peygamberimizi ziyarete gelen bir heyet içinde bulunan Talk b. Ali’nin bu esnada işittiği"
+    },
+    {
+     "note": "1489"
+    },
+    {
+     "text": " ve Ebû Hüreyre, Enes b. Mâlik, Ebû Saîd el-Hudrî, Abdullah b. Ömer, Abdullah b. Mes’ûd, Abdullah b. Amr gibi önde gelen sahâbîlerin ve Atâ’ b. Ebû Rebâh, Nâfi’, el-Esved ve Saîd b. Cübeyr gibi tâbiûn neslinden âlimlerin naklettiği bir rivayete göre, Peygamber Efendimiz (sav) şöyle buyurmuştur: "
+    },
+    {
+     "text": "“Her kim, bildiği bir konuda kendisine danışılır da onu gizlerse kıyamet günü ağzına ateşten bir gem vurulur.”",
+     "italic": true
+    },
+    {
+     "note": "1490"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Sahip olduğu bilgiyi paylaşmayan, tecrübelerini toplumun yararına sunmayarak bencil davranan kişi, hakikatleri gizlemek suretiyle Allah’a karşı, bilgi sayesinde hayat bulan ruhları bundan mahrum bırakmak suretiyle de insanlığa karşı büyük bir suç işlemektedir. Böyle bir kimse, konuşması beklenen yerde sustuğu ve bilgiyi esirgediği için, konuşmaya ve derdini anlatmaya her zamankinden daha çok ihtiyaç duyacağı âhirette, konuşma hakkından mahrum bırakılacaktır. Hadislerin anlaşılması ve yorumlanması çabalarına değerli katkılarda bulunan, hicrî dördüncü asır âlimi Hattâbî, hadiste yer alan gem vurma tabirinin, hak sözü, bilgiyi esirgeyip gizleyen kimsenin âdeta kendi ağzına gem vurması anlamına geldiğini belirtir."
+    },
+    {
+     "note": "1491"
+    },
+    {
+     "text": " Zira o, toplumu özgürleştirmesi gereken bilgiyi onlardan gizleyerek, zihinsel ilerlemenin önüne set çekmekte, düşünce atılımını engellemekte, gönüllerin bilgi ile kemale erişmesine mani olmaktadır."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "İlmi diğer insanlardan gizlemek aynı zamanda bir güvensizlik ve samimiyetsizlik ifadesidir. "
+    },
+    {
+     "text": "“Sadakanın en faziletlisi, Müslüman kişinin öğrendiklerini Müslüman kardeşine öğretmesidir.”",
+     "italic": true
+    },
+    {
+     "note": "1492"
+    },
+    {
+     "text": " buyurarak, bilgiyi paylaşmayı sadaka vermenin bir çeşidi olarak sunan Peygamberimiz, bu paylaşımın Müslümanlar arasındaki sadakat ve güveni temsil ettiğini bize bildirmiştir. Bilginin esirgenmesi ve gizlenmesi, Allah’ın bahşettiği bir nimeti O’nun kulları ile paylaşmamak ve bencil davranmak anlamına gelir. Gizlide ve açıkta, göklerde ve yerde ne varsa bilen"
+    },
+    {
+     "note": "1493"
+    },
+    {
+     "text": " ve sınırsız ilmi ile bilginin gerçek kaynağı olan Rabbimize yapılan böyle bir saygısızlık, aynı zamanda kişisel mal hâline getirilemeyecek kadar asil ve cihanşümul olan bilgiye karşı da bir haksızlık ve hürmetsizliktir. Nitekim Kur’an’da, "
+    },
+    {
+     "text": "“De ki: ‘Sizler mi daha iyi bilirsiniz, yoksa Allah mı?’ Allah tarafından kendisine ulaşan bir gerçeği gizleyen kimseden daha zalim kimdir? Allah, yaptıklarınızdan habersiz değildir.”",
+     "italic": true
+    },
+    {
+     "note": "1494"
+    },
+    {
+     "text": " buyrulurken, ilâhî hakikatleri gizleyen ilim adamları da şiddetle kınanmaktadır: "
+    },
+    {
+     "text": "“İndirdiğimiz apaçık delilleri ve hidayeti kitapta açıklamamızdan sonra onları gizleyenler var ya, işte onlara hem Allah, hem de diğer bütün lânet edenler lânet eder.”",
+     "italic": true
+    },
+    {
+     "note": "1495"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Bilgiyi paylaşmak ve yaymak aslında âlimin varlık sebebidir. Bu, bazen var olma ve var kalma mücadelesi hâline gelebilir. Özellikle kritik zamanlarda toplumsal duyarlılıkların sesi olmak, toplumun rehberleri konumundaki âlimlerin sorumluluğudur. Elbette ki hakikatin sözcülüğünü yapmak her zaman kolay olmayabilir, cesaret ister, inanç ister, özgüven ister. İslâm’ın ilk yıllarından itibaren Hz. Peygamber’le birlikte sıkıntılara göğüs geren sahâbe-i kirâmdan Ebû Zerr’in"
+    },
+    {
+     "note": "1496"
+    },
+    {
+     "text": " tutumu bu mücadelenin en güzel örneklerindendir. Hz. Osman’ın hilâfeti döneminde Muâviye ile arasındaki tatsızlık nedeniyle konuşması yasaklanan"
+    },
+    {
+     "note": "1497"
+    },
+    {
+     "text": " Ebû Zer, bu yasağa aldırmayıp bir hac mevsiminde etrafında toplanan insanlarla konuşurken, bir adam gelmiş ve kendisine konuşma yasağını hatırlatmıştı. Bunun üzerine Ebû Zer, ensesine işaret ederek “Kılıcı şuraya dayasanız da, Resûlullah’tan (sav) duymuş olduğum bir kelimeyi, sizler beni öldürmeden önce nakledeceğimi bilsem, kesinlikle onu naklederim.” dedi."
+    },
+    {
+     "note": "1498"
+    },
+    {
+     "text": " Ebû Zer’deki Hz. Peygamber’den duyduğunu insanlara olduğu gibi aktarma azmi ve hassasiyeti şüphesiz ki Resûlullah’ın konu ile ilgili uyarılarıyla yakından alâkalı idi."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Bilginin çıkarlara alet edilmesi ise, bilgi ahlâkına ters düşen bir diğer durumdur. Ebû Hüreyre’den Saîd b. Yesâr aracılığıyla nakledilen bir sözünde Peygamberimiz bu duruma dikkat çekmiş ve şöyle buyurmuştur: "
+    },
+    {
+     "text": "“Allah’ın rızası için öğrenil(mesi gerek)en bir ilmi, sırf dünya menfaati elde etmek için öğrenen bir kimse kıyamet günü cennetin kokusunu (dahi) alamayacaktır.”",
+     "italic": true
+    },
+    {
+     "note": "1499"
+    },
+    {
+     "text": " Bu hadisi Ebû Hüreyre’den nakleden Saîd b. Yesâr, çok hadis rivayet etmiş, güvenilir bir kimsedir. Hicrî 117 yılında Medine’de vefat etmiş, önceleri Medineli bir Hıristiyan iken daha sonra Hz. Hasan’ın eliyle Müslüman olmuş ve Şemse adındaki bir kadının kölesi olarak hizmet vermiştir."
+    },
+    {
+     "note": "1500"
+    },
+    {
+     "text": " Hatta bir süre Peygamberimizin hanımı Meymûne’nin de hizmetinde bulunan"
+    },
+    {
+     "note": "1501"
+    },
+    {
+     "text": " Saîd b. Yesâr’ın aktardığı bu hadiste bilgiyi dünyevî menfaatleri için aracı kılan kimsenin cennete ulaşmak şöyle dursun onun kokusunu dahi alamayacağı ifade edilmektedir. Esasen "
+    },
+    {
+     "text": "“Allah’ın indirdiği kitaptan bir kısmını gizleyip onu az bir bedel ile değişenler (var ya), işte onlar karınlarına ateşten başka bir şey doldurmuyorlar.”",
+     "italic": true
+    },
+    {
+     "note": "1502"
+    },
+    {
+     "text": " âyet-i kerimesi, bilgi karşılığında elde edilen hiçbir menfaatin bilginin bedeli olamayacağını bize hatırlatmaktadır. Hele hele menfaat için bilginin çarpıtılması, fayda bir yana, ağır bir bedel ödemeyi gerektirecek ciddi bir sorumsuzluk örneğidir. Nitekim Peygamberimizin sırdaşı olarak tanınan Huzeyfe,"
+    },
+    {
+     "note": "1503"
+    },
+    {
+     "text": " Allah Resûlü’nden şu hadisi nakletmektedir: "
+    },
+    {
+     "text": "“İlmi, âlimlere karşı övünmek, cahillerle münakaşa etmek ve insanların teveccühünü kazanmak için öğrenmeyiniz. Kim böyle yaparsa o kimse ateştedir.”",
+     "italic": true
+    },
+    {
+     "note": "1504"
+    },
+    {
+     "text": " Hz. Lokman’ın oğluna yaptığı nasihat da hiçbir şekilde bilginin çıkara alet edilemeyeceğini bize öğretmektedir: “Yavrucuğum! İlmi, ne âlimlere karşı övünmek, ne cahillerle çekişmek, ne de ilim meclislerinde gösteriş yapmak için öğren!”"
+    },
+    {
+     "note": "1505"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Allah Resûlü (sav) bilginin kişisel tatmin aracı yapılamayacağını vurgulayarak şunları anlatmıştır: "
+    },
+    {
+     "text": "“...Dünyadayken ilim öğrenmiş, öğretmiş ve Kur’an okumuş bir adam kıyamet günü Allah’ın huzuruna getirilir. Yüce Allah ona olan nimetlerini hatırlatır ve o da bunları tasdik eder. Sonra Allah ona ‘Peki bunlara (nimetlerime) karşılık ne yaptın?’ diye sorar. O da ‘Yâ Rabbi! İlim öğrendim, öğrettim ve senin (rızan) için Kur’an okudum.’ der. Yüce Allah, ‘Hayır, yalan söyledin. Sen, ‘Falan kimse âlimdir.’ desinler diye ilim öğrendin ve ‘O, kâri’dir (iyi bir Kur’an okuyucusudur).’ desinler diye Kur’an okudun, nitekim böyle denildi de.’ buyurur. Sonra Allah emreder ve o kişi yüz üstü sürüklenerek cehenneme atılır.”",
+     "italic": true
+    },
+    {
+     "note": "1506"
+    },
+    {
+     "text": " Peygamberimiz bu sözüyle, bilgisi sayesinde kendisini üstün gören ve kibre kapılan insanın âhirette cezalandırılırken aynı zamanda nasıl aşağılanacağını tasvir etmektedir."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Kibirli ve menfaat peşinde koşan âlimin bu şekilde cezalandırılmasının bir nedeni de, sahip olduğu bilgilere kendi gücü ve imkânları sayesinde ulaştığı kuruntusudur. Kur’an’da bu temel yanlışa düşenlere örnek olarak Kârûn’un hikâyesine yer verilir. Hz. Musa’nın kavminden olan Kârûn, Allah tarafından bahşedilen"
+    },
+    {
+     "note": "1507"
+    },
+    {
+     "text": " hazineleri, kendisine ait olan “bilgi” sayesinde elde ettiğini iddia etmiş,"
+    },
+    {
+     "note": "1508"
+    },
+    {
+     "text": " sahip olduklarını muhtaç insanlarla paylaşmaktan kaçınmıştı. Dünya hayatına talip olanlar, Kârûn’un servetine sahip olmayı arzularken, “kendilerine ilim verilenler”, Allah tarafından inanıp faydalı davranışlar sergileyenlere verilecek mükâfatın daha hayırlı olduğunu onlara hatırlatmışlardı."
+    },
+    {
+     "note": "1509"
+    },
+    {
+     "text": " Tâbiûn neslinin önde gelen âlimlerinden Hasan-ı Basrî’nin dediği gibi, ilmiyle Allah katında olanı isteyen, istediği şeye ulaşır; dünyalık bir şey isteyen de istediğine ulaşır, ama elde edeceği sadece bundan ibarettir."
+    },
+    {
+     "note": "1510"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Kendisi de Allah’tan gelen bir “ilim”"
+    },
+    {
+     "note": "1511"
+    },
+    {
+     "text": " olan Kur’an’da, bilgi hep Allah’a nispet edilmiştir. Nitekim insanı yarattıktan sonra ona bilmediklerini,"
+    },
+    {
+     "note": "1512"
+    },
+    {
+     "text": " bütün eşyanın isimlerini,"
+    },
+    {
+     "note": "1513"
+    },
+    {
+     "text": " kendini ifade etmeyi ve canlı cansız tüm varlıkları birbirinden ayırabilme"
+    },
+    {
+     "note": "1514"
+    },
+    {
+     "text": " becerisini öğreten Allah’tır. Kısacası Allah insanı ilim öğrenme hassalarıyla donatmış, ona bilgi elde etme kabiliyeti vermiştir. Bundan dolayıdır ki Hz. Peygamber’e (sav) "
+    },
+    {
+     "text": "“Rabbim, ilmimi artır!”",
+     "italic": true
+    },
+    {
+     "text": " şeklinde dua etmesi emredilmiştir."
+    },
+    {
+     "note": "1515"
+    },
+    {
+     "text": " Kur’an’da “ ilim sahipleri” yerine "
+    },
+    {
+     "text": "“kendilerine ilim verilenler”",
+     "italic": true
+    },
+    {
+     "text": " ifadesi kullanılmıştır."
+    },
+    {
+     "note": "1516"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Kur’ân-ı Kerîm, bilginin değerini fark edemeyen ve bilgiye sahip olduğu hâlde onun kıymetine yaraşır bir tavır geliştiremeyen kişiyi"
+    },
+    {
+     "note": "1517"
+    },
+    {
+     "text": " ilginç bir benzetmeyle anlatır: "
+    },
+    {
+     "text": "“Onun hâli, köpeğin hâli gibidir ki üstüne varsan da dilini sarkıtıp solur, kendi hâline bıraksan da dilini sarkıtıp solur.”",
+     "italic": true
+    },
+    {
+     "note": "1518"
+    },
+    {
+     "text": " İsrâiloğulları’ndan Bel’am b. Bâûra olduğu da rivayet edilen"
+    },
+    {
+     "note": "1519"
+    },
+    {
+     "text": " ve sahip olduğu ilmi, nefsine mahkûm olup geçici dünya menfaatleri doğrultusunda kullanan bu kişinin hâli, kemiğe muhtaç bir köpeğin onu elde etme uğruna düştüğü zillete benzetilmiştir. Daha da kötüsü, ihtiyacı olsa da olmasa da dilini sarkıtıp solumasının köpekte bir âdet hâline gelmesi gibi, uğruna her türlü yüzsüzlüğü gösterdiği dünya menfaati hırsının da bu ilmin kıymetini bilmeyen ilim adamında bir alışkanlığa dönüşmesidir."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Hz. İsa’ya nispet edilen şu söz âlimliğin sadece bilgi yüklenmek olmayıp bir karakter inşası, bir duruş ve kıymetli olanla olmayanı ayırt edebilme melekesi olduğuna işaret etmektedir: “Bunun Allah’ın ilminden ve kudretinden kaynaklandığını bildiği hâlde, rızkından hoşnut olmayan ve bulunduğu konumu küçümseyen kimse nasıl ilim ehlinden olur? Allah’ın kendisi hakkında takdir ettiklerinin doğruluğundan şüphe eden ve kendisine verilenlere razı olmayan kimse nasıl ilim ehlinden olur? Dünyaya daha fazla rağbet ederek, dünyayı âhiretten daha fazla seven kişi nasıl ilim ehlinden olur? Dönüş yeri âhiret olduğu hâlde dünyaya meyledip zararlı şeyleri faydalı olanlardan daha çok seven kimse nasıl ilim ehlinden olur? İlmi, kendisiyle amel etmek için değil, başkasına aktarmak için öğrenen kişi nasıl ilim ehlinden olur?”"
+    },
+    {
+     "note": "1520"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "İnsanın, Allah’ın bilgisinin kuşatıcılığını ve kendi bilgisinin sınırlılığını kabul etmesi, bilgi ahlâkının temel bir gereğidir. Bilgi elde etmekten amaç, hakikati kavramak özellikle de Hakk’a yakınlaşmaktır. Bu bilinçten uzaklaşan insanlar, bilgiyi çıkar aracı hâline dönüştürmüş, insanlara refah ve mutluluk getirmesi beklenen bilgiyi tahrip ve yıkım için kullanmışlardır. Özü gereği doğruya, güzele ve hikmete ulaştırması beklenen bilginin istismarı, bu değerleri kaybettirir. Bilginin bu yanlış kullanımının bedelini görmek için, yakın tarihte yaşananlara, dünya savaşlarındaki trajedilere bakmak yeterlidir."
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Hz. Ebû Bekir, Hz. Ömer, Ebû Hüreyre gibi birçok sahâbî ile görüşüp onlardan hadis alan Kays b. Ebû Hâzim’in, âlim sahâbî Abdullah b. Mes’ûd’dan aldığı bir hadiste Peygamberimiz bilgiyi paylaşmanın gıpta edilecek bir haslet olduğunu bildirmektedir. Hadisi İbn Mes’ûd’dan alan Kays b. Ebû Hâzim, Efendimiz devrinde yaşamış ancak biat etmeye geldiğinde Hz. Peygamber’in vefat haberiyle karşılaşmıştır. Daha sonra Kûfe’ye yerleşmiş, Hz. Ali ile birlikte Nehrevan’da Hâricîlere karşı savaşmıştır. Yüz yaşını aşacak kadar uzun yaşayan Kays’ı, hadis nakli konusunda, hadisleri bir araya toplamak gibi büyük bir hizmeti yerine getiren büyük hadis âlimi Zührî’den bile daha sağlam ve güvenilir bulanlar vardır."
+    },
+    {
+     "note": "1521"
+    },
+    {
+     "text": " Kays b. Ebû Hâzim kanalından gelen bu rivayette Allah Resûlü şöyle buyurmaktadır: "
+    },
+    {
+     "text": "“Ancak iki kişiye haset ( gıpta) edilir. Bunlar; Allah’ın kendisine mal verdiği ve onu hak yolunda harcayan kimse ile Allah’ın kendisine (ilim ve) hikmet verdiği ve ona göre karar verip, onu başkalarına da öğreten kimsedir.”",
+     "italic": true
+    },
+    {
+     "note": "1522"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Şurası muhakkaktır ki ilmi paylaşmak ve aktarmak tıpkı mal infakında olduğu gibi insana bir ayrıcalık kazandırır. Zira veren el alan elden üstündür."
+    },
+    {
+     "note": "1523"
+    },
+    {
+     "text": " İlim de mal ve servet gibi Allah’ın insana bahşettiği bir emanettir. İnsan her ikisini de diğer insanlarla paylaşarak, hem bencilliğinden arınır hem de bunlar üzerinde sınırsız tasarruf hakkına sahip olduğu vehminden kurtulur. İlmin topluma aktarılmasındaki fayda, mal ve servetin paylaşılmasından daha büyüktür. Rahmet Elçisi, arkasında istifade edilen ilim bırakan kimselerin sevap hanelerinin öldükten sonra da açık olduğunu bildirmiştir."
+    },
+    {
+     "note": "1524"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Yetiştirdiği öğrencilerle Kûfe ilim ekolünün temellerini atan bilgin sahâbî İbn Mes’ûd’un Hz. Nebî’den (sav) naklettiği bir başka hadis, paylaşma sayesinde, anlama ve kavrama yeteneği daha yüksek olan, bilgiyi işleyip çoğaltabilecek kişilere ilmin ulaştırılmasının önemini ortaya koymaktadır: "
+    },
+    {
+     "text": "“Allah, bizden bir şey işitip, işittiği gibi başkasına ulaştıran kişinin yüzünü ak etsin. Kendisine (bilgi) ulaştırılan nice kimseler vardır ki onu işiten (ve kendisine aktaran kimse)den daha kavrayışlıdır.”",
+     "italic": true
+    },
+    {
+     "note": "1525"
+    },
+    {
+     "text": " Yine Abdullah b. Mes’ûd, “Eğer ilim ehli, ilmi(n değerini) koruyup onu liyakatli olanların yanına koymuş olsalardı, ilim sayesinde, kendi devirlerinin büyükleri olacaklardı. Ne var ki bilginler, ilim vasıtası ile dünyalık birtakım menfaatler sağlamak için ilmi, dünya ehlinin eline verdiler. Bu sebeple ilim adamlarının değeri de dünya ehli yanında düştü.” demiştir."
+    },
+    {
+     "note": "1526"
+    },
+    {
+     "text": " Onun bu sözünden anlıyoruz ki ilmi menfaate dönüştürme çabası bizâtihi değersiz ve bayağı bir durum olduğu gibi, bilgi sahibini de küçük düşürmektedir. Enes b. Mâlik’in naklettiği bir hadiste Resûl-i Ekrem’in, "
+    },
+    {
+     "text": "“Bilgiyi lâyık olmayana öğreten kişi, domuza, değerli taşlar, inci ve altın(dan yapılmış bir gerdanlık) takmış sayılır.”",
+     "italic": true
+    },
+    {
+     "note": "1527"
+    },
+    {
+     "text": " sözü de bu durumun bir başka ifadesidir. En nadide mücevherleri en bayağı hayvana takmak gibi, ilmi ehline vermemek de bir zulümdür. Çünkü zulüm bir şeyi konumunda değerlendirmemek, onu olması gereken yere koymamaktır."
+    },
+    {
+     "note": "1528"
+    },
+    {
+     "text": " Tarihî süreçte gücün ve bilginin zaman zaman istismarcıların ve ahlâklı olmayanların eline geçmesinden dolayı insanlık büyük acılar çekmiştir. Geride bıraktığımız asırda savaşlarda milyonlarca insanın yaşamını yitirmesi, toplu ölümlerin olması ya da çevrenin, tabiî kaynakların tahribi, esasen bilginin istismarının bir neticesi olmuştur. O hâlde bilgi elde etmekten daha önemlisi, bilgi ahlâkına riayet etmek ve bilgi adamının ahlâklı olması meselesidir."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Bilgi, doğası gereği etkileme, dönüştürme ve fayda üretme kuvvetine sahiptir. Bilginin istismarı, onun bu gücünün olumsuz sonuçlar doğurmasına, şerre hizmet etmesine sebep olabilir. Nitekim kaynaklarımızda sahâbî olduğu da söylenen Şamlı İbrâhim b. Abdurrahman el-‘Uzrî’nin Resûlullah’a isnad ettiği şu söz, bilginin aktarılması ve emanet edilmesi konusunda ciddi bir uyarı niteliğindedir: "
+    },
+    {
+     "text": "“Bu ilmi gelecek nesillerden dürüst ve kabiliyetli olanlar miras olarak alacak ve onu, cahillerin yorumlarından, bâtıl ehlinin istismarından ve haddi aşanların saptırmalarından koruyacaklardır.”",
+     "italic": true
+    },
+    {
+     "note": "1529"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Bilgi istismarı, insanlığın faydasına kullanılabilecek değerli bir bilgi birikimini kötülüğün hizmetine sunma çabası, günümüzün en büyük sorunlarından birisidir. Çeşitli coğrafyalarda yaşanan maddî ve mânevî tahribatın büyük bir kısmının bilginin gücünün yanlış yerlerde kullanılmasıyla ilgili olduğu görülmektedir. İnsanlar çıkarlarına alet ettikleri bilgi sayesinde koca şehirleri bir bombayla yok edebilecek hâle gelmiş, on binlerce hatta yüz binlerce kişiyi aynı anda öldürme gücüne ulaşmışlardır. Aslında daha vahimi sessizce gerçekleştirilen katliamdır. Bu, kimi zaman Allah’ın insanlara bahşettiği hayat kaynaklarını kurutmak, ekolojik dengeyi bozmak, kimi zaman da canlıların, bitkilerin doğal genetik yapılarını bozmak şeklinde tezahür etmektedir. Kısacası bugün bilgi pek çok alanda insanlığın hayrına değil, zararına kullanılmaktadır."
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Bilgi sahibi olmak aynı zamanda sorumlu olmak demektir. Bilgi arttıkça sorumluluk da artar. Bilgi, sahibini kendisine karşı, topluma karşı, tabiata karşı ve nihayetinde Allah’a karşı sorumlu hâle getirir. Kısacası bilgi, başlı başına bir sınavdır. Bilgi ahlâkına sahip olma ve onu koruma daha da zor bir sınavdır. Bu yüzden Peygamberimiz bilgiyle meşgul olanlara şu duasıyla örnek olmaktadır: "
+    },
+    {
+     "text": "“Allah’ım! Faydasız ilimden sana sığınırım.”,",
+     "italic": true
+    },
+    {
+     "note": "1530"
+    },
+    {
+     "text": " "
+    },
+    {
+     "text": "“Allah’ım, bana öğrettiklerinle beni faydalandır. Bana fayda verecek ilmi bana öğret ve ilmimi artır.”",
+     "italic": true
+    },
+    {
+     "note": "1531"
+    }
+   ]
+  }
+ ],
+ "notes": [
+  {
+   "id": "1475",
+   "text": "Hİ1/49 İbn Hacer, İsâbe, I, 49."
+  },
+  {
+   "id": "1476",
+   "text": "M7483 Müslim, Zühd, 51."
+  },
+  {
+   "id": "1477",
+   "text": "Cum’a, 62/5."
+  },
+  {
+   "id": "1478",
+   "text": "Ahzâb, 33/72."
+  },
+  {
+   "id": "1479",
+   "text": "Nisâ, 4/122; Mâide, 5/9; Ankebût, 29/7."
+  },
+  {
+   "id": "1480",
+   "text": "Bakara, 2/26."
+  },
+  {
+   "id": "1481",
+   "text": "BŞ1797 Beyhakî, Şuabü’l-îmân, II, 289."
+  },
+  {
+   "id": "1482",
+   "text": "Bakara, 2/44."
+  },
+  {
+   "id": "1483",
+   "text": "MŞ35151 İbn Ebû Şeybe, Musannef, Zühd, 59; MK1681 Taberânî, el-Mu’cemü’l-kebîr, II, 165."
+  },
+  {
+   "id": "1484",
+   "text": "D3641 Ebû Dâvûd, İlim, 1."
+  },
+  {
+   "id": "1485",
+   "text": "DM378 Dârimî, Mukaddime, 34; MÜ447 Taberânî, Müsnedü’ş-şâmiyyîn, I, 258."
+  },
+  {
+   "id": "1486",
+   "text": "MK14142 Taberânî, el-Mu’cemü’l-kebîr, XVII, 17."
+  },
+  {
+   "id": "1487",
+   "text": "Hûd, 11/116."
+  },
+  {
+   "id": "1488",
+   "text": "Mâide, 5/63."
+  },
+  {
+   "id": "1489",
+   "text": "MK8251 Taberânî, el-Mu’cemü’l-kebîr, VIII, 334."
+  },
+  {
+   "id": "1490",
+   "text": "T2649 Tirmizî, İlim, 3; D3658 Ebû Dâvûd, İlim, 9."
+  },
+  {
+   "id": "1491",
+   "text": "AV10/66 Azîmâbâdî, Avnü’l-ma’bûd, X, 66."
+  },
+  {
+   "id": "1492",
+   "text": "İM243 İbn Mâce, Sünnet, 20."
+  },
+  {
+   "id": "1493",
+   "text": "Âl-i İmrân, 3/29."
+  },
+  {
+   "id": "1494",
+   "text": "Bakara, 2/140."
+  },
+  {
+   "id": "1495",
+   "text": "Bakara, 2/159."
+  },
+  {
+   "id": "1496",
+   "text": "B3861 Buhârî, Menâkıbü’l-ensâr, 33."
+  },
+  {
+   "id": "1497",
+   "text": "ST4/226 İbn Sa’d, Tabakât, 4/226."
+  },
+  {
+   "id": "1498",
+   "text": "DM554 Dârimî, Mukaddime, 46."
+  },
+  {
+   "id": "1499",
+   "text": "D3664 Ebû Dâvûd, İlim, 12; HM8438 İbn Hanbel, II, 338."
+  },
+  {
+   "id": "1500",
+   "text": "ST5/284 İbn Sa’d, Tabakât, V, 284."
+  },
+  {
+   "id": "1501",
+   "text": "TK11/120 Mizzî, Tehzîbü’l-kemâl, XI, 120."
+  },
+  {
+   "id": "1502",
+   "text": "Bakara, 2/174."
+  },
+  {
+   "id": "1503",
+   "text": "İBS138 İbn Abdülber, İstîâb, s. 138."
+  },
+  {
+   "id": "1504",
+   "text": "İM259 İbn Mâce, Sünnet, 23."
+  },
+  {
+   "id": "1505",
+   "text": "HM1651 İbn Hanbel, I, 191."
+  },
+  {
+   "id": "1506",
+   "text": "M4923 Müslim, İmâre, 152."
+  },
+  {
+   "id": "1507",
+   "text": "Kasas, 28/76. Kasas, 28/78."
+  },
+  {
+   "id": "1508",
+   "text": "Kasas, 28/76."
+  },
+  {
+   "id": "1509",
+   "text": "Kasas, 28/79-80."
+  },
+  {
+   "id": "1510",
+   "text": "DM260 Dârimî, Mukaddime, 27."
+  },
+  {
+   "id": "1511",
+   "text": "Ra’d, 13/37."
+  },
+  {
+   "id": "1512",
+   "text": "Alak, 96/5."
+  },
+  {
+   "id": "1513",
+   "text": "Bakara, 2/31."
+  },
+  {
+   "id": "1514",
+   "text": "Rahmân, 55/3-4."
+  },
+  {
+   "id": "1515",
+   "text": "Tâ-Hâ, 20/114."
+  },
+  {
+   "id": "1516",
+   "text": "Hac, 22/54; Sebe’, 34/6."
+  },
+  {
+   "id": "1517",
+   "text": "A’râf, 7/175."
+  },
+  {
+   "id": "1518",
+   "text": "A’râf, 7/176."
+  },
+  {
+   "id": "1519",
+   "text": "NM3258 Hâkim, Müstedrek, IV, 1222 (2/326)."
+  },
+  {
+   "id": "1520",
+   "text": "DM376 Dârimî, Mukaddime, 34."
+  },
+  {
+   "id": "1521",
+   "text": "TR6936 Hatîb Bağdâdî, Târîhu Bağdâd, XII, 452-454."
+  },
+  {
+   "id": "1522",
+   "text": "B7316 Buhârî, İ’tisâm, 13; M1896 Müslim, Müsâfirîn, 268; TM367 Tayâlisî, Müsned, I, 188; HM4109 İbn Hanbel, I, 432."
+  },
+  {
+   "id": "1523",
+   "text": "B1427 Buhârî, Zekât, 18; M2385 Müslim, Zekât, 94."
+  },
+  {
+   "id": "1524",
+   "text": "M4223 Müslim, Vasiyyet, 14; D2880 Ebû Dâvûd, Vesâyâ, 14."
+  },
+  {
+   "id": "1525",
+   "text": "T2657 Tirmizî, İlim, 7."
+  },
+  {
+   "id": "1526",
+   "text": "İM257 İbn Mâce, Sünnet, 23."
+  },
+  {
+   "id": "1527",
+   "text": "İM224 İbn Mâce, Sünnet, 17."
+  },
+  {
+   "id": "1528",
+   "text": "FK4/353 Münâvî, Feyzu’l-kadîr, IV, 353."
+  },
+  {
+   "id": "1529",
+   "text": "BS21513 Beyhakî, es-Sünenü’l-kübrâ, X, 350; MÜ599 Taberânî, Müsnedü’ş-şâmiyyîn, I, 344."
+  },
+  {
+   "id": "1530",
+   "text": "N5472 Nesâî, İstiâze, 21; İM250 İbn Mâce, Sünnet, 23."
+  },
+  {
+   "id": "1531",
+   "text": "T3599 Tirmizî, Deavât 128; İM251 İbn Mâce, Sünnet, 23."
+  }
+ ]
+}

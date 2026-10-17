@@ -1,0 +1,255 @@
+{
+  "id": 6016,
+  "title": "Hadislerle İslam - 1",
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Hadislerle İslâm 1"
+    },
+    {
+      "n": 2,
+      "title": "En Sevgili’ye İltica"
+    },
+    {
+      "n": 3,
+      "title": "Akademik Heyet"
+    },
+    {
+      "n": 4,
+      "title": "Kısaltmalar"
+    },
+    {
+      "n": 5,
+      "title": "Ön Söz"
+    },
+    {
+      "n": 6,
+      "title": "Mukaddime"
+    },
+    {
+      "n": 7,
+      "title": "I. Hikem Veri Tabanı"
+    },
+    {
+      "n": 8,
+      "title": "İstiâze: Âlemlerin Rabbine Sığınmak"
+    },
+    {
+      "n": 9,
+      "title": "Besmele: Her Hayrın Anahtarı"
+    },
+    {
+      "n": 10,
+      "title": "Hamdele: Her Türlü Övgü, Âlemlerin Rabbine Özgü"
+    },
+    {
+      "n": 11,
+      "title": "Salvele: Yüce Resûl’e Salât ve Selâm"
+    },
+    {
+      "n": 12,
+      "title": "Allah: Âlemlerin Rabbi",
+      "part": "1. Bölüm: Allah, Âlem, İnsan ve Din"
+    },
+    {
+      "n": 13,
+      "title": "Allah’ın İsim ve Sıfatları: En Güzel İsimler O’nun",
+      "part": "1. Bölüm: Allah, Âlem, İnsan ve Din"
+    },
+    {
+      "n": 14,
+      "title": "Yaratılış: Yokluktan Varlığa",
+      "part": "1. Bölüm: Allah, Âlem, İnsan ve Din"
+    },
+    {
+      "n": 15,
+      "title": "Melekler: Âlemlerin Nurdan Varlıkları",
+      "part": "1. Bölüm: Allah, Âlem, İnsan ve Din"
+    },
+    {
+      "n": 16,
+      "title": "Cinler: Allah’ın Görünmeyen Kulları",
+      "part": "1. Bölüm: Allah, Âlem, İnsan ve Din"
+    },
+    {
+      "n": 17,
+      "title": "Şeytan: İnsanın Ezelî Düşmanı",
+      "part": "1. Bölüm: Allah, Âlem, İnsan ve Din"
+    },
+    {
+      "n": 18,
+      "title": "İnsan: Mükerrem Varlık",
+      "part": "1. Bölüm: Allah, Âlem, İnsan ve Din"
+    },
+    {
+      "n": 19,
+      "title": "Ruh: Hayat İksiri",
+      "part": "1. Bölüm: Allah, Âlem, İnsan ve Din"
+    },
+    {
+      "n": 20,
+      "title": "Nefis: İyi ve Kötünün Mücadele Alanı",
+      "part": "1. Bölüm: Allah, Âlem, İnsan ve Din"
+    },
+    {
+      "n": 21,
+      "title": "Güneş, Ay ve Yıldızlar: Gökyüzünün Kandilleri",
+      "part": "1. Bölüm: Allah, Âlem, İnsan ve Din"
+    },
+    {
+      "n": 22,
+      "title": "Zaman: Varlığın Nabzı",
+      "part": "1. Bölüm: Allah, Âlem, İnsan ve Din"
+    },
+    {
+      "n": 23,
+      "title": "Dünya: Âhiretin Tarlası",
+      "part": "1. Bölüm: Allah, Âlem, İnsan ve Din"
+    },
+    {
+      "n": 24,
+      "title": "Ubudiyet: Allah’a Kul Olmak",
+      "part": "1. Bölüm: Allah, Âlem, İnsan ve Din"
+    },
+    {
+      "n": 25,
+      "title": "Din: İlâhî Kılavuz",
+      "part": "1. Bölüm: Allah, Âlem, İnsan ve Din"
+    },
+    {
+      "n": 26,
+      "title": "Bilgi: İlim İlim Bilmektir",
+      "part": "2. Bölüm: Bilgi"
+    },
+    {
+      "n": 27,
+      "title": "Vahiy: Allah’ın Ezelî ve Ebedî Sözü",
+      "part": "2. Bölüm: Bilgi"
+    },
+    {
+      "n": 28,
+      "title": "Tefsir ve Tevil: Vahyi Anlama Çabası",
+      "part": "2. Bölüm: Bilgi"
+    },
+    {
+      "n": 29,
+      "title": "Sünnet: Nebevî Kılavuz",
+      "part": "2. Bölüm: Bilgi"
+    },
+    {
+      "n": 30,
+      "title": "Fıkıh ve İctihad: Derin Kavrayış, Hakikati Arayış",
+      "part": "2. Bölüm: Bilgi"
+    },
+    {
+      "n": 31,
+      "title": "Bilgi Ahlâkı: Âlimin İlimle Sınavı",
+      "part": "2. Bölüm: Bilgi"
+    },
+    {
+      "n": 32,
+      "title": "Feraset: Allah’ın Nuruyla Bakmak",
+      "part": "2. Bölüm: Bilgi"
+    },
+    {
+      "n": 33,
+      "title": "Rüya: Uykudaki Âlem",
+      "part": "2. Bölüm: Bilgi"
+    },
+    {
+      "n": 34,
+      "title": "Hidayet: İslâm’ın Aydınlık Yolu",
+      "part": "3. Bölüm: İman"
+    },
+    {
+      "n": 35,
+      "title": "Kelime-i Şehâdet: İslâm’ın Temeli",
+      "part": "3. Bölüm: İman"
+    },
+    {
+      "n": 36,
+      "title": "Allah’a İman: Varolmanın Asıl Gayesi",
+      "part": "3. Bölüm: İman"
+    },
+    {
+      "n": 37,
+      "title": "Allah ve Resûlü’ne İtaat: Gönülden Bağlanmak",
+      "part": "3. Bölüm: İman"
+    },
+    {
+      "n": 38,
+      "title": "Meleklere İman: Rahmetle Kuşatılmak",
+      "part": "3. Bölüm: İman"
+    },
+    {
+      "n": 39,
+      "title": "Kitaplara İman: Aklın Vahiyle Buluşması",
+      "part": "3. Bölüm: İman"
+    },
+    {
+      "n": 40,
+      "title": "Allah’ın Kitabı: Sözlerin En Güzeli",
+      "part": "3. Bölüm: İman"
+    },
+    {
+      "n": 41,
+      "title": "Peygamberlere İman: Allah’ın Elçilerini Tasdik",
+      "part": "3. Bölüm: İman"
+    },
+    {
+      "n": 42,
+      "title": "Mucize: Peygambere Verilen Olağanüstü Lütuf",
+      "part": "3. Bölüm: İman"
+    },
+    {
+      "n": 43,
+      "title": "Âhirete İman: Ebedî Hayatı Tasdik",
+      "part": "3. Bölüm: İman"
+    },
+    {
+      "n": 44,
+      "title": "Kader: Her Şey Bir Ölçü ile Yaratılmıştır",
+      "part": "3. Bölüm: İman"
+    },
+    {
+      "n": 45,
+      "title": "Mümin: İnanan ve Güven Veren Güzel İnsan",
+      "part": "3. Bölüm: İman"
+    },
+    {
+      "n": 46,
+      "title": "Münafıklık: İki Yüzlülük",
+      "part": "3. Bölüm: İman"
+    },
+    {
+      "n": 47,
+      "title": "Şirk: Allah’a Ortak Koşmak/En Büyük Zulüm",
+      "part": "3. Bölüm: İman"
+    },
+    {
+      "n": 48,
+      "title": "Rızık: Allah’tan Gelen Nimet",
+      "part": "3. Bölüm: İman"
+    },
+    {
+      "n": 49,
+      "title": "Bereket: Mânevî Bolluk",
+      "part": "3. Bölüm: İman"
+    },
+    {
+      "n": 50,
+      "title": "Nazar: Göz Değmesi",
+      "part": "3. Bölüm: İman"
+    },
+    {
+      "n": 51,
+      "title": "Fal, Kehanet, Büyü, Uğursuzluk: İnanç Zafiyeti",
+      "part": "3. Bölüm: İman"
+    },
+    {
+      "n": 52,
+      "title": "Bid’at: Sonradan İhdas Edilen",
+      "part": "3. Bölüm: İman"
+    }
+  ]
+}

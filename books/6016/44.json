@@ -1,0 +1,763 @@
+{
+ "n": 44,
+ "title": "Kader: Her Şey Bir Ölçü ile Yaratılmıştır",
+ "blocks": [
+  {
+   "type": "arabic",
+   "text": "حَدَّثَنِى أَبِى عُمَرُ بْنُ الْخَطَّابِ قَالَ: بَيْنَمَا نَحْنُ عِنْدَ رَسُولِ اللَّهِ ﷺ ذَاتَ يَوْمٍ إِذْ طَلَعَ عَلَيْنَا رَجُلٌ شَدِيدُ بَيَاضِ الثِّيَابِ شَدِيدُ سَوَادِ الشَّعَرِ لاَ يُرَى عَلَيْهِ أَثَرُ السَّفَرِ وَلاَ يَعْرِفُهُ مِنَّا أَحَدٌ حَتَّى جَلَسَ إِلَى النَّبِيِّ ﷺ فَأَسْنَدَ رُكْبَتَيْهِ إِلَى رُكْبَتَيْهِ وَوَضَعَ كَفَّيْهِ عَلَى فَخِذَيْهِ... قَالَ: فَأَخْبِرْنِى عَنِ الْإِيمَانِ. قَالَ:"
+  },
+  {
+   "type": "arabic",
+   "text": "“أَنْ تُؤْمِنَ بِاللَّهِ وَمَلاَئِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ وَالْيَوْمِ الآخِرِ وَتُؤْمِنَ بِالْقَدَرِ خَيْرِهِ وَشَرِّهِ.”"
+  },
+  {
+   "type": "paragraph",
+   "text": "(Abdullah b. Ömer anlatıyor):"
+  },
+  {
+   "type": "paragraph",
+   "text": "Bana babam Ömer b. el-Hattâb şunları anlattı:"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Bir gün biz Resûlullah’ın (sav) yanındayken bembeyaz elbiseli, simsiyah saçlı bir adam çıkageldi. Üzerinde yolculuğa dair hiçbir belirti yoktu ve bizden de kimse onu tanımıyordu. Peygamber’in yanına oturdu ve dizlerini onun dizlerine yaslayıp ellerini onun uyluklarının üzerine koydu... “Bana iman hakkında bilgi ver.” dedi. Resûlullah şöyle buyurdu: "
+    },
+    {
+     "text": "“Allah’a, meleklerine, kitaplarına, peygamberlerine ve âhiret gününe iman etmendir. Keza hayrı ve şerriyle kadere inanmandır",
+     "italic": true
+    },
+    {
+     "text": "."
+    },
+    {
+     "text": "”",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "source",
+   "text": "(M93 Müslim, Îmân, 1)"
+  },
+  {
+   "type": "arabic",
+   "text": "عَنْ طَاوُسٍ، أَنَّهُ قَالَ: ... وَسَمِعْتُ عَبْدَ اللَّهِ بْنَ عُمَرَ يَقُولُ: قَالَ رَسُولُ اللَّهِ ﷺ : “كُلُّ شَيْءٍ بِقَدَرٍ...”"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "arabic",
+   "text": "عَنْ عَلِىٍّ رَضِيَ اللَّهُ عَنْهُ ... ثُمَّ قَالَ: “مَا مِنْكُمْ مِنْ أَحَدٍ، مَا مِنْ نَفْسٍ مَنْفُوسَةٍ إِلاَّ كُتِبَ مَكَانُهَا مِنَ الْجَنَّةِ وَالنَّارِ، وَإِلاَّ قَدْ كُتِبَ شَقِيَّةً أَوْ سَعِيدَةً...”"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "arabic",
+   "text": "...فَقَالَ عُمَرُ بْنُ الْخَطَّابِ: سَمِعْتُ رَسُولَ اللَّهِ ﷺ يُسْأَلُ عَنْهَا فَقَالَ رَسُولُ اللَّهِ ﷺ : “إِنَّ اللَّهَ تَبَارَكَ وَتَعَالَى خَلَقَ آدَمَ ثُمَّ مَسَحَ ظَهْرَهُ بِيَمِينِهِ فَاسْتَخْرَجَ مِنْهُ ذُرِّيَّةً فَقَالَ: خَلَقْتُ هَؤُلاَءِ لِلْجَنَّةِ وَبِعَمَلِ أَهْلِ الْجَنَّةِ يَعْمَلُونَ ثُمَّ مَسَحَ ظَهْرَهُ فَاسْتَخْرَجَ مِنْهُ ذُرِّيَّةً فَقَالَ: خَلَقْتُ هَؤُلاَءِ لِلنَّارِ وَبِعَمَلِ أَهْلِ النَّارِ يَعْمَلُونَ.” فَقَالَ رَجُلٌ: يَا رَسُولَ اللَّهِ! فَفِيمَ الْعَمَلُ؟ قَالَ: فَقَالَ رَسُولُ اللَّهِ ﷺ : “إِنَّ اللَّهَ إِذَا خَلَقَ الْعَبْدَ لِلْجَنَّةِ اسْتَعْمَلَهُ بِعَمَلِ أَهْلِ الْجَنَّةِ حَتَّى يَمُوتَ عَلَى عَمَلٍ مِنْ أَعْمَالِ أَهْلِ الْجَنَّةِ، فَيُدْخِلَهُ بِهِ الْجَنَّةَ، وَإِذَا خَلَقَ الْعَبْدَ لِلنَّارِ اسْتَعْمَلَهُ بِعَمَلِ أَهْلِ النَّارِ حَتَّى يَمُوتَ عَلَى عَمَلٍ مِنْ أَعْمَالِ أَهْلِ النَّار،ِ فَيُدْخِلَهُ بِهِ النَّارَ.”"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "arabic",
+   "text": "عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، أَنَّهُ حَدَّثَهُ، أَنَّهُ رَكِبَ خَلْفَ رَسُولِ اللَّهِ ﷺ يَوْمًا، فَقَالَ لَهُ رَسُولُ اللَّهِ ﷺ : “يَا غُلَامُ إِنِّي مُعَلِّمُكَ كَلِمَاتٍ: احْفَظْ اللَّهَ يَحْفَظْكَ، احْفَظِ اللَّهَ تَجِدْهُ تُجَاهَكَ، وَإِذَا سَأَلْتَ فَلْتَسْأَلْ اللَّهَ، وَإِذَا اسْتَعَنْتَ فَاسْتَعِنْ بِاللَّهِ، وَاعْلَمْ أَنَّ الْأُمَّةَ لَوْ اجْتَمَعُوا عَلَى أَنْ يَنْفَعُوكَ لَمْ يَنْفَعُوكَ، إِلَّا بِشَيْءٍ قَدْ كَتَبَهُ اللَّهُ لَكَ، وَلَوْ اجْتَمَعُوا عَلَى أَنْ يَضُرُّوكَ لَمْ يَضُرُّوكَ، إِلَّا بِشَيْءٍ قَدْ كَتَبَهُ اللَّهُ عَلَيْكَ، رُفِعَتِ الْأَقْلَامُ، وَجَفَّتْ الصُّحُفُ.”"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "arabic",
+   "text": "عَنْ أَبِى خُزَامَةَ، عَنْ أَبِيهِ قَالَ: سَأَلْتُ رَسُولَ اللَّهِ ﷺ فَقُلْتُ: يَا رَسُولَ اللَّهِ! أَرَأَيْتَ رُقًى نَسْتَرْقِيهَا وَدَوَاءً نَتَدَاوَى بِهِ وَتُقَاةً نَتَّقِيهَا، هَلْ تَرُدُّ مِنْ قَدَرِ اللَّهِ شَيْئًا؟ قَالَ: “هِيَ مِنْ قَدَرِ اللَّهِ.”"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Tâvus aracılığıyla... Abdullah b. Ömer’den nakledildiğine göre, Allah Resûlü (sav) şöyle buyurmuştur: "
+    },
+    {
+     "text": "“Her şey bir kadere (ölçü ve plana) göredir...”",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "source",
+   "text": "(M6751 Müslim, Kader, 18; MU1629 Muvatta’, Kader, 1)"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Hz. Ali’den rivayet edildiğine göre..., Hz. Peygamber (sav) şöyle buyurmuştur: "
+    },
+    {
+     "text": "“Sizden hiçbir kimse ve hiçbir canlı yoktur ki cennet ve cehennemdeki yeri ile saîd (mutlu) veya şakî ( bedbaht) olduğu yazılmış olmasın...”",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "source",
+   "text": "(B1362 Buhârî, Cenâiz, 82; M6731 Müslim, Kader, 6)"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Ömer b. el-Hattâb, (kendisine "
+    },
+    {
+     "text": "“Hani Rabbin (ezelde) Âdemoğullarının sulblerinden zürriyetlerini almış, onları kendilerine şahit tutarak, ‘Ben sizin Rabbiniz değil miyim?’ demişti. Onlar da, ‘Evet, şahit olduk (ki Rabbimizsin).’ demişlerdi. Böyle yapmamız kıyamet günü, ‘Biz bundan habersizdik.’ dememeniz içindir.”",
+     "italic": true
+    },
+    {
+     "text": " (A’râf, 7/172) âyetinin anlamı sorulduğunda) şöyle demiştir: “Bu âyet Allah Resûlü’ne (sav) de sorulmuş ve o (sav) şu açıklamayı yapmıştı: "
+    },
+    {
+     "text": "‘Allah Teâlâ Âdem’i yarattı. Sonra kudret (eli) ile sırtını sıvazladı ve ondan bir nesil çıkarttı. ‘Bunları cennet için yarattım. Cennetliklerin amelini işleyecekler.’ dedi. Sonra Âdem’in sırtını sıvazlayıp bir nesil daha çıkarttı. ‘Bunları cehennem için yarattım. Cehennemliklerin amelini işleyecekler.’ dedi.’",
+     "italic": true
+    },
+    {
+     "text": " Bu sırada birisi, ‘Yâ Resûlallah, bu durumda amelin ne anlamı kalır?’ diye sordu. Allah Resûlü, "
+    },
+    {
+     "text": "‘Allah, kulunu cennet için yarattığında, ona, cennetliklerin ameli üzere ölünceye kadar cennetlik ameli işletir. Sonra onu cennete koyar. Kulunu cehennem için yarattığında ona, cehennemliklerin ameli üzere ölünceye kadar cehennemlik ameli işletir. Sonra onu cehenneme koyar.’",
+     "italic": true
+    },
+    {
+     "text": " buyurdu.”"
+    }
+   ]
+  },
+  {
+   "type": "source",
+   "text": "(MU1627 Muvatta’, Kader, 1)"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Abdullah b. Abbâs, bir gün aynı binit üzerinde Allah Resûlü’nün (sav) arkasındayken onun kendisine şöyle dediğini anlattı: "
+    },
+    {
+     "text": "“Delikanlı! Sana bazı şeyler öğreteceğim. Allah’ı gözet ki Allah da seni gözetsin. Allah’ı gözet ki Allah’ı (daima) yanında bulasın. Bir şey istediğinde Allah’tan iste! Yardıma muhtaç olduğunda Allah’tan yardım dile! Şunu bil ki bütün insanlar sana fayda vermek için toplansa Allah’ın takdiri dışında sana fayda veremezler. Ve yine bütün insanlar sana zarar vermek için toplansa Allah’ın takdiri dışında sana hiçbir şeyde zarar veremezler. Bu konuda kalemler kaldırılmış (karar verilmiş), sayfalar kurumuştur (hüküm kesinleşmiştir).”",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "source",
+   "text": "(HM2669 İbn Hanbel, I, 293; T2516 Tirmizî, Sıfatü’l- kıyâme, 59)"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Ebû Huzâme’nin rivayet ettiğine göre, babası Allah Resûlü’ne şöyle sormuştur: “Ey Allah’ın Resûlü! Şifa niyetiyle yaptığımız okumalar, tedavi olduğumuz ilaçlar ve korunma tedbirleri, Allah’ın takdirinden bir şeyi geri çevirir mi?” Resûlullah (sav), "
+    },
+    {
+     "text": "“Onlar da Allah’ın takdiridir.”",
+     "italic": true
+    },
+    {
+     "text": " buyurmuştur."
+    }
+   ]
+  },
+  {
+   "type": "source",
+   "text": "(T2065 Tirmizî, Tıb, 21)"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Hicretin on yedinci senesinde"
+    },
+    {
+     "note": "2142"
+    },
+    {
+     "text": " Ebû Ubeyde b. el-Cerrâh komutasındaki İslâm ordusu, Şam’a gelen Hz. Ömer ile Suriye-Hicaz sınırındaki Serğ Köyü’nde buluşur. Ebû Ubeyde, Şam civarında veba salgını olduğunu bildirir. Hz. Ömer de durumu görüşmek üzere muhacir ve ensarı toplar ve istişarelerde bulunur. Ne var ki istişarelerden bir sonuç alınamaz. Kimisi, “Sen bir görev için çıktın, bundan geri dönmeni uygun görmüyoruz.” derken kimisi de, “İnsanları tehlikeye atmanı doğru bulmuyoruz.” der. Hz. Ömer, istişarelerine devam eder ve son olarak Mekke fethine katılmış muhacirlerle, Kureyş’in ileri gelenlerini toplar. Bu son istişareden ittifakla geri dönme ve insanları veba tehlikesine atmama görüşü çıkar. Bunun üzerine Hz. Ömer, Medine’ye geri dönülmesi emrini verir. Fakat ordu komutanı Ebû Ubeyde, bu durumu kader inancıyla bağdaştırmamış olacak ki halifeye, “Allah’ın kaderinden mi kaçıyorsun?” diye sorar. Hz. Ömer, Keşke bunu sen söylemiş olmasaydın Ey Ebû Ubeyde. Evet, Allah’ın bir kaderinden diğer bir kaderine kaçıyoruz.” diye cevap verir ve şöyle devam eder: “Develerini otlatmak için, biri verimli diğeri kıraç iki yamaçlı bir vadiye götürsen ve onları ister otu bol yerde ister çorak yerde otlatsan, sonuçta her iki yerde de Allah’ın kaderiyle otlatmış olmaz mısın?” diye sorar."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Bu sırada, daha önce bir işi için aralarından ayrılmış olan Abdurrahman b. Avf çıkagelir ve “Bu konuyla ilgili bende bir bilgi var.” diyerek Hz. Peygamber’in şöyle buyurduğunu nakleder: "
+    },
+    {
+     "text": "“Şayet bir yerde veba hastalığı olduğunu işitirseniz oraya gitmeyin. Bir yerde veba hastalığı çıkarsa ve siz orada bulunursanız vebadan kaçarak oradan çıkmayın.”",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Kararının isabetli olduğu Resûlullah’ın hadisiyle de teyit edilince, Hz. Ömer, Allah’a hamdeder, orduya geri çekilme emri verip Medine’ye döner."
+    },
+    {
+     "note": "2143"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Bu rivayette sahâbenin kader anlayışındaki farklılığı görüyoruz. Bir tarafta tedbiri yersiz görenler, diğer tarafta ise Hz. Ömer’in öncülük ettiği, insanın tedbir ve tercihlerinin de kaderin bir parçası olduğunu düşünenler bulunmaktadır. Hz. Ömer buradaki tutumuyla, salgın ve bulaşıcı hastalıkları Allah’ın kaçınılmaz bir kaderi olarak gören anlayışın yanlış olduğunu savunmaktaydı. Aynı zamanda kaderin kuşatıcılığını ve bu kuşatıcılık içerisinde insanın tercih özgürlüğünü ve doğruyu bulma sorumluluğunu da hatırlatıyordu. Abdurrahman b. Avf’ın Hz. Ömer’i teyit ederek naklettiği hadiste de Peygamberimiz veba salgını esnasında tedbir alınmasını emretmekte ve dolaylı olarak bu hareketin tevekkül ve kader inancına aykırı olmadığını öğretmektedir."
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Haddizatında insanı aşan ve insanın müdahil olamadığı, insanı kuşatan tabiat hadiseleri, âlemin işleyişi, insanın ailesi, ırkı, cinsiyeti gibi hususların ilâhî bir belirlemenin neticesi olduğu açıktır. İnsanı doğrudan etkileyen bu gibi hususlarda onun en küçük bir müdahalesi söz konusu değildir. İnsanın da bir parçası olduğu kâinatta hiçbir şeyin rastgele olmaması, kuşatıcı bir düzenin varlığı aşkın bir kaderi ihsas etmektedir. Peygamberimiz, Abdullah b. Ömer’in naklettiği şu hadisinde bu ilâhî belirlemeye işaret ediyor olmalıdır: "
+    },
+    {
+     "text": "“Her şey bir kadere (ölçü ve plan) göredir.”",
+     "italic": true
+    },
+    {
+     "note": "2144"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Allah Resûlü bu sözüyle her şeyin Allah’ın irade ve kudreti çerçevesinde vücut bulduğunu belirtmektedir. Kâinatın ilâhî bir planlamanın neticesi oluşu, aynı zamanda mutlak irade ve güç sahibi bir kudretin varlığını da ispat etmektedir."
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "“Gerçekten biz her şeyi bir kadere (plana ve ölçüye) göre yarattık.”",
+     "italic": true
+    },
+    {
+     "note": "2145"
+    },
+    {
+     "text": " âyeti, iyi kötü, acı tatlı, canlı cansız, faydalı faydasız her ne varsa Allah’ın bilmesi, dilemesi, kudreti, takdiri ve yaratması ile meydana geldiği gerçeğinin bir başka ifadesidir. İlim, kudret, irade ve hikmet sahibi bir yaratıcı tarafından yaratıldığı için evrende, kaos değil kader yani ölçü, denge ve düzen hâkimdir. "
+    },
+    {
+     "text": "“O, göğü yükseltti ve mizanı (dengeyi) koydu”",
+     "italic": true
+    },
+    {
+     "text": ","
+    },
+    {
+     "note": "2146"
+    },
+    {
+     "text": " "
+    },
+    {
+     "text": "“Rahmân’ın yaratmasında hiçbir düzensizlik ve kusur göremezsin.”",
+     "italic": true
+    },
+    {
+     "note": "2147"
+    },
+    {
+     "text": " âyetleri de bu denge ve düzeni vurgulamaktadır. Evrenin işleyişi belli yasalar çerçevesinde gerçekleşmektedir. Her şeyi yoktan var etme, sebepsiz yaratma kudretine sahip olan Allah, kâinatta vuku bulan şeyleri sebep sonuç ilişkisi içerisinde yaratmayı dilemiştir. Böylece akıl sahiplerinin yaratılıştaki hikmet ve gerçekleri daha rahat kavramasını murad etmiş olabilir."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Kader anlayışı sadece insan eylemlerini değil genel olarak Allah ve varlık, özel olarak Allah ve insan ilişkisine dair tasavvuru da kapsar. Mümin, her hadisede Allah’ın varlığının işaretlerini görür. Allah’ın, her varlık ve oluşta her zamanda ve mekânda mutlak tasarruf sahibi olduğuna inanır. İşte kaderin imana konu olması da burada anlam kazanmaktadır. Hz. Ömer’den rivayet edildiğine göre, Hz. Peygamber (sav) kendisine, “Bana iman hakkında bilgi ver.” diyen Cebrail’e şöyle cevap vermiştir: "
+    },
+    {
+     "text": "“Allah’a, meleklerine, kitaplarına, peygamberlerine ve âhiret gününe iman etmendir. (Aynı şekilde) hayrı ve şerriyle kadere inanmandır",
+     "italic": true
+    },
+    {
+     "text": "."
+    },
+    {
+     "text": "”",
+     "italic": true
+    },
+    {
+     "note": "2148"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Hadiste Allah’a, yarattığı meleklere, gönderdiği kitaplara, bu kitapları insanlara açıklamak üzere görevlendirdiği peygamberlere ve insanlara verdiği nimetlerden onları hesaba çekeceği âhiret gününe inanmanın yanı sıra kadere imanın da temel unsurlardan sayılması manidardır. Allah’ın güç ve kudretinin bir tecellisi olarak var ettiği melekleri, insanın Rabbiyle iletişimindeki vasıtalardan kılması, kitapları melek aracılığıyla insanlardan seçilen peygamberlere ulaştırması, peygamberlerin, aldıkları ilâhî vahyi insanlara öğretmeleri ve akıl sahibi insanların özgür tercihleri ile bu çağrıya olumlu ya da olumsuz cevap vermeleri süreci, tasavvurları aşan üst bir planlama dâhilinde cereyan etmektedir."
+  },
+  {
+   "type": "paragraph",
+   "text": "Kadere inanmayı imanın temel unsurları arasında sayan bu hadis, müminin zihnini, yaratan ve yaşatan Allah’ın ceza gününün de sahibi olduğu, yaratılıştan hesap gününe kadar hayır ve şer hiçbir şeyin O’nun iradesinden bağımsız olmayacağı noktasına yönlendirmektedir. Buna göre her şeyin nihaî sebebi ve sahibi Allah’tır."
+  },
+  {
+   "type": "paragraph",
+   "text": "Kadere inanan bir insan, âlemde gerçek failin Allah olduğunu kabul eder. Yağmurun belli fizikî şartların oluşmasıyla yağacağını bilir. Ancak ona göre yağmurun yağması olayı, tabiî sebeplerin bir araya gelmesinin sonucuyla sınırlı değildir. Mümin, görünen sebeplerin ötesine geçerek, yağmuru Allah’ın indirdiğine inanır ve bu yüzden onu rahmet olarak adlandırır."
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Müslüman, elbette ki güneşin kendi yörüngesinde doğduğunu ve battığını görür. Ancak o bütün bunların Allah’ın planlaması dâhilinde olduğunu bildiği için, Hz. İbrâhim gibi "
+    },
+    {
+     "text": "“Allah, güneşi doğudan doğdurur.”",
+     "italic": true
+    },
+    {
+     "note": "2149"
+    },
+    {
+     "text": " der. Böylece sebeplere dayalı olarak ortaya çıkan her olayda sebebi de yaratan asıl Müsebbib’in varlığını hisseder."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Bir Müslüman, açlığın yemekle, susuzluğun suyla giderildiğini elbette ki bilir. O, "
+    },
+    {
+     "text": "“Allah, hiçbir hastalık vermemiş ki onun şifasını da vermemiş olsun.”",
+     "italic": true
+    },
+    {
+     "note": "2150"
+    },
+    {
+     "text": " hadisinin de farkındadır ve tedavi olmanın, Peygamberi’nin (sav) tavsiyesi olduğunu da bilir."
+    },
+    {
+     "note": "2151"
+    },
+    {
+     "text": " Ancak o, bunların esas sahibini unutmaz ve Hz. İbrâhim gibi şöyle der: "
+    },
+    {
+     "text": "“Beni yaratan da doğru yola eriştiren de O’dur. Beni yediren de içiren de O’dur. Hasta olduğumda bana O şifa verir. Beni öldürecek, sonra da diriltecek O’dur.”",
+     "italic": true
+    },
+    {
+     "note": "2152"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Hz. Musa’nın ve o vefakâr İbrâhim’in (as) sahifelerinde de bulunan şu kesin gerçekler,"
+    },
+    {
+     "note": "2153"
+    },
+    {
+     "text": " kader anlayışımızın nasıl olması gerektiğini çok açık bir şekilde ortaya koymaktadır."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Necm sûresinde önce insanın sorumluluğunu hatırlatan şu âyetler zikredilir: "
+    },
+    {
+     "text": "“İnsan, emek ve gayretinin neticesinden başka şey elde edemez. Bu gayretinin semeresi de ileride ortaya çıkacaktır. Emeğinin karşılığı kendisine tam tamına ödenecektir.”",
+     "italic": true
+    },
+    {
+     "note": "2154"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Hemen akabinde insanın varlık tasavvurunu hatırlatan şu âyetler sıralanır: "
+    },
+    {
+     "text": "“Elbette son durak, Rabbinin huzuru olacaktır. O’dur güldüren ve ağlatan; O’dur öldüren ve yaşatan. Rahme atılan nutfeden ( spermden) erkek ve dişi çiftini yaratma, öldükten sonra diriltme, tekrar yaratma O’na aittir. İnsanı zengin eden, varlıklı kılan da O’dur...”",
+     "italic": true
+    },
+    {
+     "note": "2155"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Hz. Ali’nin anlattığı şu hadisede Peygamberimiz öncelikli olarak bu hakikate işaret etmektedir: “Bir keresinde Medine’deki Bakî’ Kabristanı’nda bir cenazede bulunuyorduk. Peygamber (sav) yanımıza gelip oturdu. Biz de onun çevresine toplandık. Elinde bir çubuk vardı. Başını düşünceli bir şekilde aşağıya doğru eğdi ve elindeki çubukla yerde çizgiler çizmeye başladı. Sonra, ‘"
+    },
+    {
+     "text": "Hiç kimse, hiçbir canlı yoktur ki cennet ve cehennemdeki yeri ile saîd (mutlu) veya şakî ( bedbaht) olduğu yazılmış olmasın.’ ",
+     "italic": true
+    },
+    {
+     "text": "buyurdu.”"
+    },
+    {
+     "note": "2156"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Hadiste zikri geçen “saadet” ve “ şekâvet” tabirleri câhiliye Arapları tarafından mutluluk ve mutsuzluğu şans ve talihe bağlayan bir anlayışla kullanılıyordu. Şans ve şansızlığı da kuşların ve yıldızların hareketlerine göre belirliyorlardı."
+    },
+    {
+     "note": "2157"
+    },
+    {
+     "text": " Hz. Peygamber bu sözüyle, mutluluğu ve bedbahtlığı Allah’ın kudreti dışında birtakım sebeplere bağlayan Arapların yanlış algılarını düzeltmektedir. Aynı zamanda şans ve talihe konu ettikleri durumun dünyevî hayatla sınırlı olmadığına, asıl mutluluk ve bedbahtlığın âhirette söz konusu olduğuna dikkatleri çekmiş, her şeyde olduğu gibi mutluluk ve bedbahtlığın da Allah’ın irade ve kudretinden bağımsız var olamayacağını vurgulamıştır. Allah’ın irade ve takdirinin insanın çabası ve yönelmesine göre tecelli ettiğini de hatırlatmıştır. Buna göre insanı hem bu dünyada hem de âhirette mutluluk ya da bedbahtlığa iten şey, aslında kendi yapıp ettikleridir."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Hz. Ömer’in Allah Resûlü’nden rivayet ettiği şu hadis de aslında aynı hususu hatırlatmaktadır. Müslim b. Yesâr el-Cühenî’nin anlattığına göre, Ömer b. el-Hattâb’a,"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "“Hani Rabbin (ezelde) Âdemoğullarının sulblerinden zürriyetlerini almış, onları kendilerine şahit tutarak, ‘Ben sizin Rabbiniz değil miyim?’ demişti. Onlar da, ‘Evet, şahit olduk (ki Rabbimizsin).’ demişlerdi. Böyle yapmamız kıyamet günü, ‘Biz bundan habersizdik.’ dememeniz içindir.”",
+     "italic": true
+    },
+    {
+     "note": "2158"
+    },
+    {
+     "text": " âyetinin anlamı sorulmuş, o da şöyle demiştir: “Bu âyet Allah Resûlü’ne (sav) sorulmuştu ve bunun üzerine o (sav) şu açıklamayı yapmıştı: "
+    },
+    {
+     "text": "‘Allah Teâlâ Âdem’i yarattı. Sonra kudret (eli) ile sırtını sıvazladı ve ondan bir nesil çıkarttı. ‘Bunları cennet için yarattım. Cennetliklerin amelini işleyecekler.’ dedi. Sonra Âdem’in sırtını sıvazlayıp bir nesil daha çıkarttı. ‘Bunları cehennem için yarattım. Cehennemliklerin amelini işleyecekler.’ dedi.’",
+     "italic": true
+    },
+    {
+     "text": " Bu sırada birisi, ‘Yâ Resûlallah, bu durumda amelin ne anlamı kalır?’ diye sordu. Allah Resûlü, "
+    },
+    {
+     "text": "‘Allah kulunu cennet için yarattığında, ona, cennetliklerin ameli üzere ölünceye kadar cennetlik ameli işletir. Sonra onu cennete koyar. Kulunu cehennem için yarattığında ona, cehenneliklerin ameli üzere ölünceye kadar cehennemlik ameli işletir. Sonra onu cehenneme koyar.’",
+     "italic": true
+    },
+    {
+     "text": " buyurdu.”"
+    },
+    {
+     "note": "2159"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "İnsanın yaratılışını konu eden bu hadiste onun yaratılış bakımından Allah’ı tanıma kabiliyetine sahip olduğu gerçeği, ezelde yaşanmış bir diyalog şeklinde ifade edilmiştir. Allah Teâlâ’nın Hz. Âdem’i yaratınca ondan cennetlikler ve cehennemlikleri çıkartması, insanların bir kısmının iyi işler yapıp cenneti hak edeceklerine, bir kısmının ise kötülük yapıp cehenneme gireceklerine dair ezelî ilmine bir işaret olsa gerektir. Bu ifadeleri aynı zamanda insanların yaratılış itibariyle iyilik ve kötülük yapma güç ve iradesine sahip oluşlarının temsilî bir anlatımı olarak da düşünebiliriz. İnsanların sonunda varacakları noktanın önceden belirlendiğini, dolayısıyla amelin anlamsız olacağını ima eden soruya Peygamberimizin insan fiillerinin gerekliliği çerçevesinde cevap vermesi önemli bir husustur. İşlenen amellerin Allah’a nispet edilmesi, bütün olup bitenlerin olduğu gibi insan eylemlerinin de ancak O’nun izni dâhilinde gerçekleştiği, hatta bu amelleri yapmaya azmedenler için onları kolaylaştırdığı anlamına gelmektedir."
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "İbn Abbâs, bir gün aynı binit üzerinde Allah Resûlü’nün arkasındayken onun kendisine şöyle dediğini anlattı:"
+    },
+    {
+     "text": " “Delikanlı! Sana bazı şeyler öğreteceğim. Allah’ı gözet ki Allah da seni gözetsin. Allah’ı gözet ki Allah’ı (daima) yanında bulasın. Bir şey istediğinde Allah’tan iste! Yardıma muhtaç olduğunda Allah’tan yardım dile! Şunu bil ki bütün insanlar sana fayda vermek için toplansa Allah’ın takdiri dışında sana faydalı olamazlar. Ayrıca bütün insanlar sana zarar vermek için toplansa Allah’ın takdiri dışında sana hiçbir şeyde zarar veremezler. Bu konuda kalemler kaldırılmış (karar verilmiş), sayfalar kurumuştur (hüküm kesinleşmiştir).”",
+     "italic": true
+    },
+    {
+     "note": "2160"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Hz. Peygamber’in, İbn Abbâs’a Allah’ın korumasına girmenin, Allah’ın dini için çalışması neticesinde mümkün olacağını bildirmesi, insan iradesinin önemine bir vurgudur. Resûl-i Ekrem ardından, Allah’ın istemesi dışında hiçbir şeyin gerçekleşemeyeceğini, sadece Allah’tan istenmesi gerektiğini söyleyerek haddizatında her şeyin sahibinin Allah olduğu hakikatini kalplere yerleştirmeyi arzulamıştır. Aynı hakikati ifade eden pek çok âyetten birinde, "
+    },
+    {
+     "text": "“Eğer Allah sana herhangi bir zarar verecek olursa bil ki, onu O’ndan başka giderebilecek yoktur. Eğer sana bir hayır dilerse O’nun lütfunu engelleyebilecek de yoktur.”",
+     "italic": true
+    },
+    {
+     "note": "2161"
+    },
+    {
+     "text": " buyrulmuştur. Buna göre Allah, sahip olduğu mülkte insanlara hareket alanı bahşetmiş ve belli ölçüde tasarruf imkânı vermiştir."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "İçinde insan unsurunun olduğu, insan eliyle ortaya çıkan ancak insanı aşan pek çok hususun varlığı bilinmektedir. Genetik yapı, çocukların cinsiyeti gibi konular, sebep sonuç içerisinde cereyan eden bir kısım olayları insanın kontrol edemediğini göstermektedir. İnsan kendi irade ve gücünü aşan bu gibi durumlarda âdeta aşkın bir kaderin varlığını hisseder ve kabullenir. Aynı zamanda bütün bu gerçekleşenleri Allah ezelde bilmektedir. Hadiste yer alan, "
+    },
+    {
+     "text": "“Kalemlerin kaldırılması ve sahifelerin kuruması (kararın verilip, hükmün kesinleşmesi)”",
+     "italic": true
+    },
+    {
+     "text": ", vuku bulacak hiçbir şeyin bu ilâhî bilginin dışında kalmayacağını, her ne meydana gelecekse onun ezelde bilindiği ve kaydedildiği, dolayısıyla yeni bir şeyin yazılmasının söz konusu olmayacağı anlamında olsa gerektir. Biz daha yaratılmadan önce ne yaşayacağımızı en ince teferruatına kadar bilen Allah, tercihimizi ne tarafa kullanacağımızı bu ezelî ve ebedî ilmiyle bilmektedir. Bu bakımdan ilâhî ezelî bilgi, meydana gelecek hadiselere önceden bir müdahale değildir. Nitekim Kur’an’da konuyla ilgili olarak şöyle buyrulmaktadır: "
+    },
+    {
+     "text": "“Yeryüzünde vuku bulan ve sizin başınıza gelen herhangi bir musibet yoktur ki biz onu yaratmadan önce, bir kitapta yazılmış olmasın.”",
+     "italic": true
+    },
+    {
+     "note": "2162"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Hz. Peygamber, her fırsatta insanlara bu dünyaya imtihan için gönderildiklerini hatırlatmıştır. İnsanların bu noktaya odaklanmalarını, bir bakıma tasavvurları aşan kader meselesine dalmamalarını istemiştir."
+    },
+    {
+     "note": "2163"
+    },
+    {
+     "text": " Allah Resûlü, her türlü tedbiri alarak insanın fiillerinde irade sahibi olduğunu gösterir, fakat aynı zamanda, "
+    },
+    {
+     "text": "“ Lâ havle velâ kuvvete illâ billâh” (Allah’tan gayrı güç ve kuvvet yoktur!)",
+     "italic": true
+    },
+    {
+     "note": "2164"
+    },
+    {
+     "text": " diyerek güç ve kudreti Allah’a nispet etmeyi tavsiye ederdi."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Kısaca "
+    },
+    {
+     "text": "“Mâşallah” ",
+     "italic": true
+    },
+    {
+     "text": "olarak bilinen, "
+    },
+    {
+     "text": "“Allah’ın dilediği olur, dilemediği de olmaz.”",
+     "italic": true
+    },
+    {
+     "note": "2165"
+    },
+    {
+     "text": " demeyi de yüce Elçi duasında zikrederdi. Allah Resûlü’nün öğrettiği bu iki ifade daha sonra Müslümanların değişmez virdi hâline geldi."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Kaderin anlaşılması sorunu, Allah’ın iradesinin her şeyi kuşatması yanında insanın irade özgürlüğünün imkân ve sınırının ne olduğu meselesine dayanmaktadır. Kader, ancak insanın yeryüzüne bir imtihan için gönderildiği gerçeği esas alınarak anlaşılabilir. İradesi ve seçme özgürlüğü olmayan bir kişinin denenmesinden bahsedilemeyeceğine göre, insanın sorumlu varlık olmasını mümkün kılan, bu yönünü doğrudan kısıtlamayan üst bir planlamanın olduğu düşünülmelidir. Buna göre insanın bütün tercihleri her hâlükârda bu kaderin içerisindedir ve hiçbir şekilde Allah’ın irade ve kudretinden bağımsız değildir. Hz. Ömer’in Ebû Ubeyde’ye güzel bir temsille, develerini otlatmak için önündeki vadinin kıraç ve otlu yamaçlarından herhangi birini tercih ettiğinde her hâlükârda Allah’ın kaderinin içinde hareket etmiş olacağını söylemesi, işte böyle bir anlayışın ürünüdür."
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Benzer bir anlayışa Ebû Huzâme es-Sa’dî’nin, babası aracılığıyla rivayet ettiği şu hadis de işaret etmektedir: Ebû Huzâme’nin rivayet ettiğine göre babası, Allah Resûlü’ne, “Ey Allah’ın Resûlü! Şifa niyetiyle yaptığımız okumalar, tedavi olduğumuz ilaçlar ve korunma tedbirleri, Allah’ın kaderinden bir şeyi geri çevirir mi?” diye sormuş, Resûlullah (sav) da, "
+    },
+    {
+     "text": "“Onlar da Allah’ın kaderindendir.”",
+     "italic": true
+    },
+    {
+     "text": " şeklinde cevap vermiştir."
+    },
+    {
+     "note": "2166"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Hicrî birinci asrın kader tartışmalarına ışık tutan bu rivayet, yapılan duaların, alınacak tedbirlerin de haddizatında kaderin içinde olduğunu vurgulamaktadır. Kaderde asla bir değişiklik olmaz. Bazı sebeplere bağlı olarak sonradan değişikliğe uğrayan her şey zaten kaderin içindedir, yani ezelî bilgi ve takdir çerçevesinde gerçekleşmiştir. Selmân-ı Fârisî’nin Hz. Peygamber’den naklettiği şu hadisi de bu çerçevede anlamak gerekir. "
+    },
+    {
+     "text": "“Kazayı ancak dua değiştirebilir, ömrü yalnız iyilik uzatır.”",
+     "italic": true
+    },
+    {
+     "note": "2167"
+    },
+    {
+     "text": " Bu hadiste duanın insan hayatındaki büyük tesirine dikkat çekilmektedir. Aynı şekilde iyiliğin insan ömrüne kattığı nitelik ve bereket vurgulanmaktadır. Kulun duası, bu duanın neticesi bütünüyle kaderin içindedir. Asıl olan insanın dua ile kulluk bilincini tazelemesi ve Allah’ın her an yaratma hâlinde olduğunu"
+    },
+    {
+     "note": "2168"
+    },
+    {
+     "text": " idrak etmesi ve O’na dayanmasıdır. Peygamberimize öğretilen şu dua Allah’ın kudret ve iradesine sığınmanın, kaderi idrak etmenin bir göstergesidir: "
+    },
+    {
+     "text": "“De ki: Rabbim! (Gireceğim yere) doğruluk ve esenlik içinde girmemi sağla. (Çıkacağım yerden de) beni doğruluk ve esenlik içinde çıkar. Katından bana yardımcı bir kuvvet ver.”",
+     "italic": true
+    },
+    {
+     "note": "2169"
+    }
+   ]
+  }
+ ],
+ "notes": [
+  {
+   "id": "2142",
+   "text": "İF10/184, İbn Hacer, Fethu’l-bârî, X, 184."
+  },
+  {
+   "id": "2143",
+   "text": "MU1621 Muvatta’, Câmi, 7; M5784 Müslim, Selâm, 98."
+  },
+  {
+   "id": "2144",
+   "text": "M6751 Müslim, Kader, 18; MU1629 Muvatta’, Kader, 1."
+  },
+  {
+   "id": "2145",
+   "text": "Kamer, 54/49."
+  },
+  {
+   "id": "2146",
+   "text": "Rahmân, 55/7."
+  },
+  {
+   "id": "2147",
+   "text": "Mülk,67/3."
+  },
+  {
+   "id": "2148",
+   "text": "M93 Müslim, Îmân, 1."
+  },
+  {
+   "id": "2149",
+   "text": "Bakara, 2/258."
+  },
+  {
+   "id": "2150",
+   "text": "B5678 Buhârî, Tıb, 1."
+  },
+  {
+   "id": "2151",
+   "text": "D3874 Ebû Dâvûd, Tıb, 11."
+  },
+  {
+   "id": "2152",
+   "text": "Şuarâ, 26/78-81."
+  },
+  {
+   "id": "2153",
+   "text": "Necm, 53/36-37."
+  },
+  {
+   "id": "2154",
+   "text": "Necm, 53/39-41."
+  },
+  {
+   "id": "2155",
+   "text": "Necm, 53/42-48."
+  },
+  {
+   "id": "2156",
+   "text": "B1362 Buhârî, Cenâiz, 82; M6731 Müslim, Kader, 6."
+  },
+  {
+   "id": "2157",
+   "text": "“Saadet”, 16 DİA, XXXV, 319."
+  },
+  {
+   "id": "2158",
+   "text": "A’râf, 7/172."
+  },
+  {
+   "id": "2159",
+   "text": "MU1627 Muvatta’, Kader, 1."
+  },
+  {
+   "id": "2160",
+   "text": "HM2669 İbn Hanbel, I, 293; T2516 Tirmizî, Sıfatü’l- kıyâme, 59."
+  },
+  {
+   "id": "2161",
+   "text": "Yûnus, 10/107."
+  },
+  {
+   "id": "2162",
+   "text": "Hadîd, 57/22."
+  },
+  {
+   "id": "2163",
+   "text": "İM84 İbn Mâce, Sünnet, 10."
+  },
+  {
+   "id": "2164",
+   "text": "M6868 Müslim, Zikir, 47."
+  },
+  {
+   "id": "2165",
+   "text": "D5075 Ebû Dâvûd, Edeb, 100-101."
+  },
+  {
+   "id": "2166",
+   "text": "T2065 Tirmizî, Tıb, 21."
+  },
+  {
+   "id": "2167",
+   "text": "T2139 Tirmizî, Kader, 6."
+  },
+  {
+   "id": "2168",
+   "text": "Rahmân, 55/29."
+  },
+  {
+   "id": "2169",
+   "text": "İsrâ, 17/80."
+  }
+ ]
+}

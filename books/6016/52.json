@@ -1,0 +1,550 @@
+{
+ "n": 52,
+ "title": "Bid’at: Sonradan İhdas Edilen",
+ "blocks": [
+  {
+   "type": "arabic",
+   "text": "عَنْ جَرِيرِ بْنِ عَبْدِ اللَّهِ قَالَ: ... قَالَ رَسُولُ اللَّهِ ﷺ :"
+  },
+  {
+   "type": "arabic",
+   "text": "“مَنْ سَنَّ فِي الْإِسْلَامِ سُنَّةً حَسَنَةً فَعُمِلَ بِهَا بَعْدَهُ كُتِبَ لَهُ مِثْلُ أَجْرِ مَنْ عَمِلَ بِهَا وَلَا يَنْقُصُ مِنْ أُجُورِهِمْ شَيْءٌ وَمَنْ سَنَّ فِي الْإِسْلَامِ سُنَّةً سَيِّئَةً فَعُمِلَ بِهَا بَعْدَهُ كُتِبَ عَلَيْهِ مِثْلُ وِزْرِ مَنْ عَمِلَ بِهَا وَلَا يَنْقُصُ مِنْ أَوْزَارِهِمْ شَيْءٌ.”"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Cerîr b. Abdullah’ın naklettiğine göre..., Resûlullah (sav) şöyle buyurmuştur: "
+    },
+    {
+     "text": "“Kim İslâm’da güzel bir işe öncülük eder ve kendisinden sonra bununla amel edilirse, kendisinden sonra o işi yapanlar gibi sevap alır. Üstelik onların sevaplarından da bir şey eksilmez. Kim de İslâm’da kötü bir davranışa ön ayak olur ve kendisinden sonra bununla amel edilirse, kendisinden sonra onu yapanlar gibi günah alır. Onların günahlarından da bir şey eksilmez.”",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "source",
+   "text": "(M6800 Müslim, İlim, 15)"
+  },
+  {
+   "type": "arabic",
+   "text": "عَنْ جَابِرٍ قَالَ: خَطَبَنَا رَسُولُ اللَّهِ ﷺ فَحَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ بِمَا هُوَ لَهُ أَهْلٌ ثُمَّ قَالَ: “أَمَّا بَعْدُ فَإِنَّ أَصْدَقَ الْحَدِيثِ كِتَابُ اللَّهِ وَإِنَّ أَفْضَلَ الْهَدْيِ هَدْيُ مُحَمَّدٍ وَشَرَّ الْأُمُورِ مُحْدَثَاتُهَا وَكُلَّ بِدْعَةٍ ضَلَالَةٌ.”"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "arabic",
+   "text": "عَنْ عَائِشَةَ قَالَتْ: قَالَ رَسُولُ اللَّهِ ﷺ :"
+  },
+  {
+   "type": "arabic",
+   "text": "“مَنْ أَحْدَثَ فِى أَمْرِنَا هَذَا مَا لَيْسَ مِنْهُ فَهُوَ رَدٌّ.”"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "arabic",
+   "text": "عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ :"
+  },
+  {
+   "type": "arabic",
+   "text": "“أَبَى اللَّهُ أَنْ يَقْبَلَ عَمَلَ صَاحِبِ بِدْعَةٍ حَتَّى يَدَعَ بِدْعَتَهُ.”"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "paragraph",
+   "text": "Câbir (b. Abdullah) anlatıyor: Resûlullah (sav) bize hutbe verdi. Allah’a hamd etti ve O’nu lâyık olduğu biçimde övdü. Sonra şöyle buyurdu:"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "“Sözlerin en doğrusu Allah’ın Kitabı’dır. Yolların en iyisi Muhammed’in yoludur. İşlerin en kötüsü (dinde) sonradan uydurulanlardır. Ve her bid’at, dalâlettir.”",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "source",
+   "text": "(HM14386 İbn Hanbel, III, 310)"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "paragraph",
+   "text": "Hz. Âişe’nin naklettiğine göre, Resûlullah (sav) şöyle buyurmuştur:"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "“Kim bizim bu dinimizde olmayan bir şeyi sonradan ortaya koyarsa, o reddedilir.”",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "source",
+   "text": "(M4492 Müslim, Akdiye, 17; B2697 Buhârî, Sulh, 5)"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "paragraph",
+   "text": "Abdullah b. Abbâs’ın naklettiğine göre,"
+  },
+  {
+   "type": "paragraph",
+   "text": "Resûlullah (sav) şöyle buyurmuştur:"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "“Allah, bid’atını bırakmadıkça bid’at sahibinin amelini kabul etmeyi reddeder.”",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "source",
+   "text": "(İM50 İbn Mâce, Sünnet, 7)"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Bir gün, üzerlerinde yünden basit elbiseler olan birkaç fakir bedevî, Medine’ye, Allah Resûlü’nün huzuruna geldiler. Allah Resûlü onların içler acısı hâllerini görünce çok üzüldü. Ashâbını onlara yardım etmeye, onların maddî ihtiyaçlarını karşılamaya teşvik etti. Nedendir bilinmez, sahâbe-i kirâm yardım getirmekte biraz ağır davrandılar. Teşvikine rağmen, bu yoksul insanlara yardımda acele etmemeleri Resûl-i Ekrem’i üzdü. Hatta üzüntüsü öfkeye dönüşerek yüzüne yansıdı. Derken Medineli bir sahâbî elinde bir kese gümüş para ile çıkageldi. Sonra bir başkası, sonra bir başkası ve diğer sahâbîler yardımlarını peş peşe getirmeye başladılar. Bu manzaraya şahit olan Allah Resûlü’nün yüzünde sevinç tebessümleri belirmeye başladı ve ardından şöyle buyurdu: "
+    },
+    {
+     "text": "“Kim İslâm’da güzel bir işe öncülük eder ve kendisinden sonra bununla amel edilirse kendisinden sonra o işi yapanlar gibi sevap alır. Üstelik onların sevaplarından da bir şey eksilmez. Kim de İslâm’da kötü bir davranışa ön ayak olur ve kendisinden sonra bununla amel edilirse, kendisinden sonra onu yapanlar gibi günah alır. Onların günahlarından da bir şey eksilmez.”",
+     "italic": true
+    },
+    {
+     "note": "2681"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Dinde olmayan bir şeyin sonradan ortaya çıkarılması anlamında “ kötü çığır” olarak adlandırılan “bid’at”, asr-ı saadetten sonra ortaya çıkan, şer’î bir delile dayanmayan inanç, ibadet ve davranışlar hakkında kullanılan bir terimdir."
+    },
+    {
+     "note": "2682"
+    },
+    {
+     "text": " Bid’atın “Peygamber Efendimizden sonra icat edilen günlük hayata dair her türlü yenilik” şeklinde geniş kapsamlı bir tarifi yapılabileceği gibi, “sadece dine ait olup ilâve ya da eksiltme özelliği taşıyan yenilikler” şeklinde dar kapsamlı bir tanımı da yapılabilir. Hayata ilişkin düşünce, tavır, davranış, alışkanlık ve uygulama alanlarında Allah Resûlü’nden sonra çeşitli etkenlerle ortaya çıkan her türlü yeniliğin bid’at olarak isimlendirilmesi, bid’at başlığı altında yeni bir ayrıma gitmeyi gerektirmiştir. İslâm âlimleri, bid’atı kesin bir dille reddeden hadis rivayetlerini, değişen yaşam şartlarının da tesiriyle kaçınılması mümkün olmayan yenilikler ile bağdaştırabilmek için “ bid’at-ı hasene” ( iyi bid’at) ve “ bid’at-ı seyyie” ( kötü bid’at) ayrımına gitmişlerdir. Bu bağlamda Kur’an’ı bir Mushaf’ta toplamak, teravih namazını cemaatle kılmak, minare ve medrese inşa etmek, iyi bid’at örnekleridir. Übey b. Kâ’b’ın insanlara topluca teravih namazı kıldırdığını gördüğünde Hz. Ömer’in, “Bu ne güzel bid’at!”"
+    },
+    {
+     "note": "2683"
+    },
+    {
+     "text": " diyerek ifade ettiği de budur. Öte yandan kabirlerin üzerine türbe yapmak, bu mekânlarda adak adayıp kurban kesmek ve mum dikmek kötü bid’ata örnek olarak gösterilebilir."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Dolayısıyla İslâm âlimleri arasında bid’atı geniş çerçevede anlamlandıranlar, hadis rivayetlerinde yasaklanan bid’atın kötü bid’atlar olduğunu söylerken, dar çerçevede tanımlayanlar sadece dinî konularda Hz. Peygamber’den sonra getirilen yeniliklerin yasaklanan bid’at olduğunu dile getirmişlerdir. Meselâ, "
+    },
+    {
+     "text": "el-Muvâfakât",
+     "italic": true
+    },
+    {
+     "text": " isimli eseriyle tanınan hicrî 8. asrın meşhur Mâlikî fakihi Endülüslü Şâtıbî, bid’atı veciz bir ifade ile “Sonradan ortaya konulan dinî görünümlü yoldur.” diye tarif etmekte, “Kişiler, bu yola Allah’a daha fazla kulluk etmeyi istedikleri için girerler.”"
+    },
+    {
+     "note": "2684"
+    },
+    {
+     "text": " demektedir. Yani bid’at kavramıyla kastedilen, dinden olmadığı hâlde sonradan ortaya çıkan dinî inanç ve uygulamalardır. Hz. Peygamber’in hadislerinde zikredilen de bu olsa gerektir. Yoksa tüm yenilik ve icatlar, bid’at kavramına dâhil edilemez. Bu sebeple örf ve âdet türünden olan davranışlar, yeni gelişmeler, teknolojik icatlar, bid’at kavramının dışındadır."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Yüce Allah, "
+    },
+    {
+     "text": "“Bugün sizin için dininizi kemale erdirdim, size nimetimi tamamladım ve sizin için din olarak İslâm’ı seçtim.”",
+     "italic": true
+    },
+    {
+     "note": "2685"
+    },
+    {
+     "text": " buyurarak dini tamamlamış olduğunu bildirmiş, bundan yaklaşık seksen gün sonra da Sevgili Peygamberimiz vefat etmiştir."
+    },
+    {
+     "note": "2686"
+    },
+    {
+     "text": " Allah Resûlü’nün vefatından sonra sahâbe-i kirâm dinin Yüce Allah ve Resûlü tarafından tamamlanmış olduğu bilinciyle hareket etmişler, bu idrak içerisinde olmuşlardır. Çünkü onlar, Peygamber Efendimizin özel eğitiminden geçmiş, dini bizzat kendisinden öğrenmişlerdir. Onlardan sonra gelen tâbiîn nesli de sahâbeyi takip etmiş, dinin doğru anlaşılması ve yaşanmasını temine çalışmışlardır."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Peygamber Efendimizin getirmiş olduğu İslâm’ın evrensel çağrısı, kısa sürede Hicaz bölgesinin en uç noktalarında yankılanmaya başlamış, İslâmiyet hızla yayılmıştı. Allah Resûlü’nün vefatından sonra henüz bir asır geçmemişti ki İslâm orduları, Kuzey Afrika’yı boydan boya fethetmiş, İspanya’ya ulaşmışlardı. Hızlı fetih hareketleri sonucu bu coğrafya üzerinde yaşayan halkın çoğu İslâm’ı kabul etmişti. Bu durum farklı toplumsal yapılara ve geleneklere sahip olan milletlerin müslümanların idaresi altında bir arada yaşamaya başlaması anlamına geliyordu. Kimi zaman geçmişle bağlarını koparmak istemeyen ve miraslarını bir şekilde yeni hayatlarına taşıyan bu insanlar, kimi zaman da dini yanlış ya da eksik yorumlayarak daha önce benzeri görülmemiş yeni inanış ve davranışlara kapı aralamışlardır."
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Bid’atların henüz sahâbe zamanında ortaya çıkması bazı sahâbîleri üzüyor ve onları, karşı bir dirence sevk ediyordu. Meselâ, Hz. Peygamber’in on yıl hizmetinde bulunmuş olan Enes b. Mâlik"
+    },
+    {
+     "note": "2687"
+    },
+    {
+     "text": " bu husustaki serzenişini şu şekilde dile getirmiştir: “Hz. Peygamber’in (sav) devrindeki uygulamalar o denli değişti ki şu an tanıyamaz hâle geldim.” Kendisine, “Namaz da mı?” diye sorulunca o, “Namazı da (kılınması müstehap vakitlerin dışında kılarak) geciktirmediniz mi?” diyerek cevap vermiştir."
+    },
+    {
+     "note": "2688"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Enes b. Mâlik’in, Allah Resûlü’nün hayatta iken yaşadığı dinî hayatın değişmeye başladığını ima eden bu sözleri ve serzenişi bid’atın din, inanç ve ibadetle ilgili olan alanlarda yayıldığını göstermektedir. Çünkü Peygamber Efendimizin ifade buyurduğu üzere, "
+    },
+    {
+     "text": "“Sözlerin en doğrusu Allah’ın Kitabı’dır. Yolların en iyisi Muhammed’in yoludur. İşlerin en kötüsü (dinde) sonradan uydurulanlardır. Ve her bid’at, dalâlettir.”",
+     "italic": true
+    },
+    {
+     "note": "2689"
+    },
+    {
+     "text": " Bazı insanların mescitte kuşluk namazını cemaatle kılmalarını Abdullah b. Ömer’in bid’at olarak isimlendirmesi de"
+    },
+    {
+     "note": "2690"
+    },
+    {
+     "text": " bid’atın inanç ve ibadet alanıyla ilgili olduğu kanısını desteklemektedir."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Müslümanları aşırılıklara karşı sürekli uyaran Hz. Peygamber, aşırılıklar yoluyla bid’atların dine girmesinin önünü kesmek istemiş, Kur’an’ın ve kendisinin öğrettiğinden daha fazlasını yapmak ve yaşamak isteyenlere müsamaha etmemiştir. Meselâ, o, hacda şeytan taşlamak için İbn Abbâs’a küçük çakıl taşları toplamasını söylemiş, ashâbına da bu büyüklükteki taşları atmalarını, daha büyük taşlar atmamalarını tavsiye etmiştir. Akabinde de, "
+    },
+    {
+     "text": "“Ey insanlar! Dinde aşırı gitmekten sakının! Çünkü sizden önceki ümmetleri dinde aşırı gitmeleri helâk etti.”",
+     "italic": true
+    },
+    {
+     "text": " buyurmuştur."
+    },
+    {
+     "note": "2691"
+    },
+    {
+     "text": " Hac görevini ondan öğrenmek ve ona uymakla yükümlü olan Müslümanlara bizzat uygulamalarıyla yol göstermiştir."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "İnanç ve ibadet konularında Allah Resûlü’nün öğretilerinin dışına çıkıldığında dinî hayat alanında yeni bir durumun ortaya atıldığını anlatan bir diğer örnek ise şöyledir: Bir gün üç kişi Hz. Peygamber’in eşlerine gelerek onun ibadet hayatını sorarlar. Peygamber Efendimizin ibadetlerine dair ayrıntıları öğrenince bunları kendi hayatları ile mukayese edip az bularak, “Biz kim, Peygamber (sav) kim! Allah, Peygamberinin geçmiş ve gelecek bütün günahlarını bağışlamıştır.” derler. Dolayısıyla daha fazla ibadet etmeleri gerektiğine karar verirler. İçlerinden biri geceleri daima namaz kılacağını, diğeri her gün oruç tutacağını, öteki ise hiç evlenmeyeceğini söyler. Onların bu sözlerini işiten Allah Resûlü, "
+    },
+    {
+     "text": "“Şöyle şöyle diyenler siz misiniz? Allah’a yemin ederim ki ben aranızda Allah’tan en çok korkan ve O’na en bağlı olanım. Bununla beraber ben oruç tutarım, tutmadığım da olur. Namaz kılarım, uykumu da alırım ve evlenirim. Her kim benim sünnetimden yüz çevirirse benden değildir.”",
+     "italic": true
+    },
+    {
+     "text": " buyurur."
+    },
+    {
+     "note": "2692"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Hz. Peygamber, dinden olmayan merasimlerin dinden bir parça gibi algılanmasının önüne geçmiştir. Aksi hâlde inanç ve ibadet alanına eklenen her yeni şey mevcut bir dinî inancı veya ibadeti ya değiştirecek ya da ortadan kaldıracaktır. Nitekim halife Abdülmelik b. Mervân, Gudayf b. Hâris es-Sümâlî’ye cuma günleri minberde dua için ellerini kaldırmak ve sabah ile ikindi namazlarından sonra kıssa anlatmak âdetini insanlara kabul ettirdiklerini söyleyince Gudayf, onun bu yaptıklarının tam anlamıyla bid’at olduğunu söylemiş ve Hz. Peygamber’in şöyle buyurduğunu nakletmiştir: "
+    },
+    {
+     "text": "“Ne zaman bir topluluk bir bid’at uydurursa onun karşılığında bir sünnet kaldırılır. Sünnete bağlı kalmak, bid’at uydurmaktan daha hayırlıdır.”",
+     "italic": true
+    },
+    {
+     "note": "2693"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Bu minvalde Abdullah b. Mes’ûd’un, “Sünnet çerçevesinde itidalli davranmak, bid’at içerisinde çaba sarf edip yorulmaktan daha hayırlıdır.”"
+    },
+    {
+     "note": "2694"
+    },
+    {
+     "text": " sözü çok manidardır. Zira Hz. Peygamber’in her davranışında bir ölçü vardır ve o, bu ölçüyle de örnek alınmalıdır. Bu anlayışından dolayıdır ki Abdullah b. Mes’ûd, Hz. Peygamber ve sahâbe yapmadığı hâlde, birtakım insanların mescitte toplanarak, “Şu kadar şunu söyleyin, şu kadar bunu söyleyin!” diye zikir yaptıklarını görünce karşı çıkmış ve onlara, “Siz kötülüklerinizi sayın! Çünkü ben, iyiliklerinizden hiçbirinin zayi edilmeyeceğine kefilim!” demiştir."
+    },
+    {
+     "note": "2695"
+    },
+    {
+     "text": " Zira Allah Resûlü’nün açık ifadelerine göre, dinde sonradan uydurulan her şey bid’attır"
+    },
+    {
+     "note": "2696"
+    },
+    {
+     "text": " ve "
+    },
+    {
+     "text": "“Her bid’at dalâlettir.”",
+     "italic": true
+    },
+    {
+     "note": "2697"
+    },
+    {
+     "text": " Bu bağlamda Allah Resûlü, "
+    },
+    {
+     "text": "“Kim bizim bu dinimizde olmayan bir şeyi sonradan ortaya koyarsa, o reddedilir",
+     "italic": true
+    },
+    {
+     "text": "."
+    },
+    {
+     "text": "”",
+     "italic": true
+    },
+    {
+     "note": "2698"
+    },
+    {
+     "text": " buyurarak bid’atlara asla taviz verilmemesini istemiştir."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Allah Resûlü, bid’atlara karşı tavizsiz bir tutum sergilerken her ne maksat ve sebeple olursa olsun bid’at ortaya koyan bid’atçılara da uyarılarda bulunmuştur. Bu bağlamda, "
+    },
+    {
+     "text": "“Allah, bid’atını bırakmadıkça bid’at sahibinin amelini kabul etmeyi reddeder",
+     "italic": true
+    },
+    {
+     "text": "."
+    },
+    {
+     "text": "”",
+     "italic": true
+    },
+    {
+     "text": " buyurmuştur."
+    },
+    {
+     "note": "2699"
+    },
+    {
+     "text": " Allah Resûlü ayrıca bid’atçıların âhirette kevser havuzuna gelmekten men edileceklerini söylemiş,"
+    },
+    {
+     "note": "2700"
+    },
+    {
+     "text": " bid’atçıyı barındırıp, koruyup kollayanlara Allah’ın lânet edeceğini"
+    },
+    {
+     "note": "2701"
+    },
+    {
+     "text": " belirterek Allah, melekler ve tüm insanların lânetinin bid’at çıkaran kişinin üzerine olmasını istemiştir."
+    },
+    {
+     "note": "2702"
+    },
+    {
+     "text": " Hz. Ali de Peygamber Efendimizden işittiklerini kaydettiği "
+    },
+    {
+     "text": "Sahife’",
+     "italic": true
+    },
+    {
+     "text": "de hangi bilgilerin bulunduğunu açıklarken, bid’at çıkaranın veya bid’atçıyı koruyup kollayanın, Allah’ın, meleklerin ve bütün insanların lânetini hak edeceğini, ayrıca böyle bir kimsenin farz ya da nafile hiçbir ibadetinin kabul edilmeyeceğinin yazılı olduğunu nakletmiştir."
+    },
+    {
+     "note": "2703"
+    },
+    {
+     "text": " Bu düsturlar doğrultusunda İslâm bilginleri namaz imametinde, şahitlikte, hadis rivayetlerini kabul edip etmeme gibi temel konularda bid’atçılara karşı takınılması gereken tavırlar hakkında değerlendirmelerde bulunmuşlar, farklı görüşler beyan etmişlerdir."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Allah Resûlü’nün bid’atlara ve bid’atçılara karşı ortaya koyduğu tavizsiz tavır, sahâbenin de aynı duyarlılığı göstermesi neticesini doğurmuştur. Bir keresinde Medine valisi Mervân b. Hakem bayram namazında sünnette yer alan uygulamanın aksine minberi mescidin dışında namaz kılınan açık alana çıkartmış ve hutbeyi de bayram namazından önce okumuştu. Bu duruma şahit olan bir kişi Mervân’ı yüksek sesle uyarmış ve onun sünnete muhalefet ettiğini söylemiş, o sırada mescitte bulunan Ebû Saîd el-Hudrî de bu kişinin sözlerini tasdik etmiştir."
+    },
+    {
+     "note": "2704"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Netice itibariyle bid’at sadece inanç ve ibadet alanında ortaya çıkan ve dinin aslında yani Kur’an ve sünnette olmayan uygulamalardır. Bir bid’atı uygulamak demek, Hz. Peygamber tarafından bizzat yaşanan, bizlere de örnek olarak sunulan dinî hayatın ve sünnetin dışına çıkmak demektir. Çünkü her bid’at bir sünnetin yerine konulmakta ve o sünneti işlevsiz hâle getirmektedir. Hz. Peygamber’in, sahâbenin ve daha sonraki bütün İslâm bilginlerinin bid’ata şiddetle karşı çıkmaları, sünnetin safiyetini korumaya yönelik çabaların bir göstergesidir. Diğer taraftan bid’atı inanç ve ibadet alanının dışına çıkararak hayatın tüm alanlarındaki yeni gelişmeleri kapsayacak şekilde tanımlamak; hayatın durağanlaşmasına, değişime kapıların kapanmasına ve çağın gerektirdiği donanımdan mahrum olmaya sebep olacaktır. Hâlbuki İslâm, getirdiği temel ilkelerle çelişmediği sürece her türlü yeniliğin önünü açmış, hatta bu konuda çığır açanların kat kat mükâfatlandırılacağı Peygamberimiz tarafından övgüyle anlatılmıştır."
+    },
+    {
+     "note": "2705"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Mahiyeti, muhtevası ve sınırları itibariyle ortaya çıkan bid’atlar, toplum hayatında İslâm tarihi boyunca varlığını devam ettirmiştir. Genellikle dinî alandaki bilgisizlik ve cehaletten kaynaklanan bid’atlar, dinin Kur’an ve sünnetin ruhuna uygun olarak yaşanmasının önünde çok önemli bir engel oluşturmaktadır. Çünkü inanç ve ibadet dünyası bid’atlar tarafından kuşatılan Müslüman fertlerin, dinin ruhunu anlama, Kur’an ve sünnet doğrultusunda bir hayat sürme imkânları olmayacaktır. Bunun bertaraf edilebilmesi, bütün Müslümanların dinde doğruyu yanlıştan ayırabilecek bilgi birikimine, Kur’an ve sünnet kültürüne sahip olmalarıyla mümkündür."
+  },
+  {
+   "type": "paragraph",
+   "text": "İslâm tarihi boyunca Müslümanların dinî yaşantılarında devamlı müşahede edilen bid’atların bütün olumsuz tezahürlerine rağmen inananların çoğunluğu sünnete uygun bir yaşantıyı devam ettirmişler; istikameti korumuş, dinin ana sınırlarını ve değerlerini ayakta tutmuşlardır. Bu sebeple, İslâm dininin inanç, ibadet ve hukukla ilgili temel hükümlerinde ve ahlâkî değerlerinde ciddî bir sapma yaşanmamış, İslâm’ın özü ve yapısı hiçbir zaman değişmemiştir."
+  },
+  {
+   "type": "paragraph",
+   "text": "Günümüz Müslümanları dinî konularda daha çok bilgi sahibi olup cehaleti ortadan kaldırarak Kur’an ve sünnetin aydınlığında hayatlarına devam etmelidirler. Allah Resûlü’nün ve sahâbenin önde gelenlerinin bid’ata ve bid’atçılara karşı takındıkları tavrı kendilerine rehber edinmeli, bid’at ve bid’atçılarla her türlü vasıtayı kullanarak mücadele etmelidirler."
+  }
+ ],
+ "notes": [
+  {
+   "id": "2681",
+   "text": "M6800 Müslim, İlim, 15; DM523 Dârimî, Mukaddime, 44."
+  },
+  {
+   "id": "2682",
+   "text": "“Bid’at”, DİA, VI, 129."
+  },
+  {
+   "id": "2683",
+   "text": "B2010 Buhârî, Terâvîh,1."
+  },
+  {
+   "id": "2684",
+   "text": "ŞT1/43 Şâtıbî, İ’tisâm, I, 43."
+  },
+  {
+   "id": "2685",
+   "text": "Mâide, 5/3."
+  },
+  {
+   "id": "2686",
+   "text": "İF13/246 İbn Hacer, Fethu’l-bârî, XIII, 246."
+  },
+  {
+   "id": "2687",
+   "text": "B6038 Buhârî, Edeb, 39; M6011 Müslim, Fedâil, 51."
+  },
+  {
+   "id": "2688",
+   "text": "B529 Buhârî, Mevâkîtü’s-salât, 7."
+  },
+  {
+   "id": "2689",
+   "text": "HM14386 İbn Hanbel, III, 310."
+  },
+  {
+   "id": "2690",
+   "text": "B1775 Buhârî, Umre, 3; M3037 Müslim, Hac, 220."
+  },
+  {
+   "id": "2691",
+   "text": "İM3029 İbn Mâce, Menâsik, 63."
+  },
+  {
+   "id": "2692",
+   "text": "B5063 Buhârî, Nikâh, 1."
+  },
+  {
+   "id": "2693",
+   "text": "HM17095 İbn Hanbel, IV, 105."
+  },
+  {
+   "id": "2694",
+   "text": "DM223 Dârimî, Mukaddime, 23."
+  },
+  {
+   "id": "2695",
+   "text": "DM210 Dârimî, Mukaddime, 23."
+  },
+  {
+   "id": "2696",
+   "text": "N1579 Nesâî, Îdeyn, 22; İM46 İbn Mâce, Sünnet, 7."
+  },
+  {
+   "id": "2697",
+   "text": "D4607 Ebû Dâvûd, Sünnet, 5."
+  },
+  {
+   "id": "2698",
+   "text": "M4492 Müslim, Akdiye, 17; B2697 Buhârî, Sulh, 5."
+  },
+  {
+   "id": "2699",
+   "text": "İM50 İbn Mâce, Sünnet, 7."
+  },
+  {
+   "id": "2700",
+   "text": "M582 Müslim, Tahâret, 37; B6576 Buhârî, Rikâk, 53."
+  },
+  {
+   "id": "2701",
+   "text": "M5124 Müslim, Edâhî, 43."
+  },
+  {
+   "id": "2702",
+   "text": "D4530 Ebû Dâvûd, Diyât, 11; N4738 Nesâî, Kasâme, 9-10."
+  },
+  {
+   "id": "2703",
+   "text": "B3172 Buhârî, Cizye, 10."
+  },
+  {
+   "id": "2704",
+   "text": "D1140 Ebû Dâvûd, Salât, 239-242; İM4013 İbn Mâce, Fiten, 20."
+  },
+  {
+   "id": "2705",
+   "text": "M2351 Müslim, Zekât, 69; DM523 Dârimî, Mukaddime, 44."
+  }
+ ]
+}

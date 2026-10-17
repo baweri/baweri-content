@@ -1,0 +1,866 @@
+{
+ "n": 18,
+ "title": "İnsan: Mükerrem Varlık",
+ "blocks": [
+  {
+   "type": "arabic",
+   "text": "عَنْ أَبِي هُرَيْرَةَ قَالَ: قَالَ رَسُولُ اللَّهِ ﷺ :"
+  },
+  {
+   "type": "arabic",
+   "text": "“النَّاسُ مَعَادِنُ، خِيَارُهُمْ فِي الْجَاهِلِيَّةِ خِيَارُهُمْ فِي الْإِسْلَامِ، إِذَا فَقُهُوا فِى الدِّينِ.”"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Ebû Hüreyre’den rivayet edildiğine göre, Resûlullah (sav) şöyle buyurmuştur: “"
+    },
+    {
+     "text": "İnsanlar madenlerdir. İslâm’dan önce iyi olanları İslâm’dan sonra da iyidir. Yeter ki dinlerini iyi kavrasınlar",
+     "italic": true
+    },
+    {
+     "text": ".”"
+    }
+   ]
+  },
+  {
+   "type": "source",
+   "text": "(HM9068 İbn Hanbel, II, 391)"
+  },
+  {
+   "type": "arabic",
+   "text": "عَنْ أَبِى هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ قَالَ النَّبِيُّ ﷺ"
+  },
+  {
+   "type": "arabic",
+   "text": "“كُلُّ مَوْلُودٍ يُولَدُ عَلَى الْفِطْرَةِ، فَأَبَوَاهُ يُهَوِّدَانِهِ أَوْ يُنَصِّرَانِهِ أَوْ يُمَجِّسَانِهِ.”"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "arabic",
+   "text": "أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ رَضِيَ اللَّهُ عَنْهَا قَالَ: سَمِعْتُ رَسُولَ اللَّهِ ﷺ يَقُولُ: “إِنَّمَا النَّاسُ كَالْإِبِلِ الْمِائَةِ لاَ تَكَادُ تَجِدُ فِيهَا رَاحِلَةً.”"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "arabic",
+   "text": "عَنْ أَبِى هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ أَنَّ رَسُولَ اللَّهِ ﷺ قَالَ: “قَدْ أَذْهَبَ اللَّهُ عَنْكُمْ عُبِّيَّةَ الْجَاهِلِيَّةِ وَفَخْرَهَا بِالْآبَاءِ، مُؤْمِنٌ تَقِيٌّ وَفَاجِرٌ شَقِيٌّ، وَالنَّاسُ بَنُو آدَمَ وَآدَمُ مِنْ تُرَابٍ.”"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Ebû Hüreyre’den (ra) rivayet edildiğine göre Hz. Peygamber (sav) şöyle buyurmuştur: “"
+    },
+    {
+     "text": "Her doğan fıtrat üzerine doğar; sonra anası ile babası onu ya Yahudi ya Nasrânî yahut Mecûsî yaparlar",
+     "italic": true
+    },
+    {
+     "text": ".”"
+    }
+   ]
+  },
+  {
+   "type": "source",
+   "text": "(B1385 Buhârî, Cenâiz, 92)"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Abdullah b. Ömer şöyle demiştir: Ben Resûlullah’tan (sav) şunu işittim: "
+    },
+    {
+     "text": "“İnsanlar yüzlerce deveye benzer; içlerinde neredeyse bir tane binek devesi bulamazsın!”",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "source",
+   "text": "(B6498 Buhârî, Rikâk, 35)"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Ebû Hüreyre’den rivayet edildiğine göre, Resûlullah (sav) şöyle buyurmuştur: “"
+    },
+    {
+     "text": "Allah, câhiliye gururunu ve atalarla övünme âdetini ortadan kaldırmıştır. ‘ Takva sahibi mümin’ ve ‘ bedbaht günahkâr’ (ayrımı vardır). İnsanlar Âdem’in çocuklarıdır, Âdem ise topraktan yaratılmıştır",
+     "italic": true
+    },
+    {
+     "text": ".”"
+    }
+   ]
+  },
+  {
+   "type": "source",
+   "text": "(T3956 Tirmizî, Menâkıb, 74)"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Son peygamber Hz. Muhammed (sav) çeşitli münasebetlerle insanın karakter yapısına, mizacına ve ahlâkî eğilimlerine ilişkin değerlendirmelerde bulundu. Bunlardan birinde Allah’ın Elçisi "
+    },
+    {
+     "text": "“İnsanlar madenlerdir.”",
+     "italic": true
+    },
+    {
+     "note": "872"
+    },
+    {
+     "text": " demiştir. Bu benzetmeyle hangi inanca veya kültüre mensup olurlarsa olsunlar, bütün insanların değişmez bir öze sahip olduklarına işaret etmiştir. Hz. Peygamber insana dair bu benzetmesini Medineli önde gelen Müslümanlardan Sa’d b. Ubâde özelinde yapmıştır: Veda Haccı günleriydi. Allah Resûlü yol azığını "
+    },
+    {
+     "text": "yâr-ı gârı",
+     "italic": true
+    },
+    {
+     "text": " ( mağara arkadaşı) olan Hz. Ebû Bekir ile birlikte, ona ait bir deveye yüklemişti. Hz. Ebû Bekir’in bir hizmetçisi de deveyi sevk etmekle sorumluydu. Derken ne olduysa hizmetçi, deveyi kaybetti. Durumu haber alan Medine’nin köklü kabilesi Hazrec’in lideri Sa’d b. Ubâde ve oğlu Kays, erzak yüklü bir deveyle Resûlullah’a geldiler. Olanları duyduklarını söyleyen Sa’d b. Ubâde, Allah Resûlü’ne kayıp devenin yerine bu deveyi kabul etmelerini söyleyince Nebî (sav) çok duygulandı ve "
+    },
+    {
+     "text": "“Medine’ye hicret ettiğimizde bize yaptıkların, sana iyilik olarak yetmez mi?”",
+     "italic": true
+    },
+    {
+     "text": " dedi. Sa’d, “Minnet Allah ve Resûlü’nedir; vallahi malımızdan aldıkların, almadıklarından bizim için daha hayırlıdır.” deyince Hz. Peygamber şunları söyledi: "
+    },
+    {
+     "text": "“Sana müjdeler olsun Sa’d! Kurtuluşu hak ettin. İnsanın ahlâkı (tabiatı) Allah’ın elindedir; o, dilediği kimseye iyi bir huy verir. Görünen o ki, Allah Teâlâ sana da güzel bir ahlâk bahşetmiştir.”",
+     "italic": true
+    },
+    {
+     "text": " Sa’d, Peygamberimizin bu iltifatlarına Allah’a şükürle karşılık verdikten sonra araya “ensarın hatibi” olarak bilinen Sâbit b. Kays girdi ve Sa’d b. Ubâde’ye bir iltifat da ondan geldi: “Ey Allah’ın Elçisi! Sa’d, İslâm’dan evvel câhiliye devrinde de liderimizdi ve kıtlık zamanlarında bizi doyururdu.” Bunun üzerine Nebî (sav) şöyle buyurdu: "
+    },
+    {
+     "text": "“İnsanlar, madenlerdir. Câhiliye döneminde iyi olanlar Müslüman olduktan sonra da iyi olurlar. Yeter ki İslâm’ı tam olarak kavrasınlar.”",
+     "italic": true
+    },
+    {
+     "note": "873"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Böylece Allah Resûlü, insanın doğuştan gelen fıtrî yapısına işaret etmiştir ki, o da ahlâktır. İnsan, Yüce Yaratıcı’nın kendisi için takdir ettiği bu ahlâka teslim olmuştur. Tüm varlığı Allah’a izafe eden İslâm, ahlâkın da onun elinde olduğunu söylemiştir. Nitekim Resûlullah Sa’d b. Ubâde’ye söylediğinin benzerini, biri iyi diğeri de kötü huylu olan iki kişi için de demiştir. O (sav), bir defasında çok sayıda semiz ve bakımlı hayvana sahip, varlıklı bir adama uğramış ve ona misafir olmak istemiş, ancak adam Hz. Peygamber’in bu isteğini geri çevirmiştir. Buna karşın Resûlullah birkaç keçisi olan bir kadının yanından geçerken aynı talebini ona iletince kadın, Hz. Peygamber’i kabul etmiş ve hayvanlarından birini keserek ona ikramda bulunmuştur. Bunun üzerine, "
+    },
+    {
+     "text": "“Huylar Allah’ın elindedir. O, onlardan güzel olan huyları dilediği kullarına bağışlamıştır.”",
+     "italic": true
+    },
+    {
+     "note": "874"
+    },
+    {
+     "text": " buyuran Nebî (sav) insan karakterinin kaynağına ilişkin İslâmî hakikatin ne olduğunu bir kez daha öğretmiştir."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Yüce Allah, "
+    },
+    {
+     "text": "“Biz insanı en güzel bir biçimde yarattık.”",
+     "italic": true
+    },
+    {
+     "note": "875"
+    },
+    {
+     "text": " buyururken esasen insanın mükemmelliğine işaret etmiştir. Ardından, "
+    },
+    {
+     "text": "“Sonra onu aşağıların aşağısına çevirdik.”",
+     "italic": true
+    },
+    {
+     "note": "876"
+    },
+    {
+     "text": " derken de olgunlaşmayı tercih etmeyen insanın kendi iradesiyle düştüğü durumu göstermiştir. Nitekim âyetin devamında inanıp faydalı eylemler sergileyenlere kesintisiz bir ödül verileceği bildirilmiştir."
+    },
+    {
+     "note": "877"
+    },
+    {
+     "text": " Allah (cc) insanın içine hem sakınma, hem de sapma eğilimini (takva ve fücûr) ilham etmiş,"
+    },
+    {
+     "note": "878"
+    },
+    {
+     "text": " böylece onu hem iyiliğe, hem de kötülüğe meyletme yeteneğiyle yaratmıştır. Peygamberler insanın iyilik potansiyelini, şeytanî güçler ise iyilikten yüz çevirme potansiyelini harekete geçirmeye çalışırlar. Mamafih Resûlullah şöyle buyurmaktadır: "
+    },
+    {
+     "text": "“Bakınız! Rabbim, bana öğrettiklerinden bilmediklerinizi bugün size öğretmemi emretti. O (cc) buyurdu ki: Bir kula verdiğim her mal helâldir. Ben kullarımın hepsini hanîf olarak (tertemiz bir fıtrat üzerine) yarattım. Ama şeytanlar onlara gelerek kendilerini bu dinlerinden alıp götürdüler. Benim kendilerine helâl kıldıklarımı, onlara yasakladılar...”",
+     "italic": true
+    },
+    {
+     "note": "879"
+    },
+    {
+     "text": " Aynı şekilde, "
+    },
+    {
+     "text": "“Her doğan fıtrat üzerine doğar; sonra anası ile babası onu ya Yahudi ya Nasrânî yahut Mecûsî yaparlar.”",
+     "italic": true
+    },
+    {
+     "note": "880"
+    },
+    {
+     "text": " buyuran Hz. Peygamber, insanın yaratılıştan saf ve temiz bir fıtrata, ahlâka sahip olduğunu ifade ederken, onun doğuştan lânetli ve günahkâr olduğu yönündeki inanışı"
+    },
+    {
+     "note": "881"
+    },
+    {
+     "text": " da reddetmiştir."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Resûlullah’ın (sav) insanları altın ve gümüş madenine benzettiği"
+    },
+    {
+     "note": "882"
+    },
+    {
+     "text": " bir başka hadisinde de ifade ettiği gibi, insandaki öz, tıpkı maden gibi işlenmeye muhtaçtır. Yeryüzünde altınıyla, gümüşüyle, demiriyle, bakırıyla nasıl farklı farklı vasıflara sahip madenler mevcutsa, aynı şekilde birbirinden farklı özleri olan, çeşit çeşit karakterlere sahip insanlar mevcuttur. Nasıl ki, madenler asıl değerlerini, önemlerini işlendikten sonra kazanıyorsa, insanın yaratılıştan sahip olduğu akıl, kalp, ruh ve vicdan gibi meziyetleri de ilâhî hakikatlerin ışığında, rahmet elçilerinin rehberliğinde işlenmek suretiyle değer kazanır."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "İnsan sadece maddesiyle, bedeniyle insan olmaz. Onun insan olarak var oluşunu cismi ile birlikte ruh ve mânâsı tamamlar. İlk başta onu topraktan yaratan Allah, ona ruhundan üfleyerek can vermiştir."
+    },
+    {
+     "note": "883"
+    },
+    {
+     "text": " İlâhî kelâm Kur’an, bu iki yönüyle insanın nasıl yaratıldığını şöyle açıklıyor: "
+    },
+    {
+     "text": "“O ki, yarattığı her şeyi en güzel bir şekilde yarattı. İnsanı yaratmaya da çamurdan başladı. Sonra basit bir sıvı özünden soyunu sürdürdü. Sonra ona (yaratılış) amacına uygun bir şekil verip ruhundan üfledi; (böylece, ey insanoğlu,) Allah sizi hem işitme ve görme yeteneği hem de düşünce ve duygularla donatır. Buna rağmen ne kadar da az şükrediyorsunuz.”",
+     "italic": true
+    },
+    {
+     "note": "884"
+    },
+    {
+     "text": " İnsanın biyolojik yaratılış evrelerinden bahsedilen bir başka âyette Allah, bu safhaları sırasıyla toprak, nutfe ( sperm), pıhtılaşmış kan parçası, biçimi belirli belirsiz bir çiğnem et şeklinde açıklamaktadır."
+    },
+    {
+     "note": "885"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Bedeniyle, ruhuyla, maddî ve mânevî çehresiyle insan, ilâhî sanatın benzersiz ve mükemmel oluşunu gösteren en büyük kanıttır. Tamamen ilâhî iradenin bir tecellisi olarak vücuda gelen insan, görünümüyle, yapısıyla bir mucize olmasına karşın, duygu ve istidatları bakımından birtakım zaaflarla yaratılmıştır. Diğer bir deyişle, sınırlı güç ve imkânlarla yaratılan insan, hırs ve hevesleri bakımından sınırsız isteklere sahiptir. O, kendine verilen ömrün bitmesini hiç istemez. Hz. Âdem’den beri hep daha uzun yaşamak istemiş, ölümden hiç hoşlanmamıştır."
+    },
+    {
+     "note": "886"
+    },
+    {
+     "text": " Öyle ki, ihtiyarlasa, güç ve kudretten düşse dahi dünya sevgisinde ve uzun emellerinde hiç eksilme olmaz."
+    },
+    {
+     "note": "887"
+    },
+    {
+     "text": " Eceli çok yakın, ensesinde iken, emeli uzun, gözü de hep uzaklardadır."
+    },
+    {
+     "note": "888"
+    },
+    {
+     "text": " Başına bir sürü şey gelir, fakat o sürekli emelinin peşinde koşar ve eceli aklına getirmez."
+    },
+    {
+     "note": "889"
+    },
+    {
+     "text": " Bunu bir örnekle göstermek isteyen Hz. Peygamber bir gün eline iki taş alarak "
+    },
+    {
+     "text": "“Şu ve şu nedir biliyor musunuz?” ",
+     "italic": true
+    },
+    {
+     "text": "deyip taşları fırlatmış, biri hemen yakına, diğeri de uzağa düşen taşları gören arkadaşları “Allah ve Resûlü (sav) daha iyi bilir.” demişlerdir. Bunun üzerine o, "
+    },
+    {
+     "text": "“Uzağa düşen insanın emeli, yakına düşen de ecelidir.” ",
+     "italic": true
+    },
+    {
+     "text": "buyurmuştur."
+    },
+    {
+     "note": "890"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "İnsan uzun ömür kadar, mala karşı da çok hırslıdır. Dünyayı sever, âhireti ihmal edip dünya nimetlerine kavuşmakta acele eder."
+    },
+    {
+     "note": "891"
+    },
+    {
+     "text": " O kadar aceleci ve tez canlıdır ki, sabredemez, sanki iyiliği istiyormuşçasına, ısrarla hakkında iyi olmayanı ister, kötülük için dua eder."
+    },
+    {
+     "note": "892"
+    },
+    {
+     "text": " Dünya malına o kadar düşkündür ki,"
+    },
+    {
+     "note": "893"
+    },
+    {
+     "text": " malının, kendisini ölümsüz kılacağını sanır."
+    },
+    {
+     "note": "894"
+    },
+    {
+     "text": " Başkasından Allah için ister ama kendisinden Allah için bir şey istendiğinde vermez, böylece insanların en şerlisi, en kötüsü olur."
+    },
+    {
+     "note": "895"
+    },
+    {
+     "text": " Bu, hep kendine düşkün olmasından kaynaklanır. İnsanı yoktan var eden Allah, "
+    },
+    {
+     "text": "“ İnsan ruhunda doymazlığa, bencil tutkulara karşı bir eğilim vardır.”",
+     "italic": true
+    },
+    {
+     "note": "896"
+    },
+    {
+     "text": " buyururken, O’nun Resûlü (sav) bu hakikati şöyle dile getirmiştir:"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "“Âdemoğlunun bir vadi dolusu altını olsa, iki vadi olmasını ister! Onun ağzını ancak toprak doldurur.”",
+     "italic": true
+    },
+    {
+     "note": "897"
+    },
+    {
+     "text": " Peygamber Efendimiz insan karakterini nitelediği bir başka hadisinde yine genel olarak insanların olumsuz bir ahlâkî yönüne işaret etmektedir:"
+    },
+    {
+     "text": " “İnsanlar yüzlerce deveye benzer; içlerinde neredeyse bir tane binek devesi bulamazsın!”",
+     "italic": true
+    },
+    {
+     "note": "898"
+    },
+    {
+     "text": " ",
+     "italic": true
+    },
+    {
+     "text": "Yani bir deve sürüsü arasında nitelikli, huysuz olmayan, kendisiyle yolculuk yapılmaya müsait, taşımacılığa elverişli kuvvetli bir deve ( râhile) bulmak ne kadar zorsa, aynı şekilde insanlar arasında yüksek meziyetlere sahip, kendisiyle yoldaş olunacak, başkalarının sıkıntılarını paylaşan, sorumluluk sahibi seçkin birine rastlamak da zordur. Gerçekten de vakıa bu değil midir? Çevresinin sorunlarıyla hemhâl olan, sıkıntılara tahammül eden nitelikli insanlara her yerde rastlamak mümkün mü? Şu var ki, Allah Resûlü bu benzetmeyle vakıaya işaret ederken, aslında zımnen birbirlerine karşı fedakâr olmaları hususunda Müslümanları uyarmış olmaktadır."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Kur’an’da da insanın zaaflarına işaret eden tespitlere sık sık rastlanır. Ancak Kur’an her defasında, bilinçli ve azimli bir yaklaşımla ahlâkî zaafların yok edilebileceği mesajını vermiştir. Meselâ, Yüce Allah "
+    },
+    {
+     "text": "“Gerçekten insan, pek hırslı (ve sabırsız) yaratılmıştır. Kendisine fenalık dokunduğunda sızlanır, feryat eder. Ona imkân verildiğinde ise pinti kesilir.",
+     "italic": true
+    },
+    {
+     "text": "”"
+    },
+    {
+     "note": "899"
+    },
+    {
+     "text": " buyurarak, her insanda var olan potansiyel bir zaafa işaret ettikten sonra devamında, namazlarını ihmal etmeyenler ve mallarında mahrumlar için bir hak tanıyanları hariç tutmuş,"
+    },
+    {
+     "note": "900"
+    },
+    {
+     "text": " böylece genel olumsuz profilin istisnaları olduğunu belirtmiştir. Aynı şekilde "
+    },
+    {
+     "text": "“Şayet biz kendisine bir rahmet (nimet) tattırdıktan sonra bu nimeti ondan çekip alırsak, insan, tamamen ümitsiz ve nankör olur. Eğer kendisine dokunan bir zarardan sonra ona bir nimet tattırırsak, ‘kötülükler benden gitti.’ der ve bunu kendinden bilir, boş bir sevince kaptırır kendini.”",
+     "italic": true
+    },
+    {
+     "note": "901"
+    },
+    {
+     "text": " buyuran Allah, zorluklar karşısında genel olarak insanların gösterdiği menfî tepkiye işaret ettikten sonra âyetin devamında sabredip güzel davranışlar sergileyenleri bunun dışında tutmuştur."
+    },
+    {
+     "note": "902"
+    },
+    {
+     "text": " Allah’ın insan için belirlediği yasa açıktır. O da hürriyet ve mükellefiyet, yani özgürlük ve sorumluluktur. Özgürlük, sorumlu bir varlık olmanın temelini teşkil eder. Şöyle ki, iyi ile kötüyü, doğru ile yanlışı birbirinden ayırabilmesi yanında, bunlardan birini tercih edebilme yeteneğinin insana verilmiş olması, onun, düşünce, inanç ve davranışlarını belirlemede baskı altında olmadığını gösterir. Bu yüzden insan, mümin de olabilir; kâfir de."
+    },
+    {
+     "note": "903"
+    },
+    {
+     "text": " Şükreden de olabilir, nankör de. İnsanı katışık bir sperm damlasından yarattığını söyledikten sonra şöyle buyuruyor Yüce Allah: “"
+    },
+    {
+     "text": "Şüphesiz biz ona (doğru) yolu gösterdik. İster şükredenlerden olur, ister nankörlerden.",
+     "italic": true
+    },
+    {
+     "text": "”"
+    },
+    {
+     "note": "904"
+    },
+    {
+     "text": " Allah, elçileri aracılığıyla hakikatleri insana iletir. Bundan sonra doğru yolu tercih etmişse kendi lehinedir. Yanlış yolu tercih etmişse kendi aleyhinedir."
+    },
+    {
+     "note": "905"
+    },
+    {
+     "text": " Bu yüzden hukuktaki kişisel mesuliyet, hesap günü için de temel ölçüt olacaktır: İnsan yaptıklarından sorumludur ve eylemlerinin sonucuna kendisi katlanır."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Bu durumda insanı değerli veya değersiz kılan şey, davranışlarıdır. İslâm’a göre insan, zenginlik, güzellik, soy sop gibi maddî ve geçici ölçülere göre değerlendirilmemelidir. "
+    },
+    {
+     "text": "“Nice kapılardan kovulmuş üstü başı perişan insan vardır ki, Allah’a yemin etse Allah onu yemininde haklı çıkarır.”",
+     "italic": true
+    },
+    {
+     "note": "906"
+    },
+    {
+     "text": " diyen Sevgili Peygamberimiz, maddî ölçütlerle insanı değerlendirmenin yanıltıcı olabileceğine işaret etmiştir. İnsan bizâtihi değerli bir varlıktır. Nebî’nin (sav) tasavvurunda onun fakiri de değerlidir, hizmetçisi de."
+    },
+    {
+     "note": "907"
+    },
+    {
+     "text": " “..."
+    },
+    {
+     "text": "Allah katında en kıymetliniz, O’na karşı derin bir sorumluluk bilincine ( takvaya) sahip olanınızdır.",
+     "italic": true
+    },
+    {
+     "text": "”"
+    },
+    {
+     "note": "908"
+    },
+    {
+     "text": " ilâhî buyruğuna paralel olarak Resûlullah da insanı ahlâkî tutumlarına göre sınıflandırmış, bunun dışında tüm insanların eşit olduğunu vurgulamıştır: “"
+    },
+    {
+     "text": "Allah, câhiliye gururunu ve atalarla övünme âdetini ortadan kaldırmıştır. ‘ Takva sahibi mümin’ ve ‘ bedbaht günahkâr’ (ayrımı vardır). İnsanlar Âdem’in çocuklarıdır, Âdem ise topraktan yaratılmıştır.",
+     "italic": true
+    },
+    {
+     "text": "”"
+    },
+    {
+     "note": "909"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Bu nebevî mesajdan yola çıkarak insanın nasıl insan olduğunu, kökenini irdeleyecek değiliz. Bu noktadaki beşerî çabalar ne sonuç verirse versin, bir “insan” gerçeğiyle karşı karşıyayız. İslâm inancının, bu insanı Hz. Âdem’e, Hz. Âdem’i de toprağa nispet etmesi, insaniyetin tevhidini, birliğini, eşitliğini ortaya koyması bakımından düşünülmeye değerdir."
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Ve insan, Allah katında diğer canlılar arasında müstesna bir yere sahiptir. Hatta bazı melekeleri itibariyle meleklerden de üstündür. Bu üstünlük meleklerde olmayan bir ayrıcalığa sahip olmasından kaynaklanmaktadır ki, o da düşünme, akletme, muhakeme etme yeteneğidir. Bu ayrıcalık Kur’an’da, "
+    },
+    {
+     "text": "“Allah Âdem’e tüm isimleri öğretti.”",
+     "italic": true
+    },
+    {
+     "text": " ifadesiyle temsil edilmiştir ki, burada Âdem, tüm insanoğlunu temsil etmektedir. Rabbimiz meleklerine, "
+    },
+    {
+     "text": "“Ben yeryüzünde bir halife (mülkiyetimi emanet edeceğim bir vâris) yaratacağım.”",
+     "italic": true
+    },
+    {
+     "text": " dediği zaman melekler, "
+    },
+    {
+     "text": "“Biz Seni takdis etmekte ve övgüyle yüceltmekte iken yeryüzünü yozlaştıracak bir varlık mı yaratacaksın?”",
+     "italic": true
+    },
+    {
+     "note": "910"
+    },
+    {
+     "text": " itirazıyla bu ilâhî iradeye karşılık verince Yüce Allah, Âdem’e, kendisine öğrettiği eşyanın ismini, bilgisini, niteliklerini meleklere bildirmesini söylemişti."
+    },
+    {
+     "note": "911"
+    },
+    {
+     "text": " Bu husus Kur’an’ın başka bir sûresinde daha açık bir şekilde ifade edilmektedir: "
+    },
+    {
+     "text": "“Allah, ‘Ben balçıktan bir insan yaratacağım; ona en uygun biçimi verip ruhumdan kattığım zaman onun önünde saygıyla eğilin!’ buyurunca tüm melekler saygıyla (insanın önünde) eğildiler.”",
+     "italic": true
+    },
+    {
+     "note": "912"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "İnsanın bu saygınlığı, yeryüzünde tek idareci ve egemen güç olarak yaratılmasının yanında, orada onurlu bir yaşam sürmesini sağlayacak tüm imkânlara sahip kılınmasıyla iyice pekiştirilmiştir. Mamafih Yüce Yaratıcı, “"
+    },
+    {
+     "text": "Gerçek şu ki, âdemoğullarını değerli kıldık. Onları karada ve denizde taşıdık, onlara güzel rızıklardan verdik ve onları, yarattıklarımızın çoğundan daha üstün kıldık.”",
+     "italic": true
+    },
+    {
+     "note": "913"
+    },
+    {
+     "text": " buyurmaktadır. Allah katında insan o kadar değerlidir ki, göklerdeki ve yerdekiler,"
+    },
+    {
+     "note": "914"
+    },
+    {
+     "text": " güneş ve ay, gece ile gündüz onun hizmetine sunulmuştur."
+    },
+    {
+     "note": "915"
+    },
+    {
+     "text": " Dolayısıyla insan gaye bir varlıktır. Diğer varlıklar insan için birer araçtırlar, onun hatırına var kılınmışlardır. Ancak insanın diğer canlılar arasında özel bir yere sahip olması, onlar üzerinde istediği gibi tahakküm kurabileceği anlamına gelmez."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Allah katında kerim ve şerefli kılınan insanın, bu şeref ve haysiyetiyle bağdaşmayan tutum ve davranışlar sergilemesi yasaklanmıştır. Bu bağlamda Allah’tan başkasına boyun eğmek, kul köle olmak, hatta bunu andıracak hareketler yasaklanmıştır."
+    },
+    {
+     "note": "916"
+    },
+    {
+     "text": " Zira nebevî öğretide insanın saygınlığı dokunulmazdır. Efendimiz (sav) “"
+    },
+    {
+     "text": "Müslüman’ın kişilik onuru, malı ve kanı saygındır, ona dokunulamaz. Takva (Allah’a karşı sorumluluk bilinci) işte şuradadır (kalptedir). Müslüman’ın, Müslüman kardeşini küçük görmesi, kötülük olarak ona yeter.",
+     "italic": true
+    },
+    {
+     "text": "”"
+    },
+    {
+     "note": "917"
+    },
+    {
+     "text": " buyururken, insan onurunun dokunulmazlığı esasına işaret etmiştir. Ve insanın canı her şeyden değerlidir. Kur’an’a göre "
+    },
+    {
+     "text": "“Birinin öldürülmesi bütün insanlığın öldürülmesi kadar kötüdür; aynı şekilde birinin hayatının kurtarılması da bütün insanlığın hayatının kurtarılması kadar değerlidir.”",
+     "italic": true
+    },
+    {
+     "note": "918"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Yaratılış özellikleri itibariyle mükemmel bir varlık olan insan, Şeyh Gâlib’in muhteşem dizelerinde ifade ettiği gibi, kâinattan süzülmüş bir özdür:"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Hoşca bak zâtına kim zübde-i âlemsin sen",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Merdüm-i dîde-i ekvân olan âdemsin sen",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "“Kendine olumlu bir gözle bak (kıymetini idrak et); zira sen âlemin özüsün; bu kâinatın göz bebeği olan insansın sen!”"
+  },
+  {
+   "type": "paragraph",
+   "text": "Kur’an’ın insana dair söylediklerinden ve en olgun insan örnekleri olan peygamberlerin şahsiyetlerinden süzülen bu irfanî anlayış, insan hakları ihlallerinin had safhaya ulaştığı ve insanın, sahip olduğu sermayenin esiri hâline geldiği çağımızda, insan yararı için en ideal yaklaşım olsa gerektir."
+  }
+ ],
+ "notes": [
+  {
+   "id": "872",
+   "text": "HM9068 İbn Hanbel, II, 391."
+  },
+  {
+   "id": "873",
+   "text": "VM3/1091, VM3/1094 Vâkıdî, Meğâzî, III, 1094-1095."
+  },
+  {
+   "id": "874",
+   "text": "İHS25 İbn Ebi’d-Dünyâ, Mekârimü’l-ahlâk, s. 25."
+  },
+  {
+   "id": "875",
+   "text": "Tîn, 95/4."
+  },
+  {
+   "id": "876",
+   "text": "Tîn, 95/5."
+  },
+  {
+   "id": "877",
+   "text": "Tîn, 95/6."
+  },
+  {
+   "id": "878",
+   "text": "Şems, 91/8."
+  },
+  {
+   "id": "879",
+   "text": "M7207 Müslim, Cennet, 63."
+  },
+  {
+   "id": "880",
+   "text": "B1385 Buhârî, Cenâiz, 92."
+  },
+  {
+   "id": "881",
+   "text": "Krş. Pavlus, İbranilere Mektupları: 10."
+  },
+  {
+   "id": "882",
+   "text": "M6709 Müslim, Birr, 160."
+  },
+  {
+   "id": "883",
+   "text": "Hicr, 15/29; Sâd, 38/72; B7454 Buhârî, Tevhîd, 28; M6723 Müslim, Kader, 1."
+  },
+  {
+   "id": "884",
+   "text": "Secde, 32/7-9."
+  },
+  {
+   "id": "885",
+   "text": "Hac, 22/5."
+  },
+  {
+   "id": "886",
+   "text": "T3076 Tirmizî, Tefsîru’l-Kur’ân, 7."
+  },
+  {
+   "id": "887",
+   "text": "B6420 Buhârî, Rikâk, 5."
+  },
+  {
+   "id": "888",
+   "text": "İM4232 İbn Mâce, Zühd, 27."
+  },
+  {
+   "id": "889",
+   "text": "T2454 Tirmizî, Sıfatü’l- kıyâme, 22."
+  },
+  {
+   "id": "890",
+   "text": "T2870 Tirmizî, Emsâl, 82."
+  },
+  {
+   "id": "891",
+   "text": "İnsân, 76/27."
+  },
+  {
+   "id": "892",
+   "text": "İsrâ, 17/11."
+  },
+  {
+   "id": "893",
+   "text": "Âdiyât, 100/8."
+  },
+  {
+   "id": "894",
+   "text": "Hümeze, 104/3."
+  },
+  {
+   "id": "895",
+   "text": "DM2425 Dârimî, Cihâd, 6."
+  },
+  {
+   "id": "896",
+   "text": "Nisâ, 4/128."
+  },
+  {
+   "id": "897",
+   "text": "B6439 Buhârî, Rikâk, 10; M2417 Müslim, Zekât, 117."
+  },
+  {
+   "id": "898",
+   "text": "B6498 Buhârî, Rikâk, 35; T2872 Tirmizî, Emsâl, 82."
+  },
+  {
+   "id": "899",
+   "text": "Meâric, 70/19-21."
+  },
+  {
+   "id": "900",
+   "text": "Meâric, 70/22-25."
+  },
+  {
+   "id": "901",
+   "text": "Hûd, 11/9-10."
+  },
+  {
+   "id": "902",
+   "text": "Hûd, 11/11."
+  },
+  {
+   "id": "903",
+   "text": "Kehf, 18/29."
+  },
+  {
+   "id": "904",
+   "text": "İnsân, 76/2-3."
+  },
+  {
+   "id": "905",
+   "text": "Yûnus, 10/108."
+  },
+  {
+   "id": "906",
+   "text": "M6682 Müslim, Birr, 138."
+  },
+  {
+   "id": "907",
+   "text": "T1853 Tirmizî, Et’ıme, 44; D3284 Ebû Dâvûd, Nüzûr, 16; B6447 Buhârî, Rikâk, 16."
+  },
+  {
+   "id": "908",
+   "text": "Hucurât, 49/13."
+  },
+  {
+   "id": "909",
+   "text": "T3956 Tirmizî, Menâkıb, 74."
+  },
+  {
+   "id": "910",
+   "text": "Bakara, 2/30."
+  },
+  {
+   "id": "911",
+   "text": "Bakara, 2/31."
+  },
+  {
+   "id": "912",
+   "text": "Sâd, 38/71-73."
+  },
+  {
+   "id": "913",
+   "text": "İsrâ, 17/70."
+  },
+  {
+   "id": "914",
+   "text": "Lokmân, 31/20."
+  },
+  {
+   "id": "915",
+   "text": "Nahl, 16/12."
+  },
+  {
+   "id": "916",
+   "text": "M928 Müslim, Salât, 84."
+  },
+  {
+   "id": "917",
+   "text": "T1927 Tirmizî, Birr, 18."
+  },
+  {
+   "id": "918",
+   "text": "Mâide, 5/32."
+  }
+ ]
+}

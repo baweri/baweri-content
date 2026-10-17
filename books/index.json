@@ -438,9 +438,9 @@
       "title": "Hadislerle İslam 1",
       "author": "Diyanet İşleri Başkanlığı Yayınları",
       "language": "tr",
-      "category": null,
-      "cover": "https://yayin.diyanet.gov.tr/Image/GetImage?image=3736_1.jpeg&imageType=1",
-      "hasText": false
+      "category": "hadis",
+      "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6016/cover.jpg",
+      "hasText": true
     },
     {
       "id": 6017,

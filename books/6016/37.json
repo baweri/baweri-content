@@ -1,0 +1,994 @@
+{
+ "n": 37,
+ "title": "Allah ve Resûlü’ne İtaat: Gönülden Bağlanmak",
+ "blocks": [
+  {
+   "type": "arabic",
+   "text": "عَنِ ابْنِ مَسْعُودٍ: أَنَّ رَسُولَ اللَّهِ ﷺ كَانَ إِذَا تَشَهَّدَ قَالَ: “... مَنْ يُطِعِ اللَّهَ وَرَسُولَهُ فَقَدْ رَشَدَ، وَمَنْ يَعْصِهِمَا فَإِنَّهُ لاَ يَضُرُّ إِلاَّ نَفْسَهُ وَلاَ يَضُرُّ اللَّهَ شَيْئًا.”"
+  },
+  {
+   "type": "paragraph",
+   "text": "İbn Mes’ûd’dan rivayet edildiğine göre, Allah Resûlü (sav) hutbe irad ettiği zaman şöyle buyururdu:"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "“... Kim Allah’a ve Resûlü’ne itaat ederse doğru yolu bulmuştur. Kim onlara isyan ederse ancak kendisine zarar verir. Allah’a hiçbir şekilde zarar veremez.”",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "source",
+   "text": "(D1097 Ebû Dâvûd, Salât, 221, 223)"
+  },
+  {
+   "type": "arabic",
+   "text": "عَنْ أَبِى هُرَيْرَةَ عَنِ النَّبِيِّ ﷺ قَالَ"
+  },
+  {
+   "type": "arabic",
+   "text": "“... فَإِذَا نَهَيْتُكُمْ عَنْ شَيْءٍ فَاجْتَنِبُوهُ، وَإِذَا أَمَرْتُكُمْ بِأَمْرٍ فَأْتُوا مِنْهُ مَا اسْتَطَعْتُمْ.”"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "arabic",
+   "text": "عَنْ أَبِى هُرَيْرَةَ عَنْ رَسُولِ اللَّهِ ﷺ أَنَّهُ قَالَ:"
+  },
+  {
+   "type": "arabic",
+   "text": "“مَنْ أَطَاعَنِى فَقَدْ أَطَاعَ اللَّهَ، وَمَنْ عَصَانِى فَقَدْ عَصَى اللَّهَ...”"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "arabic",
+   "text": "رَافِعُ بْنُ خَدِيجٍ قَالَ: قَدِمَ نَبِيُّ اللَّهِ ﷺ الْمَدِينَةَ، وَهُمْ يَأْبُرُونَ النَّخْلَ، يَقُولُون يُلَقِّحُونَ النَّخْلَ، فَقَالَ: “مَا تَصْنَعُون؟” قَالُوا: كُنَّا نَصْنَعُهُ قَالَ: “لَعَلَّكُمْ لَوْ لَمْ تَفْعَلُوا كَانَ خَيْرًا.” فَتَرَكُوهُ، فَنَفَضَتْ أَوْ فَنَقَصَتْ قَالَ: فَذَكَرُوا ذَلِكَ لَهُ فَقَالَ: “إِنَّمَا أَنَا بَشَرٌ، إِذَا أَمَرْتُكُمْ بِشَيْءٍ مِنْ دِينِكُمْ فَخُذُوا بِهِ، وَإِذَا أَمَرْتُكُمْ بِشَيْءٍ مِنْ رَأْيِي فَإِنَّمَا أَنَا بَشَرٌ.”"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "arabic",
+   "text": "عَنْ أَبِى هُرَيْرَةَ أَنَّ رَسُولَ اللَّهِ ﷺ قَالَ:"
+  },
+  {
+   "type": "arabic",
+   "text": "“كُلُّ أُمَّتِى يَدْخُلُونَ الْجَنَّةَ، إِلاَّ مَنْ أَبَى”، قَالُوا: يَا رَسُولَ اللَّهِ، وَمَنْ يَأْبَى؟ قَالَ: “مَنْ أَطَاعَنِى دَخَلَ الْجَنَّةَ، وَمَنْ عَصَانِى فَقَدْ أَبَى.”"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Ebû Hüreyre’den rivayet edildiğine göre, Hz. Peygamber (sav) şöyle buyurmuştur: "
+    },
+    {
+     "text": "“... Size bir şeyi yasakladığım zaman ondan kaçının. Bir şey emrettiğim zaman gücünüzün yettiği ölçüde onu yerine getirin.”",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "source",
+   "text": "(B7288 Buhârî, İ’tisâm, 2)"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Ebû Hüreyre’nin naklettiğine göre, Allah Resûlü (sav) şöyle buyurmuştur: "
+    },
+    {
+     "text": "“Bana itaat eden, Allah’a itaat etmiştir. Bana isyan eden, Allah’a isyan etmiştir...”",
+     "italic": true
+    }
+   ]
+  },
+  {
+   "type": "source",
+   "text": "(M4749 Müslim, İmâre, 33)"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Râfi’ b. Hadîc anlatıyor: Hz. Peygamber (sav) Medine’ye geldiğinde Medineliler hurma ağaçlarını aşılıyorlardı. Allah Resûlü, "
+    },
+    {
+     "text": "“Ne yapıyorsunuz?”",
+     "italic": true
+    },
+    {
+     "text": " diye sorunca onlar da, “Bunu öteden beri yaparız.” dediler. Bunun üzerine Allah Resûlü, "
+    },
+    {
+     "text": "“Sanırım bunu yapmasanız daha hayırlı olur.”",
+     "italic": true
+    },
+    {
+     "text": " buyurdu. Onlar da aşılamayı bıraktılar. Akabinde hurmalar az ürün verdi. Bu durumu Hz. Peygamber’e bildirdiklerinde o şöyle buyurdu: "
+    },
+    {
+     "text": "“Ben ancak bir insanım, size dininizle ilgili bir şey emredersem onu alın, kendi görüşüme göre bir şey emredersem (unutmayın ki) ben ancak bir insanım.",
+     "italic": true
+    },
+    {
+     "text": "”"
+    }
+   ]
+  },
+  {
+   "type": "source",
+   "text": "(M6127 Müslim, Fedâil, 140)"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Ebû Hüreyre’den nakledildiğine göre, Resûlullah (sav) şöyle buyurmuştur: "
+    },
+    {
+     "text": "“Ümmetimin hepsi cennete girecektir, yüz çeviren müstesna!”",
+     "italic": true
+    },
+    {
+     "text": " Orada bulunanlar “Ey Allah’ın Resûlü, yüz çeviren kim?” diye sorunca, Hz. Peygamber, "
+    },
+    {
+     "text": "“Bana itaat eden cennete girer. Bana isyan eden yüz çevirmiş demektir.”",
+     "italic": true
+    },
+    {
+     "text": " şeklinde cevap vermiştir."
+    }
+   ]
+  },
+  {
+   "type": "source",
+   "text": "(B7280 Buhârî, İ’tisâm, 2)"
+  },
+  {
+   "type": "divider"
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Hz. Peygamber’in halasının oğlu Zübeyr b. Avvâm ile ensardan Humeyd"
+    },
+    {
+     "note": "1754"
+    },
+    {
+     "text": " Harre mevkiindeki hurmalıklarını, bahçelerindeki arklardan geçen ortak su ile nöbetleşe suluyorlardı. Bu arklardan geçen su, önce Zübeyr’in hurma bahçesine uğruyor, sonra da Humeyd’in bahçesine ulaşıyordu. Bir keresinde Zübeyr hurma bahçesini sulamak üzere suyu tuttuğu sırada komşusu ondan suyu serbest bırakmasını istedi. Fakat Zübeyr, kendi tarlasını sulamadan suyu bırakmak ve nöbetini ona vermek istemedi. Bunun üzerine aralarında anlaşmazlık çıktı. İki taraf meselelerini Allah Resûlü’ne intikal ettirdiler. Hz. Peygamber’in huzurunda isteklerini karşılıklı olarak arz ettiler. Hz. Peygamber, "
+    },
+    {
+     "text": "“Ey Zübeyr! Tarlanı sula sonra suyu komşuna salıver.”",
+     "italic": true
+    },
+    {
+     "text": " buyurarak ikisinin de hakkını koruyan bir çözüm önerdi. Bunun üzerine Humeyd hiddetlenip, “Yâ Resûlallah! Zübeyr halanın oğlu olduğu için mi böyle bir hüküm verdin?” diyerek Resûlullah’ın verdiği karara itiraz etti. Onun bu sözüne üzülen Allah Resûlü’nün yüzünün rengi değişti ve "
+    },
+    {
+     "text": "“Ey Zübeyr, tarlanı sula! Sonra suyu hurma ağaçlarının köklerine ulaşıncaya kadar tut (sonra salıver).”",
+     "italic": true
+    },
+    {
+     "text": " buyurarak Zübeyr’den sulama hakkını tam mânâsı ile kullanmasını istedi."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Bu hadise üzerine, "
+    },
+    {
+     "text": "“Rabbine andolsun ki, onlar, aralarında çıkan çekişmeli işlerde seni hakem yapıp, sonra da verdiğin hükme, içlerinde hiçbir sıkıntı duymaksızın, tam bir teslimiyetle boyun eğmedikçe iman etmiş olmazlar.”",
+     "italic": true
+    },
+    {
+     "note": "1755"
+    },
+    {
+     "text": " âyeti nâzil olmuştur."
+    },
+    {
+     "note": "1756"
+    },
+    {
+     "text": " Peygambere itaati imanla ilişkilendiren bu âyetin yanı sıra, Kur’an’da itaat, imanın bir sonucu ve mümin olmanın temel özelliği olarak zikredilmektedir."
+    },
+    {
+     "note": "1757"
+    },
+    {
+     "text": " Bu nedenledir ki, Kur’an’ın Allah ve Resûlü’ne itaat konusundaki tavrı son derece açık ve nettir: "
+    },
+    {
+     "text": "“Allah ve Resûlü bir iş hakkında hüküm verdiği zaman, hiçbir mümin erkek ve kadının kendi işleri konusunda tercih kullanma hakkı yoktur. Kim Allah’a ve Resûlü’ne karşı gelirse şüphesiz ki o apaçık bir şekilde sapmıştır.”",
+     "italic": true
+    },
+    {
+     "note": "1758"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Peygamber Efendimiz de bir hutbesinde sarf ettiği şu sözlerle Allah ve Resûlü’ne itaatin vazgeçilmezliğine vurgu yapmaktadır:"
+    },
+    {
+     "text": " “... Kim Allah’a ve Resûlü’ne itaat ederse doğru yolu bulmuştur. Kim onlara isyan ederse ancak kendisine zarar verir. Allah’a hiçbir şekilde zarar veremez.”",
+     "italic": true
+    },
+    {
+     "note": "1759"
+    },
+    {
+     "text": " Bu bağlamda bizlerden kendisine kulluk etmemizi isteyen Cenâb-ı Allah’ın, bu kulluk görevimizi îfâda olmazsa olmaz şartı, O’nun sonsuz güç ve kudretini tanımamız ve O’na iman etmemizdir. Böyle bir tanıma ve kabulden sonra O’nun emirlerine uymak ve yasakladıklarından kaçınmak suretiyle bu imanı ortaya koymak ise, itaattir. Bu noktada itaat; kulun, emirlere riayet etme ve yasaklardan kaçınma noktasında "
+    },
+    {
+     "text": "“İşittik, itaat ettik.”",
+     "italic": true
+    },
+    {
+     "text": " demek suretiyle Allah’a verdiği söze"
+    },
+    {
+     "note": "1760"
+    },
+    {
+     "text": " şuurlu bir şekilde uymasıdır."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "İsyanın zıddı olan itaat, Allah’a teslim olmayı, saygı göstermeyi, ibadet etmeyi ve O’nun kitabıyla amel etmeyi gerektirir. Kur’an’a göre bütün âlem mutlak güç sahibi Allah’a itaat etmektedir."
+    },
+    {
+     "note": "1761"
+    },
+    {
+     "text": " Gerçek mânâda imanın kökleşmesi için insanın Yaratıcısı’na itaat etmesi gerekir. Bu nedenle Kur’an, insanı Allah’a itaate çağırır. Mutlak mânâda itaat yalnız kâinatın yaratıcısı olan Allah’ın hakkıdır. Çünkü Allah, insanların Rabbi, ilâhı ve melikidir. İnsanlar da Allah’ın nimetleriyle hayatlarını devam ettiren, Allah’ın kullarıdır. Mutlak ve gerçek varlık"
+    },
+    {
+     "note": "1762"
+    },
+    {
+     "text": " sadece Allah’tır. Göklerin ve yerin mülkü Allah’ındır."
+    },
+    {
+     "note": "1763"
+    },
+    {
+     "text": " Buyurma, yok etme, öldürme, diriltme, azap etme, mükâfatlandırma gibi işlerde O’nun hiçbir ortağı yoktur. O, istediği hususta istediği gibi tasarrufta bulunan,"
+    },
+    {
+     "note": "1764"
+    },
+    {
+     "text": " gerçek ve mutlak tek Yaratıcı’dır. En doğru ve en güzel sözün sahibi O’dur. Hiç kimsenin O’ndan daha doğru sözlü olması düşünülemez."
+    },
+    {
+     "note": "1765"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Bunun için kul kayıtsız şartsız Rabbine itaat etmelidir."
+    },
+    {
+     "note": "1766"
+    },
+    {
+     "text": " Böyle bir Rab karşısında kulun O’nun bütün emir ve yasaklarına mutlak surette itaat etmesi tabiî bir durumdur. Diğer yandan Yaratıcı’nın, kullarından kendisine itaat etmelerini istemesi onların faydası içindir. Çünkü O’nun, kullarının itaatine hiç ama hiç ihtiyacı yoktur. Aynı şekilde O’na isyan eden kul da O’na hiçbir surette zarar veremez. Sadece kendisine zarar verir, yazık eder. Kullarının kendisine isyan etmek suretiyle zarara uğramalarını murad etmeyen Yüce Allah, onları kendi varlığını ve birliğini tanımaya ve kendisine itaate yatkın bir fıtratta yaratmıştır."
+    },
+    {
+     "note": "1767"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Fıtratın Allah’a itaate yatkın olması, insanların Allah’a itaat noktasında özgür iradeleriyle hareket edemeyecekleri anlamına gelmez. Allah, insanı kendisine itaat konusunda serbest bırakmış ve şöyle buyurmuştur: "
+    },
+    {
+     "text": "“ Allah’a itaat edin, Peygamber’e de itaat edin. Yüz çevirirseniz bilin ki, elçimize düşen apaçık bir tebliğdir.”",
+     "italic": true
+    },
+    {
+     "note": "1768"
+    },
+    {
+     "text": " Allah’a itaat konusunda özgürlüğünü kullanan insanın zaman zaman Allah’tan başkalarına da itaat ettiği olmuştur."
+    },
+    {
+     "note": "1769"
+    },
+    {
+     "text": " İnsanlara rehberlik etmek üzere gönderilen peygamberler de Cenâb-ı Allah’a itaat etmekle sorumludurlar."
+    },
+    {
+     "note": "1770"
+    },
+    {
+     "text": " Bu bağlamda son peygamber olarak insanları Allah’ın birliğine ve ona itaate çağıran Hz. Muhammed (sav) de itaatle emrolunmuş,"
+    },
+    {
+     "note": "1771"
+    },
+    {
+     "text": " kâfir ve münafıklara uymaması konusunda şu şekilde uyarılmıştır: "
+    },
+    {
+     "text": "“Ey Peygamber! Allah’a karşı gelmekten sakın. Kâfirlere ve münafıklara itaat etme.”",
+     "italic": true
+    },
+    {
+     "note": "1772"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Kur’an’da ve hadislerde Allah ve Resûlü’ne itaat konusu itaat, ittibâ (tâbi olma), imtisâl (emri yerine getirme), teessî (örnek alma) ve iktidâ (yoluna uyma, rehber edinme) kavramları çerçevesinde işlenir. Bu kavramların ortak özelliği, bilinçli ve gönüllü bir itaati ifade etmeleridir; taklide dayalı, şuursuz bir itaati değil, istekli, ihtiyarî ve şuurlu bir itaati! İtaat kavramlarının içerdiği bu mânâ, ilâhî öğretilerin beşerî sistemlerle arasındaki en önemli farklardan birisini de ortaya koymaktadır. Bu fark, ilâhî sistemlerin insanların duygularına hitap etmeleri, sevgiyi esas almalarıdır. İlâhî öğretiler ile beşerî sistemler arasındaki en temel farklardan bir diğeri de ilâhî öğretilerin yaldızlı teoriler üzerine değil, ilâhî muallimlerin, yani peygamberlerin örneklikleri üzerine bina edilmiş olmalarıdır. Vahyin bir beşer/peygamber vasıtasıyla insanlığa tebliğ edilmesinin yegâne hikmeti bu olsa gerektir."
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "İşte bu sebeple son ilâhî kitap müminlere Hz. Peygamber’e itaat etmelerini emretmiş,"
+    },
+    {
+     "note": "1773"
+    },
+    {
+     "text": " peygambere itaatin Allah’a itaat olacağını belirtmiş,"
+    },
+    {
+     "note": "1774"
+    },
+    {
+     "text": " Allah’ı sevmenin ve Allah’ın sevgisine nail olmanın Peygamber’e tâbi olmaktan geçtiğini ifade etmiştir."
+    },
+    {
+     "note": "1775"
+    },
+    {
+     "text": " Kendilerine vahiy, hüküm ve hidayet bahşedilen peygamberlerin yoluna uymamızı ( iktidâ) tavsiye eden Kur’an,"
+    },
+    {
+     "note": "1776"
+    },
+    {
+     "text": " İslâm Peygamberi’nin de Allah’a ve âhiret gününe iman eden insanlar için en güzel örnek olduğunu beyan etmiştir."
+    },
+    {
+     "note": "1777"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Bu çerçevede Sevgili Peygamberimiz de, "
+    },
+    {
+     "text": "“... Size bir şeyi yasakladığım zaman ondan kaçının. Bir şey emrettiğim zaman gücünüzün yettiği ölçüde onu yerine getirin.”",
+     "italic": true
+    },
+    {
+     "note": "1778"
+    },
+    {
+     "text": " ",
+     "italic": true
+    },
+    {
+     "text": "buyurmuş ve müminlerin Allah’a itaatin yanında O’nun elçisi olan Peygamber’e de itaatle yükümlü olduklarını Kur’an’ı teyiden ifade etmiştir. Kur’an’da Peygamber’e itaat hep Allah’a itaatin peşinden zikredilmektedir: "
+    },
+    {
+     "text": "“(Resûlüm) Allah’a itaat edin, Peygamber’e itaat edin, de. Yüz çevirirseniz bilin ki, onun sorumluluğu ona; sizin sorumluluğunuz da size aittir. Şayet ona itaat ederseniz doğru yola erersiniz. Peygamber’e düşen ancak apaçık bir tebliğdir.”",
+     "italic": true
+    },
+    {
+     "note": "1779"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Allah’a itaat onu bilmek ve tanımakla gerçekleşebilir. O’nu bilmek ve tanımak ise O’nun mesajına ulaşmakla mümkündür. Bu bağlamda insanlara Allah’ın mesajını ulaştıran Peygamber’e itaat de kulu, Allah’a itaate yönlendirir. Nitekim "
+    },
+    {
+     "text": "“Kendi aranızdan, size âyetlerimizi okuyan, sizi her türlü kötülükten arındıran, size kitap ve hikmeti (sünneti) öğreten, ayrıca bilmediklerinizi de öğreten bir peygamber gönderdik.”",
+     "italic": true
+    },
+    {
+     "note": "1780"
+    },
+    {
+     "text": " âyeti bu gerçeği ortaya koymaktadır. Peygamberler, Allah’ın emirlerini insanlara ulaştıran elçiler oldukları için bu elçilere itaat, Allah’a itaatle özdeş kabul edilmiştir. Buna dikkat çekmek isteyen Allah Resûlü, "
+    },
+    {
+     "text": "“Bana itaat eden, Allah’a itaat etmiştir. Bana isyan eden, Allah’a isyan etmiştir...”",
+     "italic": true
+    },
+    {
+     "note": "1781"
+    },
+    {
+     "text": " ",
+     "italic": true
+    },
+    {
+     "text": "buyurur. Aynı durum bir âyet-i kerimede de şu şekilde vurgulanmıştır: "
+    },
+    {
+     "text": "“Kim peygambere itaat ederse, Allah’a itaat etmiş olur. Kim yüz çevirirse, (bilsin ki) biz seni onlara bekçi göndermedik.”",
+     "italic": true
+    },
+    {
+     "note": "1782"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "İlâhî hitabın müminlerin kendisine itaat etmesini istediği Hz. Peygamber risâlet/peygamberlik döneminden önce de toplumda itibar sahibi, güvenilen ve insanlar tarafından sevilen bir şahsiyetti. Bu kabil özellikleri ve insanlık için numune-i imtisal olması itibariyle müminlerden Hz. Peygamber’e sadece itaat etmeleri istenmemiş, aynı zamanda imanın bir gereği olarak onu her şeyden ve herkesten çok sevmeleri de istenmiştir. Bir keresinde Ömer b. Hattâb (ra) Hz. Peygamber’e, “Ey Allah’ın Resûlü! Sen bana, canım hariç her şeyden daha sevimlisin.” der. Bunun üzerine Peygamberimiz ona, "
+    },
+    {
+     "text": "“Ey Ömer! Allah’a yemin ederim ki, sen, beni canından daha fazla sevmedikçe olgun mümin olamazsın.”",
+     "italic": true
+    },
+    {
+     "text": " diyerek karşılık verir. Allah Resûlü’nden bu sözü duyan Hz. Ömer, “Vallahi şimdi sen bana canımdan daha sevimlisin.” deyince, Peygamber Efendimiz, "
+    },
+    {
+     "text": "“Şimdi imanın kemale ermiştir Ey Ömer!”",
+     "italic": true
+    },
+    {
+     "note": "1783"
+    },
+    {
+     "text": " buyurur. Bu meyanda, Allah Resûlü’nden, "
+    },
+    {
+     "text": "“Hiçbiriniz beni babasından, evlâdından ve bütün insanlardan daha çok sevmedikçe gerçekten iman etmiş olmaz.”",
+     "italic": true
+    },
+    {
+     "note": "1784"
+    },
+    {
+     "text": " sözünü işiten sahâbe-i kirâm, Allah Resûlü’ne sevgi, tazim ve itaatlerini, mallarını ve canlarını onun yolunda ortaya koyarak göstermişlerdir."
+    },
+    {
+     "note": "1785"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Hz. Peygamber’in Allah’tan aldığı nebevî öğretiler hususunda Müslümanlara muhayyerlik hakkı tanınmamış, inananlardan Peygamber’e tam mânâsıyla teslim olmaları istenmiştir."
+    },
+    {
+     "note": "1786"
+    },
+    {
+     "text": " Bu bağlamda Allah Resûlü’ne itaat etmek, onun rızasına ve hoşnutluğuna ulaşmanın en değerli yoludur. Nitekim Huneyn Savaşı sonrasında yaşananlar, bu konuda etkileyici bir örnektir. Savaşta elde edilen ganimetlerin paylaştırılması esnasında Allah Resûlü, Mekkelilerden yeni Müslüman olanlara yüzer deve dağıtmaya başlayınca, Medineli Müslümanlardan bazıları rahatsız olmuş, bu dağıtımdan hoşnut olmadıklarını dile getirmişlerdi. Söylentileri duyan Hz. Peygamber ensarı bir araya topladı ve onlara, "
+    },
+    {
+     "text": "“Kulağıma gelen bu sözleriniz ne demek oluyor?”",
+     "italic": true
+    },
+    {
+     "text": " diye sordu. Ensarın önde gelenleri, “Ey Allah’ın Resûlü, söz sahibi/aklı başında olanlarımız hiçbir şey söylemediler. Fakat yeni yetme gençler, ‘Allah, Resûlullah’ı bağışlasın. Kılıçlarımızdan hâlâ onların kanları damlarken, bizi bırakıp Kureyşlilere veriyor.’ diye söylendiler.” diyerek Efendimize durumu arz ettiler. Bunun üzerine Allah Resûlü, "
+    },
+    {
+     "text": "“Ben küfürden yeni kurtulmuş bazı insanlara onları İslâm’a ısındırmak için (bolca) verdim. Onlar ganimet mallarıyla evlerine dönerken, siz Allah’ın Resûlü’yle evlerinize dönmeye razı değil misiniz? Vallahi sizin götüreceğiniz, onların götürdüklerinden çok daha hayırlıdır.”",
+     "italic": true
+    },
+    {
+     "text": " buyurunca, ensar, hep bir ağızdan, “Ey Allah’ın Resûlü! Bizler razıyız"
+    },
+    {
+     "text": ".",
+     "italic": true
+    },
+    {
+     "text": "” diyerek cevap verdiler."
+    },
+    {
+     "note": "1787"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Peygamber Efendimize itaat etmek, onun yolundan gitmek, Kur’an’ın ifadesiyle, Allah’ı sevmenin göstergesi, Allah’ın sevgisine mazhar olmanın ve günahların bağışlanmasının da ön koşuludur."
+    },
+    {
+     "note": "1788"
+    },
+    {
+     "text": " Bunun için Allah Resûlü’ne itaat anlamına gelecek her türlü düşünce, inanç, söz ve davranış, Allah’ın sevgisine ulaşmanın vesilesi olacaktır. Bu bağlamda farz, vacip, nâfile olan ibadetler ve Allah’ın rızasını kazanmak amacıyla yapılan her türlü salih ameller de itaatin tezahürüdür. Ayrıca Allah’ı sevmek, Allah için sevmek, Allah’ın sevdiklerini sevmek, Allah’tan gelene razı olmak, Peygamber’i sevmek, yaptıklarını Allah için yapmak, terk ettiklerini Allah için terk etmek, Allah’tan korkmak, Allah’ın koyduğu sınırları aşmamak, Allah’tan hayâ etmek, Allah’a dua etmek, Allah’a tevbe etmek gibi davranış ve duygular da itaatin diğer yansımalarıdır."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Peygamberlik görevi gereği insanlara tebliğ ettiği nebevî ölçülerde Allah’ın Elçisi’ne itaat şarttır ancak Sevgili Peygamberimiz, kendisinin nebevî yönüyle alâkalı olmayan, deney ve tecrübe gibi hayat boyu kazanılan birikimle çerçevesini belirlediği alanlarda kendisine itaatin şart olmadığını ifade etmiştir. Bu bağlamda Hz. Peygamber bir ticaret şehri olan Mekke’den ziraat şehri Medine’ye hicret ettiğinde yaşanan hurma ağaçlarını aşılama olayı en güzel örneklerden biridir. Resûlullah, hurmaları aşılayan Medinelilere ne yaptıklarını sormuş, onlar da aşı yaptıklarını ve bunun öteden beri yapılan bir şey olduğunu söylemişlerdi. Bunun üzerine Allah Resûlü, "
+    },
+    {
+     "text": "“Sanırım bunu yapmasanız daha hayırlı olur.”",
+     "italic": true
+    },
+    {
+     "text": " şeklinde kanaat belirtmişti. Medineliler Hz. Peygamber’i dinleyerek aşılamayı bırakmışlar ve bunun neticesinde hurmalarından az ürün almışlardı. Durumu Hz. Peygamber’e arz ettiklerinde o, şöyle buyurmuştu:"
+    },
+    {
+     "text": " “Ben ancak bir insanım, size dininizle ilgili bir şey emredersem onu alın, kendi görüşüme göre bir şey emredersem (unutmayın ki) ben ancak bir insanım.",
+     "italic": true
+    },
+    {
+     "text": "”"
+    },
+    {
+     "note": "1789"
+    },
+    {
+     "text": " Rivayetin başka versiyonlarında Allah Resûlü kendisinin ziraatçı olmadığını ve bir hurma bahçesinin de bulunmadığını ifade etmektedir."
+    },
+    {
+     "note": "1790"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Sahâbe-i kirâm Allah Resûlü’ne kayıtsız şartsız itaat etmelerine rağmen, onun verdiği kararlar karşısında zaman zaman kendi görüşlerini beyan etmekten de çekinmemişlerdir. Bu şekilde hareket etmelerinin sebebi, Resûlullah’ın vahiyle ortaya koyduğu öğretilerle, tecrübesinden hareketle söylediklerini ayrı değerlendirmeleridir. Bu nedenle ashâb, Resûlullah’ın emrettiği şeylerle ilgili değerlendirme ve görüş beyan etmek istediklerinde, emrin vahiy kaynaklı olup olmadığını araştırma ihtiyacı hissetmişler, vahiy olmadığını öğrendikleri hususlarda kendi düşüncelerini ifade etmişlerdir. Bu şekilde davranırken de nihaî kararın mutlaka Resûlullah’a ait olduğu ve ona itaat etmeleri gerektiği bilinciyle hareket etmişlerdir. Nitekim Bedir Savaşı’nda Hz. Peygamber’in orduyu konuşlandırmak için seçtiği mevkiin savaş stratejisi açısından uygun olmadığını düşünen Hubâb b. el-Münzir, bu tercihin vahiyle mi yoksa kendi ictihadıyla mı olduğunu Allah Resûlü’ne sormuştur. Resûlullah kendi görüşü olduğunu söyleyince bu yerin savaş için uygun olmadığını ifade etmiş, daha uygun bir yerde konuşlanmayı teklif etmiş, Resûlullah da onun bu görüşüne uymuştur."
+    },
+    {
+     "note": "1791"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Bu çerçevede benzer bir örnek de Berîre Hadisesi’dir. Köle olan kocası Muğîs’ten boşanmak isteyen Berîre’ye, kocasının isteği üzerine Hz. Peygamber "
+    },
+    {
+     "text": "“Ey Berîre! Allah’tan kork. Çünkü o senin eşin ve çocuğunun babasıdır.”",
+     "italic": true
+    },
+    {
+     "text": " buyurmuştu. Bunun üzerine Berîre, “Ey Allah’ın Resûlü! Bunu bana emrediyor musun?” diye sormuş, Peygamber Efendimiz de, "
+    },
+    {
+     "text": "“Hayır, ben sadece bir aracıyım.”",
+     "italic": true
+    },
+    {
+     "text": " diyerek cevap vermişti. Allah Resûlü’nden vahiy kaynaklı değil, kendi kanaatini ihtiva eden bir cevap alan Berîre, onun tavsiyesine uymamış ve kocasına dönmemişti."
+    },
+    {
+     "note": "1792"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Vahyin belirlemediği ve Hz. Peygamber’in tebliğle mükellef olmadığı alanları mutlak itaat konusu olarak görmeyen sahâbe-i kirâm, vahyin belirlediği alanlarda ona itaate azami özen göstermişlerdir. Ancak bazen beşer olmalarından kaynaklanan aksaklıklar yaşanmış ve Hz. Peygamber’in sözünü tutamamışlardır."
+    },
+    {
+     "note": "1793"
+    },
+    {
+     "text": " Bu durumlar çoğunlukla Peygamber Efendimiz tarafından da makul karşılanmış, itaatsizlik olarak değerlendirilmemiştir. Ancak ashâbın bazen Kur’an’ın sert uyarılarına muhatap olacakları derecede itaatsizlikleri de vuku bulmuştur. Uhud Savaşı’nda Hz. Peygamber’in kesin talimatı olmasına rağmen müşriklerin bozguna uğradığını düşünen okçuların ganimetten nasiplerine düşeni almak üzere yerlerini terk etmeleri,"
+    },
+    {
+     "note": "1794"
+    },
+    {
+     "text": " kazanılmış bir zaferin hezimetle sonuçlanmasına sebep olmuş, Hz. Peygamber’in sözünü dinlememenin bedeli çok ağır ödenmiş ve yaptıkları hata Kur’an tarafından eleştirilmiştir."
+    },
+    {
+     "note": "1795"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Bütün bu mülâhazalar çerçevesinde, Allah Resûlü’nün örnekliği ve ona itaatin gerekliliği noktasında sınırlar belirlenirken, onun asıl vazifesinin yaratılışın nasıl başladığını ( bed’ü’l-halk) ve nasıl biteceğini (kıyamet) bildirmek değil, yaratılmışların hidayet ve saadeti ile ilgili esas ve prensipleri bildirmek olduğu göz önünde bulundurulmalıdır. O takdirde Hz. Peygamber’in büyüklüğü sineğin kanadında tespit ettiği anti-mikropta değil, kızgın çölün bereketsiz toprağında meydana getirdiği toplumun dinamiklerinde ve o toplumu tezkiyesinde yani her türlü mânevî mikroptan nasıl arındırdığında aranacaktır. Onun örnekliği ve rehberliği acve hurmasının hangi hastalıklara şifa olduğunu tespitte değil, hastalıklı kalpleri nasıl tedavi ettiğinde belirginleşecek ve onun bedenleri tedavi eden biri ( tabîbü’l-ebdân) olmayıp, ruhları ve kalpleri tedavi eden bir doktor ( tabîbü’l-kulûb) olduğu bilinecektir. Hatta onun örnekliği ve rehberliği doğru anlaşıldığında büyüklüğü, Burak ile semaya nasıl yükseldiğinde ( urûc), yedi kat gökte nasıl dolaştığında değil, aşağıların aşağısına yuvarlanmış insanlığı yüksek değerlere nasıl kavuşturduğunda, getirdiği değerlerin, insanlığın süflî bir hayattan ulvî bir hayata yükselişi için nasıl mi’rac vazifesi gördüğünde aranacaktır."
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Yüce Allah, müminlerden Hz. Peygamber’e karşı asla saygıda kusur etmemelerini, onu insanlardan herhangi birisi gibi görmemelerini istemiş ve şöyle buyurmuştur: "
+    },
+    {
+     "text": "“Ey iman edenler! Allah’ın ve Peygamberi’nin önüne geçmeyin. Allah’a karşı gelmekten sakının. Şüphesiz Allah hakkıyla işitendir, hakkıyla bilendir. Ey iman edenler! Seslerinizi Peygamber’in sesinden yüksek çıkarmayın ve birbirinize bağırır gibi, ona bağırmayın; haberiniz olmadan amelleriniz boşa çıkıverir. Allah’ın Elçisi’nin huzurunda seslerini kısanlar, Allah’ın, gönüllerini takva (Allah’a karşı gelmekten sakınma) konusunda sınadığı kimselerdir. Onlar için bir bağışlanma ve büyük bir mükâfat vardır. (Ey Muhammed!) Odaların arkasından sana bağıranların çoğu aklı ermeyen kimselerdir. Onlar, sen yanlarına çıkıncaya kadar sabretselerdi, elbette kendileri için daha iyi olurdu. Allah, çok bağışlayandır, çok merhamet edendir.”",
+     "italic": true
+    },
+    {
+     "note": "1796"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Kur’ân-ı Kerîm her hâlükârda Resûlullah’a saygıyı, dinî öğretiler noktasında ona kayıtsız şartsız itaati emrederken, ahlâkî konularda da müminlere uymaları gereken en güzel örnek olarak onu göstermektedir."
+    },
+    {
+     "note": "1797"
+    },
+    {
+     "text": " Zira Hz. Peygamber sadece iman ve ibadet konularında değil, hayatın her alanında müminlere rehberlik etmektedir. O, insanları en mükemmel, en şerefli, en faziletli iş ve davranışlara yönlendirmekte, en yüce hakikatleri onlara telkin etmektedir. Çünkü o, kendi ifadesiyle, "
+    },
+    {
+     "text": "“ güzel ahlâkı tamamlamak”",
+     "italic": true
+    },
+    {
+     "text": " için gönderilmiştir."
+    },
+    {
+     "note": "1798"
+    },
+    {
+     "text": " Bu yüzden sevgili eşi, müminlerin annesi Hz. Âişe, kendisine Allah Resûlü’nün ahlâkı sorulduğunda, “Onun ahlâkı Kur’an idi.” diyerek cevap vermiştir."
+    },
+    {
+     "note": "1799"
+    },
+    {
+     "text": " Gönderiliş amacı "
+    },
+    {
+     "text": "ahlâk-ı hamîde",
+     "italic": true
+    },
+    {
+     "text": "yi en güzel şekilde öğretip, yaşayarak kemale erdirmek olan Peygamber Efendimizi örnek alan, onun işaret ettiği, uyguladığı, ifade ettiği, onayladığı erdem ve prensiplerle hayatını tezyin eden müminler de elbette güzel ahlâkla donanmış, Allah Resûlü’nün edep ve ahlâk elbisesini giymiş olacaklardır. Onun ahlâk elbisesini giymek ona itaat etmektir. Ona itaat etmek de Allah’a itaat etmektir."
+    },
+    {
+     "note": "1800"
+    },
+    {
+     "text": " Böylece Allah Resûlü’nü örnek alıp, yaşantısını onun hayat tarzına uyduran, onun yolunu izleyip, ona gönül veren, dolayısıyla Allah’a itaat eden kişi Yüce Yaratıcı’nın sevgisine nail olur. Böyle bir kişiyi Yüce Allah hem insanlara sevdirir, hem de kendisi severek himayesine alır."
+    },
+    {
+     "note": "1801"
+    },
+    {
+     "text": " Burada kişiyi Rabbin rızasına ulaştıran husus, Allah Resûlü’nü bilinçsiz bir şekilde taklit etmek ve ona benzemeye çalışmak ( teşebbüh) değil, bilinçli bir şekilde onu örnek almaktır."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Allah’a itaat edip, Hz. Peygamber’in rehberliğini/risâletini kabul eden, onu bilerek ve isteyerek örnek alan ve ona itaat eden herkes cennete girecektir."
+    },
+    {
+     "note": "1802"
+    },
+    {
+     "text": " Ona isyan eden, itaatten kaçınan ve onun rehberliğini kabul etmeyenler ise hiçbir mükâfata nail olmayacaklardır. Bu noktada Allah Resûlü, "
+    },
+    {
+     "text": "“Bana itaat eden cennete girer. Bana isyan eden de yüz çevirmiş demektir.”",
+     "italic": true
+    },
+    {
+     "note": "1803"
+    },
+    {
+     "text": " buyurmuştur."
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "Allah’a ve Peygamberi’ne isyan edenlerin âhirette cezalarını göreceklerini şu âyet-i kerimeler en güzel şekilde izah etmektedir: "
+    },
+    {
+     "text": "“Kim de Allah’a ve Peygamberi’ne isyan eder ve O’nun koyduğu sınırları aşarsa, Allah onu ebedî kalacağı cehennem ateşine sokar. Onun için alçaltıcı bir azap vardır.”",
+     "italic": true
+    },
+    {
+     "note": "1804"
+    },
+    {
+     "text": " "
+    },
+    {
+     "text": "“Allah’a ve Resûlü’ne düşmanlık edenler (karşı gelenler), kendilerinden öncekilerin alçaltıldığı gibi alçaltılacaklardır. Biz apaçık âyetler indirmişizdir. Kâfirler için küçük düşürücü bir azap vardır.”",
+     "italic": true
+    },
+    {
+     "note": "1805"
+    }
+   ]
+  },
+  {
+   "type": "paragraph",
+   "parts": [
+    {
+     "text": "“Kim Allah’a ve Resûlü’ne itaat ederse doğru yolu bulmuştur. Kim onlara isyan ederse ancak kendisine zarar verir. Allah’a hiçbir şekilde zarar veremez.”",
+     "italic": true
+    },
+    {
+     "note": "1806"
+    }
+   ]
+  }
+ ],
+ "notes": [
+  {
+   "id": "1754",
+   "text": "Hİ1843 İbn Hacer, İsâbe, II, 129."
+  },
+  {
+   "id": "1755",
+   "text": "Nisâ, 4/65."
+  },
+  {
+   "id": "1756",
+   "text": "B2359 Buhârî, Müsâkât, 6."
+  },
+  {
+   "id": "1757",
+   "text": "Enfâl, 8/1."
+  },
+  {
+   "id": "1758",
+   "text": "Ahzâb, 33/36."
+  },
+  {
+   "id": "1759",
+   "text": "D1097 Ebû Dâvûd, Salât, 221, 223."
+  },
+  {
+   "id": "1760",
+   "text": "Mâide, 5/7."
+  },
+  {
+   "id": "1761",
+   "text": "Hac, 22/18; Cum’a, 62/1."
+  },
+  {
+   "id": "1762",
+   "text": "Hac, 22/6."
+  },
+  {
+   "id": "1763",
+   "text": "Bakara, 2/107."
+  },
+  {
+   "id": "1764",
+   "text": "Hûd, 11/107."
+  },
+  {
+   "id": "1765",
+   "text": "Nisâ, 4/87."
+  },
+  {
+   "id": "1766",
+   "text": "Nisâ, 4/59."
+  },
+  {
+   "id": "1767",
+   "text": "B1359 Buhârî, Cenâiz, 79."
+  },
+  {
+   "id": "1768",
+   "text": "Teğâbün, 64/12."
+  },
+  {
+   "id": "1769",
+   "text": "Ahzâb, 33/66-67."
+  },
+  {
+   "id": "1770",
+   "text": "En’âm, 6/14."
+  },
+  {
+   "id": "1771",
+   "text": "En’âm, 6/106."
+  },
+  {
+   "id": "1772",
+   "text": "Ahzâb, 33/1."
+  },
+  {
+   "id": "1773",
+   "text": "Âl-i İmrân, 3/32, 132; Mâide, 5/92."
+  },
+  {
+   "id": "1774",
+   "text": "Nisâ, 4/80."
+  },
+  {
+   "id": "1775",
+   "text": "Âl-i İmrân, 3/31."
+  },
+  {
+   "id": "1776",
+   "text": "En’âm, 6/89-90."
+  },
+  {
+   "id": "1777",
+   "text": "Ahzâb, 33/21."
+  },
+  {
+   "id": "1778",
+   "text": "B7288 Buhârî, İ’tisâm, 2."
+  },
+  {
+   "id": "1779",
+   "text": "Nûr, 24/54."
+  },
+  {
+   "id": "1780",
+   "text": "Bakara, 2/151."
+  },
+  {
+   "id": "1781",
+   "text": "M4749 Müslim, İmâre, 33."
+  },
+  {
+   "id": "1782",
+   "text": "Nisâ, 4/80."
+  },
+  {
+   "id": "1783",
+   "text": "B6632 Buhârî, Eymân ve nüzûr, 3."
+  },
+  {
+   "id": "1784",
+   "text": "B15 Buhârî, Îmân, 8; M169 Müslim, Îmân, 70."
+  },
+  {
+   "id": "1785",
+   "text": "Enfâl, 8/72, 74, 75; Tevbe, 9/88, 100."
+  },
+  {
+   "id": "1786",
+   "text": "Ahzâb, 33/36."
+  },
+  {
+   "id": "1787",
+   "text": "M2436 Müslim, Zekât, 132."
+  },
+  {
+   "id": "1788",
+   "text": "Âl-i İmrân, 3/31."
+  },
+  {
+   "id": "1789",
+   "text": "M6127 Müslim, Fedâil, 140."
+  },
+  {
+   "id": "1790",
+   "text": "ME1030 Taberânî, el-Mu’cemü’l-evsat, I, 306-307."
+  },
+  {
+   "id": "1791",
+   "text": "HS37 İbn Hişâm, Sîret, III, 167-168."
+  },
+  {
+   "id": "1792",
+   "text": "D2231 Ebû Dâvûd, Talâk, 18, 19."
+  },
+  {
+   "id": "1793",
+   "text": "B4251 Buhârî, Meğâzî, 43."
+  },
+  {
+   "id": "1794",
+   "text": "B3039 Buhârî, Cihâd, 164."
+  },
+  {
+   "id": "1795",
+   "text": "Âl-i İmrân, 3/152."
+  },
+  {
+   "id": "1796",
+   "text": "Hucurât, 49/1-5."
+  },
+  {
+   "id": "1797",
+   "text": "Ahzâb, 33/21."
+  },
+  {
+   "id": "1798",
+   "text": "MU1643 Muvatta’, Hüsnü’l-huluk, 1."
+  },
+  {
+   "id": "1799",
+   "text": "M1739 Müslim, Müsâfirîn, 139."
+  },
+  {
+   "id": "1800",
+   "text": "Nisâ, 4/80."
+  },
+  {
+   "id": "1801",
+   "text": "B7485 Buhârî, Tevhîd, 33."
+  },
+  {
+   "id": "1802",
+   "text": "Nisâ, 4/13; Nisâ, 4/69; Ahzâb, 33/71."
+  },
+  {
+   "id": "1803",
+   "text": "B7280 Buhârî, İ’tisâm, 2."
+  },
+  {
+   "id": "1804",
+   "text": "Nisâ, 4/14."
+  },
+  {
+   "id": "1805",
+   "text": "Mücâdele, 58/5."
+  },
+  {
+   "id": "1806",
+   "text": "D1097 Ebû Dâvûd, Salât, 221, 223."
+  }
+ ]
+}
