@@ -297,6 +297,16 @@ def convert(epub_path, book_id, out_root):
         (out / f'{n}.json').write_text(json.dumps(chapter, ensure_ascii=False, indent=1), encoding='utf-8')
         chapters.append({'n': n, 'title': chapter_title, **({'part': part} if part else {})})
 
+    # The book list's title, when the book is in it: EPUB titles are sometimes styled differently.
+    index_path = Path(out_root) / 'index.json'
+    if index_path.exists():
+        listed = next(
+            (b for b in json.loads(index_path.read_text(encoding='utf-8'))['books'] if b['id'] == book_id),
+            None,
+        )
+        if listed:
+            title = listed['title']
+
     (out / 'book.json').write_text(
         json.dumps({'id': book_id, 'title': title, 'chapters': chapters}, ensure_ascii=False, indent=2),
         encoding='utf-8',
