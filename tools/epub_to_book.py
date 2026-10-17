@@ -180,12 +180,15 @@ def block_from(element):
 
 
 def continues(previous, block):
-    """A paragraph split by a line break in the layout: no sentence end, then a lowercase start."""
+    """A paragraph split by a line break in the layout: it ends with a comma, or with no sentence
+    end before a lowercase start."""
     if previous.get('type') != 'paragraph' or block.get('type') != 'paragraph':
         return False
     before = plain(previous['parts']) if 'parts' in previous else previous['text']
     after = plain(block['parts']) if 'parts' in block else block['text']
-    return bool(before) and not before.endswith(SENTENCE_END) and after[:1].islower()
+    if not before or not after:
+        return False
+    return before.endswith(',') or (not before.endswith(SENTENCE_END) and after[:1].islower())
 
 
 def as_parts(block):

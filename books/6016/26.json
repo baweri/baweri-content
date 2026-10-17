@@ -809,7 +809,7 @@
    "type": "paragraph",
    "parts": [
     {
-     "text": "“İlim ilim bilmektir,",
+     "text": "“İlim ilim bilmektir, İlim kendin bilmektir.",
      "italic": true
     }
    ]
@@ -818,25 +818,7 @@
    "type": "paragraph",
    "parts": [
     {
-     "text": "İlim kendin bilmektir.",
-     "italic": true
-    }
-   ]
-  },
-  {
-   "type": "paragraph",
-   "parts": [
-    {
-     "text": "Sen kendini bilmezsin,",
-     "italic": true
-    }
-   ]
-  },
-  {
-   "type": "paragraph",
-   "parts": [
-    {
-     "text": "Ya nice okumaktır?!”",
+     "text": "Sen kendini bilmezsin, Ya nice okumaktır?!”",
      "italic": true
     }
    ]
