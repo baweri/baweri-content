@@ -1,0 +1,531 @@
+{
+  "id": 6027,
+  "title": "Riyâzü's Sâlihîn 3",
+  "version": 2,
+  "chapters": [
+    {
+      "n": 1,
+      "title": "İlmin Fazileti"
+    },
+    {
+      "n": 2,
+      "title": "Allah’a Hamd ve Şükretmek"
+    },
+    {
+      "n": 3,
+      "title": "Resûlullah’a Salavât Getirmek"
+    },
+    {
+      "n": 4,
+      "title": "Allah’ı Anmak (Zikir)"
+    },
+    {
+      "n": 5,
+      "title": "Allah’ı Her Durumda Anmak"
+    },
+    {
+      "n": 6,
+      "title": "Yatarken ve Uyanınca Yapılacak Dua"
+    },
+    {
+      "n": 7,
+      "title": "Zikir Meclislerine Katılmak"
+    },
+    {
+      "n": 8,
+      "title": "Sabah Akşam Allah’ı Zikretmek"
+    },
+    {
+      "n": 9,
+      "title": "Uyumadan Önce Okunacak Dualar"
+    },
+    {
+      "n": 10,
+      "title": "Duanın Fazileti"
+    },
+    {
+      "n": 11,
+      "title": "Başkasına Gıyabında Dua Etmenin Fazileti"
+    },
+    {
+      "n": 12,
+      "title": "Dua Âdâbı"
+    },
+    {
+      "n": 13,
+      "title": "Allah Dostlarının Keramet ve Faziletleri"
+    },
+    {
+      "n": 14,
+      "title": "Gıybet"
+    },
+    {
+      "n": 15,
+      "title": "Gıybet Edenleri Dinlememek"
+    },
+    {
+      "n": 16,
+      "title": "Sakıncası Olmayan Gıybet"
+    },
+    {
+      "n": 17,
+      "title": "Laf Taşımamak (Nemîme)"
+    },
+    {
+      "n": 18,
+      "title": "İnsanları Gammazlamamak"
+    },
+    {
+      "n": 19,
+      "title": "İkiyüzlülük"
+    },
+    {
+      "n": 20,
+      "title": "Yalan"
+    },
+    {
+      "n": 21,
+      "title": "Yalan Söylenebilecek Yerler"
+    },
+    {
+      "n": 22,
+      "title": "Bilinçli ve Doğru Konuşma"
+    },
+    {
+      "n": 23,
+      "title": "Yalancı Şahitlik"
+    },
+    {
+      "n": 24,
+      "title": "İnsanlara ve Hayvanlara Lânet Etmemek"
+    },
+    {
+      "n": 25,
+      "title": "Günahkârlığı Telin Etmek"
+    },
+    {
+      "n": 26,
+      "title": "Müslümana Hakaret Etmenin Günahı"
+    },
+    {
+      "n": 27,
+      "title": "Ölülere Sövmemek"
+    },
+    {
+      "n": 28,
+      "title": "İnsanlara Eziyet Etmemek"
+    },
+    {
+      "n": 29,
+      "title": "Kin Gütmemek, İlişkiyi Kesmemek ve İnsanlara Sırt Çevirmemek"
+    },
+    {
+      "n": 30,
+      "title": "Kıskançlık"
+    },
+    {
+      "n": 31,
+      "title": "Başkalarının Ayıplarını Araştırmamak"
+    },
+    {
+      "n": 32,
+      "title": "Sû-i Zanda Bulunmamak"
+    },
+    {
+      "n": 33,
+      "title": "Müslümanı Küçümsememek"
+    },
+    {
+      "n": 34,
+      "title": "Müslümanın Başına Gelen Felakete Sevinmemek"
+    },
+    {
+      "n": 35,
+      "title": "İnsanların Soylarına Dil Uzatmamak"
+    },
+    {
+      "n": 36,
+      "title": "Hile ve Aldatma"
+    },
+    {
+      "n": 37,
+      "title": "Ahde Vefasızlık"
+    },
+    {
+      "n": 38,
+      "title": "İyilikleri Başa Kakmamak"
+    },
+    {
+      "n": 39,
+      "title": "Böbürlenmemek ve Haddini Aşmamak"
+    },
+    {
+      "n": 40,
+      "title": "Üç Günden Fazla Küs Durmamak"
+    },
+    {
+      "n": 41,
+      "title": "Başkalarının Yanında Birisiyle Gizli Konuşmamak"
+    },
+    {
+      "n": 42,
+      "title": "İşkence Etmemek"
+    },
+    {
+      "n": 43,
+      "title": "Canlıları Yakmamak"
+    },
+    {
+      "n": 44,
+      "title": "Borcunu Ödemeyi Geciktirmemek"
+    },
+    {
+      "n": 45,
+      "title": "Hibeden Vazgeçmek"
+    },
+    {
+      "n": 46,
+      "title": "Yetim Malı Yememek"
+    },
+    {
+      "n": 47,
+      "title": "Faiz (Riba) Yememek"
+    },
+    {
+      "n": 48,
+      "title": "Gösteriş (Riya) Yapmamak"
+    },
+    {
+      "n": 49,
+      "title": "Riyayı Andıran Şeyler"
+    },
+    {
+      "n": 50,
+      "title": "Harama Bakmamak"
+    },
+    {
+      "n": 51,
+      "title": "Nâmahrem Bir Kadınla Başbaşa Kalmamak"
+    },
+    {
+      "n": 52,
+      "title": "Karşı Cinse Benzemeye Çalışmamak"
+    },
+    {
+      "n": 53,
+      "title": "Başka Milletlere Özenmemek"
+    },
+    {
+      "n": 54,
+      "title": "Saçları Siyaha Boyamamak"
+    },
+    {
+      "n": 55,
+      "title": "Saç Kestirme Âdâbı"
+    },
+    {
+      "n": 56,
+      "title": "Peruk Takmamak, Dövme Yaptırmamak ve Estetik Amaçla Dişleri Seyrekleştirmemek"
+    },
+    {
+      "n": 57,
+      "title": "Saç ve Sakaldaki Beyaz Kılları Koparmamak"
+    },
+    {
+      "n": 58,
+      "title": "Sağ Elle Taharetlenmemek"
+    },
+    {
+      "n": 59,
+      "title": "Ayakkabı Giyme Âdâbı"
+    },
+    {
+      "n": 60,
+      "title": "Yangına Karşı Tedbir Almak"
+    },
+    {
+      "n": 61,
+      "title": "İşleri Zora Koşmamak"
+    },
+    {
+      "n": 62,
+      "title": "Cenazenin Ardından Yas Tutmak"
+    },
+    {
+      "n": 63,
+      "title": "Kâhin, Falcı, Medyum ve Benzerlerine İnanmamak"
+    },
+    {
+      "n": 64,
+      "title": "Uğursuzluk"
+    },
+    {
+      "n": 65,
+      "title": "Canlı Resmi Yapmamak"
+    },
+    {
+      "n": 66,
+      "title": "Köpek Edinmemek"
+    },
+    {
+      "n": 67,
+      "title": "Hayvanlara Çan Takmamak"
+    },
+    {
+      "n": 68,
+      "title": "Pislik Yemeye Alışmış Hayvana Binmemek"
+    },
+    {
+      "n": 69,
+      "title": "Mescitleri Kirletmemek"
+    },
+    {
+      "n": 70,
+      "title": "Mescit Âdâbı"
+    },
+    {
+      "n": 71,
+      "title": "Kötü Kokularla Camiye Gitmemek"
+    },
+    {
+      "n": 72,
+      "title": "Hutbe Dinlerken Oturma Adabı"
+    },
+    {
+      "n": 73,
+      "title": "Hacılara Benzemek İçin Zilhiccenin Başından İtibaren Kurban Kesinceye Kadar Saçın ve Tırnakların Kesilmemesi"
+    },
+    {
+      "n": 74,
+      "title": "Yasaklanan Yeminler"
+    },
+    {
+      "n": 75,
+      "title": "Bilerek Yalan Yere Yemin Etmemek"
+    },
+    {
+      "n": 76,
+      "title": "Yemin Kefâreti"
+    },
+    {
+      "n": 77,
+      "title": "Boş Yere Yapılan Yeminler İçin Kefâretin Olmaması"
+    },
+    {
+      "n": 78,
+      "title": "Alışverişte Yemin Etmemek"
+    },
+    {
+      "n": 79,
+      "title": "Allah İçin İstemek"
+    },
+    {
+      "n": 80,
+      "title": "Yöneticilere Hitap Tarzı"
+    },
+    {
+      "n": 81,
+      "title": "Fasık ve Zalimlere Hitap Tarzı"
+    },
+    {
+      "n": 82,
+      "title": "Hastalıklara Sövmemek"
+    },
+    {
+      "n": 83,
+      "title": "Rüzgâra Sövmemek"
+    },
+    {
+      "n": 84,
+      "title": "Horoza Sövmemek"
+    },
+    {
+      "n": 85,
+      "title": "Yağmurun Yağmasını Başka Sebeplere Bağlamamak"
+    },
+    {
+      "n": 86,
+      "title": "Müslümana Kâfir Dememek"
+    },
+    {
+      "n": 87,
+      "title": "Kötü ve Çirkin Söz Söylememek"
+    },
+    {
+      "n": 88,
+      "title": "Konuşma Âdâbı"
+    },
+    {
+      "n": 89,
+      "title": "Kendi Nefsini Aşağılamamak"
+    },
+    {
+      "n": 90,
+      "title": "Kötü Şeylere İyi İsimler Vermemek"
+    },
+    {
+      "n": 91,
+      "title": "Kadınların Güzelliklerini Başkalarına Anlatmamak"
+    },
+    {
+      "n": 92,
+      "title": "Dua Üslûbu"
+    },
+    {
+      "n": 93,
+      "title": "“Allah ve Falan Kimse Dilerse” Dememek"
+    },
+    {
+      "n": 94,
+      "title": "Yatsıdan Sonra Sohbet Etmemek"
+    },
+    {
+      "n": 95,
+      "title": "Kadının Kocasına Karşı Yükümlülükleri"
+    },
+    {
+      "n": 96,
+      "title": "Hanımın, Kocasından İzinsiz Nafile Oruç Tutmaması"
+    },
+    {
+      "n": 97,
+      "title": "İmamdan Evvel Rükû veya Secdeye Gitmemek"
+    },
+    {
+      "n": 98,
+      "title": "Namazda Eli Böğre Koymamak"
+    },
+    {
+      "n": 99,
+      "title": "Yemek Hazırken veya Tuvalet İhtiyacı Varken Namaza Durmamak"
+    },
+    {
+      "n": 100,
+      "title": "Namazda Göğe Bakmamak"
+    },
+    {
+      "n": 101,
+      "title": "Namazda Sağa Sola Bakınmamak"
+    },
+    {
+      "n": 102,
+      "title": "Kabre Doğru Namaz Kılmamak"
+    },
+    {
+      "n": 103,
+      "title": "Namaz Kılan Kimsenin Önünden Geçmemek"
+    },
+    {
+      "n": 104,
+      "title": "Namaz İçin Kâmet Getirildikten Sonra Nafile Namaza Başlamamak"
+    },
+    {
+      "n": 105,
+      "title": "Sadece Cuma Gününü Oruçla ve Gecesini İbadetle Geçirmemek"
+    },
+    {
+      "n": 106,
+      "title": "Visâl Orucu Tutmamak"
+    },
+    {
+      "n": 107,
+      "title": "Kabir Üstüne Oturmamak"
+    },
+    {
+      "n": 108,
+      "title": "Kabirler Üzerine Yapı Yapmamak"
+    },
+    {
+      "n": 109,
+      "title": "Efendisinden Kaçan Kölenin Durumu"
+    },
+    {
+      "n": 110,
+      "title": "Cezalarda Ayrımcılık Yapmamak"
+    },
+    {
+      "n": 111,
+      "title": "Topluma Rahatsızlık Veren Şeylerden Sakınmak"
+    },
+    {
+      "n": 112,
+      "title": "Çocuklara Bağış Yaparken Eşit Davranmak"
+    },
+    {
+      "n": 113,
+      "title": "Kadının Yas Tutması"
+    },
+    {
+      "n": 114,
+      "title": "Alışveriş ile İlgili Bazı Yasaklar"
+    },
+    {
+      "n": 115,
+      "title": "Meşru Olmayan Yerlere Harcama Yapmamak"
+    },
+    {
+      "n": 116,
+      "title": "Müslümana Silah Çekmemek"
+    },
+    {
+      "n": 117,
+      "title": "Ezan Okunduktan Sonra Camiden Çıkmamak"
+    },
+    {
+      "n": 118,
+      "title": "İkram Edilen Güzel Kokuyu Geri Çevirmemek"
+    },
+    {
+      "n": 119,
+      "title": "İnsanları Yüzlerine Karşı Övmemek"
+    },
+    {
+      "n": 120,
+      "title": "Karantina"
+    },
+    {
+      "n": 121,
+      "title": "Büyü"
+    },
+    {
+      "n": 122,
+      "title": "Zarar Görebileceği Yerlere Kur’an’ı Götürmemek"
+    },
+    {
+      "n": 123,
+      "title": "Altın ve Gümüş Kapları Kullanmamak"
+    },
+    {
+      "n": 124,
+      "title": "Erkeklerin Giyimi"
+    },
+    {
+      "n": 125,
+      "title": "Gün Boyunca Susmamak"
+    },
+    {
+      "n": 126,
+      "title": "Başkasını Kendi Babası Kabul Etmemek"
+    },
+    {
+      "n": 127,
+      "title": "Allah ve Peygamber’in Yasaklarını İşlememek"
+    },
+    {
+      "n": 128,
+      "title": "Yasakları Çiğneyenin Tövbesi"
+    },
+    {
+      "n": 129,
+      "title": "Muhtelif Konularda Hadisler"
+    },
+    {
+      "n": 130,
+      "title": "Af Dileme (İstiğfar)"
+    },
+    {
+      "n": 131,
+      "title": "Allah’ın Müminlere Cennette Hazırladığı Nimetler"
+    }
+  ]
+}

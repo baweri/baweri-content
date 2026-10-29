@@ -1,0 +1,559 @@
+{
+  "id": 6042,
+  "title": "Tecrîd-i Sarîh 4",
+  "version": 2,
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Kitâbü’l-cenâiz"
+    },
+    {
+      "n": 2,
+      "title": "Râviler, Rivayetler"
+    },
+    {
+      "n": 3,
+      "title": "Râviler, Rivayetler"
+    },
+    {
+      "n": 4,
+      "title": "Altın Nişan Halkası İstimali"
+    },
+    {
+      "n": 5,
+      "title": "Hazret-i Âişe Hadisinden Müstefâd Olan Hükümler"
+    },
+    {
+      "n": 6,
+      "title": "Râviler, Rivayetler"
+    },
+    {
+      "n": 7,
+      "title": "Bu Hadisten Vücûhu Müteaddide ile Ahkâm İstinbat Edilmiştir"
+    },
+    {
+      "n": 8,
+      "title": "623. Hadis Mûte Kumandanları ve Serâmedân-ı Şühedâsı Zeyd, Ca‘fer, İbn Revâha Hazerâtının Şehâdetlerini Resûl-i Ekrem’in Ağlayarak Minber Üzerinde Haber Verdiğine Dair Enes b. Mâlik Hadisi"
+    },
+    {
+      "n": 9,
+      "title": "Hadîs-i Şeriften Müstefâd Olan Ulvî Bir Tesliye"
+    },
+    {
+      "n": 10,
+      "title": "Bu Babda da Ehl-i İlmin Muhtelif Ârâ ve Efkârına Şahit Oluyoruz"
+    },
+    {
+      "n": 11,
+      "title": "Fıkhî Hükümler"
+    },
+    {
+      "n": 12,
+      "title": "Kadın Cenazesinin Suret-i Tekfîni"
+    },
+    {
+      "n": 13,
+      "title": "Fıkhî Hükümler"
+    },
+    {
+      "n": 14,
+      "title": "İbn Ömer Hadisinden İstifade Edilen Hükümler"
+    },
+    {
+      "n": 15,
+      "title": "Fıkhî Hükümler"
+    },
+    {
+      "n": 16,
+      "title": "Fıkhî Hükümler"
+    },
+    {
+      "n": 17,
+      "title": "Râviler, Rivayetler"
+    },
+    {
+      "n": 18,
+      "title": "Râviler, Rivayetler"
+    },
+    {
+      "n": 19,
+      "title": "Zeyneb Bint Cahş"
+    },
+    {
+      "n": 20,
+      "title": "Kabir Ziyaretinden Nehyedilmenin Sebep ve Hikmeti"
+    },
+    {
+      "n": 21,
+      "title": "Nevhasız Ağlamanın Cevazı Hakkında Pek Çok Eser Vardır. Bazılarını Nakl Ü Tercüme Ediyoruz"
+    },
+    {
+      "n": 22,
+      "title": "Fıkhî Hükümler"
+    },
+    {
+      "n": 23,
+      "title": "Lugavî Tahliller"
+    },
+    {
+      "n": 24,
+      "title": "Râviler, Rivayetler"
+    },
+    {
+      "n": 25,
+      "title": "İmam Buhârî’nin Unvansız Bir Babı"
+    },
+    {
+      "n": 26,
+      "title": "Râviler, Rivayetler"
+    },
+    {
+      "n": 27,
+      "title": "Fıkhî Hükümler"
+    },
+    {
+      "n": 28,
+      "title": "Lugavî Tahliller"
+    },
+    {
+      "n": 29,
+      "title": "Râviler, Rivayetler ve Terceme-i Hâller"
+    },
+    {
+      "n": 30,
+      "title": "Terceme-i Hâller"
+    },
+    {
+      "n": 31,
+      "title": "Tarihî İzahlar"
+    },
+    {
+      "n": 32,
+      "title": "647. Hadis Resûl-i Ekrem’in Sa‘d b. Ubâde Hazretlerini Maraz-ı Mevtinde İyâde Buyurup Ağlaması Dair İbn Ömer Hadisi"
+    },
+    {
+      "n": 33,
+      "title": "Terceme-i Haller"
+    },
+    {
+      "n": 34,
+      "title": "Râviler, Rivayetler"
+    },
+    {
+      "n": 35,
+      "title": "Râviler, Rivayetler"
+    },
+    {
+      "n": 36,
+      "title": "Râviler, Rivayetler"
+    },
+    {
+      "n": 37,
+      "title": "Mânalar"
+    },
+    {
+      "n": 38,
+      "title": "Fıkhî Hükümler"
+    },
+    {
+      "n": 39,
+      "title": "Medfun Olan Meyyite Namaz Kılmak Hususunda Ulemânın İctihadları"
+    },
+    {
+      "n": 40,
+      "title": "Terceme-i Hâller"
+    },
+    {
+      "n": 41,
+      "title": "Fıkhî Hükümler"
+    },
+    {
+      "n": 42,
+      "title": "Cenaze Namazında Tekbir ve Sübhâneke Duası"
+    },
+    {
+      "n": 43,
+      "title": "Kabir Azabı Hakkındaki Ehâdîs-i Şerifeler"
+    },
+    {
+      "n": 44,
+      "title": "Râviler, Rivayetler"
+    },
+    {
+      "n": 45,
+      "title": "Bu Hadisten Müstefâd Olan Hükümler"
+    },
+    {
+      "n": 46,
+      "title": "Resûl-i Ekrem’in Ashabına Yüksek Bir İtimadı ve Sebebi"
+    },
+    {
+      "n": 47,
+      "title": "Lugavî Tahliller ve Mânalar"
+    },
+    {
+      "n": 48,
+      "title": "663. Hadis Resûl-i Ekrem’in Hâdimi Bulunan Bir Yahudi Çocuğunu Maraz-ı Mevtinde İyâde Buyurup Tâlim-i Dîn Ettiklerine Dair Enes Hadisi"
+    },
+    {
+      "n": 49,
+      "title": "Fıtrî Din İslâm Dinidir, Tevhid Dinidir ve Bir Allah’a İman Dinidir."
+    },
+    {
+      "n": 50,
+      "title": "Terceme-i Hâller"
+    },
+    {
+      "n": 51,
+      "title": "Mânalar"
+    },
+    {
+      "n": 52,
+      "title": "Fıkhî Hükümler"
+    },
+    {
+      "n": 53,
+      "title": "Râviler, Rivayetler"
+    },
+    {
+      "n": 54,
+      "title": "669. Hadis İntiharın Nevine Göre Müntehirin Azap Olunacağına Dair Ebû Hüreyre Hadisi"
+    },
+    {
+      "n": 55,
+      "title": "Lugavî İzahlar"
+    },
+    {
+      "n": 56,
+      "title": "Râviler, Rivayetler"
+    },
+    {
+      "n": 57,
+      "title": "672. Hadis Kabir Azabına Dair Berâ b. Âzîb Hadisi"
+    },
+    {
+      "n": 58,
+      "title": "Râviler, Rivayetler"
+    },
+    {
+      "n": 59,
+      "title": "Râviler, Rivayetler"
+    },
+    {
+      "n": 60,
+      "title": "Terceme-i Hâl"
+    },
+    {
+      "n": 61,
+      "title": "Mânalar"
+    },
+    {
+      "n": 62,
+      "title": "677. Hadis Resûl-i Ekrem’in Kabir Azabından İstiâze Buyurduğuna Dair Ebû Hüreyre Hadisi"
+    },
+    {
+      "n": 63,
+      "title": "Müstefâd Olan Hükümler"
+    },
+    {
+      "n": 64,
+      "title": "Mühim Bir Şüphenin İzah ve İzâlesi"
+    },
+    {
+      "n": 65,
+      "title": "Mânalar"
+    },
+    {
+      "n": 66,
+      "title": "681. Hadis Evlâd-ı Müşrikîn Hakkında Semüre Hadisi"
+    },
+    {
+      "n": 67,
+      "title": "682. Hadis Meyyit Namına Yapılacak Hayırdan Müteveffanın Müsâb Olacağına Dair Hazret-i Âişe Hadisi"
+    },
+    {
+      "n": 68,
+      "title": "Mânalar"
+    },
+    {
+      "n": 69,
+      "title": "Bu Rivayeti İzah Eden Diğer Rivayetler"
+    },
+    {
+      "n": 70,
+      "title": "Mânalar"
+    },
+    {
+      "n": 71,
+      "title": "Kitâbü’z-zekât"
+    },
+    {
+      "n": 72,
+      "title": "Zekâtın Farz Kılındığı Tarih Hakkında İhtilâf Edilmiştir"
+    },
+    {
+      "n": 73,
+      "title": "Mânalar"
+    },
+    {
+      "n": 74,
+      "title": "688. Hadis Bu Babda Ebû Hüreyre’den Rivayet Olunan A‘râbî Hadisi"
+    },
+    {
+      "n": 75,
+      "title": "Bu İrtidad ve İrticaın Tarihî Safhası"
+    },
+    {
+      "n": 76,
+      "title": "Müstefad Olan Hükümler"
+    },
+    {
+      "n": 77,
+      "title": "Hükümler"
+    },
+    {
+      "n": 78,
+      "title": "Riyâset-i Celîleden Bir Temenni"
+    },
+    {
+      "n": 79,
+      "title": "Mânalar"
+    },
+    {
+      "n": 80,
+      "title": "Hükümler"
+    },
+    {
+      "n": 81,
+      "title": "695. Hadis Zekâta Müsâreat Hakkında Ebû Hüreyre Hadisi"
+    },
+    {
+      "n": 82,
+      "title": "Terceme-i Hâl"
+    },
+    {
+      "n": 83,
+      "title": "697. Hadis Âhir Zamanda Harp Çokluğundan Erkek Azalıp Kadın Çoğalacağına Hatta Bir Erkeğin Kırk Kadının Vekîl-i Umûru Olacağına Dair Ebû Mûsâ el-Eş‘arî Hadisi"
+    },
+    {
+      "n": 84,
+      "title": "Râviler, Rivayetler"
+    },
+    {
+      "n": 85,
+      "title": "699. Hadis Hazret-i Âişe’nin Bir Hurma Sadaka Buyurmaları. Âişe Hazretleri Bir Kere de Kendisine Muâviye Tarafından Hediye Edilen İki Kese Altını Bir Günde Fukaraya Dağıtmış, Akşam Vakti Zeytin Ekmekle İftar Etmişti"
+    },
+    {
+      "n": 86,
+      "title": "Mânalar"
+    },
+    {
+      "n": 87,
+      "title": "Râviler, Rivayetler"
+    },
+    {
+      "n": 88,
+      "title": "Müstefâd Olan Hükümler"
+    },
+    {
+      "n": 89,
+      "title": "703. Hadis Zekâtın Fazîlet-i Ahlâka Hizmeti Hakkında Ma‘n b. Yezîd b. Ahnes Hadisi"
+    },
+    {
+      "n": 90,
+      "title": "Hazret-i Âişe Hadisinden Müstefâd Olan Fıkhî ve İçtimaî Hakikatler"
+    },
+    {
+      "n": 91,
+      "title": "Yed-i Ulyâ ve Yed-i Süflâ"
+    },
+    {
+      "n": 92,
+      "title": "706. Hadis Tese’ülden Tahzire Dair İbn Ömer Hadisi"
+    },
+    {
+      "n": 93,
+      "title": "Râviler, Rivayetler"
+    },
+    {
+      "n": 94,
+      "title": "Râviler, Rivayetler"
+    },
+    {
+      "n": 95,
+      "title": "Müstefâd Olan Hükümler"
+    },
+    {
+      "n": 96,
+      "title": "Hadisten Müstefâd Olan Hükümler"
+    },
+    {
+      "n": 97,
+      "title": "Müstefâd Olan Hükümler"
+    },
+    {
+      "n": 98,
+      "title": "Hadisin Arzettiği Edebî Üslûp"
+    },
+    {
+      "n": 99,
+      "title": "Râviler, Rivayetler"
+    },
+    {
+      "n": 100,
+      "title": "Râviler, Rivayetler"
+    },
+    {
+      "n": 101,
+      "title": "Hadisten Müstefâd Olan Hükümler"
+    },
+    {
+      "n": 102,
+      "title": "716. Hadis Zekâtta Müteferrik Mal Cemedilmez, Müctemi de Tefrik Olunmaz"
+    },
+    {
+      "n": 103,
+      "title": "Mânalar ve Hükümler"
+    },
+    {
+      "n": 104,
+      "title": "Mânalar"
+    },
+    {
+      "n": 105,
+      "title": "719. Hadis Hazret-i Ebû Bekir’in Enes b. Mâlik’i Bahreyn’e Zekât Âmili Gönderirken Ahkâm-ı Zekâta Dair Verdiği Meşhur Mektubunun Deve ve Koyun Zekâtına Dair Ahkâmı"
+    },
+    {
+      "n": 106,
+      "title": "720. Hadis Bu Mevzuda Enes b. Mâlik’in Diğer Bir Hadisi"
+    },
+    {
+      "n": 107,
+      "title": "Hidâye’de Bu Üç Nevi İctihadın İlmî Esbâb ve Vücuhuna da İşaret Edilerek Deniliyor Ki:"
+    },
+    {
+      "n": 108,
+      "title": "722. Hadis Resûl-i Ekrem Muâz b. Cebel’i Yemen’e Gönderirken Evâmiri Cümlesinden Birisi de: Halkın, Sahibi Nazarında En Kıymetli Malını Zekât Olarak Almaması idi. Bu Hususta İbn Abbas’ın Bir Rivayeti"
+    },
+    {
+      "n": 109,
+      "title": "Hadisten Müstefâd Olan Hükümler"
+    },
+    {
+      "n": 110,
+      "title": "724. Hadis Akrabaya Verilen Sadaka Hakkında Ebû Saîd el-Hudrî Radıyallahu anh Hadisi"
+    },
+    {
+      "n": 111,
+      "title": "Hadisten Müstefâd Olan Hükümler"
+    },
+    {
+      "n": 112,
+      "title": "726. Hadis Resûl-i Ekrem Sallallahu aleyhi ve sellemin Bir Hutbesinde Dünya Mal ve İhtirasının Ümmetini Dalâlete Sevketmesinden Endişelendiğine Dair Ebû Saîd el-Hudrî Hadisi, Bu Endişelerini İki Veçhile Beliğ Bir Surette Temsil Buyurmaları"
+    },
+    {
+      "n": 113,
+      "title": "Râviler, Rivayetler"
+    },
+    {
+      "n": 114,
+      "title": "728. Hadis Bu Mevzuda Ümmü Seleme’nin Diğer Bir Hadisi"
+    },
+    {
+      "n": 115,
+      "title": "729. Hadis İbn Cemîl’in Zekâttan İmtinâı ve Resûl-i Ekrem’in İtâbı"
+    },
+    {
+      "n": 116,
+      "title": "Râviler, Rivayetler"
+    },
+    {
+      "n": 117,
+      "title": "731. Hadis Tese’ülden Tenfîr ve Alın Teriyle Kazanmaya Tergībe Dair Ebû Hüreyre’nin Rivayet Ettiği İhtitâb Hadisi"
+    },
+    {
+      "n": 118,
+      "title": "732. Hadis Bu Babda Zübeyr b. Avvâm Hadisi"
+    },
+    {
+      "n": 119,
+      "title": "Lugavî Tahliller"
+    },
+    {
+      "n": 120,
+      "title": "Hadisten Müstefâd Olan Hükümler"
+    },
+    {
+      "n": 121,
+      "title": "Rivayetler, Mânalar"
+    },
+    {
+      "n": 122,
+      "title": "736. Hadis Miskin, Kapılarda Dolaşan, Halktan Bir İki Lokma Ekmek, Bir İki Hurma Alan Kimse Değil, Hakiki Miskin Hiçbir Şeye Mâlik Olmayıp Halka İzhâr-ı Hâl Etmeyen Ashâb-ı İffettir"
+    },
+    {
+      "n": 123,
+      "title": "Harsın İcrâsı Vâcip Midir Yoksa Müstehap Mıdır?"
+    },
+    {
+      "n": 124,
+      "title": "Hadisten Müstefâd Olan Hükümler"
+    },
+    {
+      "n": 125,
+      "title": "Râviler, Rivayetler"
+    },
+    {
+      "n": 126,
+      "title": "Rivayetler, Mânalar"
+    },
+    {
+      "n": 127,
+      "title": "Müstefâd Olan Hükümler"
+    },
+    {
+      "n": 128,
+      "title": "742. Hadis Berîre’ye Sadaka Verilen Bir Parça Et Hakkında Ebû Hüreyre Hadisi"
+    },
+    {
+      "n": 129,
+      "title": "743. Hadis Mazlumun Bedduasından Tahzire Dair Muâz b. Cebel Hadisi"
+    },
+    {
+      "n": 130,
+      "title": "Bir Terceme-i Hâl"
+    },
+    {
+      "n": 131,
+      "title": "Bu Hadisin Zekât Bahsiyle Vech-i Münâsebeti"
+    },
+    {
+      "n": 132,
+      "title": "Şimdi Ebû Hanîfe Hazretleri Lisanından Cevap Vereceğiz"
+    },
+    {
+      "n": 133,
+      "title": "Bazı Mesâil-i Mühimme"
+    },
+    {
+      "n": 134,
+      "title": "748. Hadis Tahnîk-i Nebî Aleyhisselâm"
+    },
+    {
+      "n": 135,
+      "title": "Sadaka-i Fıtır Bahsi"
+    },
+    {
+      "n": 136,
+      "title": "Kudret-i Mümekkine ve Kudret-i Müyessire"
+    },
+    {
+      "n": 137,
+      "title": "İstifade Edilen Hükümler"
+    },
+    {
+      "n": 138,
+      "title": "751. Hadis Sadaka-i Fıtrın Envâı, Mekādiri, Mükellefi Hakkında Abdullah b. ÖmerHadisi"
+    }
+  ]
+}

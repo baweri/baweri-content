@@ -1,0 +1,211 @@
+{
+  "id": 6017,
+  "title": "Hadislerle İslam 2",
+  "version": 3,
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Hadislerle İslâm 2"
+    },
+    {
+      "n": 2,
+      "title": "Mükellefiyet: İnsanî Yükümlülük"
+    },
+    {
+      "n": 3,
+      "title": "İbadet: Kulluğun Gereği"
+    },
+    {
+      "n": 4,
+      "title": "Dua: Kulluğun Özü"
+    },
+    {
+      "n": 5,
+      "title": "Dua Âdâbı: Rabbe Yöneliş"
+    },
+    {
+      "n": 6,
+      "title": "Kunut: Allah’ın Huzurunda Duaya Durmak"
+    },
+    {
+      "n": 7,
+      "title": "Şükür: Nimetlerin Kadrini Bilmek!"
+    },
+    {
+      "n": 8,
+      "title": "Zikir: Allah’ı Anmak"
+    },
+    {
+      "n": 9,
+      "title": "Tevbe: Günahtan Dönen Günahsız Gibidir"
+    },
+    {
+      "n": 10,
+      "title": "Temizlik: Maddî ve Mânevî Arınma"
+    },
+    {
+      "n": 11,
+      "title": "Abdest ve Teyemmüm: İbadete Mânevî Hazırlık"
+    },
+    {
+      "n": 12,
+      "title": "Gusül: Boy Abdesti"
+    },
+    {
+      "n": 13,
+      "title": "Kadınların Özel Hâlleri: Âdet, Loğusalık ve İstihâze"
+    },
+    {
+      "n": 14,
+      "title": "Namaz: Dinin Direği"
+    },
+    {
+      "n": 15,
+      "title": "Namazın Kılınışı: Kulun Rabbiyle Buluşması"
+    },
+    {
+      "n": 16,
+      "title": "Beş Vakit Farz Namaz: Müminin Miracı"
+    },
+    {
+      "n": 17,
+      "title": "Cemaatle Namaz: Allah’a Birlikte Yöneliş"
+    },
+    {
+      "n": 18,
+      "title": "İmamlık: Cemaate Kılavuz Olmak"
+    },
+    {
+      "n": 19,
+      "title": "Cuma Namazı: Haftalık Buluşma"
+    },
+    {
+      "n": 20,
+      "title": "Hutbe: Minberden Millete Sesleniş"
+    },
+    {
+      "n": 21,
+      "title": "Cenaze Namazı: Mümin Kardeş İçin Yapılan Son Görev"
+    },
+    {
+      "n": 22,
+      "title": "Nafile Namaz: Allah’a Yaklaştıran Secdeler"
+    },
+    {
+      "n": 23,
+      "title": "Teravih Namazı: Ramazan Gecelerinin İhyası"
+    },
+    {
+      "n": 24,
+      "title": "Mübarek Vakitler: Allah’ın Rızasını Kazanma Fırsatları"
+    },
+    {
+      "n": 25,
+      "title": "Namazların Kazası: Kılınamayan Namazın Telâfisi"
+    },
+    {
+      "n": 26,
+      "title": "Mescit ve Camiler: Rahmân’ın Evleri"
+    },
+    {
+      "n": 27,
+      "title": "Ezan: Huzura İlk Çağrı"
+    },
+    {
+      "n": 28,
+      "title": "Ezan: İslâm’ın Çağlar Aşan Çağrısı"
+    },
+    {
+      "n": 29,
+      "title": "Kıble: Müslümanların İstikameti"
+    },
+    {
+      "n": 30,
+      "title": "Kâbe: Allah’ın Evi"
+    },
+    {
+      "n": 31,
+      "title": "Hac: Rabbin Evine Yolculuk"
+    },
+    {
+      "n": 32,
+      "title": "Haccetmek: Hac Arafat’tır"
+    },
+    {
+      "n": 33,
+      "title": "Umre: Mânevî Dünyayı İmar Etmek"
+    },
+    {
+      "n": 34,
+      "title": "Zemzem: İçimi Şifa Mübarek Su"
+    },
+    {
+      "n": 35,
+      "title": "Ramazan: Rahmet, Mağfiret ve Beraat Ayı"
+    },
+    {
+      "n": 36,
+      "title": "Oruç: Yalnız Allah İçin"
+    },
+    {
+      "n": 37,
+      "title": "Oruç Tutmak: Sabır Eğitimi"
+    },
+    {
+      "n": 38,
+      "title": "Sahur ve İftar: Oruçla Gelen Bereket ve Sevinç"
+    },
+    {
+      "n": 39,
+      "title": "İtikâf: Ramazan’da Nefis Muhasebesi"
+    },
+    {
+      "n": 40,
+      "title": "Sadaka-i Fıtır: Varoluş Sadakası"
+    },
+    {
+      "n": 41,
+      "title": "Zekât: Malın Arındırılması"
+    },
+    {
+      "n": 42,
+      "title": "Zekât Vermek: Zekâta Tabi Mallar ve Zekât Nisabı"
+    },
+    {
+      "n": 43,
+      "title": "Zekât: Yoksulun Hakkı"
+    },
+    {
+      "n": 44,
+      "title": "Sadaka: Sadakatin Göstergesi"
+    },
+    {
+      "n": 45,
+      "title": "Hibe: Gönüllü Bağış"
+    },
+    {
+      "n": 46,
+      "title": "Kurban: Allah’a Yakın Olma Vesilesi"
+    },
+    {
+      "n": 47,
+      "title": "Adak: Söze Vefa"
+    },
+    {
+      "n": 48,
+      "title": "Özürlülük ve İbadetler: Gücü Nispetinde Sorumlu Olmak"
+    },
+    {
+      "n": 49,
+      "title": "Yolculukta İbadet: Yolcuya Tanınan Kolaylıklar"
+    },
+    {
+      "n": 50,
+      "title": "Azimet ve Ruhsat: Aslî Hükümler ve Arızî Durumlar"
+    },
+    {
+      "n": 51,
+      "title": "İbadette İtidal: Aşırılıktan Uzak, Ölçülü Kulluk"
+    }
+  ]
+}

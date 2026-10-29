@@ -1,0 +1,255 @@
+{
+  "id": 6038,
+  "title": "Şâfiî Fıkhı 2",
+  "version": 2,
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Şafii Fıkhı"
+    },
+    {
+      "n": 2,
+      "title": "Kolonya"
+    },
+    {
+      "n": 3,
+      "title": "Erkeğin, Nişanlanacağı Kadına Bakması"
+    },
+    {
+      "n": 4,
+      "title": "Resim ve Heykel"
+    },
+    {
+      "n": 5,
+      "title": "Oyun ve Eğlence/Lehviyat"
+    },
+    {
+      "n": 6,
+      "title": "Muhalea"
+    },
+    {
+      "n": 7,
+      "title": "F. Vasiyetle İlgili Hükümler"
+    },
+    {
+      "n": 8,
+      "title": "E. Vesayetle İlgili Hükümler"
+    },
+    {
+      "n": 9,
+      "title": "S. Zevi’l-erham"
+    },
+    {
+      "n": 10,
+      "title": "Doğum Kontrolü"
+    },
+    {
+      "n": 11,
+      "title": "Evlat Edinme"
+    },
+    {
+      "n": 12,
+      "title": "Alışveriş Adâbı"
+    },
+    {
+      "n": 13,
+      "title": "C. Rükünleri"
+    },
+    {
+      "n": 14,
+      "title": "Vadesinde Ödenmeyen Borç İçin Fark Alınması"
+    },
+    {
+      "n": 15,
+      "title": "Şuf’a ile İlgili Hükümler"
+    },
+    {
+      "n": 16,
+      "title": "G. Mudarebe Sermayesine Başka Malların Karıştırılması"
+    },
+    {
+      "n": 17,
+      "title": "K. Mal Sahibiyle İşçinin Anlaşmazlığa Düşmeleri"
+    },
+    {
+      "n": 18,
+      "title": "D. Müzaraa ve Muhâbarada İşçi ile Tarla Sahibi Arasında Müşterek Olan Ürünü Paylaştırma Yöntemi"
+    },
+    {
+      "n": 19,
+      "title": "F-Selemle İlgili Hükümler"
+    },
+    {
+      "n": 20,
+      "title": "İstisna’ Akdi/Sipariş Vermek"
+    },
+    {
+      "n": 21,
+      "title": "D. Karz Akdinin Rükünleri"
+    },
+    {
+      "n": 22,
+      "title": "Rukbâ"
+    },
+    {
+      "n": 23,
+      "title": "Hava Parası"
+    },
+    {
+      "n": 24,
+      "title": "Banka Promosyonları"
+    },
+    {
+      "n": 25,
+      "title": "Leasıng"
+    },
+    {
+      "n": 26,
+      "title": "Teminat Mektubu"
+    },
+    {
+      "n": 27,
+      "title": "Yarışmalarda Ödül Almak"
+    },
+    {
+      "n": 28,
+      "title": "Sigorta Bahsi"
+    },
+    {
+      "n": 29,
+      "title": "I. Sahih Şirketin Sona Ermesi"
+    },
+    {
+      "n": 30,
+      "title": "Kısmet veya Taksimat ile İlgili Hükümler"
+    },
+    {
+      "n": 31,
+      "title": "Ceâlenin İcareden Ayrıldığı Yönler"
+    },
+    {
+      "n": 32,
+      "title": "G. İcar/Kira Akdinde Muhayyerlikler"
+    },
+    {
+      "n": 33,
+      "title": "Bozulan Sulh Akdinin Hükmü"
+    },
+    {
+      "n": 34,
+      "title": "Posta Havalesi"
+    },
+    {
+      "n": 35,
+      "title": "K. Vekâlet Akdinin Sona Ermesi"
+    },
+    {
+      "n": 36,
+      "title": "E. Kefaletin Rükünleri"
+    },
+    {
+      "n": 37,
+      "title": "E. Rehin Akdinin Hükümleri"
+    },
+    {
+      "n": 38,
+      "title": "II. Hukuki Tasarruflar ve Zorlamanın Bunlar Üzerindeki Etkisi"
+    },
+    {
+      "n": 39,
+      "title": "B. Hükmü"
+    },
+    {
+      "n": 40,
+      "title": "C. Âriye ile İlgili Hükümler"
+    },
+    {
+      "n": 41,
+      "title": "D. Emanetle İlgili Hükümler"
+    },
+    {
+      "n": 42,
+      "title": "H. Vakıf Nazırlığı"
+    },
+    {
+      "n": 43,
+      "title": "C. Mefkudun Ölümüne Hükmedilmesi"
+    },
+    {
+      "n": 44,
+      "title": "D. Lakit ile İlgili Hükümler"
+    },
+    {
+      "n": 45,
+      "title": "F. Lukatanın, Bulan Kişinin Malı Hâline Gelmesi"
+    },
+    {
+      "n": 46,
+      "title": "Organ Nakli"
+    },
+    {
+      "n": 47,
+      "title": "Tüp Bebek"
+    },
+    {
+      "n": 48,
+      "title": "Kürtaj"
+    },
+    {
+      "n": 49,
+      "title": "Ötanazi"
+    },
+    {
+      "n": 50,
+      "title": "Meşru Müdafaa"
+    },
+    {
+      "n": 51,
+      "title": "İhmal ve Taksir Sorumluluğunun Hukuki Sonuçları"
+    },
+    {
+      "n": 52,
+      "title": "Beyyineler ve Çeşitleri"
+    },
+    {
+      "n": 53,
+      "title": "İkrar Edilen Şeyle İlgili Şartlar"
+    },
+    {
+      "n": 54,
+      "title": "Şahitlikten Rücu Etmek/Dönmek"
+    },
+    {
+      "n": 55,
+      "title": "İ. Yeminin Sonuçları"
+    },
+    {
+      "n": 56,
+      "title": "Trafik Kazaları"
+    },
+    {
+      "n": 57,
+      "title": "Öldürülen Mürtedle İlgili Hükümler"
+    },
+    {
+      "n": 58,
+      "title": "E. İsraf ve Savurganlık Yapan Sefihin Kısıtlılık/Hacr Altına Alınması"
+    },
+    {
+      "n": 59,
+      "title": "E. İflasla İlgili Hükümler"
+    },
+    {
+      "n": 60,
+      "title": "C. Cinayetin Kısımları"
+    },
+    {
+      "n": 61,
+      "title": "Bibliyografya"
+    },
+    {
+      "n": 62,
+      "title": "Dizin"
+    }
+  ]
+}

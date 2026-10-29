@@ -1,0 +1,663 @@
+{
+  "id": 6026,
+  "title": "Riyâzü's Sâlihîn 2",
+  "version": 2,
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Cömertlik"
+    },
+    {
+      "n": 2,
+      "title": "Cimrilik"
+    },
+    {
+      "n": 3,
+      "title": "Başkasını Kendine Tercih Etmek (Îsâr)"
+    },
+    {
+      "n": 4,
+      "title": "İyilikte Yarışmak"
+    },
+    {
+      "n": 5,
+      "title": "Helâl Kazanıp Helâl Yolda Harcamak"
+    },
+    {
+      "n": 6,
+      "title": "Ölümü Hatırlamak"
+    },
+    {
+      "n": 7,
+      "title": "Kabir Ziyareti"
+    },
+    {
+      "n": 8,
+      "title": "Ölümü Temenni Etmemek"
+    },
+    {
+      "n": 9,
+      "title": "Günahlardan Korunmak ve Şüpheli Şeylerden Sakınmak (Vera’)"
+    },
+    {
+      "n": 10,
+      "title": "İnsanlardan Uzaklaşarak Tek Başına Yaşamak (Uzlet)"
+    },
+    {
+      "n": 11,
+      "title": "İyiliklerden Yana Olmak ve Fenalıklardan Kaçınmak"
+    },
+    {
+      "n": 12,
+      "title": "Tevazu ve Şefkat"
+    },
+    {
+      "n": 13,
+      "title": "Kibir ve Gurur"
+    },
+    {
+      "n": 14,
+      "title": "Güzel Ahlâk"
+    },
+    {
+      "n": 15,
+      "title": "Yumuşak Huylu Olmak (Hilm) ve Ölçülü Hareket Etmek (Teennî)"
+    },
+    {
+      "n": 16,
+      "title": "Affedici Olmak"
+    },
+    {
+      "n": 17,
+      "title": "Eziyetlere Katlanmak"
+    },
+    {
+      "n": 18,
+      "title": "Dinî Konularda Hassas Olmak"
+    },
+    {
+      "n": 19,
+      "title": "Yöneten Yönetilen İlişkilerinde Ölçü"
+    },
+    {
+      "n": 20,
+      "title": "Adaletli Yönetici"
+    },
+    {
+      "n": 21,
+      "title": "Yöneticilere İtaatte Ölçü"
+    },
+    {
+      "n": 22,
+      "title": "İdareciliğin İstenmemesi"
+    },
+    {
+      "n": 23,
+      "title": "Yönetimde İstişare ve İşbirliği"
+    },
+    {
+      "n": 24,
+      "title": "İdareciliğin Hırslılara Verilmemesi"
+    },
+    {
+      "n": 25,
+      "title": "Hayâ"
+    },
+    {
+      "n": 26,
+      "title": "Sır Saklamak"
+    },
+    {
+      "n": 27,
+      "title": "Ahde Vefa ve Sözünde Durmak"
+    },
+    {
+      "n": 28,
+      "title": "Hayırlı İşleri Sürdürmek"
+    },
+    {
+      "n": 29,
+      "title": "Güler Yüzlü ve Tatlı Sözlü Olmak"
+    },
+    {
+      "n": 30,
+      "title": "Anlaşılır Şekilde Konuşmak"
+    },
+    {
+      "n": 31,
+      "title": "Dinleme Âdâbı"
+    },
+    {
+      "n": 32,
+      "title": "Öğüt Vermede Ölçü"
+    },
+    {
+      "n": 33,
+      "title": "Ağırbaşlılık (Vakar)"
+    },
+    {
+      "n": 34,
+      "title": "İbadet Yerlerinde Saygılı Davranmak"
+    },
+    {
+      "n": 35,
+      "title": "Misafir Ağırlamak"
+    },
+    {
+      "n": 36,
+      "title": "İyi İşleri Müjdelemek"
+    },
+    {
+      "n": 37,
+      "title": "Yolcunun Vedalaşması"
+    },
+    {
+      "n": 38,
+      "title": "İstihare ve İstişare"
+    },
+    {
+      "n": 39,
+      "title": "İbadet Yerlerine Gidiş Geliş Âdâbı"
+    },
+    {
+      "n": 40,
+      "title": "İyi İşlere Sağdan Başlamak"
+    },
+    {
+      "n": 41,
+      "title": "Yemeğe Besmele ile Başlamak, Hamd Ederek Bitirmek"
+    },
+    {
+      "n": 42,
+      "title": "Yemeğe Kusur Bulmamak"
+    },
+    {
+      "n": 43,
+      "title": "Nafile Oruç Tutan Kimsenin Yemek Davetine Katılması"
+    },
+    {
+      "n": 44,
+      "title": "Yemeğe Davet Edilen Kimsenin Yanında Başkalarını da Götürmesi"
+    },
+    {
+      "n": 45,
+      "title": "Sofra Âdâbı"
+    },
+    {
+      "n": 46,
+      "title": "Birlikte Meyve Yerken Ölçülü Davranmak"
+    },
+    {
+      "n": 47,
+      "title": "Yemeği Yemek Kabının Kenarından Yemek"
+    },
+    {
+      "n": 48,
+      "title": "Yaslanarak Yememek"
+    },
+    {
+      "n": 49,
+      "title": "Sofra Âdâbı"
+    },
+    {
+      "n": 50,
+      "title": "Yemek Yeme"
+    },
+    {
+      "n": 51,
+      "title": "İçeceklerle İlgili Âdâb"
+    },
+    {
+      "n": 52,
+      "title": "Büyük Su Kabının Ağzından Su İçmemek"
+    },
+    {
+      "n": 53,
+      "title": "Su Kabına Üflememek"
+    },
+    {
+      "n": 54,
+      "title": "Su İçme Âdâbı"
+    },
+    {
+      "n": 55,
+      "title": "Su İçilecek Kaplar"
+    },
+    {
+      "n": 56,
+      "title": "Giyim Tarzı"
+    },
+    {
+      "n": 57,
+      "title": "Gömlek Giymek"
+    },
+    {
+      "n": 58,
+      "title": "Giyeceklerin Uzunluğu ve Kısalığı"
+    },
+    {
+      "n": 59,
+      "title": "Giyimde Abartıya Kaçmamak"
+    },
+    {
+      "n": 60,
+      "title": "Kişinin Durumuna Uygun Giyinmesi"
+    },
+    {
+      "n": 61,
+      "title": "İpekli Giyinmek"
+    },
+    {
+      "n": 62,
+      "title": "Yırtıcı Hayvanların Derisini Kullanmamak"
+    },
+    {
+      "n": 63,
+      "title": "Yeni Elbise ve Ayakkabı Giyildiğinde Dua Etmek"
+    },
+    {
+      "n": 64,
+      "title": "Uykuya, Topluluk İçerisinde Oturup Kalkmaya ve Rüyaya Dair"
+    },
+    {
+      "n": 65,
+      "title": "Oturma Âdâbı"
+    },
+    {
+      "n": 66,
+      "title": "Topluluk İçinde Oturma Âdâbı"
+    },
+    {
+      "n": 67,
+      "title": "Rüya"
+    },
+    {
+      "n": 68,
+      "title": "Selâmlaşmak ve Selâmı Yaymak"
+    },
+    {
+      "n": 69,
+      "title": "Selâm Verme Usûlü"
+    },
+    {
+      "n": 70,
+      "title": "Evine Giren Kimsenin Selâm Vermesi"
+    },
+    {
+      "n": 71,
+      "title": "Çocuklara Selâm Vermek"
+    },
+    {
+      "n": 72,
+      "title": "Hanımlarla Selâmlaşmak"
+    },
+    {
+      "n": 73,
+      "title": "Farklı İnanç Kesimleriyle Selâmlaşma"
+    },
+    {
+      "n": 74,
+      "title": "Topluluktan Ayrılan Kimsenin Selâm Vermesi"
+    },
+    {
+      "n": 75,
+      "title": "İzin İsteme Âdâbı"
+    },
+    {
+      "n": 76,
+      "title": "Aksırma ve Esneme Âdâbı"
+    },
+    {
+      "n": 77,
+      "title": "Tokalaşma ve Kucaklaşma Âdâbı"
+    },
+    {
+      "n": 78,
+      "title": "Hasta Ziyareti ve Cenazeyi Kaldırma"
+    },
+    {
+      "n": 79,
+      "title": "Hastalara Dua Etmek"
+    },
+    {
+      "n": 80,
+      "title": "Hasta Yakınlarına Hastanın Durumunu Sormak"
+    },
+    {
+      "n": 81,
+      "title": "Hayatından Ümidini Kesen Kimsenin Duası"
+    },
+    {
+      "n": 82,
+      "title": "Hastanın Hâlinden Şikâyet Etmesi"
+    },
+    {
+      "n": 83,
+      "title": "Ölmek Üzere Olan Kimseye Kelime-i Tevhidi Hatırlatmak (Telkîn)"
+    },
+    {
+      "n": 84,
+      "title": "Ölünün Gözünü Kapadıktan Sonra Söylenecek Söz"
+    },
+    {
+      "n": 85,
+      "title": "Ölmek Üzere Olan Hastanın Yanında Söylenebilecek Sözler"
+    },
+    {
+      "n": 86,
+      "title": "Ölen Kimse İçin Ağlamak"
+    },
+    {
+      "n": 87,
+      "title": "Cenazenin Olumsuz Yönlerini Anlatmamak"
+    },
+    {
+      "n": 88,
+      "title": "Cenaze Namazına Katılmak"
+    },
+    {
+      "n": 89,
+      "title": "Cenaze Namazına Katılanların Çok Olması"
+    },
+    {
+      "n": 90,
+      "title": "Cenaze Namazında Okunacak Dualar"
+    },
+    {
+      "n": 91,
+      "title": "Cenazeyi Bir An Evvel Kaldırmak"
+    },
+    {
+      "n": 92,
+      "title": "Ölenin Borcunu Geciktirmeden Ödemek"
+    },
+    {
+      "n": 93,
+      "title": "Kabir Başında Öğüt Vermek"
+    },
+    {
+      "n": 94,
+      "title": "Kabir Başında Dua Edip Kur’an Okumak"
+    },
+    {
+      "n": 95,
+      "title": "Ölen İçin Sadaka Vermek ve Dua Etmek"
+    },
+    {
+      "n": 96,
+      "title": "Ölmüş Kimseleri Hayırla Anmak"
+    },
+    {
+      "n": 97,
+      "title": "Küçük Çocuğu Ölenlere Verilecek Sevap"
+    },
+    {
+      "n": 98,
+      "title": "Helâk Edilen Kavimlerin Kalıntılarından İbret Almak"
+    },
+    {
+      "n": 99,
+      "title": "Yolculuk Âdâbı"
+    },
+    {
+      "n": 100,
+      "title": "Yolculukta Yardımlaşmak"
+    },
+    {
+      "n": 101,
+      "title": "Yolculukta Okunacak Dualar"
+    },
+    {
+      "n": 102,
+      "title": "Yolcunun Duası"
+    },
+    {
+      "n": 103,
+      "title": "Korku Hâlinde Okunacak Dua"
+    },
+    {
+      "n": 104,
+      "title": "Konaklama Esnasında Okunacak Dua"
+    },
+    {
+      "n": 105,
+      "title": "Yolculuktan Dönüş Âdâbı"
+    },
+    {
+      "n": 106,
+      "title": "Hanımların Yalnız Başına Yolculuğu"
+    },
+    {
+      "n": 107,
+      "title": "Kur’an-ı Kerim Okumanın Fazileti"
+    },
+    {
+      "n": 108,
+      "title": "Kur’an-ı Kerim’i Sık Okumak ve Unutmamak"
+    },
+    {
+      "n": 109,
+      "title": "Kur’an-ı Kerim’i Güzel Sesle Okumak"
+    },
+    {
+      "n": 110,
+      "title": "Belirli Sûre ve Âyetleri Okumak"
+    },
+    {
+      "n": 111,
+      "title": "Birlikte Kur’an Okumak"
+    },
+    {
+      "n": 112,
+      "title": "Abdestin Fazileti"
+    },
+    {
+      "n": 113,
+      "title": "Ezanın Fazileti"
+    },
+    {
+      "n": 114,
+      "title": "Namazların Faziletleri"
+    },
+    {
+      "n": 115,
+      "title": "Sabah ve İkindi Namazlarının Fazileti"
+    },
+    {
+      "n": 116,
+      "title": "Cemaatle Namaz İçin Camilere Gitmenin Fazileti"
+    },
+    {
+      "n": 117,
+      "title": "Camide Namazı Beklemenin Fazileti"
+    },
+    {
+      "n": 118,
+      "title": "Cemaatle Namaz Kılmanın Fazileti"
+    },
+    {
+      "n": 119,
+      "title": "Sabah ve Yatsı Namazlarında Camiye Gitmek"
+    },
+    {
+      "n": 120,
+      "title": "Farz Namazlara Devam Etmek"
+    },
+    {
+      "n": 121,
+      "title": "Namazı İlk Safta Kılmanın Fazileti Safları Tamamlayıp Düzgün Tutmak"
+    },
+    {
+      "n": 122,
+      "title": "Sünnet Namazların Fazileti"
+    },
+    {
+      "n": 123,
+      "title": "Sabah Namazının Sünneti"
+    },
+    {
+      "n": 124,
+      "title": "Öğle Namazının Sünneti"
+    },
+    {
+      "n": 125,
+      "title": "İkindi Namazının Sünneti"
+    },
+    {
+      "n": 126,
+      "title": "Akşam Namazının Sünneti"
+    },
+    {
+      "n": 127,
+      "title": "Yatsı Namazının Sünnetleri"
+    },
+    {
+      "n": 128,
+      "title": "Cuma Namazının Sünneti"
+    },
+    {
+      "n": 129,
+      "title": "Sünnet Namazları Evde Kılmak"
+    },
+    {
+      "n": 130,
+      "title": "Vitir Namazı"
+    },
+    {
+      "n": 131,
+      "title": "Kuşluk Namazı"
+    },
+    {
+      "n": 132,
+      "title": "Tahiyyetü’l-Mescid Namazı"
+    },
+    {
+      "n": 133,
+      "title": "Abdest Aldıktan Sonra İki Rekât Namaz Kılmak"
+    },
+    {
+      "n": 134,
+      "title": "Cuma Gününün Fazileti ve Cumaya Hazırlık"
+    },
+    {
+      "n": 135,
+      "title": "Şükür Secdesi"
+    },
+    {
+      "n": 136,
+      "title": "Gece İbadet Etmenin Fazileti"
+    },
+    {
+      "n": 137,
+      "title": "Teravih Namazı"
+    },
+    {
+      "n": 138,
+      "title": "Kadir Gecesini İhya Etmenin Fazileti"
+    },
+    {
+      "n": 139,
+      "title": "Ağız ve Diş Temizliği"
+    },
+    {
+      "n": 140,
+      "title": "Zekâtın Farziyeti ve Fazileti"
+    },
+    {
+      "n": 141,
+      "title": "Ramazan Orucunun Farziyeti ve Fazileti"
+    },
+    {
+      "n": 142,
+      "title": "Ramazan Ayında İyilik Etmek"
+    },
+    {
+      "n": 143,
+      "title": "Şa’ban Ayında Tutulan Oruç"
+    },
+    {
+      "n": 144,
+      "title": "Yeni Ay Görüldüğünde Yapılacak Dua"
+    },
+    {
+      "n": 145,
+      "title": "Sahurun Fazileti"
+    },
+    {
+      "n": 146,
+      "title": "İftarı Geciktirmemek ve İftardan Sonra Yapılacak Dua"
+    },
+    {
+      "n": 147,
+      "title": "Oruçlunun Dikkat Etmesi Gereken Hususlar"
+    },
+    {
+      "n": 148,
+      "title": "Oruç"
+    },
+    {
+      "n": 149,
+      "title": "Bazı Mübarek Aylarda Tutulacak Orucun Fazileti"
+    },
+    {
+      "n": 150,
+      "title": "Zilhiccenin İlk Onunda Tutulan Orucun ve Diğer İyiliklerin Fazileti"
+    },
+    {
+      "n": 151,
+      "title": "Arefe Gününde ve Muharrem Ayının Dokuz ve Onuncu Günlerinde Tutulan Orucun Fazileti"
+    },
+    {
+      "n": 152,
+      "title": "Şevval Ayında Altı Gün Oruç Tutmanın Fazileti"
+    },
+    {
+      "n": 153,
+      "title": "Pazartesi ve Perşembe Günlerinde Oruç Tutmanın Fazileti"
+    },
+    {
+      "n": 154,
+      "title": "Her Aydan Üç Gün Oruç Tutmanın Fazileti"
+    },
+    {
+      "n": 155,
+      "title": "İftar Vermenin Fazileti"
+    },
+    {
+      "n": 156,
+      "title": "İ’tikâf"
+    },
+    {
+      "n": 157,
+      "title": "Haccın Farziyeti ve Fazileti"
+    },
+    {
+      "n": 158,
+      "title": "Cihadın Fazileti"
+    },
+    {
+      "n": 159,
+      "title": "Şehitliğin Fazileti"
+    },
+    {
+      "n": 160,
+      "title": "Köle Azat Etmenin Fazileti"
+    },
+    {
+      "n": 161,
+      "title": "Kölelere İyi Davranmanın Fazileti"
+    },
+    {
+      "n": 162,
+      "title": "Kölelerin Sorumluluklarını Yerine Getirmesi"
+    },
+    {
+      "n": 163,
+      "title": "Fitne ve Karışıklık Zamanlarında İbadet Etmenin Fazileti"
+    },
+    {
+      "n": 164,
+      "title": "Alışverişte ve Ödemelerde Kolaylık Göstermenin Fazileti"
+    }
+  ]
+}

@@ -9,6 +9,285 @@
       "category": "hadis",
       "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6016/cover.jpg",
       "hasText": true
+    },
+    {
+      "id": 6017,
+      "title": "Hadislerle İslam 2",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "hadis",
+      "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6017/cover.jpg",
+      "hasText": true
+    },
+    {
+      "id": 6018,
+      "title": "Hadislerle İslam 3",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "hadis",
+      "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6018/cover.jpg",
+      "hasText": true
+    },
+    {
+      "id": 6019,
+      "title": "Hadislerle İslam 4",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "hadis",
+      "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6019/cover.jpg",
+      "hasText": true
+    },
+    {
+      "id": 6020,
+      "title": "Hadislerle İslam 5",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "hadis",
+      "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6020/cover.jpg",
+      "hasText": true
+    },
+    {
+      "id": 6021,
+      "title": "Hadislerle İslam 6",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "hadis",
+      "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6021/cover.jpg",
+      "hasText": true
+    },
+    {
+      "id": 6025,
+      "title": "Riyâzü's Sâlihîn 1",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "hadis",
+      "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6025/cover.jpg",
+      "hasText": true
+    },
+    {
+      "id": 6026,
+      "title": "Riyâzü's Sâlihîn 2",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "hadis",
+      "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6026/cover.jpg",
+      "hasText": true
+    },
+    {
+      "id": 6027,
+      "title": "Riyâzü's Sâlihîn 3",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "hadis",
+      "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6027/cover.jpg",
+      "hasText": true
+    },
+    {
+      "id": 6028,
+      "title": "Hadislerle İslam 7",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "hadis",
+      "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6028/cover.jpg",
+      "hasText": true
+    },
+    {
+      "id": 6029,
+      "title": "Hadislerle İslam: Serlevha Hadisler",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "hadis",
+      "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6029/cover.jpg",
+      "hasText": true
+    },
+    {
+      "id": 6030,
+      "title": "Hadislerle Adım Adım Hacca",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "hadis",
+      "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6030/cover.jpg",
+      "hasText": true
+    },
+    {
+      "id": 6031,
+      "title": "40 Hadis 40 Yorum",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "hadis",
+      "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6031/cover.jpg",
+      "hasText": true
+    },
+    {
+      "id": 6039,
+      "title": "Tecrîd-i Sarîh 1",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "hadis",
+      "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6039/cover.jpg",
+      "hasText": true
+    },
+    {
+      "id": 6040,
+      "title": "Tecrîd-i Sarîh 2",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "hadis",
+      "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6040/cover.jpg",
+      "hasText": true
+    },
+    {
+      "id": 6041,
+      "title": "Tecrîd-i Sarîh 3",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "hadis",
+      "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6041/cover.jpg",
+      "hasText": true
+    },
+    {
+      "id": 6042,
+      "title": "Tecrîd-i Sarîh 4",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "hadis",
+      "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6042/cover.jpg",
+      "hasText": true
+    },
+    {
+      "id": 6043,
+      "title": "Tecrîd-i Sarîh 5",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "hadis",
+      "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6043/cover.jpg",
+      "hasText": true
+    },
+    {
+      "id": 6044,
+      "title": "Tecrîd-i Sarîh 6",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "hadis",
+      "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6044/cover.jpg",
+      "hasText": true
+    },
+    {
+      "id": 6045,
+      "title": "Tecrîd-i Sarîh 7",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "hadis",
+      "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6045/cover.jpg",
+      "hasText": true
+    },
+    {
+      "id": 6046,
+      "title": "Tecrîd-i Sarîh 8",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "hadis",
+      "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6046/cover.jpg",
+      "hasText": true
+    },
+    {
+      "id": 6013,
+      "title": "İslam İlmihali",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "ilmihal",
+      "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6013/cover.jpg",
+      "hasText": true
+    },
+    {
+      "id": 6022,
+      "title": "Namaz İlmihali",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "ilmihal",
+      "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6022/cover.jpg",
+      "hasText": true
+    },
+    {
+      "id": 6023,
+      "title": "Oruç İlmihali",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "ilmihal",
+      "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6023/cover.jpg",
+      "hasText": true
+    },
+    {
+      "id": 6024,
+      "title": "Zekât İlmihali",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "ilmihal",
+      "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6024/cover.jpg",
+      "hasText": true
+    },
+    {
+      "id": 6032,
+      "title": "Din Görevlisi Rehberi",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "ilmihal",
+      "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6032/cover.jpg",
+      "hasText": true
+    },
+    {
+      "id": 6034,
+      "title": "Namaz ve Kur'an",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "ilmihal",
+      "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6034/cover.jpg",
+      "hasText": true
+    },
+    {
+      "id": 6035,
+      "title": "Sorularla İslam",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "ilmihal",
+      "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6035/cover.jpg",
+      "hasText": true
+    },
+    {
+      "id": 6036,
+      "title": "Temel Dinî Bilgiler",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "ilmihal",
+      "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6036/cover.jpg",
+      "hasText": true
+    },
+    {
+      "id": 6033,
+      "title": "İslam Hukukunda Mülkiyet Hakkı ve Servet Dağılımı",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "fikih",
+      "cover": "https://cdn.jsdelivr.net/gh/baweri/baweri-content@main/books/6033/cover.jpg",
+      "hasText": true
+    },
+    {
+      "id": 6037,
+      "title": "Şâfiî Fıkhı 1",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "fikih",
+      "cover": null,
+      "hasText": true
+    },
+    {
+      "id": 6038,
+      "title": "Şâfiî Fıkhı 2",
+      "author": "Diyanet İşleri Başkanlığı Yayınları",
+      "language": "tr",
+      "category": "fikih",
+      "cover": null,
+      "hasText": true
     }
   ]
 }
