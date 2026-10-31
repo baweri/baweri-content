@@ -288,6 +288,15 @@
       "category": "fikih",
       "cover": null,
       "hasText": true
+    },
+    {
+      "id": 3001,
+      "title": "Sözler",
+      "author": "Bediüzzaman Said Nursî",
+      "language": "tr",
+      "category": "tasavvuf",
+      "cover": null,
+      "hasText": true
     }
   ]
 }
