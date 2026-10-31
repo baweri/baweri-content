@@ -18,11 +18,13 @@
     },
     {
       "type": "arabic",
-      "text": "﷽"
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "وَبَشِّرِ الَّذ۪ينَ اٰمَنُو وَعَمِلُوا الصَّالِحَاتِ اَنَّ لَهُمْ جَنَّاتٍ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُ كُلَّمَا رُزِقُوا مِنْهَا مِنْ ثَمَرَةٍ رِزْقًا قَالُوا هٰذَا الَّذ۪ي رُزِقْنَا مِنْ قَبْلُ وَاُتُوا بِه۪ مُتَشَابِهًا وَلَهُمْ ف۪يهَٓا اَزْوَاجٌ مُطَهَّرَةٌ وَهُمْ ف۪يهَا خَالِدُونَ"
+      "text": "وَبَشِّرِ الَّذ۪ينَ اٰمَنُو وَعَمِلُوا الصَّالِحَاتِ اَنَّ لَهُمْ جَنَّاتٍ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُ كُلَّمَا رُزِقُوا مِنْهَا مِنْ ثَمَرَةٍ رِزْقًا قَالُوا هٰذَا الَّذ۪ي رُزِقْنَا مِنْ قَبْلُ وَاُتُوا بِه۪ مُتَشَابِهًا وَلَهُمْ ف۪يهَٓا اَزْوَاجٌ مُطَهَّرَةٌ وَهُمْ ف۪يهَا خَالِدُونَ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -121,7 +123,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Evet, وَمَا هٰذِهِ الْحَيٰوةُ الدُّنْيَٓا اِلَّا لَهْوٌ وَلَعِبٌ وَاِنَّ الدَّارَ الْاٰخِرَةَ لَهِيَ الْحَيَوَانُ sırrınca, şu dâr-ı dünyada, câmid ve şuûrsuz ve hayatsız maddeler, orada şuûrlu hayatdârdırlar. Buradaki insanlar gibi orada da ağaçlar, buradaki hayvanlar gibi oradaki taşlar, emri anlar ve yapar. Sen bir ağaca desen: “Filân meyveyi bana getir.” getirir. Filân taşa desen: “Gel” gelir. Mâdem taş, ağaç, bu derece ulvî bir sûret alırlar."
+      "parts": [
+        {
+          "text": "Evet, "
+        },
+        {
+          "text": "وَمَا هٰذِهِ الْحَيٰوةُ الدُّنْيَٓا اِلَّا لَهْوٌ وَلَعِبٌ وَاِنَّ الدَّارَ الْاٰخِرَةَ لَهِيَ الْحَيَوَانُ",
+          "red": true
+        },
+        {
+          "text": " sırrınca, şu dâr-ı dünyada, câmid ve şuûrsuz ve hayatsız maddeler, orada şuûrlu hayatdârdırlar. Buradaki insanlar gibi orada da ağaçlar, buradaki hayvanlar gibi oradaki taşlar, emri anlar ve yapar. Sen bir ağaca desen: “Filân meyveyi bana getir.” getirir. Filân taşa desen: “Gel” gelir. Mâdem taş, ağaç, bu derece ulvî bir sûret alırlar."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -139,7 +152,14 @@
           "bold": true
         },
         {
-          "text": " اَلْمَرْءُ مَعَ مَنْ اَحَبَّ sırrınca: "
+          "text": " "
+        },
+        {
+          "text": "اَلْمَرْءُ مَعَ مَنْ اَحَبَّ",
+          "red": true
+        },
+        {
+          "text": " sırrınca: "
         },
         {
           "text": "“Dost, dostuyla beraber Cennet’te bulunacaktır.”",
@@ -207,7 +227,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Evet, “Hûrilerin yetmiş hulleyi giymeleri ve bacaklarındaki kemiklerin ilikleri görünmesi” tâbiriyle Hadîs-i Şerîf işâret ediyor ki: İnsanın ne kadar hüsün-perver ve zevk-perest ve zînete meftûn ve cemâle müştâk duyguları ve hâsseleri ve kuvâları ve latîfeleri varsa, umumunu memnun edip doyuracak ve herbirisini ayrı ayrı okşayıp mes'ûd edecek, maddî ve manevî her nev'i zînet ve hüsn-ü cemâle hûriler câmi'dirler. Demek hûriler, Cennet’in aksâm-ı zînetinden yetmiş tarzını, bir tek cinsten olmadığından birbirini setretmeyecek sûrette giydikleri gibi; kendi vücûdlarından ve nefis ve cisimlerinden, belki yetmiş mertebeden ziyâde ayrı ayrı hüsün ve cemâlin aksâmını gösteriyorlar; وَف۪يهَا مَا تَشْتَه۪يهِ الْاَنْفُسُ وَتَلَذُّ الْاَعْيُنُ işâretinin hakikatini gösteriyorlar."
+      "parts": [
+        {
+          "text": "Evet, “Hûrilerin yetmiş hulleyi giymeleri ve bacaklarındaki kemiklerin ilikleri görünmesi” tâbiriyle Hadîs-i Şerîf işâret ediyor ki: İnsanın ne kadar hüsün-perver ve zevk-perest ve zînete meftûn ve cemâle müştâk duyguları ve hâsseleri ve kuvâları ve latîfeleri varsa, umumunu memnun edip doyuracak ve herbirisini ayrı ayrı okşayıp mes'ûd edecek, maddî ve manevî her nev'i zînet ve hüsn-ü cemâle hûriler câmi'dirler. Demek hûriler, Cennet’in aksâm-ı zînetinden yetmiş tarzını, bir tek cinsten olmadığından birbirini setretmeyecek sûrette giydikleri gibi; kendi vücûdlarından ve nefis ve cisimlerinden, belki yetmiş mertebeden ziyâde ayrı ayrı hüsün ve cemâlin aksâmını gösteriyorlar; "
+        },
+        {
+          "text": "وَف۪يهَا مَا تَشْتَه۪يهِ الْاَنْفُسُ وَتَلَذُّ الْاَعْيُنُ",
+          "red": true
+        },
+        {
+          "text": " işâretinin hakikatini gösteriyorlar."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -296,15 +327,18 @@
     },
     {
       "type": "arabic",
-      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ"
+      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "رَبَّنَا لَا تُؤٰاخِذْنَٓا اِنْ نَس۪ينَٓا اَوْ اَخْطَأْنَا"
+      "text": "رَبَّنَا لَا تُؤٰاخِذْنَٓا اِنْ نَس۪ينَٓا اَوْ اَخْطَأْنَا",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "اَللّٰهُمَّ صَلِّ عَلٰى حَب۪يبِكَ الَّذ۪ي فَتَحَ اَبْوَابَ الْجَنَّةِ بِحَب۪يبِيَّتِهِ وَبِصَلَاتِهِ وَاَيَّدَتْهُ اُمَّتُهُ عَلٰى فَتْحِهَا بِصَلَوَاتِهِمْ عَلَيْهِ، عَلَيْهِ الصَّلَاةُ وَالسَّلَامُ ❋ اَللّٰهُمَّ ادْخِلْنَا الْجَنَّةَ مَعَ الْاَبْرَارِ بِشَفَاعَةِ حَب۪يبِكَ الْمُخْتَارِ اٰم۪ينَ"
+      "text": "اَللّٰهُمَّ صَلِّ عَلٰى حَب۪يبِكَ الَّذ۪ي فَتَحَ اَبْوَابَ الْجَنَّةِ بِحَب۪يبِيَّتِهِ وَبِصَلَاتِهِ وَاَيَّدَتْهُ اُمَّتُهُ عَلٰى فَتْحِهَا بِصَلَوَاتِهِمْ عَلَيْهِ، عَلَيْهِ الصَّلَاةُ وَالسَّلَامُ ❋ اَللّٰهُمَّ ادْخِلْنَا الْجَنَّةَ مَعَ الْاَبْرَارِ بِشَفَاعَةِ حَب۪يبِكَ الْمُخْتَارِ اٰم۪ينَ",
+      "red": true
     },
     {
       "type": "heading",
@@ -330,7 +364,8 @@
     },
     {
       "type": "arabic",
-      "text": "رَبَّنَا مَا خَلَقْتَ هٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ"
+      "text": "رَبَّنَا مَا خَلَقْتَ هٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ",
+      "red": true
     }
   ],
   "notes": [

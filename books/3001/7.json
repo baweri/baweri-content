@@ -4,7 +4,18 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Şu kâinâtın tılsım-ı muğlakını açan اٰمَنْتُ بِاللّٰهِ وَبِالْيَوْمِ الْاٰخِرِ rûh-u beşer için saâdet kapısını fetheden, ne kadar kıymetdâr iki tılsım-ı müşkül-küşâ olduğunu ve sabır ile Hàlık’ına tevekkül ve ilticâ ve şükür ile Rezzâk’ından suâl ve duâ; ne kadar nâfi' ve tiryâk gibi iki ilâç olduğunu ve Kur'ân’ı dinlemek, hükmüne inkıyad etmek, namazı kılmak, kebâiri terketmek; ebedü'l-âbâd yolculuğunda ne kadar mühim, değerli, revnâkdâr bir bilet, bir zâd-ı âhiret, bir nur-u kabir olduğunu anlamak istersen, şu temsîlî hikâyeciğe bak, dinle:"
+      "parts": [
+        {
+          "text": "Şu kâinâtın tılsım-ı muğlakını açan "
+        },
+        {
+          "text": "اٰمَنْتُ بِاللّٰهِ وَبِالْيَوْمِ الْاٰخِرِ",
+          "red": true
+        },
+        {
+          "text": " rûh-u beşer için saâdet kapısını fetheden, ne kadar kıymetdâr iki tılsım-ı müşkül-küşâ olduğunu ve sabır ile Hàlık’ına tevekkül ve ilticâ ve şükür ile Rezzâk’ından suâl ve duâ; ne kadar nâfi' ve tiryâk gibi iki ilâç olduğunu ve Kur'ân’ı dinlemek, hükmüne inkıyad etmek, namazı kılmak, kebâiri terketmek; ebedü'l-âbâd yolculuğunda ne kadar mühim, değerli, revnâkdâr bir bilet, bir zâd-ı âhiret, bir nur-u kabir olduğunu anlamak istersen, şu temsîlî hikâyeciğe bak, dinle:"
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -136,7 +147,25 @@
     },
     {
       "type": "paragraph",
-      "text": "Ve o iki ilâç ise; biri, sabır ile tevekküldür. Hàlık’ının kudretine istinâd, hikmetine i'timâddır. Öyle mi? Evet, emr-i كُنْ فَيَكُونُ’e mâlik bir Sultan-ı Cihan’a, acz tezkeresiyle istinâd eden bir adamın ne pervâsı olabilir? Zîra, en müdhiş bir musîbet karşısında; اِنَّا لِلّٰهِ وَاِنَّٓا اِلَيْهِ رَاجِعُونَ deyip itmi'nân-ı kalb ile Rabb-i Rahîm’ine i'timâd eder. Evet, ârif-i billâh; aczden, mehàfetullâhtan telezzüz eder. Evet, havfta lezzet vardır. Eğer, bir yaşındaki bir çocuğun aklı bulunsa ve ondan suâl edilse: “En lezîz ve en tatlı hâletin nedir?” Belki diyecek: “Aczimi, zaafımı anlayıp, vâlidemin tatlı tokadından korkarak, yine vâlidemin şefkatli sînesine sığındığım hâlettir.” Hâlbuki; bütün vâlidelerin şefkatleri, ancak bir lem'a-i tecellî-i Rahmet’tir. Onun içindir ki: Kâmil insanlar, aczde ve havfullâhta öyle bir lezzet bulmuşlar ki; kendi havl ve kuvvetlerinden şiddetle teberrî edip, Allah’a acz ile sığınmışlar. Aczi ve havfı, kendilerine şefâatçi yapmışlar."
+      "parts": [
+        {
+          "text": "Ve o iki ilâç ise; biri, sabır ile tevekküldür. Hàlık’ının kudretine istinâd, hikmetine i'timâddır. Öyle mi? Evet, emr-i "
+        },
+        {
+          "text": "كُنْ فَيَكُونُ",
+          "red": true
+        },
+        {
+          "text": "’e mâlik bir Sultan-ı Cihan’a, acz tezkeresiyle istinâd eden bir adamın ne pervâsı olabilir? Zîra, en müdhiş bir musîbet karşısında; "
+        },
+        {
+          "text": "اِنَّا لِلّٰهِ وَاِنَّٓا اِلَيْهِ رَاجِعُونَ",
+          "red": true
+        },
+        {
+          "text": " deyip itmi'nân-ı kalb ile Rabb-i Rahîm’ine i'timâd eder. Evet, ârif-i billâh; aczden, mehàfetullâhtan telezzüz eder. Evet, havfta lezzet vardır. Eğer, bir yaşındaki bir çocuğun aklı bulunsa ve ondan suâl edilse: “En lezîz ve en tatlı hâletin nedir?” Belki diyecek: “Aczimi, zaafımı anlayıp, vâlidemin tatlı tokadından korkarak, yine vâlidemin şefkatli sînesine sığındığım hâlettir.” Hâlbuki; bütün vâlidelerin şefkatleri, ancak bir lem'a-i tecellî-i Rahmet’tir. Onun içindir ki: Kâmil insanlar, aczde ve havfullâhta öyle bir lezzet bulmuşlar ki; kendi havl ve kuvvetlerinden şiddetle teberrî edip, Allah’a acz ile sığınmışlar. Aczi ve havfı, kendilerine şefâatçi yapmışlar."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -160,7 +189,8 @@
     },
     {
       "type": "arabic",
-      "text": "$45"
+      "text": "$45",
+      "red": true
     }
   ]
 }

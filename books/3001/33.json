@@ -22,11 +22,13 @@
     },
     {
       "type": "arabic",
-      "text": "﷽"
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "سَنُر۪يهِمْ اٰيَاتِنَا فِي الْاٰفَاقِ وَف۪ٓي اَنْفُسِهِمْ حَتّٰى يَتَبَيَّنَ لَهُمْ اَنَّهُ الْحَقُّ اَوَلَمْ يَكْفِ بِرَبِّكَ اَنَّهُ عَلٰى كُلِّ شَيْءٍ شَه۪يدٌ"
+      "text": "سَنُر۪يهِمْ اٰيَاتِنَا فِي الْاٰفَاقِ وَف۪ٓي اَنْفُسِهِمْ حَتّٰى يَتَبَيَّنَ لَهُمْ اَنَّهُ الْحَقُّ اَوَلَمْ يَكْفِ بِرَبِّكَ اَنَّهُ عَلٰى كُلِّ شَيْءٍ شَه۪يدٌ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -36,7 +38,14 @@
           "bold": true
         },
         {
-          "text": " Şu iki âyet-i câmianın ifâde ettiği vücûb ve vahdâniyet-i İlâhiye ve evsâf ve şuûnât-ı Rabbâniye’ye, âlem-i asğar ve ekber olan insan ve kâinâtın vech-i delâletlerini, mücmel ve kısa bir sûrette beyânlarını isteriz. Çünkü; münkirler pek ileri gittiler. “Ne vakte kadar وَهُوَ عَلٰى كُلِّ شَيْءٍ قَد۪يرٌ deyip, elimizi kaldıracağız.” diyorlar."
+          "text": " Şu iki âyet-i câmianın ifâde ettiği vücûb ve vahdâniyet-i İlâhiye ve evsâf ve şuûnât-ı Rabbâniye’ye, âlem-i asğar ve ekber olan insan ve kâinâtın vech-i delâletlerini, mücmel ve kısa bir sûrette beyânlarını isteriz. Çünkü; münkirler pek ileri gittiler. “Ne vakte kadar "
+        },
+        {
+          "text": "وَهُوَ عَلٰى كُلِّ شَيْءٍ قَد۪يرٌ",
+          "red": true
+        },
+        {
+          "text": " deyip, elimizi kaldıracağız.” diyorlar."
         }
       ]
     },
@@ -58,7 +67,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Aynen öyle de; وَلِلّٰهِ الْمَثَلُ الْاَعْلٰى$67"
+      "parts": [
+        {
+          "text": "Aynen öyle de; "
+        },
+        {
+          "text": "وَلِلّٰهِ الْمَثَلُ الْاَعْلٰى",
+          "red": true
+        },
+        {
+          "text": "$67"
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -144,7 +164,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Hadsiz bir kudret ve muhît bir ilim ve nihâyetsiz bir hikmet sâhibinden başka kimin haddi var ki, o hadsiz derecede hàrika olan şu idareye karışsın. Çünkü; şu birbiri içinde girift olan envâ'ları, milletleri, umumunu birden idare ve terbiye edemeyen, onlardan birisine karışsa elbette karıştıracak. Hâlbuki: فَارْجِعِ الْبَصَرَ هَلْ تَرٰى مِنْ فُطُورٍ sırrı ile, hiçbir karışık alâmeti yoktur. Demek ki; hiçbir parmak karışamıyor."
+      "parts": [
+        {
+          "text": "Hadsiz bir kudret ve muhît bir ilim ve nihâyetsiz bir hikmet sâhibinden başka kimin haddi var ki, o hadsiz derecede hàrika olan şu idareye karışsın. Çünkü; şu birbiri içinde girift olan envâ'ları, milletleri, umumunu birden idare ve terbiye edemeyen, onlardan birisine karışsa elbette karıştıracak. Hâlbuki: "
+        },
+        {
+          "text": "فَارْجِعِ الْبَصَرَ هَلْ تَرٰى مِنْ فُطُورٍ",
+          "red": true
+        },
+        {
+          "text": " sırrı ile, hiçbir karışık alâmeti yoktur. Demek ki; hiçbir parmak karışamıyor."
+        }
+      ]
     },
     {
       "type": "heading",
@@ -191,7 +222,8 @@
     },
     {
       "type": "arabic",
-      "text": "اِنَّ ف۪ي خَلْقِ السَّمٰوَاتِ وَالْاَرْضِ وَاخْتِلَافِ الَّيْلِ وَالنَّهَارِ وَالْفُلْكِ الَّت۪ي تَجْر۪ي فِي الْبَحْرِ بِمَا يَنْفَعُ النَّاسَ وَمَٓا اَنْزَلَ اللّٰهُ مِنَ السَّمَٓاءِ مِنْ مَٓاءٍ فَاَحْيَا بِهِ الْاَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ ف۪يهَا مِنْ كُلِّ دَٓابَّةٍ وَتَصْر۪يفِ الرِّيَاحِ وَالسَّحَابِ الْمُسَخَّرِ بَيْنَ السَّمَٓاءِ وَالْاَرْضِ لَاٰيَاتٍ لِقَوْمٍ يَعْقِلُونَ"
+      "text": "اِنَّ ف۪ي خَلْقِ السَّمٰوَاتِ وَالْاَرْضِ وَاخْتِلَافِ الَّيْلِ وَالنَّهَارِ وَالْفُلْكِ الَّت۪ي تَجْر۪ي فِي الْبَحْرِ بِمَا يَنْفَعُ النَّاسَ وَمَٓا اَنْزَلَ اللّٰهُ مِنَ السَّمَٓاءِ مِنْ مَٓاءٍ فَاَحْيَا بِهِ الْاَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ ف۪يهَا مِنْ كُلِّ دَٓابَّةٍ وَتَصْر۪يفِ الرِّيَاحِ وَالسَّحَابِ الْمُسَخَّرِ بَيْنَ السَّمَٓاءِ وَالْاَرْضِ لَاٰيَاتٍ لِقَوْمٍ يَعْقِلُونَ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -323,7 +355,8 @@
     },
     {
       "type": "arabic",
-      "text": "وَاَنْزَلَ مِنَ السَّمَٓاءِ مَٓاءً فَاَخْرَجَ بِه۪ مِنَ الثَّمَرَاتِ رِزْقًا لَكُمْ وَسَخَّرَ لَكُمُ الْفُلْكَ لِتَجْرِيَ فِي الْبَحْرِ بِاَمْرِهِ وَسَخَّرَ لَكُمُ الْاَنْهَارَ ❋ وَسَخَّرَ لَكُمُ الشَّمْسَ وَالْقَمَرَ دَٓائِبَيْنِ وَسَخَّرَ لَكُمُ الَّيْلَ وَالنَّهَارَ ❋ وَاٰتٰيكُمْ مِنْ كُلِّ مَا سَاَلْتُمُوهُ وَاِنْ تَعُدُّوا نِعْمَتَ اللّٰهِ لَا تُحْصُوهَا"
+      "text": "وَاَنْزَلَ مِنَ السَّمَٓاءِ مَٓاءً فَاَخْرَجَ بِه۪ مِنَ الثَّمَرَاتِ رِزْقًا لَكُمْ وَسَخَّرَ لَكُمُ الْفُلْكَ لِتَجْرِيَ فِي الْبَحْرِ بِاَمْرِهِ وَسَخَّرَ لَكُمُ الْاَنْهَارَ ❋ وَسَخَّرَ لَكُمُ الشَّمْسَ وَالْقَمَرَ دَٓائِبَيْنِ وَسَخَّرَ لَكُمُ الَّيْلَ وَالنَّهَارَ ❋ وَاٰتٰيكُمْ مِنْ كُلِّ مَا سَاَلْتُمُوهُ وَاِنْ تَعُدُّوا نِعْمَتَ اللّٰهِ لَا تُحْصُوهَا",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -343,7 +376,15 @@
     },
     {
       "type": "paragraph",
-      "text": "اَلَا بِذِكْرِ اللّٰهِ تَطْمَئِنُّ الْقُلُوبُ Bütün ervâh ve kulûbun dalâletten neş'et eden ızdırâbat ve keşmekeş ve ızdırâbattan neş'et eden manevî elemlerden kurtulmaları, bir tek Hàlık’ı tanımakla olur. Bütün mevcûdâtı, bir tek Sâni'a vermekle necât buluyorlar. Bir tek Allah’ın zikriyle mutmain olurlar."
+      "parts": [
+        {
+          "text": "اَلَا بِذِكْرِ اللّٰهِ تَطْمَئِنُّ الْقُلُوبُ",
+          "red": true
+        },
+        {
+          "text": " Bütün ervâh ve kulûbun dalâletten neş'et eden ızdırâbat ve keşmekeş ve ızdırâbattan neş'et eden manevî elemlerden kurtulmaları, bir tek Hàlık’ı tanımakla olur. Bütün mevcûdâtı, bir tek Sâni'a vermekle necât buluyorlar. Bir tek Allah’ın zikriyle mutmain olurlar."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -363,7 +404,15 @@
     },
     {
       "type": "paragraph",
-      "text": "سَبِّحِ اسْمَ رَبِّكَ الْاَعْلٰى ❋ اَلَّذ۪ي خَلَقَ فَسَوّٰى ❋ وَالَّذ۪ي قَدَّرَ فَهَدٰى sırrınca, umum eşyada hususan zîhayat masnû'larda hikmetli bir kalıbdan çıkmış gibi herşeye bir mikdar-ı muntazam ve bir sûret, hikmetle verildiği ve o sûret ve o mikdarda maslahatlar ve fâideler için eğri-büğrü hududlar bulunması; hem müddet-i hayatlarında değiştirdikleri sûret-i libâsları ve mikdarları, yine hikmetlere, maslahatlara muvâfık bir tarzda mukadderât-ı hayatiyeden terkîb ve tanzim edilen manevî ve muntazam birer sûret, birer mikdar bulunması, bilbedâhe gösterir ki: Bir Kadîr-i Zülcelâl’in ve bir Hakîm-i Zülkemâl’in kader dâiresinde sûretleri ve biçimleri tertib edilen ve kudretin destgâhında vücûdları verilen o hadsiz masnûât, O Zât’ın vücûb-u vücûduna delâlet ve vahdetine ve kemâl-i kudretine hadsiz lisân ile şehâdet ederler."
+      "parts": [
+        {
+          "text": "سَبِّحِ اسْمَ رَبِّكَ الْاَعْلٰى ❋ اَلَّذ۪ي خَلَقَ فَسَوّٰى ❋ وَالَّذ۪ي قَدَّرَ فَهَدٰى",
+          "red": true
+        },
+        {
+          "text": " sırrınca, umum eşyada hususan zîhayat masnû'larda hikmetli bir kalıbdan çıkmış gibi herşeye bir mikdar-ı muntazam ve bir sûret, hikmetle verildiği ve o sûret ve o mikdarda maslahatlar ve fâideler için eğri-büğrü hududlar bulunması; hem müddet-i hayatlarında değiştirdikleri sûret-i libâsları ve mikdarları, yine hikmetlere, maslahatlara muvâfık bir tarzda mukadderât-ı hayatiyeden terkîb ve tanzim edilen manevî ve muntazam birer sûret, birer mikdar bulunması, bilbedâhe gösterir ki: Bir Kadîr-i Zülcelâl’in ve bir Hakîm-i Zülkemâl’in kader dâiresinde sûretleri ve biçimleri tertib edilen ve kudretin destgâhında vücûdları verilen o hadsiz masnûât, O Zât’ın vücûb-u vücûduna delâlet ve vahdetine ve kemâl-i kudretine hadsiz lisân ile şehâdet ederler."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -375,7 +424,15 @@
     },
     {
       "type": "paragraph",
-      "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِه۪ sırrınca, herşey lisân-ı mahsûsu ile Hàlık’ını yâdeder, takdis eder. Evet bütün mevcûdâtın lisân-ı hâl ve kàl ile ettiği tesbihât, bir tek Zât-ı Mukaddes’in vücûdunu gösteriyor. Evet fıtratın şehâdeti reddedilmez. Delâlet-i hâl ise, hususan çok cihetlerle gelse, şübhe getirmez."
+      "parts": [
+        {
+          "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِه۪",
+          "red": true
+        },
+        {
+          "text": " sırrınca, herşey lisân-ı mahsûsu ile Hàlık’ını yâdeder, takdis eder. Evet bütün mevcûdâtın lisân-ı hâl ve kàl ile ettiği tesbihât, bir tek Zât-ı Mukaddes’in vücûdunu gösteriyor. Evet fıtratın şehâdeti reddedilmez. Delâlet-i hâl ise, hususan çok cihetlerle gelse, şübhe getirmez."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -387,7 +444,15 @@
     },
     {
       "type": "paragraph",
-      "text": "قُلْ مَنْ بِيَدِه۪ مَلَكُوتُ كُلِّ شَيْءٍوَاِنْ مِنْ شَيْءٍ اِلَّا عِنْدَنَا خَزَٓائِنُهُمَا مِنْ دَٓابَّةٍ اِلَّا هُوَ اٰخِذٌ بِنَاصِيَتِهَااِنَّ رَبّ۪ي عَلٰى كُلِّ شَيْءٍ حَف۪يظٌ sırlarınca, herşey, herşeyinde ve her şe'ninde tek bir Hàlık-ı Zülcelâl’e muhtaçtır."
+      "parts": [
+        {
+          "text": "قُلْ مَنْ بِيَدِه۪ مَلَكُوتُ كُلِّ شَيْءٍوَاِنْ مِنْ شَيْءٍ اِلَّا عِنْدَنَا خَزَٓائِنُهُمَا مِنْ دَٓابَّةٍ اِلَّا هُوَ اٰخِذٌ بِنَاصِيَتِهَااِنَّ رَبّ۪ي عَلٰى كُلِّ شَيْءٍ حَف۪يظٌ",
+          "red": true
+        },
+        {
+          "text": " sırlarınca, herşey, herşeyinde ve her şe'ninde tek bir Hàlık-ı Zülcelâl’e muhtaçtır."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -419,7 +484,15 @@
     },
     {
       "type": "paragraph",
-      "text": "اَلَّذ۪ٓي اَحْسَنَ كُلَّ شىْءٍ خَلَقَهُ sırrınca; herşeye, o şeyin kàbiliyet-i mâhiyetine göre kemâl-i mîzan ve intizam ile biçilip hüsn-ü san'at ile tertib edilip, en kısa yolda, en güzel bir sûrette, en hafif bir tarzda, isti'mâlce en kolay bir şekilde, meselâ; kuşların elbiselerine ve her vakit tüylerini kolayca oynatmalarına ve isti'mâl etmelerine bak. Hem isrâfsız hikmetli bir tarzda vücûd vermek, sûret giydirmek; eşya adedince diller ile bir Sâni'-i Hakîm’in vücûb-u vücûduna şehâdet ve bir Kadîr-i Alîm-i Mutlak’a işâret ederler."
+      "parts": [
+        {
+          "text": "اَلَّذ۪ٓي اَحْسَنَ كُلَّ شىْءٍ خَلَقَهُ",
+          "red": true
+        },
+        {
+          "text": " sırrınca; herşeye, o şeyin kàbiliyet-i mâhiyetine göre kemâl-i mîzan ve intizam ile biçilip hüsn-ü san'at ile tertib edilip, en kısa yolda, en güzel bir sûrette, en hafif bir tarzda, isti'mâlce en kolay bir şekilde, meselâ; kuşların elbiselerine ve her vakit tüylerini kolayca oynatmalarına ve isti'mâl etmelerine bak. Hem isrâfsız hikmetli bir tarzda vücûd vermek, sûret giydirmek; eşya adedince diller ile bir Sâni'-i Hakîm’in vücûb-u vücûduna şehâdet ve bir Kadîr-i Alîm-i Mutlak’a işâret ederler."
+        }
+      ]
     },
     {
       "type": "heading",
@@ -470,7 +543,8 @@
     },
     {
       "type": "arabic",
-      "text": "اِنَّ فِي السَّمٰوَاتِ وَالْاَرْضِ لَاٰيَاتٍ لِلْمُؤْمِن۪ينَ"
+      "text": "اِنَّ فِي السَّمٰوَاتِ وَالْاَرْضِ لَاٰيَاتٍ لِلْمُؤْمِن۪ينَ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -502,7 +576,18 @@
     },
     {
       "type": "paragraph",
-      "text": "İşte, bütün rû-yi zeminde gayet kıymetdârlık ile beraber, hadsiz ucuzluk; ve hadsiz ucuzluk içinde, hadsiz ihtilât ve karışıklık ile beraber, hadsiz imtiyaz ve tefrik; ve hadsiz imtiyaz ve tefrik içinde, gayet uzaklık ile beraber son derecede muvâfakat ve benzeyiş; ve son derece benzemek içinde, gayet derecede sühûlet ve kolaylık ile beraber, gayet derecede ihtimamkârâne yapılış; ve gayet derecede güzel yapılış içerisinde sür'at-i mutlaka ve çabuklukla beraber, gayet derecede mevzûn ve mîzanlı ve isrâfsızlık; ve gayet derecede isrâfsızlık içinde son derece çokluk ve kesret ile beraber son derecede hüsn-ü san'at; ve son derece hüsn-ü san'at içinde nihâyet derecede sehàvet ile beraber intizam-ı mutlak… Elbette gündüz ışığı; ışık, güneşi gösterdiği gibi, bir Kadîr-i Zülcelâl’in, bir Hakîm-i Zülkemâl’in, bir Rahîm-i Zülcemâl’in vücûb-u vücûduna ve Kemâl-i Kudret’ine ve Cemâl-i Rubûbiyet’ine ve Vahdâniyet’ine ve Ehadiyet’ine şehâdet ederler. لَهُ الْاَسْمَٓاءُ الْحُسْنٰى sırrını gösterirler."
+      "parts": [
+        {
+          "text": "İşte, bütün rû-yi zeminde gayet kıymetdârlık ile beraber, hadsiz ucuzluk; ve hadsiz ucuzluk içinde, hadsiz ihtilât ve karışıklık ile beraber, hadsiz imtiyaz ve tefrik; ve hadsiz imtiyaz ve tefrik içinde, gayet uzaklık ile beraber son derecede muvâfakat ve benzeyiş; ve son derece benzemek içinde, gayet derecede sühûlet ve kolaylık ile beraber, gayet derecede ihtimamkârâne yapılış; ve gayet derecede güzel yapılış içerisinde sür'at-i mutlaka ve çabuklukla beraber, gayet derecede mevzûn ve mîzanlı ve isrâfsızlık; ve gayet derecede isrâfsızlık içinde son derece çokluk ve kesret ile beraber son derecede hüsn-ü san'at; ve son derece hüsn-ü san'at içinde nihâyet derecede sehàvet ile beraber intizam-ı mutlak… Elbette gündüz ışığı; ışık, güneşi gösterdiği gibi, bir Kadîr-i Zülcelâl’in, bir Hakîm-i Zülkemâl’in, bir Rahîm-i Zülcemâl’in vücûb-u vücûduna ve Kemâl-i Kudret’ine ve Cemâl-i Rubûbiyet’ine ve Vahdâniyet’ine ve Ehadiyet’ine şehâdet ederler. "
+        },
+        {
+          "text": "لَهُ الْاَسْمَٓاءُ الْحُسْنٰى",
+          "red": true
+        },
+        {
+          "text": " sırrını gösterirler."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -514,7 +599,8 @@
     },
     {
       "type": "arabic",
-      "text": "اَوَلَمْ يَنْظُرُوا ف۪ي مَلَكُوتِ السَّمٰوَاتِ وَالْاَرْضِ"
+      "text": "اَوَلَمْ يَنْظُرُوا ف۪ي مَلَكُوتِ السَّمٰوَاتِ وَالْاَرْضِ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -538,7 +624,15 @@
     },
     {
       "type": "paragraph",
-      "text": "تُسَبِّحُ لَهُ السَّمٰوَاتُ السَّبْعُ وَالْاَرْضُ وَمَنْ ف۪يهِنَّ وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِه۪ sırrınca, Sâni'-i Zülcelâl, semâvâtın ecrâmına o kadar hikmetler, mânâlar takmış ki; güyâ celâl ve cemâlini ifâde etmek için semâvâtı, güneşler, aylar, yıldızlar kelimeleriyle söylettirdiği gibi, cevv-i semâda olan mevcûdâta dahi öyle hikmetler ve mânâlar ve maksadlar takmış ki; güyâ o cevv-i semâyı berkler, şimşekler, ra'dlar, katreler kelimeleriyle intak ediyor. Ve kemâl-i hikmet ve cemâl-i rahmetini ders veriyor."
+      "parts": [
+        {
+          "text": "تُسَبِّحُ لَهُ السَّمٰوَاتُ السَّبْعُ وَالْاَرْضُ وَمَنْ ف۪يهِنَّ وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِه۪",
+          "red": true
+        },
+        {
+          "text": " sırrınca, Sâni'-i Zülcelâl, semâvâtın ecrâmına o kadar hikmetler, mânâlar takmış ki; güyâ celâl ve cemâlini ifâde etmek için semâvâtı, güneşler, aylar, yıldızlar kelimeleriyle söylettirdiği gibi, cevv-i semâda olan mevcûdâta dahi öyle hikmetler ve mânâlar ve maksadlar takmış ki; güyâ o cevv-i semâyı berkler, şimşekler, ra'dlar, katreler kelimeleriyle intak ediyor. Ve kemâl-i hikmet ve cemâl-i rahmetini ders veriyor."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -577,7 +671,18 @@
     },
     {
       "type": "paragraph",
-      "text": "İşte eğer bütün rû-yi zemindeki ağaçların lisân-ı hâllerini birden dinleyebilsen: يُسَبِّحُ لِلّٰهِ مَا فِي السَّمٰوَاتِ وَمَا فِي الْاَرْضِ hazinesinde ne kadar güzel cevherler bulunduğunu göreceksin, anlayacaksın."
+      "parts": [
+        {
+          "text": "İşte eğer bütün rû-yi zemindeki ağaçların lisân-ı hâllerini birden dinleyebilsen: "
+        },
+        {
+          "text": "يُسَبِّحُ لِلّٰهِ مَا فِي السَّمٰوَاتِ وَمَا فِي الْاَرْضِ",
+          "red": true
+        },
+        {
+          "text": " hazinesinde ne kadar güzel cevherler bulunduğunu göreceksin, anlayacaksın."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -589,15 +694,18 @@
     },
     {
       "type": "arabic",
-      "text": "فَسُبْحَانَ الَّذ۪ي بِيَدِه۪ مَلَكُوتُ كُلِّ شَيْءٍ"
+      "text": "فَسُبْحَانَ الَّذ۪ي بِيَدِه۪ مَلَكُوتُ كُلِّ شَيْءٍ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا عِنْدَنَا خَزَٓائِنُهُ وَمَا نُنَزِّلُهُٓ اِلَّا بِقَدَرٍ مَعْلُومٍ"
+      "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا عِنْدَنَا خَزَٓائِنُهُ وَمَا نُنَزِّلُهُٓ اِلَّا بِقَدَرٍ مَعْلُومٍ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "وَاَرْسَلْنَا الرِّيَاحَ لَوَاقِحَ فَاَنْزَلْنَا مِنَ السَّمَٓاءِ مَٓاءً فَاَسْقَيْنَاكُمُوهُ وَمَٓا اَنْتُمْ لَهُ بِخَازِن۪ينَ"
+      "text": "وَاَرْسَلْنَا الرِّيَاحَ لَوَاقِحَ فَاَنْزَلْنَا مِنَ السَّمَٓاءِ مَٓاءً فَاَسْقَيْنَاكُمُوهُ وَمَٓا اَنْتُمْ لَهُ بِخَازِن۪ينَ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -652,7 +760,18 @@
     },
     {
       "type": "paragraph",
-      "text": "İşte ey gâfil! Eğer bu gök gürlemesi gibi bu sadâyı susturabilirsen ve güneşin ışığı gibi parlak o ziyâyı söndürebilirsen, Allah’ı unut! Yoksa aklını başına al! سُبْحَانَ مَنْ تُسَبِّحُ لَهُ السَّمٰوَاتُ السَّبْعُ وَالْاَرْضُ وَمَنْ ف۪يهِنَّde."
+      "parts": [
+        {
+          "text": "İşte ey gâfil! Eğer bu gök gürlemesi gibi bu sadâyı susturabilirsen ve güneşin ışığı gibi parlak o ziyâyı söndürebilirsen, Allah’ı unut! Yoksa aklını başına al! "
+        },
+        {
+          "text": "سُبْحَانَ مَنْ تُسَبِّحُ لَهُ السَّمٰوَاتُ السَّبْعُ وَالْاَرْضُ وَمَنْ ف۪يهِنَّ",
+          "red": true
+        },
+        {
+          "text": "de."
+        }
+      ]
     },
     {
       "type": "heading",
@@ -660,7 +779,8 @@
     },
     {
       "type": "arabic",
-      "text": "وَالشَّمْسُ تَجْر۪ي لِمُسْتَقَرٍّ لَهَا ذٰلِكَ تَقْد۪يرُ الْعَز۪يزِ الْعَل۪يمِ"
+      "text": "وَالشَّمْسُ تَجْر۪ي لِمُسْتَقَرٍّ لَهَا ذٰلِكَ تَقْد۪يرُ الْعَز۪يزِ الْعَل۪يمِ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -714,11 +834,13 @@
     },
     {
       "type": "arabic",
-      "text": "اَلَمْ نَجْعَلِ الْاَرْضَ مِهَادًا ❋ وَالْجِبَالَ اَوْتَادًا ❋ وَخَلَقْنَاكُمْ اَزْوَاجًا"
+      "text": "اَلَمْ نَجْعَلِ الْاَرْضَ مِهَادًا ❋ وَالْجِبَالَ اَوْتَادًا ❋ وَخَلَقْنَاكُمْ اَزْوَاجًا",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "فَانْظُرْ اِلٰٓى اٰثَارِ رَحْمَتِ اللّٰهِ كَيْفَ يُحْيِ الْاَرْضَ بَعْدَ مَوْتِهَاۜ"
+      "text": "فَانْظُرْ اِلٰٓى اٰثَارِ رَحْمَتِ اللّٰهِ كَيْفَ يُحْيِ الْاَرْضَ بَعْدَ مَوْتِهَاۜ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -773,7 +895,18 @@
     },
     {
       "type": "paragraph",
-      "text": "İşte ey coğrafyacı efendi! Bu zemin kafası yüz bin ağız, herbirinde yüz bin lisân ile Allah’ı tanıttırsa ve sen O’nu tanımazsan, başını tabiat bataklığına soksan, derece-i kabahatini düşün. Ne derece dehşetli bir cezaya seni müstehak eder, bil, ayıl. Ve başını bataklıktan çıkar; اٰمَنْتُ بِاللّٰهِ الَّذ۪ي بِيَدِهِ مَلَكُوتُ كُلِّ شَيْءٍ de."
+      "parts": [
+        {
+          "text": "İşte ey coğrafyacı efendi! Bu zemin kafası yüz bin ağız, herbirinde yüz bin lisân ile Allah’ı tanıttırsa ve sen O’nu tanımazsan, başını tabiat bataklığına soksan, derece-i kabahatini düşün. Ne derece dehşetli bir cezaya seni müstehak eder, bil, ayıl. Ve başını bataklıktan çıkar; "
+        },
+        {
+          "text": "اٰمَنْتُ بِاللّٰهِ الَّذ۪ي بِيَدِهِ مَلَكُوتُ كُلِّ شَيْءٍ",
+          "red": true
+        },
+        {
+          "text": " de."
+        }
+      ]
     },
     {
       "type": "heading",
@@ -781,7 +914,15 @@
     },
     {
       "type": "paragraph",
-      "text": "اَلَّذ۪ي خَلَقَ الْمَوْتَ وَالْحَيٰوةَ Hayat, kudret-i Rabbâniye mu'cizâtının en nurânîsidir, en güzelidir. Ve Vahdâniyet bürhânlarının en kuvvetlisi ve en parlağıdır. Ve Tecelliyât-ı Samedâniye âyinelerinin en câmi'i ve en berrakıdır."
+      "parts": [
+        {
+          "text": "اَلَّذ۪ي خَلَقَ الْمَوْتَ وَالْحَيٰوةَ",
+          "red": true
+        },
+        {
+          "text": " Hayat, kudret-i Rabbâniye mu'cizâtının en nurânîsidir, en güzelidir. Ve Vahdâniyet bürhânlarının en kuvvetlisi ve en parlağıdır. Ve Tecelliyât-ı Samedâniye âyinelerinin en câmi'i ve en berrakıdır."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -809,13 +950,21 @@
     },
     {
       "type": "arabic",
-      "text": "لَٓا اِلٰهَ اِلَّا هُوَ كُلُّ شَيْءٍ هَالِكٌ اِلَّا وَجْهَهُ لَهُ الْحُكْمُ وَاِلَيْهِ تُرْجَعُونَ"
+      "text": "لَٓا اِلٰهَ اِلَّا هُوَ كُلُّ شَيْءٍ هَالِكٌ اِلَّا وَجْهَهُ لَهُ الْحُكْمُ وَاِلَيْهِ تُرْجَعُونَ",
+      "red": true
     },
     {
       "type": "paragraph",
       "parts": [
         {
-          "text": "Mevt, hayat kadar bir bürhân-ı Rubûbiyet’tir. Gayet kuvvetli bir hüccet-i Vahdâniyet’tir. اَلَّذ۪ي خَلَقَ الْمَوْتَ وَالْحَيٰوةَ delâletince, mevt; adem, i'dâm, fenâ, hiçlik, fâilsiz bir inkırâz değil, belki bir Fâil-i Hakîm tarafından hizmetten terhis ve tahvîl-i mekân ve tebdil-i beden ve vazifeden paydos ve haps-i bedenden âzâd etmek ve muntazam bir eser-i hikmet olduğu, "
+          "text": "Mevt, hayat kadar bir bürhân-ı Rubûbiyet’tir. Gayet kuvvetli bir hüccet-i Vahdâniyet’tir. "
+        },
+        {
+          "text": "اَلَّذ۪ي خَلَقَ الْمَوْتَ وَالْحَيٰوةَ",
+          "red": true
+        },
+        {
+          "text": " delâletince, mevt; adem, i'dâm, fenâ, hiçlik, fâilsiz bir inkırâz değil, belki bir Fâil-i Hakîm tarafından hizmetten terhis ve tahvîl-i mekân ve tebdil-i beden ve vazifeden paydos ve haps-i bedenden âzâd etmek ve muntazam bir eser-i hikmet olduğu, "
         },
         {
           "text": "“Birinci Mektûb”",
@@ -847,7 +996,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Yani, herbiri birer mu'cize-i kudret olan zemin dolusu bütün geçen baharlar misillû, yeni gelecek birer hàrika-i kudret ve birer hayatdâr zemin olan, bahar dolusu hayatdâr mevcûdât-ı arziyenin gelmelerini ihsâs ve vücûdlarına şehâdet ettiklerinden; öyle geniş bir mikyâsta, öyle parlak bir sûrette, öyle kuvvetli bir derecede bir Sâni'-i Zülcelâl’in, bir Kadîr-i Zülkemâl’in, bir Kayyûm-u Bâkî’nin, bir Şems-i Sermedî’nin vücûb-u vücûduna ve vahdetine ve bekà ve sermediyetine şehâdet ederler ve öyle parlak delâili gösterirler ki, ister istemez bedâhet derecesinde اٰمَنْتُ بِاللّٰهِ الْوَاحِدِ الْاَحَدِ dedirtir."
+      "parts": [
+        {
+          "text": "Yani, herbiri birer mu'cize-i kudret olan zemin dolusu bütün geçen baharlar misillû, yeni gelecek birer hàrika-i kudret ve birer hayatdâr zemin olan, bahar dolusu hayatdâr mevcûdât-ı arziyenin gelmelerini ihsâs ve vücûdlarına şehâdet ettiklerinden; öyle geniş bir mikyâsta, öyle parlak bir sûrette, öyle kuvvetli bir derecede bir Sâni'-i Zülcelâl’in, bir Kadîr-i Zülkemâl’in, bir Kayyûm-u Bâkî’nin, bir Şems-i Sermedî’nin vücûb-u vücûduna ve vahdetine ve bekà ve sermediyetine şehâdet ederler ve öyle parlak delâili gösterirler ki, ister istemez bedâhet derecesinde "
+        },
+        {
+          "text": "اٰمَنْتُ بِاللّٰهِ الْوَاحِدِ الْاَحَدِ",
+          "red": true
+        },
+        {
+          "text": " dedirtir."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -857,7 +1017,14 @@
           "bold": true
         },
         {
-          "text": " وَيُحْيِ الْاَرْضَ بَعْدَ مَوْتِهَا sırrınca; hayatdâr bu zemin, bir baharda Sâni'a şehâdet ettiği gibi; onun ölmesiyle, zamanın geçmiş ve gelecek iki kanadına dizilmiş mu'cizât-ı kudretine nazarı çeviriyor… Bir bahar yerine binler baharı gösteriyor. Bir mu'cize yerine binler mu'cizât-ı kudretine işâret eder. Ve onlardan her bahar, şu hâzır bahardan daha kat'î şehâdet eder. Çünkü; mâzi tarafına geçenler zâhirî esbâblarıyla beraber gitmişler; arkalarında, yine kendileri gibi başkalar yerlerine gelmişler."
+          "text": " "
+        },
+        {
+          "text": "وَيُحْيِ الْاَرْضَ بَعْدَ مَوْتِهَا",
+          "red": true
+        },
+        {
+          "text": " sırrınca; hayatdâr bu zemin, bir baharda Sâni'a şehâdet ettiği gibi; onun ölmesiyle, zamanın geçmiş ve gelecek iki kanadına dizilmiş mu'cizât-ı kudretine nazarı çeviriyor… Bir bahar yerine binler baharı gösteriyor. Bir mu'cize yerine binler mu'cizât-ı kudretine işâret eder. Ve onlardan her bahar, şu hâzır bahardan daha kat'î şehâdet eder. Çünkü; mâzi tarafına geçenler zâhirî esbâblarıyla beraber gitmişler; arkalarında, yine kendileri gibi başkalar yerlerine gelmişler."
         }
       ]
     },
@@ -935,7 +1102,8 @@
     },
     {
       "type": "arabic",
-      "text": "اَللّٰهُ خَالِقُ كُلِّ شَيْءٍ وَهُوَ عَلٰى كُلِّ شَيْءٍ وَك۪يلٌ"
+      "text": "اَللّٰهُ خَالِقُ كُلِّ شَيْءٍ وَهُوَ عَلٰى كُلِّ شَيْءٍ وَك۪يلٌ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -966,7 +1134,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Hem nasıl ki; müsebbebdeki hàrika san'at ve tezyînât, esbâbı azledip, Müsebbibü'l-Esbâb olan Vâcibü'l-Vücûd’a işâret ederek, وَاِلَيْهِ يُرْجَعُ الْاَمْرُ كُلُّهُ sırrınca O’na teslîm-i umûr eder."
+      "parts": [
+        {
+          "text": "Hem nasıl ki; müsebbebdeki hàrika san'at ve tezyînât, esbâbı azledip, Müsebbibü'l-Esbâb olan Vâcibü'l-Vücûd’a işâret ederek, "
+        },
+        {
+          "text": "وَاِلَيْهِ يُرْجَعُ الْاَمْرُ كُلُّهُ",
+          "red": true
+        },
+        {
+          "text": " sırrınca O’na teslîm-i umûr eder."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -1009,7 +1188,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Ey esbâb-perest bîçâre! Bu üç mühim hakikati ne ile izâh edebilirsin? Sen nasıl kendini kandırabilirsin? Aklın varsa, esbâb perdesini yırt, وَحْدَهُ لَا شَر۪يكَ لَهُ de, hadsiz evhâmdan kurtul."
+      "parts": [
+        {
+          "text": "Ey esbâb-perest bîçâre! Bu üç mühim hakikati ne ile izâh edebilirsin? Sen nasıl kendini kandırabilirsin? Aklın varsa, esbâb perdesini yırt, "
+        },
+        {
+          "text": "وَحْدَهُ لَا شَر۪يكَ لَهُ",
+          "red": true
+        },
+        {
+          "text": " de, hadsiz evhâmdan kurtul."
+        }
+      ]
     },
     {
       "type": "heading",
@@ -1017,7 +1207,8 @@
     },
     {
       "type": "arabic",
-      "text": "وَمِنْ اٰيَاتِه۪ خَلْقُ السَّمٰوَاتِ وَالْاَرْضِ وَاخْتِلَافُ اَلْسِنَتِكُمْ وَاَلْوَانِكُمْ اِنَّ ف۪ي ذٰلِكَ لَاٰيَاتٍ لِلْعَالِم۪ينَ"
+      "text": "وَمِنْ اٰيَاتِه۪ خَلْقُ السَّمٰوَاتِ وَالْاَرْضِ وَاخْتِلَافُ اَلْسِنَتِكُمْ وَاَلْوَانِكُمْ اِنَّ ف۪ي ذٰلِكَ لَاٰيَاتٍ لِلْعَالِم۪ينَ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1029,7 +1220,18 @@
     },
     {
       "type": "paragraph",
-      "text": "İşte kâinât kadar büyük bir pencere ki, onunla bakılsa; اَللّٰهُ خَالِقُ كُلِّ شَيْءٍ وَهُوَ عَلٰى كُلِّ شَيْءٍ وَك۪يلٌ ❋ لَهُ مَقَال۪يدُ السَّمٰوَاتِ وَالْاَرْضِ âyetleri, büyük harflerle kâinât sahifelerinde yazılı olduğu, akıl gözüyle de görülecek. Öyle ise; görmeyenin ya aklı yok, ya kalbi yok. Veya insan sûretinde bir hayvandır!"
+      "parts": [
+        {
+          "text": "İşte kâinât kadar büyük bir pencere ki, onunla bakılsa; "
+        },
+        {
+          "text": "اَللّٰهُ خَالِقُ كُلِّ شَيْءٍ وَهُوَ عَلٰى كُلِّ شَيْءٍ وَك۪يلٌ ❋ لَهُ مَقَال۪يدُ السَّمٰوَاتِ وَالْاَرْضِ",
+          "red": true
+        },
+        {
+          "text": " âyetleri, büyük harflerle kâinât sahifelerinde yazılı olduğu, akıl gözüyle de görülecek. Öyle ise; görmeyenin ya aklı yok, ya kalbi yok. Veya insan sûretinde bir hayvandır!"
+        }
+      ]
     },
     {
       "type": "heading",
@@ -1037,7 +1239,8 @@
     },
     {
       "type": "arabic",
-      "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِه۪"
+      "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِه۪",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1068,7 +1271,18 @@
     },
     {
       "type": "paragraph",
-      "text": "İşte ey gâfil! Şu kâinâtın yüzüne bak ki; birbiri içinde hadsiz Mektûbat-ı Samedâniye hükmünde olan sahâif-i mevcûdât ve herbir mektûb üstünde hadsiz sikke-i tevhid mühürleriyle temhir edilmiş bütün bu mühürlerin şehâdetlerini kim tekzîb edebilir? Hangi kuvvet onları susturabilir? Kalb kulağı ile hangisini dinlesen, اَشْهَدُ اَنْ لَٓا اِلٰهَ اِلَّا اللّٰهُ dediğini işitirsin."
+      "parts": [
+        {
+          "text": "İşte ey gâfil! Şu kâinâtın yüzüne bak ki; birbiri içinde hadsiz Mektûbat-ı Samedâniye hükmünde olan sahâif-i mevcûdât ve herbir mektûb üstünde hadsiz sikke-i tevhid mühürleriyle temhir edilmiş bütün bu mühürlerin şehâdetlerini kim tekzîb edebilir? Hangi kuvvet onları susturabilir? Kalb kulağı ile hangisini dinlesen, "
+        },
+        {
+          "text": "اَشْهَدُ اَنْ لَٓا اِلٰهَ اِلَّا اللّٰهُ",
+          "red": true
+        },
+        {
+          "text": " dediğini işitirsin."
+        }
+      ]
     },
     {
       "type": "heading",
@@ -1076,11 +1290,13 @@
     },
     {
       "type": "arabic",
-      "text": "لَوْ كَانَ ف۪يهِمَٓا اٰلِهَةٌ اِلَّا اللّٰهُ لَفَسَدَتَا"
+      "text": "لَوْ كَانَ ف۪يهِمَٓا اٰلِهَةٌ اِلَّا اللّٰهُ لَفَسَدَتَا",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "كُلُّ شَيْءٍ هَالِكٌ اِلَّا وَجْهَهُ لَهُ الْحُكْمُ وَاِلَيْهِ تُرْجَعُونَ"
+      "text": "كُلُّ شَيْءٍ هَالِكٌ اِلَّا وَجْهَهُ لَهُ الْحُكْمُ وَاِلَيْهِ تُرْجَعُونَ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1111,7 +1327,25 @@
     },
     {
       "type": "paragraph",
-      "text": "Eğer zerre mikdar şerîke yer bulunsa idi, müdâhalesi olsa idi, لَوْ كَانَ ف۪يهِمَٓا اٰلِهَةٌ اِلَّا اللّٰهُ لَفَسَدَتَا âyet-i kerîmesinin delâletiyle; nizâm bozulacaktı, sûret değişecekti, fesâdın âsârı görünecekti. Hâlbuki:فَارْجِعِ الْبَصَرَ هَلْ تَرٰى مِنْ فُطُورٍ ❋ ثُمَّ ارْجِعِ الْبَصَرَ كَرَّتَيْنِ يَنْقَلِبْ اِلَيْكَ الْبَصَرُ خَاسِئًا وَهُوَ حَس۪يرٌ delâletiyle ve şu ifâde ile nazar-ı beşer, kusuru aramak için ne kadar çabalasa, hiçbir yerde kusuru bulamayarak yorgun olarak menzili olan göze gelip, onu gönderen münekkid akla diyecek: “Beyhûde yoruldum, kusur yok.” demesiyle gösteriyor ki; nizâm ve intizam, gayet mükemmeldir. Demek intizam-ı kâinât, Vahdâniyet’in kat'î şâhididir."
+      "parts": [
+        {
+          "text": "Eğer zerre mikdar şerîke yer bulunsa idi, müdâhalesi olsa idi, "
+        },
+        {
+          "text": "لَوْ كَانَ ف۪يهِمَٓا اٰلِهَةٌ اِلَّا اللّٰهُ لَفَسَدَتَا",
+          "red": true
+        },
+        {
+          "text": " âyet-i kerîmesinin delâletiyle; nizâm bozulacaktı, sûret değişecekti, fesâdın âsârı görünecekti. Hâlbuki:"
+        },
+        {
+          "text": "فَارْجِعِ الْبَصَرَ هَلْ تَرٰى مِنْ فُطُورٍ ❋ ثُمَّ ارْجِعِ الْبَصَرَ كَرَّتَيْنِ يَنْقَلِبْ اِلَيْكَ الْبَصَرُ خَاسِئًا وَهُوَ حَس۪يرٌ",
+          "red": true
+        },
+        {
+          "text": " delâletiyle ve şu ifâde ile nazar-ı beşer, kusuru aramak için ne kadar çabalasa, hiçbir yerde kusuru bulamayarak yorgun olarak menzili olan göze gelip, onu gönderen münekkid akla diyecek: “Beyhûde yoruldum, kusur yok.” demesiyle gösteriyor ki; nizâm ve intizam, gayet mükemmeldir. Demek intizam-ı kâinât, Vahdâniyet’in kat'î şâhididir."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -1200,11 +1434,13 @@
     },
     {
       "type": "arabic",
-      "text": "لَقَدْ خَلَقْنَا الْاِنْسَانَ ف۪ٓي اَحْسَنِ تَقْو۪يمٍ"
+      "text": "لَقَدْ خَلَقْنَا الْاِنْسَانَ ف۪ٓي اَحْسَنِ تَقْو۪يمٍ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "وَفِي الْاَرْضِ اٰيَاتٌ لِلْمُوقِن۪ينَ ❋ وَف۪ٓي اَنْفُسِكُمْ اَفَلَا تُبْصِرُونَ"
+      "text": "وَفِي الْاَرْضِ اٰيَاتٌ لِلْمُوقِن۪ينَ ❋ وَف۪ٓي اَنْفُسِكُمْ اَفَلَا تُبْصِرُونَ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1275,7 +1511,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Öyle de: وَلِلّٰهِ الْمَثَلُ الْاَعْلٰى Cenâb-ı Hakk’ın, mâdem O’nun bir kanun-u emri olan rûh, küçük bir âlem olan insan cisminde ve a'zâsında bu vaziyeti gösteriyor. Elbette âlem-i ekber olan kâinâtta, O Zât-ı Vâcibü'l-Vücûd’un irâde-i külliyesine ve kudret-i mutlakasına hadsiz fiiller, hadsiz sadâlar, hadsiz duâlar, hadsiz işler, hiçbir cihette O’na ağır gelmez. Birbirine mâni olmaz. O Hàlık-ı Zülcelâl’i meşgul etmez, şaşırtmaz; bütününü birden görür, bütün sesleri birden işitir. Yakın uzak birdir. İsterse, bütününü birinin imdâdına gönderir. Herşey ile, herşeyi görebilir. Seslerini işitebilir. Ve herşey ile herşeyi bilir ve hâkezâ…"
+      "parts": [
+        {
+          "text": "Öyle de: "
+        },
+        {
+          "text": "وَلِلّٰهِ الْمَثَلُ الْاَعْلٰى",
+          "red": true
+        },
+        {
+          "text": " Cenâb-ı Hakk’ın, mâdem O’nun bir kanun-u emri olan rûh, küçük bir âlem olan insan cisminde ve a'zâsında bu vaziyeti gösteriyor. Elbette âlem-i ekber olan kâinâtta, O Zât-ı Vâcibü'l-Vücûd’un irâde-i külliyesine ve kudret-i mutlakasına hadsiz fiiller, hadsiz sadâlar, hadsiz duâlar, hadsiz işler, hiçbir cihette O’na ağır gelmez. Birbirine mâni olmaz. O Hàlık-ı Zülcelâl’i meşgul etmez, şaşırtmaz; bütününü birden görür, bütün sesleri birden işitir. Yakın uzak birdir. İsterse, bütününü birinin imdâdına gönderir. Herşey ile, herşeyi görebilir. Seslerini işitebilir. Ve herşey ile herşeyi bilir ve hâkezâ…"
+        }
+      ]
     },
     {
       "type": "heading",
@@ -1295,7 +1542,8 @@
     },
     {
       "type": "arabic",
-      "text": "هُوَ الَّذ۪ٓي اَرْسَلَ رَسُولَهُ بِالْهُدٰى وَد۪ينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدّ۪ينِ كُلِّه۪ وَكَفٰى بِاللّٰهِ شَه۪يدًاقُلْ يَٓا اَيُّهَا النَّاسُ اِنّ۪ي رَسُولُ اللّٰهِ اِلَيْكُمْ جَم۪يعًاۨ الَّذ۪ي لَهُ مُلْكُ السَّمٰوَاتِ وَالْاَرْضِ لَٓا اِلٰهَ اِلَّا هُوَ يُحْي۪ي وَيُم۪يتُ"
+      "text": "هُوَ الَّذ۪ٓي اَرْسَلَ رَسُولَهُ بِالْهُدٰى وَد۪ينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدّ۪ينِ كُلِّه۪ وَكَفٰى بِاللّٰهِ شَه۪يدًاقُلْ يَٓا اَيُّهَا النَّاسُ اِنّ۪ي رَسُولُ اللّٰهِ اِلَيْكُمْ جَم۪يعًاۨ الَّذ۪ي لَهُ مُلْكُ السَّمٰوَاتِ وَالْاَرْضِ لَٓا اِلٰهَ اِلَّا هُوَ يُحْي۪ي وَيُم۪يتُ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1311,11 +1559,13 @@
     },
     {
       "type": "arabic",
-      "text": "اَلْحَمْدُ لِلّٰهِ الَّذ۪ٓي اَنْزَلَ عَلٰى عَبْدِهِ الْكِتَابَ وَلَمْ يَجْعَلْ لَهُ عِوَجًا ❋ قَيِّمًا…"
+      "text": "اَلْحَمْدُ لِلّٰهِ الَّذ۪ٓي اَنْزَلَ عَلٰى عَبْدِهِ الْكِتَابَ وَلَمْ يَجْعَلْ لَهُ عِوَجًا ❋ قَيِّمًا…",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "الٓرٰ كِتَابٌ اَنْزَلْنَاهُ اِلَيْكَ لِتُخْرِجَ النَّاسَ مِنَ الظُّلُمَاتِ اِلَى النُّورِ"
+      "text": "الٓرٰ كِتَابٌ اَنْزَلْنَاهُ اِلَيْكَ لِتُخْرِجَ النَّاسَ مِنَ الظُّلُمَاتِ اِلَى النُّورِ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1327,15 +1577,18 @@
     },
     {
       "type": "arabic",
-      "text": "رَبَّنَا لَا تُؤَاخِذْنَٓا اِنْ نَس۪ينَٓا اَوْ اَخْطَأْنَارَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ اِذْ هَدَيْتَنَا"
+      "text": "رَبَّنَا لَا تُؤَاخِذْنَٓا اِنْ نَس۪ينَٓا اَوْ اَخْطَأْنَارَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ اِذْ هَدَيْتَنَا",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "رَبَّنَا تَقَبَّلْ مِنَّا اِنَّكَ اَنْتَ السَّم۪يعُ الْعَل۪يمُ"
+      "text": "رَبَّنَا تَقَبَّلْ مِنَّا اِنَّكَ اَنْتَ السَّم۪يعُ الْعَل۪يمُ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "وَتُبْ عَلَيْنَا اِنَّكَ اَنْتَ التَّوَّابُ الرَّح۪يمُ"
+      "text": "وَتُبْ عَلَيْنَا اِنَّكَ اَنْتَ التَّوَّابُ الرَّح۪يمُ",
+      "red": true
     },
     {
       "type": "divider"
@@ -1373,15 +1626,18 @@
     },
     {
       "type": "arabic",
-      "text": "وَالسَّلَامُ عَلٰى مَنِ اتَّبَعَ الْهُدٰى ❋ وَالْمَلَامُ عَلٰى مَنِ اتَّبَعَ الْهَوٰى"
+      "text": "وَالسَّلَامُ عَلٰى مَنِ اتَّبَعَ الْهُدٰى ❋ وَالْمَلَامُ عَلٰى مَنِ اتَّبَعَ الْهَوٰى",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ"
+      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى مَنْ اَرْسَلْتَهُ رَحْمَةً لِلْعَالَم۪ينَ وَعَلٰى اٰلِهِ وَصَحْبِهِ وَسَلِّمْ اٰم۪ينَ"
+      "text": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى مَنْ اَرْسَلْتَهُ رَحْمَةً لِلْعَالَم۪ينَ وَعَلٰى اٰلِهِ وَصَحْبِهِ وَسَلِّمْ اٰم۪ينَ",
+      "red": true
     }
   ],
   "notes": [

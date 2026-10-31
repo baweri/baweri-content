@@ -4,11 +4,13 @@
   "blocks": [
     {
       "type": "arabic",
-      "text": "﷽"
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "يَٓا اَيُّهَا النَّاسُ اعْبُدُوا"
+      "text": "يَٓا اَيُّهَا النَّاسُ اعْبُدُوا",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -36,7 +38,18 @@
     },
     {
       "type": "paragraph",
-      "text": "İbâdetin çendan zâhirî bir ağırlığı var. Fakat, mânâsında öyle bir rahatlık ve hafiflik var ki, ta'rif edilmez. Çünkü; âbid, namazında der: اَشْهَدُ اَنْ لَٓا اِلٰهَ اِلَّا اللّٰهُYani; “Hàlık ve Rezzâk, O’ndan başka yoktur! Zarar ve menfaat, O’nun elindedir. O hem Hakîm’dir; abes iş yapmaz. Hem Rahîm’dir; ihsânı, merhameti çoktur.” diye i'tikàd ettiğinden, herşeyde bir hazine-i Rahmet kapısını bulur, duâ ile çalar."
+      "parts": [
+        {
+          "text": "İbâdetin çendan zâhirî bir ağırlığı var. Fakat, mânâsında öyle bir rahatlık ve hafiflik var ki, ta'rif edilmez. Çünkü; âbid, namazında der: "
+        },
+        {
+          "text": "اَشْهَدُ اَنْ لَٓا اِلٰهَ اِلَّا اللّٰهُ",
+          "red": true
+        },
+        {
+          "text": "Yani; “Hàlık ve Rezzâk, O’ndan başka yoktur! Zarar ve menfaat, O’nun elindedir. O hem Hakîm’dir; abes iş yapmaz. Hem Rahîm’dir; ihsânı, merhameti çoktur.” diye i'tikàd ettiğinden, herşeyde bir hazine-i Rahmet kapısını bulur, duâ ile çalar."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -70,7 +83,14 @@
           "bold": true
         },
         {
-          "text": " Âhiret gibi dünya saâdeti dahi, ibâdette ve Allah’a asker olmaktadır. Öyle ise, biz dâima: اَلْحَمْدُ لِلّٰهِ عَلَى الطَّاعَةِ وَالتَّوْف۪يقِ demeliyiz ve Müslüman olduğumuza şükretmeliyiz."
+          "text": " Âhiret gibi dünya saâdeti dahi, ibâdette ve Allah’a asker olmaktadır. Öyle ise, biz dâima: "
+        },
+        {
+          "text": "اَلْحَمْدُ لِلّٰهِ عَلَى الطَّاعَةِ وَالتَّوْف۪يقِ",
+          "red": true
+        },
+        {
+          "text": " demeliyiz ve Müslüman olduğumuza şükretmeliyiz."
         }
       ]
     }

@@ -4,11 +4,13 @@
   "blocks": [
     {
       "type": "arabic",
-      "text": "﷽"
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "اِنَّا جَعَلْنَا مَا عَلَى الْاَرْضِ ز۪ينَةً لَهَا لِنَبْلُوَهُمْ اَيُّهُمْ اَحْسَنُ عَمَلًا ❋ وَاِنَّا لَجَاعِلُونَ مَا عَلَيْهَا صَع۪يدًا جُرُزًاوَمَا الْحَيٰوةُ الدُّنْيَٓا اِلَّا لَعِبٌ وَلَهْوٌ"
+      "text": "اِنَّا جَعَلْنَا مَا عَلَى الْاَرْضِ ز۪ينَةً لَهَا لِنَبْلُوَهُمْ اَيُّهُمْ اَحْسَنُ عَمَلًا ❋ وَاِنَّا لَجَاعِلُونَ مَا عَلَيْهَا صَع۪يدًا جُرُزًاوَمَا الْحَيٰوةُ الدُّنْيَٓا اِلَّا لَعِبٌ وَلَهْوٌ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -37,7 +39,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Fakat bu ziyâfet-i İlâhiye ve bayram-ı Rabbâniye’deki ism-i Rahmân ve Muhyî’nin tecellîlerine mukâbil ism-i Kahhâr ve Mümît, firâk ve mevt ile karşılarına çıkıyorlar. Şu ise; وَسِعَتْ رَحْمَت۪ي كُلَّ شَيْءٍ rahmetinin vüs'at-i şümûlüne zâhiren muvâfık düşmüyor. Fakat hakikatte birkaç cihet-i muvâfakati vardır. Bir ciheti şudur ki:"
+      "parts": [
+        {
+          "text": "Fakat bu ziyâfet-i İlâhiye ve bayram-ı Rabbâniye’deki ism-i Rahmân ve Muhyî’nin tecellîlerine mukâbil ism-i Kahhâr ve Mümît, firâk ve mevt ile karşılarına çıkıyorlar. Şu ise; "
+        },
+        {
+          "text": "وَسِعَتْ رَحْمَت۪ي كُلَّ شَيْءٍ",
+          "red": true
+        },
+        {
+          "text": " rahmetinin vüs'at-i şümûlüne zâhiren muvâfık düşmüyor. Fakat hakikatte birkaç cihet-i muvâfakati vardır. Bir ciheti şudur ki:"
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -49,7 +62,15 @@
     },
     {
       "type": "paragraph",
-      "text": "Öyle de, sâir zîrûh ve hayvanatın dahi, kendilerine mahsûs vazife-i fıtriye-i Rabbâniye’lerinde ve evâmir-i Sübhâniye’nin itâatlerinde telef olan ve şiddetli meşakkat çeken zîrûhların, onlara göre bir çeşit mükâfât-ı rûhâniye ve onların isti'dâdlarına göre bir nev'i ücret-i maneviye, o tükenmez hazine-i rahmetinden baîd değil ki, bulunmasın. Dünyadan gitmelerinden pek çok incinmesinler, belki memnun olsunlar. لَا يَعْلَمُ الْغَيْبَ اِلَّا اللّٰهُ"
+      "parts": [
+        {
+          "text": "Öyle de, sâir zîrûh ve hayvanatın dahi, kendilerine mahsûs vazife-i fıtriye-i Rabbâniye’lerinde ve evâmir-i Sübhâniye’nin itâatlerinde telef olan ve şiddetli meşakkat çeken zîrûhların, onlara göre bir çeşit mükâfât-ı rûhâniye ve onların isti'dâdlarına göre bir nev'i ücret-i maneviye, o tükenmez hazine-i rahmetinden baîd değil ki, bulunmasın. Dünyadan gitmelerinden pek çok incinmesinler, belki memnun olsunlar. "
+        },
+        {
+          "text": "لَا يَعْلَمُ الْغَيْبَ اِلَّا اللّٰهُ",
+          "red": true
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -430,7 +451,8 @@
     },
     {
       "type": "arabic",
-      "text": "هٰذِهِ الْمُنَاجَاةُ تَخَطَّرَتْ فِي الْقَلْبِ هٰكَذَا بِالْبَيَانِ الْفَارِس۪ي"
+      "text": "هٰذِهِ الْمُنَاجَاةُ تَخَطَّرَتْ فِي الْقَلْبِ هٰكَذَا بِالْبَيَانِ الْفَارِس۪ي",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -802,23 +824,38 @@
     },
     {
       "type": "arabic",
-      "text": "﷽"
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "فَلَمَّٓا اَفَلَ قَالَ لَٓا اُحِبُّ الْاٰفِل۪ينَ"
+      "text": "فَلَمَّٓا اَفَلَ قَالَ لَٓا اُحِبُّ الْاٰفِل۪ينَ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "لَقَدْ اَبْكَان۪ي نَعْيُلَٓا اُحِبُّ الْاٰفِل۪ينَمِنْ خَل۪يلِ اللّٰهِ"
+      "text": "لَقَدْ اَبْكَان۪ي نَعْيُلَٓا اُحِبُّ الْاٰفِل۪ينَمِنْ خَل۪يلِ اللّٰهِ",
+      "red": true
     },
     {
       "type": "paragraph",
-      "text": "İbrahim Aleyhisselâm’dan sudûr ile, kâinâtın zevâl ve ölümünü ilân eden na'y-i لَٓا اُحِبُّ الْاٰفِل۪ينَ beni ağlattırdı."
+      "parts": [
+        {
+          "text": "İbrahim Aleyhisselâm’dan sudûr ile, kâinâtın zevâl ve ölümünü ilân eden na'y-i "
+        },
+        {
+          "text": "لَٓا اُحِبُّ الْاٰفِل۪ينَ",
+          "red": true
+        },
+        {
+          "text": " beni ağlattırdı."
+        }
+      ]
     },
     {
       "type": "arabic",
-      "text": "فَصَبَّتْ عَيْنُ قَلْب۪ي قَطَرَاتٍ بَاكِيَاتٍ مِنْ شُؤُونِ اللّٰهِ"
+      "text": "فَصَبَّتْ عَيْنُ قَلْب۪ي قَطَرَاتٍ بَاكِيَاتٍ مِنْ شُؤُونِ اللّٰهِ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -826,7 +863,8 @@
     },
     {
       "type": "arabic",
-      "text": "لِتَفْس۪يرِ كَلَامٍ مِنْ حَك۪يمٍ اَىْ ، نَبِيٍّ ف۪ي كَلَامِ اللّٰهِ"
+      "text": "لِتَفْس۪يرِ كَلَامٍ مِنْ حَك۪يمٍ اَىْ ، نَبِيٍّ ف۪ي كَلَامِ اللّٰهِ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -875,7 +913,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Evet, zâhire mübtelâ olan akıl, şu keşmekeş kâinâtta perestiş ettiği şeylerin zevâlini görmek ile me'yûsâne feryâd eder ve bâkî bir mahbûbu arayan rûh dahi, لَٓا اُحِبُّ الْاٰفِل۪ينَ feryâdını ilân ediyor."
+      "parts": [
+        {
+          "text": "Evet, zâhire mübtelâ olan akıl, şu keşmekeş kâinâtta perestiş ettiği şeylerin zevâlini görmek ile me'yûsâne feryâd eder ve bâkî bir mahbûbu arayan rûh dahi, "
+        },
+        {
+          "text": "لَٓا اُحِبُّ الْاٰفِل۪ينَ",
+          "red": true
+        },
+        {
+          "text": " feryâdını ilân ediyor."
+        }
+      ]
     },
     {
       "type": "quote",
@@ -899,7 +948,18 @@
     },
     {
       "type": "paragraph",
-      "text": "İşte o zevâl-âlûd mülâkatlar, o elemli, mecâzî muhabbetler derdinden ve belâsındandır ki; kalbim, İbrahimvâri لَٓا اُحِبُّ الْاٰفِل۪ينَ ağlamasıyla ağlıyor ve bağırıyor!"
+      "parts": [
+        {
+          "text": "İşte o zevâl-âlûd mülâkatlar, o elemli, mecâzî muhabbetler derdinden ve belâsındandır ki; kalbim, İbrahimvâri "
+        },
+        {
+          "text": "لَٓا اُحِبُّ الْاٰفِل۪ينَ",
+          "red": true
+        },
+        {
+          "text": " ağlamasıyla ağlıyor ve bağırıyor!"
+        }
+      ]
     },
     {
       "type": "quote",
@@ -923,7 +983,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Esbâb içine dalan fikr-i insanî, şu zelzele-i zevâl-i dünyadan hayrette kalıp me'yûsâne fîzar ediyor. Vücûd-u hakîki isteyen vicdân, İbrahimvâri لَٓا اُحِبُّ الْاٰفِل۪ينَ enîniyle mahbûbât-ı mecâziyeden ve mevcûdât-ı zâileden kat'-ı alâka edip, Mevcûd-u Hakîki’ye ve Mahbûb-u Sermedî’ye bağlanıyor."
+      "parts": [
+        {
+          "text": "Esbâb içine dalan fikr-i insanî, şu zelzele-i zevâl-i dünyadan hayrette kalıp me'yûsâne fîzar ediyor. Vücûd-u hakîki isteyen vicdân, İbrahimvâri "
+        },
+        {
+          "text": "لَٓا اُحِبُّ الْاٰفِل۪ينَ",
+          "red": true
+        },
+        {
+          "text": " enîniyle mahbûbât-ı mecâziyeden ve mevcûdât-ı zâileden kat'-ı alâka edip, Mevcûd-u Hakîki’ye ve Mahbûb-u Sermedî’ye bağlanıyor."
+        }
+      ]
     },
     {
       "type": "quote",
@@ -967,7 +1038,18 @@
     },
     {
       "type": "paragraph",
-      "text": "İşte zâhir-perest ve sermâyesi âfâkî ma'lûmâttan ibaret olan akl-ı dünyevî, böyle silsile-i efkârı, hiçe ve ademe incirâr ettiğinden, hayretinden ve haybetinden me'yûsâne feryâd ediyor. Hakikate giden bir doğru yol arıyor. Mâdem ufûl edenlerden ve zevâl bulanlardan rûh elini çekti. Kalb dahi mecâzî mahbûblardan vazgeçti. Vicdân dahi fânîlerden yüzünü çevirdi. Sen dahi bîçâre nefsim! İbrahimvâri لَٓا اُحِبُّ الْاٰفِل۪ينَ gıyâsını çek, kurtul!"
+      "parts": [
+        {
+          "text": "İşte zâhir-perest ve sermâyesi âfâkî ma'lûmâttan ibaret olan akl-ı dünyevî, böyle silsile-i efkârı, hiçe ve ademe incirâr ettiğinden, hayretinden ve haybetinden me'yûsâne feryâd ediyor. Hakikate giden bir doğru yol arıyor. Mâdem ufûl edenlerden ve zevâl bulanlardan rûh elini çekti. Kalb dahi mecâzî mahbûblardan vazgeçti. Vicdân dahi fânîlerden yüzünü çevirdi. Sen dahi bîçâre nefsim! İbrahimvâri "
+        },
+        {
+          "text": "لَٓا اُحِبُّ الْاٰفِل۪ينَ",
+          "red": true
+        },
+        {
+          "text": " gıyâsını çek, kurtul!"
+        }
+      ]
     },
     {
       "type": "quote",
@@ -977,7 +1059,14 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Fıtratı aşkla yoğrulmuş gibi sermest-i câm-ı aşk olan Mevlâna Câmî, kesretten vahdete yüzleri çevirmek için bak ne güzel söylemiş: يَكِى خَواهْ (1)، يَكِى خَوانْ (2)، يَكِى جُوىْ (3)، يَكِى بِينْ (4)، يَكِى دَانْ (5)، يَكِى گُوىْ (6) demiştir. "
+          "text": "Fıtratı aşkla yoğrulmuş gibi sermest-i câm-ı aşk olan Mevlâna Câmî, kesretten vahdete yüzleri çevirmek için bak ne güzel söylemiş: "
+        },
+        {
+          "text": "يَكِى خَواهْ (1)، يَكِى خَوانْ (2)، يَكِى جُوىْ (3)، يَكِى بِينْ (4)، يَكِى دَانْ (5)، يَكِى گُوىْ (6)",
+          "red": true
+        },
+        {
+          "text": " demiştir. "
         },
         {
           "note": "13"
@@ -1103,7 +1192,8 @@
     },
     {
       "type": "arabic",
-      "text": "نَعَمْ صَدَقْتَ اَىْ جَام۪ي : هُوَ الْمَطْلُوبُ ❋ هُوَ الْمَحْبُوبُ ❋ هُوَ الْمَقْصُودُ ❋ هُوَ الْمَعْبُودُ"
+      "text": "نَعَمْ صَدَقْتَ اَىْ جَام۪ي : هُوَ الْمَطْلُوبُ ❋ هُوَ الْمَحْبُوبُ ❋ هُوَ الْمَقْصُودُ ❋ هُوَ الْمَعْبُودُ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1115,7 +1205,25 @@
     },
     {
       "type": "paragraph",
-      "text": "Çünkü bu âlem; bütün mevcûdâtıyla, muhtelif dilleriyle, ayrı ayrı nağamâtıyla zikr-i İlâhî’nin halka-i kübrâsında beraber لَٓا اِلٰهَ اِلَّا هُوَ der, vahdâniyete şehâdet eder. لَٓا اُحِبُّ الْاٰفِل۪ينَ’nin açtığı yaraya merhem sürüyor ve alâkayı kestiği mecâzî mahbûblara bedel, bir Mahbûb-u Lâyezâlî’yi gösteriyor."
+      "parts": [
+        {
+          "text": "Çünkü bu âlem; bütün mevcûdâtıyla, muhtelif dilleriyle, ayrı ayrı nağamâtıyla zikr-i İlâhî’nin halka-i kübrâsında beraber "
+        },
+        {
+          "text": "لَٓا اِلٰهَ اِلَّا هُوَ",
+          "red": true
+        },
+        {
+          "text": " der, vahdâniyete şehâdet eder. "
+        },
+        {
+          "text": "لَٓا اُحِبُّ الْاٰفِل۪ينَ",
+          "red": true
+        },
+        {
+          "text": "’nin açtığı yaraya merhem sürüyor ve alâkayı kestiği mecâzî mahbûblara bedel, bir Mahbûb-u Lâyezâlî’yi gösteriyor."
+        }
+      ]
     },
     {
       "type": "divider"
@@ -1293,43 +1401,53 @@
     },
     {
       "type": "arabic",
-      "text": "هُوَ الْبَاق۪ي"
+      "text": "هُوَ الْبَاق۪ي",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "حَك۪يمُ الْقَضَايَا نَحْنُ ف۪ي قَبْضِ حُكْمِهِ ❋ هُوَ الْحَكَمُ الْعَدْلُ لَهُ الْاَرْضُ وَالسَّمَاءُ"
+      "text": "حَك۪يمُ الْقَضَايَا نَحْنُ ف۪ي قَبْضِ حُكْمِهِ ❋ هُوَ الْحَكَمُ الْعَدْلُ لَهُ الْاَرْضُ وَالسَّمَاءُ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "عَل۪يمُ الْخَفَايَا وَالْغُيُوبِ ف۪ي مُلْكِهِ ❋ هُوَ الْقَادِرُ الْقَيُّومُ لَهُ الْعَرْشُ وَالثَّرَاءُ"
+      "text": "عَل۪يمُ الْخَفَايَا وَالْغُيُوبِ ف۪ي مُلْكِهِ ❋ هُوَ الْقَادِرُ الْقَيُّومُ لَهُ الْعَرْشُ وَالثَّرَاءُ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "لَط۪يفُ الْمَزَايَا وَالنُّقُوشِ ف۪ي صُنْعِهِ ❋ هُوَ الْفَاطِرُ الْوَدُودُ لَهُ الْحُسْنُ وَالْبَهَاءُ"
+      "text": "لَط۪يفُ الْمَزَايَا وَالنُّقُوشِ ف۪ي صُنْعِهِ ❋ هُوَ الْفَاطِرُ الْوَدُودُ لَهُ الْحُسْنُ وَالْبَهَاءُ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "جَل۪يلُ الْمَرَايَا وَالشُّؤُونِ ف۪ي خَلْقِهِ ❋ هُوَ الْمَلِكُ الْقُدُّوسُ لَهُ الْعِزُّ وَالْكِبْرِيَاءُ"
+      "text": "جَل۪يلُ الْمَرَايَا وَالشُّؤُونِ ف۪ي خَلْقِهِ ❋ هُوَ الْمَلِكُ الْقُدُّوسُ لَهُ الْعِزُّ وَالْكِبْرِيَاءُ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "بَد۪يعُ الْبَرَايَا نَحْنُ مِنْ نَقْشِ صُنْعِهِ ❋ هُوَ الدَّائِمُ الْبَاق۪ي لَهُ الْمُلْكُ وَالْبَقَاءُ"
+      "text": "بَد۪يعُ الْبَرَايَا نَحْنُ مِنْ نَقْشِ صُنْعِهِ ❋ هُوَ الدَّائِمُ الْبَاق۪ي لَهُ الْمُلْكُ وَالْبَقَاءُ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "كَر۪يمُ الْعَطَايَا نَحْنُ مِنْ رَكْبِ ضَيْفِهِ ❋ هُوَ الرَّزَّاقُ الْكَاف۪ي لَهُ الْحَمْدُ وَالثَّنَاءُ"
+      "text": "كَر۪يمُ الْعَطَايَا نَحْنُ مِنْ رَكْبِ ضَيْفِهِ ❋ هُوَ الرَّزَّاقُ الْكَاف۪ي لَهُ الْحَمْدُ وَالثَّنَاءُ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "جَم۪يلُ الْهَدَايَا نَحْنُ مِنْ نَسْجِ عِلْمِهِ ❋ هُوَ الْخَالِقُ الْوَاف۪ي لَهُ الْجُودُ وَالْعَطَاءُ"
+      "text": "جَم۪يلُ الْهَدَايَا نَحْنُ مِنْ نَسْجِ عِلْمِهِ ❋ هُوَ الْخَالِقُ الْوَاف۪ي لَهُ الْجُودُ وَالْعَطَاءُ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "سَم۪يعُ الشَّكَايَا وَالدُّعَاءِ لِخَلْقِهِ ❋ هُوَ الرَّاحِمُ الشَّاف۪ي لَهُ الشُّكْرُ وَالثَّنَاءُ"
+      "text": "سَم۪يعُ الشَّكَايَا وَالدُّعَاءِ لِخَلْقِهِ ❋ هُوَ الرَّاحِمُ الشَّاف۪ي لَهُ الشُّكْرُ وَالثَّنَاءُ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "غَفُورُ الْخَطَايَا وَالذُّنُوبِ لِعَبْدِهِ ❋ هُوَ الْغَفَّارُ الرَّح۪يمُ لَهُ الْعَفْوُ وَالرِّضَاءُ"
+      "text": "غَفُورُ الْخَطَايَا وَالذُّنُوبِ لِعَبْدِهِ ❋ هُوَ الْغَفَّارُ الرَّح۪يمُ لَهُ الْعَفْوُ وَالرِّضَاءُ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1353,19 +1471,33 @@
     },
     {
       "type": "paragraph",
-      "text": "Bir vakit esâretimde dağ başında azametli çam ve katran ve ardıç ağaçlarının heybet-nümâ sûretlerini, hayret-fezâ vaziyetlerini temâşâ ederken pek latîf bir rüzgâr esti. O vaziyeti, pek muhteşem ve şirin velvele-âlûd bir zelzele-i raks-nümâ, bir tesbihât-ı cezbe-edâ sûretine çevirdiğinden eğlence temâşâsı, nazar-ı ibrete ve sem'-i hikmete döndü. Birden Ahmed-i Cezerî’nin Kürtçe şu fıkrası: هَرْكَسْ بِتَمَاشَاگَهِ حُسْنَاتَه زِهَرْجَاىْ تَشْبِيهِ نِگَارَانْ بِجَمَالَاتَه دِنَازِنْ hâtırıma geldi. Kalbim, ibret mânâlarını ifâde için şöyle ağladı:"
+      "parts": [
+        {
+          "text": "Bir vakit esâretimde dağ başında azametli çam ve katran ve ardıç ağaçlarının heybet-nümâ sûretlerini, hayret-fezâ vaziyetlerini temâşâ ederken pek latîf bir rüzgâr esti. O vaziyeti, pek muhteşem ve şirin velvele-âlûd bir zelzele-i raks-nümâ, bir tesbihât-ı cezbe-edâ sûretine çevirdiğinden eğlence temâşâsı, nazar-ı ibrete ve sem'-i hikmete döndü. Birden Ahmed-i Cezerî’nin Kürtçe şu fıkrası: "
+        },
+        {
+          "text": "هَرْكَسْ بِتَمَاشَاگَهِ حُسْنَاتَه زِهَرْجَاىْ تَشْبِيهِ نِگَارَانْ بِجَمَالَاتَه دِنَازِنْ",
+          "red": true
+        },
+        {
+          "text": " hâtırıma geldi. Kalbim, ibret mânâlarını ifâde için şöyle ağladı:"
+        }
+      ]
     },
     {
       "type": "arabic",
-      "text": "$52"
+      "text": "$52",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "فَيَا حَيُّ يَا قَيُّومُ بِحَقِّ اِسْمِ حَيِّ قَيُّومِ"
+      "text": "فَيَا حَيُّ يَا قَيُّومُ بِحَقِّ اِسْمِ حَيِّ قَيُّومِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "حَيَاتِى دِهْ بَاِينْ قَلْبِ پَرِيشَانْ رَا اِسْتِقَامَتْ دِهْ بَاِينْ عَقْلِ مُشَوَّشْ رَا اۤمِينْ"
+      "text": "حَيَاتِى دِهْ بَاِينْ قَلْبِ پَرِيشَانْ رَا اِسْتِقَامَتْ دِهْ بَاِينْ عَقْلِ مُشَوَّشْ رَا اۤمِينْ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1378,7 +1510,8 @@
     },
     {
       "type": "arabic",
-      "text": "هَرْكَسْ بِتَمَاشَاگَهِ حُسْنَاتَه زِهَرْجَاىْ تَشْبِيهِ نِگَارَانْ بِجَمَالَاتَه دِنَازِنْ"
+      "text": "هَرْكَسْ بِتَمَاشَاگَهِ حُسْنَاتَه زِهَرْجَاىْ تَشْبِيهِ نِگَارَانْ بِجَمَالَاتَه دِنَازِنْ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1390,7 +1523,8 @@
     },
     {
       "type": "arabic",
-      "text": "يَا رَبْ هَرْ حَىْ بِتَمَاشَاگَهِ صُنْعِ تُو زِهَرْجَاىْ بَتَازِى"
+      "text": "يَا رَبْ هَرْ حَىْ بِتَمَاشَاگَهِ صُنْعِ تُو زِهَرْجَاىْ بَتَازِى",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1398,7 +1532,8 @@
     },
     {
       "type": "arabic",
-      "text": "زِنَشيِبُ اَزْ فِرَازِى مَانَنْدِ دَلَّالَانْ بِنِدَاءِ بِاۤوَازِى"
+      "text": "زِنَشيِبُ اَزْ فِرَازِى مَانَنْدِ دَلَّالَانْ بِنِدَاءِ بِاۤوَازِى",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1408,13 +1543,15 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "دَمْ دَمْ زِجَمَالِ نَقْشِ تُو"
+          "text": "دَمْ دَمْ زِجَمَالِ نَقْشِ تُو",
+          "red": true
         },
         {
           "note": "14"
         },
         {
-          "text": "دَرْ رَقْص بَازِى"
+          "text": "دَرْ رَقْص بَازِى",
+          "red": true
         }
       ]
     },
@@ -1424,7 +1561,8 @@
     },
     {
       "type": "arabic",
-      "text": "زِكَمَالِ صُنْعِ تُو خُوشْ خُوشْ بِگَازِى"
+      "text": "زِكَمَالِ صُنْعِ تُو خُوشْ خُوشْ بِگَازِى",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1432,7 +1570,8 @@
     },
     {
       "type": "arabic",
-      "text": "زِشِيرِينِى اۤوَازِ خُودْ هَىْ هَىْ دِنَازِى"
+      "text": "زِشِيرِينِى اۤوَازِ خُودْ هَىْ هَىْ دِنَازِى",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1440,7 +1579,8 @@
     },
     {
       "type": "arabic",
-      "text": "اَزْ وَىْ رَقْص اۤمَدْ جَذْبَه خَازِى"
+      "text": "اَزْ وَىْ رَقْص اۤمَدْ جَذْبَه خَازِى",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1448,7 +1588,8 @@
     },
     {
       "type": "arabic",
-      "text": "اَزِ اِينْ اۤثَارِ رَحْمَتْ يَافْت هَرْ حَىْ دَرْسِ تَسْبِيحُ و نَمَازِى"
+      "text": "اَزِ اِينْ اۤثَارِ رَحْمَتْ يَافْت هَرْ حَىْ دَرْسِ تَسْبِيحُ و نَمَازِى",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1456,7 +1597,8 @@
     },
     {
       "type": "arabic",
-      "text": "اِيسْتَادَسْت هَرْ يَكِى بَرْ سَنْگِ بَالَا سَرْفِرَازِى"
+      "text": "اِيسْتَادَسْت هَرْ يَكِى بَرْ سَنْگِ بَالَا سَرْفِرَازِى",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1464,7 +1606,8 @@
     },
     {
       "type": "arabic",
-      "text": "دِرَازْ كَرْدَسْت دَسْتْهَا رَا بَدَرْگَاهِ اِلٰهِى هَمْ چُو شَهْبَازِى"
+      "text": "دِرَازْ كَرْدَسْت دَسْتْهَا رَا بَدَرْگَاهِ اِلٰهِى هَمْ چُو شَهْبَازِى",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1484,7 +1627,8 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "بَجُنْبِيدَسْتْ زُلفْهَارَا بَشَوْقْ اَنْگِيزِ شَهْنَازِى"
+          "text": "بَجُنْبِيدَسْتْ زُلفْهَارَا بَشَوْقْ اَنْگِيزِ شَهْنَازِى",
+          "red": true
         },
         {
           "note": "16"
@@ -1497,7 +1641,8 @@
     },
     {
       "type": "arabic",
-      "text": "بَبَالَا مِى زَنَنْدْ اَزْ پَرْدَه هَاىِ هَاىِ هُوىِ عِشْقْ بَازِى"
+      "text": "بَبَالَا مِى زَنَنْدْ اَزْ پَرْدَه هَاىِ هَاىِ هُوىِ عِشْقْ بَازِى",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1512,7 +1657,8 @@
     },
     {
       "type": "arabic",
-      "text": "مِى دِهَدْ هُوشَه گِيرِينْهَاىِ دِيرِينْهَاىِ زَوَالِى اَزْ حُبِّ مَجَازِى"
+      "text": "مِى دِهَدْ هُوشَه گِيرِينْهَاىِ دِيرِينْهَاىِ زَوَالِى اَزْ حُبِّ مَجَازِى",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1520,7 +1666,8 @@
     },
     {
       "type": "arabic",
-      "text": "بَرْ سَرِ مَحْمُودْهَا نَغْمَ هَاىِ حُزْنْ اَنْگِيز اَيَازِى"
+      "text": "بَرْ سَرِ مَحْمُودْهَا نَغْمَ هَاىِ حُزْنْ اَنْگِيز اَيَازِى",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1528,7 +1675,8 @@
     },
     {
       "type": "arabic",
-      "text": "مُرْدَهَارَا نَغْمَ هَاىِ اَزَلِى اَزْ حُزْنْ اَنْگِيزِ نَوَازِى"
+      "text": "مُرْدَهَارَا نَغْمَ هَاىِ اَزَلِى اَزْ حُزْنْ اَنْگِيزِ نَوَازِى",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1536,7 +1684,8 @@
     },
     {
       "type": "arabic",
-      "text": "رُوحَه مِى اۤيَدْ اَزُو زَمْزَمَهِٔ نَازُ و نِيَازِى"
+      "text": "رُوحَه مِى اۤيَدْ اَزُو زَمْزَمَهِٔ نَازُ و نِيَازِى",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1544,7 +1693,8 @@
     },
     {
       "type": "arabic",
-      "text": "قَلْب مِى خَوانَدْ اَزْ اِينْ اۤيَاتْهَا سِرِّ تَوْحِيدْ زِعُلُوِّ نَظْمِ اِعْجَازِى"
+      "text": "قَلْب مِى خَوانَدْ اَزْ اِينْ اۤيَاتْهَا سِرِّ تَوْحِيدْ زِعُلُوِّ نَظْمِ اِعْجَازِى",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1552,7 +1702,8 @@
     },
     {
       "type": "arabic",
-      "text": "نَفْس مِى خَواهَدْ دَرْ اِينْ وَلْوَلَهَا، زَلْزَلَهَا ذَوْقِ بَاقِى دَرْ فَنَاىِ دُنْيَا بَازِى"
+      "text": "نَفْس مِى خَواهَدْ دَرْ اِينْ وَلْوَلَهَا، زَلْزَلَهَا ذَوْقِ بَاقِى دَرْ فَنَاىِ دُنْيَا بَازِى",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1571,7 +1722,8 @@
     },
     {
       "type": "arabic",
-      "text": "عَقْل مِى بِينَدْ اَزْ اِينْ زَمْزَمَهَا، دَمْدَمَهَانَظْمِ خِلْقَتْ نَقْشِ حِكْمَتْ كَنْزِ رَازِى"
+      "text": "عَقْل مِى بِينَدْ اَزْ اِينْ زَمْزَمَهَا، دَمْدَمَهَانَظْمِ خِلْقَتْ نَقْشِ حِكْمَتْ كَنْزِ رَازِى",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1579,7 +1731,8 @@
     },
     {
       "type": "arabic",
-      "text": "اۤرْزُو مِى دَارَدْ هَوَا اَزْ اِينْ هَمْهَمَهَا هَوْهَوَهَا مَرْگِ خُود دَرْ تَرْكِ اَذْوَاقِ مَجَازِى"
+      "text": "اۤرْزُو مِى دَارَدْ هَوَا اَزْ اِينْ هَمْهَمَهَا هَوْهَوَهَا مَرْگِ خُود دَرْ تَرْكِ اَذْوَاقِ مَجَازِى",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1587,7 +1740,8 @@
     },
     {
       "type": "arabic",
-      "text": "خَيَالْ بِينَدْ اَزْ اِينْ اَشْجَارْ مَلَائِكْ رَا جَسَدْ اۤمَدْ سَمَاوِى بَاهَزَارَانْ نَىْ"
+      "text": "خَيَالْ بِينَدْ اَزْ اِينْ اَشْجَارْ مَلَائِكْ رَا جَسَدْ اۤمَدْ سَمَاوِى بَاهَزَارَانْ نَىْ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1595,7 +1749,8 @@
     },
     {
       "type": "arabic",
-      "text": "اَزْ اِينْ نَيْهَا شُنِيدَتْ هُوشْ سِتَايِشْ هَاىِ ذَاتِ حَىْ"
+      "text": "اَزْ اِينْ نَيْهَا شُنِيدَتْ هُوشْ سِتَايِشْ هَاىِ ذَاتِ حَىْ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1603,7 +1758,8 @@
     },
     {
       "type": "arabic",
-      "text": "وَرَقْهَا رَا زَبَانْ دَارَنْد هَمَه هُو هُو ذِكْرْ اۤرَنْد بَدَرْ مَعْنَاىِ حَىُّ حَىْ"
+      "text": "وَرَقْهَا رَا زَبَانْ دَارَنْد هَمَه هُو هُو ذِكْرْ اۤرَنْد بَدَرْ مَعْنَاىِ حَىُّ حَىْ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1611,15 +1767,28 @@
     },
     {
       "type": "arabic",
-      "text": "چُو لَٓا اِلٰهَ اِلَّا هُوَ بَرَابَرْ مِى زَنَدْ هَرْ شَىْ"
+      "text": "چُو لَٓا اِلٰهَ اِلَّا هُوَ بَرَابَرْ مِى زَنَدْ هَرْ شَىْ",
+      "red": true
     },
     {
       "type": "paragraph",
-      "text": "Çünkü; bütün eşya لَٓا اِلٰهَ اِلَّا هُوَ deyip, kâinâtın azîm halka-i zikrinde beraber zikrederek çalışıyorlar."
+      "parts": [
+        {
+          "text": "Çünkü; bütün eşya "
+        },
+        {
+          "text": "لَٓا اِلٰهَ اِلَّا هُوَ",
+          "red": true
+        },
+        {
+          "text": " deyip, kâinâtın azîm halka-i zikrinde beraber zikrederek çalışıyorlar."
+        }
+      ]
     },
     {
       "type": "arabic",
-      "text": "دَمَادَمْ جُويَدَنْدْ يَا حَقْ سَرَاسَرْ گُويَدَنْدْ يَا حَىْ بَرَابَرْ مِى زَنَنْدْ اَللّٰهُ"
+      "text": "دَمَادَمْ جُويَدَنْدْ يَا حَقْ سَرَاسَرْ گُويَدَنْدْ يَا حَىْ بَرَابَرْ مِى زَنَنْدْ اَللّٰهُ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1627,11 +1796,13 @@
     },
     {
       "type": "arabic",
-      "text": "فَيَا حَيُّ يَا قَيُّومُ بِحَقِّ اِسْمِ حَيِّ قَيُّومِ"
+      "text": "فَيَا حَيُّ يَا قَيُّومُ بِحَقِّ اِسْمِ حَيِّ قَيُّومِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "حَيَاتِى دِهْ بَاِينْ قَلْبِ پَرِيشَانْ رَا اِسْتِقَامَتْ دِهْ بَاِينْ عَقْلِ مُشَوَّشْ رَا اۤمِينْ"
+      "text": "حَيَاتِى دِهْ بَاِينْ قَلْبِ پَرِيشَانْ رَا اِسْتِقَامَتْ دِهْ بَاِينْ عَقْلِ مُشَوَّشْ رَا اۤمِينْ",
+      "red": true
     },
     {
       "type": "divider"

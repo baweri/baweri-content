@@ -13,7 +13,8 @@
     },
     {
       "type": "arabic",
-      "text": "وَمَا مَدَحْتُ مُحَمَّدًا بِمَقَالَت۪ي ❋ وَلٰكِنْ مَدَحْتُ مَقَالَت۪ي بِمُحَمَّدٍ ( عَلَيْهِ الصَّلَاةُ وَالسَّلَامُ )"
+      "text": "وَمَا مَدَحْتُ مُحَمَّدًا بِمَقَالَت۪ي ❋ وَلٰكِنْ مَدَحْتُ مَقَالَت۪ي بِمُحَمَّدٍ ( عَلَيْهِ الصَّلَاةُ وَالسَّلَامُ )",
+      "red": true
     },
     {
       "type": "quote",
@@ -97,7 +98,14 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Zîra O, لَٓا اِلٰهَ اِلَّا اللّٰهُ der, da'vâ eder. Bütün sağ ve sol, yani mâzi ve müstakbel taraflarında saf tutan o nurânî zâkirler, aynı kelimeyi tekrar ederek, icmâ ile ma'nen "
+          "text": "Zîra O, "
+        },
+        {
+          "text": "لَٓا اِلٰهَ اِلَّا اللّٰهُ",
+          "red": true
+        },
+        {
+          "text": " der, da'vâ eder. Bütün sağ ve sol, yani mâzi ve müstakbel taraflarında saf tutan o nurânî zâkirler, aynı kelimeyi tekrar ederek, icmâ ile ma'nen "
         },
         {
           "text": "“SADAKTE VE BİLHAKKI NATAKTE”",
@@ -208,7 +216,14 @@
           "bold": true
         },
         {
-          "text": " لَٓا اِلٰهَ اِلَّا اللّٰهُ "
+          "text": " "
+        },
+        {
+          "text": "لَٓا اِلٰهَ اِلَّا اللّٰهُ",
+          "red": true
+        },
+        {
+          "text": " "
         },
         {
           "text": "’ı, bütün merâtibiyle beraber kabûl etmesin?‥",
@@ -242,7 +257,15 @@
     },
     {
       "type": "paragraph",
-      "text": "Hem bilirsin; küçük bir adam, küçük bir haysiyetle, küçük bir cemâatte, küçük bir mes'elede, münâzaralı bir da'vâda hicâbsız, pervâsız; küçük, fakat hacâlet-âver bir yalanı; düşmanları yanında hilesini hissettirmeyecek derecede teessür ve telâş göstermeden söyleyemez. Şimdi bak bu Zât’a; pek büyük bir vazifede, pek büyük bir vazifedâr, pek büyük bir haysiyetle, pek büyük emniyete muhtaç bir hâlde, pek büyük bir cemâatte, pek büyük husûmet karşısında, pek büyük mes'elelerde, pek büyük da'vâda; pek büyük bir serbestiyetle, bilâ-pervâ, bilâ-tereddüd, bilâ-hicâb, telâşsız, samîmî bir safvetle, büyük bir ciddiyetle; hasımlarının damarlarına dokunduracak şedîd, ulvî bir sûrette söylediği sözlerinde hiç hilâf bulunabilir mi? Hiç hile karışması mümkün müdür? Kellâ!اِنْ هُوَ اِلَّا وَحْيٌ يُوحٰى"
+      "parts": [
+        {
+          "text": "Hem bilirsin; küçük bir adam, küçük bir haysiyetle, küçük bir cemâatte, küçük bir mes'elede, münâzaralı bir da'vâda hicâbsız, pervâsız; küçük, fakat hacâlet-âver bir yalanı; düşmanları yanında hilesini hissettirmeyecek derecede teessür ve telâş göstermeden söyleyemez. Şimdi bak bu Zât’a; pek büyük bir vazifede, pek büyük bir vazifedâr, pek büyük bir haysiyetle, pek büyük emniyete muhtaç bir hâlde, pek büyük bir cemâatte, pek büyük husûmet karşısında, pek büyük mes'elelerde, pek büyük da'vâda; pek büyük bir serbestiyetle, bilâ-pervâ, bilâ-tereddüd, bilâ-hicâb, telâşsız, samîmî bir safvetle, büyük bir ciddiyetle; hasımlarının damarlarına dokunduracak şedîd, ulvî bir sûrette söylediği sözlerinde hiç hilâf bulunabilir mi? Hiç hile karışması mümkün müdür? Kellâ!"
+        },
+        {
+          "text": "اِنْ هُوَ اِلَّا وَحْيٌ يُوحٰى",
+          "red": true
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -271,7 +294,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Hem öyle acâib bir âlemden hakîki olarak bahsediyor ve öyle bir inkılâbdan haber veriyor ki; binler küre-i arz bomba olsa patlasalar, o kadar acîb olmaz. Bak! O’nun lisânında: اِذَا الشَّمْسُ كُوِّرَتْاِذَا السَّمَٓاءُ انْفَطَرَتْاَلْقَارِعَةُ gibi sûreleri işit."
+      "parts": [
+        {
+          "text": "Hem öyle acâib bir âlemden hakîki olarak bahsediyor ve öyle bir inkılâbdan haber veriyor ki; binler küre-i arz bomba olsa patlasalar, o kadar acîb olmaz. Bak! O’nun lisânında: "
+        },
+        {
+          "text": "اِذَا الشَّمْسُ كُوِّرَتْاِذَا السَّمَٓاءُ انْفَطَرَتْاَلْقَارِعَةُ",
+          "red": true
+        },
+        {
+          "text": " gibi sûreleri işit."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -368,7 +402,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Acaba ehl-i akıl ve tahkîke: لَيْسَ فِي الْاِمْكَانِ اَبْدَعُ مِمَّا كَانَ dediren şu meşhûd intizam-ı fâik, şu rahmet içinde kusursuz hüsn-ü san'at ve misilsiz Cemâl-i Rubûbiyet; hiç böyle bir çirkinliği, böyle bir merhametsizliği, böyle bir intizamsızlığı kabûl eder mi ki: En cüz'î, en ehemmiyetsiz arzuları, sesleri ehemmiyetle işitip îfâ etsin; en ehemmiyetli, en lüzumlu arzuları ehemmiyetsiz görüp işitmesin, anlamasın, yapmasın? Hâşâ ve kellâ!. Yüz bin defa hâşâ! Böyle bir cemâl, böyle bir çirkinliği kabûl etmez, çirkin olmaz."
+      "parts": [
+        {
+          "text": "Acaba ehl-i akıl ve tahkîke: "
+        },
+        {
+          "text": "لَيْسَ فِي الْاِمْكَانِ اَبْدَعُ مِمَّا كَانَ",
+          "red": true
+        },
+        {
+          "text": " dediren şu meşhûd intizam-ı fâik, şu rahmet içinde kusursuz hüsn-ü san'at ve misilsiz Cemâl-i Rubûbiyet; hiç böyle bir çirkinliği, böyle bir merhametsizliği, böyle bir intizamsızlığı kabûl eder mi ki: En cüz'î, en ehemmiyetsiz arzuları, sesleri ehemmiyetle işitip îfâ etsin; en ehemmiyetli, en lüzumlu arzuları ehemmiyetsiz görüp işitmesin, anlamasın, yapmasın? Hâşâ ve kellâ!. Yüz bin defa hâşâ! Böyle bir cemâl, böyle bir çirkinliği kabûl etmez, çirkin olmaz."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -395,7 +440,8 @@
     },
     {
       "type": "arabic",
-      "text": "$51"
+      "text": "$51",
+      "red": true
     },
     {
       "type": "quote",
@@ -552,7 +598,14 @@
           "bold": true
         },
         {
-          "text": " Zîra, Güneş’ten Güneş için, mâhiyeti için bahsetmiyor. Belki bir nev'i intizamın zenbereği ve nizâmın merkezi olduğundan; intizam ve nizâm ise, Sâni'in âyine-i mârifeti olduğundan bahsediyor. Evet der: اَلشَّمْسُ تَجْر۪ي "
+          "text": " Zîra, Güneş’ten Güneş için, mâhiyeti için bahsetmiyor. Belki bir nev'i intizamın zenbereği ve nizâmın merkezi olduğundan; intizam ve nizâm ise, Sâni'in âyine-i mârifeti olduğundan bahsediyor. Evet der: "
+        },
+        {
+          "text": "اَلشَّمْسُ تَجْر۪ي",
+          "red": true
+        },
+        {
+          "text": " "
         },
         {
           "text": "“Güneş döner.”",
@@ -567,7 +620,14 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Hem der: وَجَعَلَ الشَّمْسَ سِرَاجًا Şu "
+          "text": "Hem der: "
+        },
+        {
+          "text": "وَجَعَلَ الشَّمْسَ سِرَاجًا",
+          "red": true
+        },
+        {
+          "text": " Şu "
         },
         {
           "text": "“sirâc”",
@@ -588,11 +648,13 @@
     },
     {
       "type": "arabic",
-      "text": "اَللّٰهُمَّ اجْعَلِ الْقُرْاٰنَ شِفَاءً لَنَا وَلِكَاتِبِهِ وَاَمْثَالِهِ مِنْ كُلِّ دَاءٍ وَمُونِسًا لَنَا وَلَهُمْ ف۪ي حَيَاتِنَا وَبَعْدَ مَمَاتِنَا وَفِي الدُّنْيَا قَر۪ينًا وَفِي الْقَبْرِ مُونِسًا وَفِي الْقِيَامَةِ شَف۪يعًا وَعَلَى الصِّرَاطِ نُورًا وَمِنَ النَّارِ سِتْرًا وَحِجَابًا وَفِي الْجَنَّةِ رَف۪يقًا وَاِلَى الْخَيْرَاتِ كُلِّهَا دَل۪يلًا وَاِمَامًا بِفَضْلِكَ وَجُودِكَ وَكَرَمِكَ وَرَحْمَتِكَ يَا اَكْرَمَ الْاَكْرَم۪ينَ وَيَا اَرْحَمَ الرَّاحِم۪ينَ اٰم۪ينَ"
+      "text": "اَللّٰهُمَّ اجْعَلِ الْقُرْاٰنَ شِفَاءً لَنَا وَلِكَاتِبِهِ وَاَمْثَالِهِ مِنْ كُلِّ دَاءٍ وَمُونِسًا لَنَا وَلَهُمْ ف۪ي حَيَاتِنَا وَبَعْدَ مَمَاتِنَا وَفِي الدُّنْيَا قَر۪ينًا وَفِي الْقَبْرِ مُونِسًا وَفِي الْقِيَامَةِ شَف۪يعًا وَعَلَى الصِّرَاطِ نُورًا وَمِنَ النَّارِ سِتْرًا وَحِجَابًا وَفِي الْجَنَّةِ رَف۪يقًا وَاِلَى الْخَيْرَاتِ كُلِّهَا دَل۪يلًا وَاِمَامًا بِفَضْلِكَ وَجُودِكَ وَكَرَمِكَ وَرَحْمَتِكَ يَا اَكْرَمَ الْاَكْرَم۪ينَ وَيَا اَرْحَمَ الرَّاحِم۪ينَ اٰم۪ينَ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى مَنْ اُنْزِلَ عَلَيْهِ الْفُرْقَانُ الْحَك۪يمُ وَعَلٰى اٰلِهِ وَصَحْبِهِ اَجْمَع۪ينَ اٰم۪ينَ"
+      "text": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى مَنْ اُنْزِلَ عَلَيْهِ الْفُرْقَانُ الْحَك۪يمُ وَعَلٰى اٰلِهِ وَصَحْبِهِ اَجْمَع۪ينَ اٰم۪ينَ",
+      "red": true
     },
     {
       "type": "quote",

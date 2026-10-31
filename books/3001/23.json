@@ -13,11 +13,13 @@
     },
     {
       "type": "arabic",
-      "text": "﷽"
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "لَقَدْ خَلَقْنَا الْاِنْسَانَ ف۪ٓي اَحْسَنِ تَقْو۪يمٍ ❋ ثُمَّ رَدَدْنَاهُ اَسْفَلَ سَافِل۪ينَ ❋ اِلَّا الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ"
+      "text": "لَقَدْ خَلَقْنَا الْاِنْسَانَ ف۪ٓي اَحْسَنِ تَقْو۪يمٍ ❋ ثُمَّ رَدَدْنَاهُ اَسْفَلَ سَافِل۪ينَ ❋ اِلَّا الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ",
+      "red": true
     },
     {
       "type": "heading",
@@ -57,7 +59,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Îmân, nasıl ki bir nurdur, insanı ışıklandırıyor; üstünde yazılan bütün Mektûbat-ı Samedâniye’yi okutturuyor. Öyle de, kâinâtı dahi ışıklandırıyor. Zaman-ı mâzi ve müstakbeli, zulümâttan kurtarıyor. Şu sırrı, bir vâkıada اَللّٰهُ وَلِيُّ الَّذ۪ينَ اٰمَنُوا يُخْرِجُهُمْ مِنَ الظُّلُمَاتِ اِلَى النُّورِ âyet-i kerîmesinin bir sırrına dair gördüğüm bir temsîl ile beyân ederiz, şöyle ki:"
+      "parts": [
+        {
+          "text": "Îmân, nasıl ki bir nurdur, insanı ışıklandırıyor; üstünde yazılan bütün Mektûbat-ı Samedâniye’yi okutturuyor. Öyle de, kâinâtı dahi ışıklandırıyor. Zaman-ı mâzi ve müstakbeli, zulümâttan kurtarıyor. Şu sırrı, bir vâkıada "
+        },
+        {
+          "text": "اَللّٰهُ وَلِيُّ الَّذ۪ينَ اٰمَنُوا يُخْرِجُهُمْ مِنَ الظُّلُمَاتِ اِلَى النُّورِ",
+          "red": true
+        },
+        {
+          "text": " âyet-i kerîmesinin bir sırrına dair gördüğüm bir temsîl ile beyân ederiz, şöyle ki:"
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -65,7 +78,25 @@
     },
     {
       "type": "paragraph",
-      "text": "Baktım ki: O gördüğüm köprü; gayet muntazam yerde, ova içinde bir caddedir. Ve sağ tarafımda gördüğüm mezar-ı ekber; baştan başa güzel, yeşil bahçelerle nurânî insanların taht-ı riyâsetinde ibâdet ve hizmet ve sohbet ve zikir meclisleri olduğunu farkettim. Ve sol tarafımda fırtınalı, dağdağalı zannettiğim uçurumlar, şâhikalar ise; süslü, sevimli, câzibedâr olan dağların arkalarında azîm bir ziyâfetgâh, güzel bir seyrangâh, yüksek bir nüzhetgâh bulunduğunu hayâl-meyâl gördüm. Ve o müdhiş canavarlar, ejderhalar zannettiğim mahlûklar ise; mûnis deve, öküz, koyun, keçi gibi hayvanat-ı ehliye olduğunu gördüm. اَلْحَمْدُ لِلّٰهِ عَلٰى نوُرِ الْا۪يمَانِ diyerek اَللّٰهُ وَلِيُّ الَّذ۪ينَ اٰمَنُوا يُخْرِجُهُمْ مِنَ الظُّلُمَاتِ اِلَى النُّورِ âyet-i kerîmesini okudum, o vâkıadan ayıldım."
+      "parts": [
+        {
+          "text": "Baktım ki: O gördüğüm köprü; gayet muntazam yerde, ova içinde bir caddedir. Ve sağ tarafımda gördüğüm mezar-ı ekber; baştan başa güzel, yeşil bahçelerle nurânî insanların taht-ı riyâsetinde ibâdet ve hizmet ve sohbet ve zikir meclisleri olduğunu farkettim. Ve sol tarafımda fırtınalı, dağdağalı zannettiğim uçurumlar, şâhikalar ise; süslü, sevimli, câzibedâr olan dağların arkalarında azîm bir ziyâfetgâh, güzel bir seyrangâh, yüksek bir nüzhetgâh bulunduğunu hayâl-meyâl gördüm. Ve o müdhiş canavarlar, ejderhalar zannettiğim mahlûklar ise; mûnis deve, öküz, koyun, keçi gibi hayvanat-ı ehliye olduğunu gördüm. "
+        },
+        {
+          "text": "اَلْحَمْدُ لِلّٰهِ عَلٰى نوُرِ الْا۪يمَانِ",
+          "red": true
+        },
+        {
+          "text": " diyerek "
+        },
+        {
+          "text": "اَللّٰهُ وَلِيُّ الَّذ۪ينَ اٰمَنُوا يُخْرِجُهُمْ مِنَ الظُّلُمَاتِ اِلَى النُّورِ",
+          "red": true
+        },
+        {
+          "text": " âyet-i kerîmesini okudum, o vâkıadan ayıldım."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -73,11 +104,40 @@
     },
     {
       "type": "paragraph",
-      "text": "İşte enâniyetine i'timâd eden, zulümât-ı gaflete düşen, dalâlet karanlığına mübtelâ olan adam; o vâkıada, evvelki hâlime benzer ki; o cep feneri hükmünde nâkıs ve dalâlet-âlûd ma'lûmât ile zaman-ı mâziyi bir mezar-ı ekber sûretinde ve adem-âlûd bir zulümât içinde görüyor. İstikbâli, gayet fırtınalı ve tesâdüfe bağlı bir vahşetgâh gösterir. Hem herbirisi, bir Hakîm-i Rahîm’in birer memur-u musahharı olan hâdisât ve mevcûdâtı, muzır birer canavar hükmünde bildirir. وَالَّذ۪ينَ كَفَرُٓوا اَوْلِيَٓاؤُ۬هُمُ الطَّاغُوتُ يُخْرِجُونَهُمْ مِنَ النُّورِ اِلَى الظُّلُمَاتِ hükmüne mazhar eder."
+      "parts": [
+        {
+          "text": "İşte enâniyetine i'timâd eden, zulümât-ı gaflete düşen, dalâlet karanlığına mübtelâ olan adam; o vâkıada, evvelki hâlime benzer ki; o cep feneri hükmünde nâkıs ve dalâlet-âlûd ma'lûmât ile zaman-ı mâziyi bir mezar-ı ekber sûretinde ve adem-âlûd bir zulümât içinde görüyor. İstikbâli, gayet fırtınalı ve tesâdüfe bağlı bir vahşetgâh gösterir. Hem herbirisi, bir Hakîm-i Rahîm’in birer memur-u musahharı olan hâdisât ve mevcûdâtı, muzır birer canavar hükmünde bildirir. "
+        },
+        {
+          "text": "وَالَّذ۪ينَ كَفَرُٓوا اَوْلِيَٓاؤُ۬هُمُ الطَّاغُوتُ يُخْرِجُونَهُمْ مِنَ النُّورِ اِلَى الظُّلُمَاتِ",
+          "red": true
+        },
+        {
+          "text": " hükmüne mazhar eder."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "text": "Eğer hidayet-i İlâhiye yetişse, îmân kalbine girse, nefsin fir'avuniyeti kırılsa, Kitabullâh’ı dinlese; o vâkıada, ikinci hâlime benzeyecek. O vakit, birden kâinât bir gündüz rengini alır; nur-u İlâhî ile dolar. Âlem اَللّٰهُ نُورُ السَّمٰوَاتِ وَالْاَرْضِ âyetini okur. O vakit zaman-ı mâzi, bir mezar-ı ekber değil, belki herbir asrı bir nebînin veya evliyânın taht-ı riyâsetinde, vazife-i ubûdiyeti îfâ eden ervâh-ı sâfiye cemâatlerinin vazife-i hayatlarını bitirmekle, اَللّٰهُ اَكْبَرُ diyerek makàmât-ı àliyeye uçmalarını ve müstakbel tarafına geçmelerini kalb gözü ile görür. Sol tarafına bakar ki; dağlar-misâl bazı inkılâbât-ı berzahiye ve uhreviye arkalarında Cennet’in bağlarındaki saâdet saraylarında kurulmuş bir ziyâfet-i Rahmâniye’yi o nur-u îmân ile uzaktan uzağa farkeder. Ve fırtına ve zelzele, tâun gibi hâdiseleri, birer musahhar memur bilir. Bahar fırtınası ve yağmur gibi hâdisâtı; sûreten haşîn, ma'nen çok latîf hikmetlere medâr görüyor. Hattâ mevti, hayat-ı ebediyenin mukaddimesi ve kabri, saâdet-i ebediyenin kapısı görüyor. Daha sâir cihetleri sen kıyâs eyle. Hakikati, temsîle tatbik et."
+      "parts": [
+        {
+          "text": "Eğer hidayet-i İlâhiye yetişse, îmân kalbine girse, nefsin fir'avuniyeti kırılsa, Kitabullâh’ı dinlese; o vâkıada, ikinci hâlime benzeyecek. O vakit, birden kâinât bir gündüz rengini alır; nur-u İlâhî ile dolar. Âlem "
+        },
+        {
+          "text": "اَللّٰهُ نُورُ السَّمٰوَاتِ وَالْاَرْضِ",
+          "red": true
+        },
+        {
+          "text": " âyetini okur. O vakit zaman-ı mâzi, bir mezar-ı ekber değil, belki herbir asrı bir nebînin veya evliyânın taht-ı riyâsetinde, vazife-i ubûdiyeti îfâ eden ervâh-ı sâfiye cemâatlerinin vazife-i hayatlarını bitirmekle, "
+        },
+        {
+          "text": "اَللّٰهُ اَكْبَرُ",
+          "red": true
+        },
+        {
+          "text": " diyerek makàmât-ı àliyeye uçmalarını ve müstakbel tarafına geçmelerini kalb gözü ile görür. Sol tarafına bakar ki; dağlar-misâl bazı inkılâbât-ı berzahiye ve uhreviye arkalarında Cennet’in bağlarındaki saâdet saraylarında kurulmuş bir ziyâfet-i Rahmâniye’yi o nur-u îmân ile uzaktan uzağa farkeder. Ve fırtına ve zelzele, tâun gibi hâdiseleri, birer musahhar memur bilir. Bahar fırtınası ve yağmur gibi hâdisâtı; sûreten haşîn, ma'nen çok latîf hikmetlere medâr görüyor. Hattâ mevti, hayat-ı ebediyenin mukaddimesi ve kabri, saâdet-i ebediyenin kapısı görüyor. Daha sâir cihetleri sen kıyâs eyle. Hakikati, temsîle tatbik et."
+        }
+      ]
     },
     {
       "type": "heading",
@@ -87,7 +147,14 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Îmân hem nurdur, hem kuvvettir. Evet, hakîki îmânı elde eden adam, kâinâta meydân okuyabilir. Ve îmânın kuvvetine göre hâdisâtın tazyîkatından kurtulabilir. تَوَكَّلْتُ عَلَى اللّٰهِ der, sefîne-i hayatta kemâl-i emniyetle hâdisâtın dağlarvâri dalgaları içinde seyran eder. Bütün ağırlıklarını Kadîr-i Mutlak’ın yed-i kudretine emânet eder, rahatla dünyadan geçer, berzahta istirahat eder. Sonra saâdet-i ebediyeye girmek için Cennet’e uçabilir. Yoksa, tevekkül etmezse; dünyanın ağırlıkları, uçmasına değil, belki esfel-i sâfilîne çeker. Demek; "
+          "text": "Îmân hem nurdur, hem kuvvettir. Evet, hakîki îmânı elde eden adam, kâinâta meydân okuyabilir. Ve îmânın kuvvetine göre hâdisâtın tazyîkatından kurtulabilir. "
+        },
+        {
+          "text": "تَوَكَّلْتُ عَلَى اللّٰهِ",
+          "red": true
+        },
+        {
+          "text": " der, sefîne-i hayatta kemâl-i emniyetle hâdisâtın dağlarvâri dalgaları içinde seyran eder. Bütün ağırlıklarını Kadîr-i Mutlak’ın yed-i kudretine emânet eder, rahatla dünyadan geçer, berzahta istirahat eder. Sonra saâdet-i ebediyeye girmek için Cennet’e uçabilir. Yoksa, tevekkül etmezse; dünyanın ağırlıkları, uçmasına değil, belki esfel-i sâfilîne çeker. Demek; "
         },
         {
           "text": "îmân tevhidi, tevhid teslîmi, teslîm tevekkülü, tevekkül saâdet-i dâreyni iktiza eder.",
@@ -185,7 +252,21 @@
           "bold": true
         },
         {
-          "text": " meâlinde: قُلْ مَا يَعْبَؤُ۬ا بِكُمْ رَبّ۪ي لَوْلَا دُعَٓاؤُ۬كُمْ fermân ediyor. Hem اُدْعُون۪ٓي اَسْتَجِبْ لَكُمْ emrediyor."
+          "text": " meâlinde: "
+        },
+        {
+          "text": "قُلْ مَا يَعْبَؤُ۬ا بِكُمْ رَبّ۪ي لَوْلَا دُعَٓاؤُ۬كُمْ",
+          "red": true
+        },
+        {
+          "text": " fermân ediyor. Hem "
+        },
+        {
+          "text": "اُدْعُون۪ٓي اَسْتَجِبْ لَكُمْ",
+          "red": true
+        },
+        {
+          "text": " emrediyor."
         }
       ]
     },
@@ -311,7 +392,14 @@
           "bold": true
         },
         {
-          "text": " اِيَّاكَ نَسْتَع۪ينُ "
+          "text": " "
+        },
+        {
+          "text": "اِيَّاكَ نَسْتَع۪ينُ",
+          "red": true
+        },
+        {
+          "text": " "
         },
         {
           "text": "de, kâinâtın güzel bir takvîmi ol.",
@@ -389,7 +477,14 @@
           "bold": true
         },
         {
-          "text": " Nefs-i emmâre, tahrib ve şer cihetinde nihâyetsiz cinayet işleyebilir; fakat icâd ve hayırda iktidarı pek azdır ve cüz'îdir. Evet bir hâneyi bir günde harâb eder, yüz günde yapamaz. Lâkin, eğer enâniyeti bıraksa, hayrı ve vücûdu tevfik-i İlâhiye’den istese, şer ve tahribden ve nefse i'timâddan vazgeçse, istiğfar ederek tam abd olsa, o vakit يُبَدِّلُ اللّٰهُ سَيِّئَاتِهِمْ حَسَنَاتٍ sırrına mazhar olur. Ondaki nihâyetsiz kàbiliyet-i şer, nihâyetsiz kàbiliyet-i hayra inkılâb eder. "
+          "text": " Nefs-i emmâre, tahrib ve şer cihetinde nihâyetsiz cinayet işleyebilir; fakat icâd ve hayırda iktidarı pek azdır ve cüz'îdir. Evet bir hâneyi bir günde harâb eder, yüz günde yapamaz. Lâkin, eğer enâniyeti bıraksa, hayrı ve vücûdu tevfik-i İlâhiye’den istese, şer ve tahribden ve nefse i'timâddan vazgeçse, istiğfar ederek tam abd olsa, o vakit "
+        },
+        {
+          "text": "يُبَدِّلُ اللّٰهُ سَيِّئَاتِهِمْ حَسَنَاتٍ",
+          "red": true
+        },
+        {
+          "text": " sırrına mazhar olur. Ondaki nihâyetsiz kàbiliyet-i şer, nihâyetsiz kàbiliyet-i hayra inkılâb eder. "
         },
         {
           "text": "“Ahsen-i takvîm”",
@@ -444,7 +539,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Eğer o çekirdek, o manevî cihâzâtını فَالِقُ الْحَبِّ وَالنَّوٰى’nın emr-i tekvînîsini imtisal edip hüsn-ü isti'mâl etse; o dar âlemden çıkacak, meyvedâr koca bir ağaç olmakla küçücük cüz'î hakikati ve rûh-u manevîsi, büyük bir hakikat-i külliye sûretini alacaktır."
+      "parts": [
+        {
+          "text": "Eğer o çekirdek, o manevî cihâzâtını "
+        },
+        {
+          "text": "فَالِقُ الْحَبِّ وَالنَّوٰى",
+          "red": true
+        },
+        {
+          "text": "’nın emr-i tekvînîsini imtisal edip hüsn-ü isti'mâl etse; o dar âlemden çıkacak, meyvedâr koca bir ağaç olmakla küçücük cüz'î hakikati ve rûh-u manevîsi, büyük bir hakikat-i külliye sûretini alacaktır."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -626,7 +732,18 @@
     },
     {
       "type": "paragraph",
-      "text": "İşte insan dahi Hàlık’ının rahmetini inkâr ve hikmetini ittiham edecek bir tarzda küfran-ı ni'met sûretinde Karun gibi اِنَّمَٓا اُو۫ت۪يتُهُ عَلٰى عِلْمٍ yani; “Ben kendi ilmimle, kendi iktidarımla kazandım.” dese, elbette sille-i azâba kendini müstehak eder."
+      "parts": [
+        {
+          "text": "İşte insan dahi Hàlık’ının rahmetini inkâr ve hikmetini ittiham edecek bir tarzda küfran-ı ni'met sûretinde Karun gibi "
+        },
+        {
+          "text": "اِنَّمَٓا اُو۫ت۪يتُهُ عَلٰى عِلْمٍ",
+          "red": true
+        },
+        {
+          "text": " yani; “Ben kendi ilmimle, kendi iktidarımla kazandım.” dese, elbette sille-i azâba kendini müstehak eder."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -634,7 +751,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Ey insan! Mâdem hakikat böyledir; gururu ve enâniyeti bırak. Ulûhiyet’in dergâhında, acz ve za'fını istimdâd lisânıyla, fakr ve hâcâtını tazarru ve duâ lisânıyla ilân et ve abd olduğunu göster ve حَسْبُنَا اللّٰهُ وَنِعْمَ الْوَك۪يلُ de, yüksel."
+      "parts": [
+        {
+          "text": "Ey insan! Mâdem hakikat böyledir; gururu ve enâniyeti bırak. Ulûhiyet’in dergâhında, acz ve za'fını istimdâd lisânıyla, fakr ve hâcâtını tazarru ve duâ lisânıyla ilân et ve abd olduğunu göster ve "
+        },
+        {
+          "text": "حَسْبُنَا اللّٰهُ وَنِعْمَ الْوَك۪يلُ",
+          "red": true
+        },
+        {
+          "text": " de, yüksel."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -854,19 +982,23 @@
     },
     {
       "type": "arabic",
-      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ"
+      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "رَبِّ اشْرَحْ ل۪ي صَدْر۪ي ❋ وَيَسِّرْ ل۪ٓي اَمْر۪ي ❋ وَاحْلُلْ عُقْدَةً مِنْ لِسَان۪ي ❋ يَفْقَهُوا قَوْل۪ي"
+      "text": "رَبِّ اشْرَحْ ل۪ي صَدْر۪ي ❋ وَيَسِّرْ ل۪ٓي اَمْر۪ي ❋ وَاحْلُلْ عُقْدَةً مِنْ لِسَان۪ي ❋ يَفْقَهُوا قَوْل۪ي",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "اَللّٰهُمَّ صَلِّ عَلَى الذَّاتِ الْمُحَمَّدِيَّةِ اللَّط۪يفَةِ الْاَحَدِيَّةِ شَمْسِ سَمَاءِ الْاَسْرَارِ وَمَظْهَرِ الْاَنْوَارِ وَمَرْكَزِ مَدَارِ الْجَلَالِ وَقُطْبِ فَلَكِ الْجَمَالِ ❋ اَللّٰهُمَّ بِسِرِّهِ لَدَيْكَ ❋ وَبِسَيْرِهِ اِلَيْكَ ❋ اٰمِنْ خَوْف۪ي ❋ وَاَقِلْ عُثْرَت۪ي ❋ وَاذْهِبْ حُزْن۪ي وَحِرْص۪ي ❋ وَكُنْ ل۪ي وَخُذْن۪ي اِلَيْكَ مِنّ۪ي ❋ وَارْزُقْنِي الْفَنَاءَ عَنّ۪ي وَلَا تَجْعَلْن۪ي مَفْتُونًا بِنَفْس۪ي ❋ مَحْجُوبًا بِحِسّ۪ي ❋ وَاكْشِفْ ل۪ي عَنْ كُلِّ سِرِّ مَكْتُومٍ ❋ يَا حَيُّ يَا قَيُّومُ ❋ يَا حَيُّ يَا قَيُّومُ ❋ يَا حَيُّ يَا قَيُّومُ ❋ وَارْحَمْن۪ي وَارْحَمْ رُفَقَائ۪ي ❋ وَارْحَمْ اَهْلَ الْا۪يمَانِ وَالْقُرْاٰنِ ❋ اٰم۪ينَ يَا اَرْحَمَ الرَّاحِم۪ينَ وَيَا اَكْرَمَ الْاَكْرَم۪ينَ"
+      "text": "اَللّٰهُمَّ صَلِّ عَلَى الذَّاتِ الْمُحَمَّدِيَّةِ اللَّط۪يفَةِ الْاَحَدِيَّةِ شَمْسِ سَمَاءِ الْاَسْرَارِ وَمَظْهَرِ الْاَنْوَارِ وَمَرْكَزِ مَدَارِ الْجَلَالِ وَقُطْبِ فَلَكِ الْجَمَالِ ❋ اَللّٰهُمَّ بِسِرِّهِ لَدَيْكَ ❋ وَبِسَيْرِهِ اِلَيْكَ ❋ اٰمِنْ خَوْف۪ي ❋ وَاَقِلْ عُثْرَت۪ي ❋ وَاذْهِبْ حُزْن۪ي وَحِرْص۪ي ❋ وَكُنْ ل۪ي وَخُذْن۪ي اِلَيْكَ مِنّ۪ي ❋ وَارْزُقْنِي الْفَنَاءَ عَنّ۪ي وَلَا تَجْعَلْن۪ي مَفْتُونًا بِنَفْس۪ي ❋ مَحْجُوبًا بِحِسّ۪ي ❋ وَاكْشِفْ ل۪ي عَنْ كُلِّ سِرِّ مَكْتُومٍ ❋ يَا حَيُّ يَا قَيُّومُ ❋ يَا حَيُّ يَا قَيُّومُ ❋ يَا حَيُّ يَا قَيُّومُ ❋ وَارْحَمْن۪ي وَارْحَمْ رُفَقَائ۪ي ❋ وَارْحَمْ اَهْلَ الْا۪يمَانِ وَالْقُرْاٰنِ ❋ اٰم۪ينَ يَا اَرْحَمَ الرَّاحِم۪ينَ وَيَا اَكْرَمَ الْاَكْرَم۪ينَ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "وَاٰخِرُ دَعْوٰيهُمْ اَنِ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ"
+      "text": "وَاٰخِرُ دَعْوٰيهُمْ اَنِ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ",
+      "red": true
     }
   ]
 }

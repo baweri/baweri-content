@@ -4,11 +4,13 @@
   "blocks": [
     {
       "type": "arabic",
-      "text": "﷽"
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "وَلَقَدْ زَيَّنَّا السَّمَٓاءَ الدُّنْيَا بِمَصَاب۪يحَ وَجَعَلْنَاهَا رُجُومًا لِلشَّيَاط۪ينِ"
+      "text": "وَلَقَدْ زَيَّنَّا السَّمَٓاءَ الدُّنْيَا بِمَصَاب۪يحَ وَجَعَلْنَاهَا رُجُومًا لِلشَّيَاط۪ينِ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -109,7 +111,14 @@
           "note": "1"
         },
         {
-          "text": " bu azamet-i maneviyesinden ve ehemmiyet-i san'aviyesindendir ki; Kur'ân-ı Hakîm, semâvâta nisbeten büyük bir ağacın küçük bir meyvesi hükmünde olan arzı, bütün semâvâta denk tutuyor. Onu bir kefede, bütün semâvâtı bir kefede koyuyor. Mükerreren رَبُّ السَّمٰوَاتِ وَالْاَرْضِ der."
+          "text": " bu azamet-i maneviyesinden ve ehemmiyet-i san'aviyesindendir ki; Kur'ân-ı Hakîm, semâvâta nisbeten büyük bir ağacın küçük bir meyvesi hükmünde olan arzı, bütün semâvâta denk tutuyor. Onu bir kefede, bütün semâvâtı bir kefede koyuyor. Mükerreren "
+        },
+        {
+          "text": "رَبُّ السَّمٰوَاتِ وَالْاَرْضِ",
+          "red": true
+        },
+        {
+          "text": " der."
         }
       ]
     },
@@ -177,7 +186,18 @@
     },
     {
       "type": "paragraph",
-      "text": "İşte وَلِلّٰهِ الْمَثَلُ الْاَعْلٰى Ezel, Ebed Sultanı’nın pek çok Esmâ-i Hüsnâ’sı vardır. Tecelliyât-ı Celâliye ve Tezâhürat-ı Cemâliye ile pek çok şuûnâtı ve ünvânları vardır. Nur ve zulmet, yaz ve kış, Cennet ve Cehennem’in vücûdunu iktiza eden isim ve ünvân ve şe'ni ise; kanun-u tenâsül, kanun-u müsâbaka, kanun-u teâvün gibi pek çok umumî kanunlar misillû, kanun-u mübârezenin dahi bir derece ta'mîmini isterler. Kalb etrafındaki ilhâmât ve vesveselerin mübârezelerinden tut, tâ semâ âfâkında melâike ve şeytanların mübârezesine kadar o kanunun şümûlünü iktiza eder."
+      "parts": [
+        {
+          "text": "İşte "
+        },
+        {
+          "text": "وَلِلّٰهِ الْمَثَلُ الْاَعْلٰى",
+          "red": true
+        },
+        {
+          "text": " Ezel, Ebed Sultanı’nın pek çok Esmâ-i Hüsnâ’sı vardır. Tecelliyât-ı Celâliye ve Tezâhürat-ı Cemâliye ile pek çok şuûnâtı ve ünvânları vardır. Nur ve zulmet, yaz ve kış, Cennet ve Cehennem’in vücûdunu iktiza eden isim ve ünvân ve şe'ni ise; kanun-u tenâsül, kanun-u müsâbaka, kanun-u teâvün gibi pek çok umumî kanunlar misillû, kanun-u mübârezenin dahi bir derece ta'mîmini isterler. Kalb etrafındaki ilhâmât ve vesveselerin mübârezelerinden tut, tâ semâ âfâkında melâike ve şeytanların mübârezesine kadar o kanunun şümûlünü iktiza eder."
+        }
+      ]
     },
     {
       "type": "heading",
@@ -214,7 +234,21 @@
           "bold": true
         },
         {
-          "text": " meseline işâret eden يَا مَعْشَرَ الْجِنِّ وَالْاِنْسِ اِنِ اسْتَطَعْتُمْ اَنْ تَنْفُذُوا مِنْ اَقْطَارِ السَّمٰوَاتِ وَالْاَرْضِ فَانْفُذُوا لَا تَنْفُذُونَ اِلَّا بِسُلْطَانٍ ❋ فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ ❋ يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِنْ نَارٍ وَنُحَاسٌ فَلَا تَنْتَصِرَانِ âyetindeki azametli inzara ve dehşetli tehdide, şiddetli zecre dikkat et. Nasıl ins ve cinnin gayet mağrûrâne temerrüdlerini, gayet mu'cizâne bir belâğatla kırar, aczlerini ilân eder. Saltanat-ı Rubûbiyet’in genişliği ve azameti nisbetinde ne kadar âciz ve bîçâre olduklarını gösterir. Güyâ şu âyetle, hem وَجَعَلْنَاهَا رُجُومًا لِلشَّيَاط۪ينِ âyetiyle böyle diyor ki:"
+          "text": " meseline işâret eden "
+        },
+        {
+          "text": "يَا مَعْشَرَ الْجِنِّ وَالْاِنْسِ اِنِ اسْتَطَعْتُمْ اَنْ تَنْفُذُوا مِنْ اَقْطَارِ السَّمٰوَاتِ وَالْاَرْضِ فَانْفُذُوا لَا تَنْفُذُونَ اِلَّا بِسُلْطَانٍ ❋ فَبِاَىِّ اٰلَٓاءِ رَبِّكُمَا تُكَذِّبَانِ ❋ يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِنْ نَارٍ وَنُحَاسٌ فَلَا تَنْتَصِرَانِ",
+          "red": true
+        },
+        {
+          "text": " âyetindeki azametli inzara ve dehşetli tehdide, şiddetli zecre dikkat et. Nasıl ins ve cinnin gayet mağrûrâne temerrüdlerini, gayet mu'cizâne bir belâğatla kırar, aczlerini ilân eder. Saltanat-ı Rubûbiyet’in genişliği ve azameti nisbetinde ne kadar âciz ve bîçâre olduklarını gösterir. Güyâ şu âyetle, hem "
+        },
+        {
+          "text": "وَجَعَلْنَاهَا رُجُومًا لِلشَّيَاط۪ينِ",
+          "red": true
+        },
+        {
+          "text": " âyetiyle böyle diyor ki:"
         }
       ]
     },
@@ -233,7 +267,15 @@
     },
     {
       "type": "paragraph",
-      "text": "Hem bazen kemâl-i intizamı ve nihâyet adli ve gayet hilmi ve kuvvet-i hikmeti göstermek için, en büyük ve kuvvetli esbâbı, en küçük ve zaîf bir şeye karşı tahşid eder ve üstünde tutar, düşürtmez, tecâvüz ettirmez. Meselâ; şu âyete bak: وَاِنْ تَظَاهَرَا عَلَيْهِ فَاِنَّ اللّٰهَ هُوَ مَوْلٰيهُ وَجِبْر۪يلُ وَصَالِحُ الْمُؤْمِن۪ينَ وَالْمَلٰٓئِكَةُ بَعْدَ ذٰلِكَ ظَه۪يرٌ"
+      "parts": [
+        {
+          "text": "Hem bazen kemâl-i intizamı ve nihâyet adli ve gayet hilmi ve kuvvet-i hikmeti göstermek için, en büyük ve kuvvetli esbâbı, en küçük ve zaîf bir şeye karşı tahşid eder ve üstünde tutar, düşürtmez, tecâvüz ettirmez. Meselâ; şu âyete bak: "
+        },
+        {
+          "text": "وَاِنْ تَظَاهَرَا عَلَيْهِ فَاِنَّ اللّٰهَ هُوَ مَوْلٰيهُ وَجِبْر۪يلُ وَصَالِحُ الْمُؤْمِن۪ينَ وَالْمَلٰٓئِكَةُ بَعْدَ ذٰلِكَ ظَه۪يرٌ",
+          "red": true
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -292,15 +334,28 @@
     },
     {
       "type": "paragraph",
-      "text": "Biz dahi etmeliyiz ve رَبِّ اَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاط۪ينِ beraber demeliyiz."
+      "parts": [
+        {
+          "text": "Biz dahi etmeliyiz ve "
+        },
+        {
+          "text": "رَبِّ اَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاط۪ينِ",
+          "red": true
+        },
+        {
+          "text": " beraber demeliyiz."
+        }
+      ]
     },
     {
       "type": "arabic",
-      "text": "فَلِلّٰهِ الْحُجَّةُ الْبَالِغَةُ وَالْحِكْمَةُ الْقَاطِعَةُ"
+      "text": "فَلِلّٰهِ الْحُجَّةُ الْبَالِغَةُ وَالْحِكْمَةُ الْقَاطِعَةُ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ"
+      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
+      "red": true
     },
     {
       "type": "divider"
@@ -315,19 +370,23 @@
     },
     {
       "type": "arabic",
-      "text": "بِاسْمِهِ سُبْحَانَهُ"
+      "text": "بِاسْمِهِ سُبْحَانَهُ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ"
+      "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "﷽"
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "وَاِمَّا يَنْزَغَنَّكَ مِنَ الشَّيْطَانِ نَزْغٌ فَاسْتَعِذْ بِاللّٰهِ اِنَّهُ هُوَ السَّم۪يعُ الْعَل۪يمُ"
+      "text": "وَاِمَّا يَنْزَغَنَّكَ مِنَ الشَّيْطَانِ نَزْغٌ فَاسْتَعِذْ بِاللّٰهِ اِنَّهُ هُوَ السَّم۪يعُ الْعَل۪يمُ",
+      "red": true
     },
     {
       "type": "heading",
@@ -337,7 +396,14 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "İblisi ilzam, şeytanı ifhàm اِفْحَامْ, ehl-i tuğyanı iskât eden Birinci Mebhas; bî-tarafâne muhâkeme içinde şeytanın müdhiş bir desîsesini, kat'î bir sûrette reddeden bir vâkıadır. O vâkıanın mücmel bir kısmını, on sene evvel "
+          "text": "İblisi ilzam, şeytanı ifhàm "
+        },
+        {
+          "text": "اِفْحَامْ",
+          "red": true
+        },
+        {
+          "text": ", ehl-i tuğyanı iskât eden Birinci Mebhas; bî-tarafâne muhâkeme içinde şeytanın müdhiş bir desîsesini, kat'î bir sûrette reddeden bir vâkıadır. O vâkıanın mücmel bir kısmını, on sene evvel "
         },
         {
           "text": "Lemeât’",
@@ -406,7 +472,15 @@
     },
     {
       "type": "paragraph",
-      "text": "Öyle ise, eğer Hazret-i Mûsa Aleyhisselâm’ın Tûr-i Sînâ’da işittiği Kelâmullâh tarzında olsa idi, beşer bunu dinlemekte ve işitmekte tahammül edemezdi ve merci' edemezdi. Hazret-i Mûsa Aleyhisselâm gibi bir ulü'l-azm, ancak birkaç kelâmı işitmeye tahammül etmiştir. Mûsa Aleyhisselâm demiş: اَهٰكَذَا كَلَامُكَ؟ قَالَ اللّٰهُ : ل۪ي قُوَّةُ جَم۪يعِ الْاَلْسِنَةِ"
+      "parts": [
+        {
+          "text": "Öyle ise, eğer Hazret-i Mûsa Aleyhisselâm’ın Tûr-i Sînâ’da işittiği Kelâmullâh tarzında olsa idi, beşer bunu dinlemekte ve işitmekte tahammül edemezdi ve merci' edemezdi. Hazret-i Mûsa Aleyhisselâm gibi bir ulü'l-azm, ancak birkaç kelâmı işitmeye tahammül etmiştir. Mûsa Aleyhisselâm demiş: "
+        },
+        {
+          "text": "اَهٰكَذَا كَلَامُكَ؟ قَالَ اللّٰهُ : ل۪ي قُوَّةُ جَم۪يعِ الْاَلْسِنَةِ",
+          "red": true
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -424,7 +498,14 @@
           "bold": true
         },
         {
-          "text": " Dindar bir adam, din muhabbeti için; “Hak böyledir, hakikat budur. Allah’ın emri böyledir.” der. Yoksa Allah’ı, kendi keyfine konuşturmaz. Hadsiz derece haddinden tecâvüz edip, Allah’ın taklidini yapıp, O’nun yerinde konuşmaz, فَمَنْ اَظْلَمُ مِمَّنْ كَذَبَ عَلٰى اللّٰهِ düsturundan titrer."
+          "text": " Dindar bir adam, din muhabbeti için; “Hak böyledir, hakikat budur. Allah’ın emri böyledir.” der. Yoksa Allah’ı, kendi keyfine konuşturmaz. Hadsiz derece haddinden tecâvüz edip, Allah’ın taklidini yapıp, O’nun yerinde konuşmaz, "
+        },
+        {
+          "text": "فَمَنْ اَظْلَمُ مِمَّنْ كَذَبَ عَلٰى اللّٰهِ",
+          "red": true
+        },
+        {
+          "text": " düsturundan titrer."
         }
       ]
     },
@@ -627,7 +708,11 @@
           "bold": true
         },
         {
-          "text": " عَلَيْهِ الصَّلَاةُ وَالسَّلَامُ بِعَدَدِ الْمَلَكِ وَالْاِنْسِ وَالْجَانِّ"
+          "text": " "
+        },
+        {
+          "text": "عَلَيْهِ الصَّلَاةُ وَالسَّلَامُ بِعَدَدِ الْمَلَكِ وَالْاِنْسِ وَالْجَانِّ",
+          "red": true
         }
       ]
     },
@@ -640,7 +725,22 @@
     },
     {
       "type": "paragraph",
-      "text": "Sûre-i قٓ وَالْقُرْاٰنِ الْمَج۪يدِ’i okurken‥ مَا يَلْفِظُ مِنْ قَوْلٍ اِلَّا لَدَيْهِ رَق۪يبٌ عَت۪يدٌ ❋ وَجَٓاءَتْ سَكْرَةُ الْمَوْتِ بِالْحَقِّ ذٰلِكَ مَا كُنْتَ مِنْهُ تَح۪يدُ ❋ وَنُفِخَ فِي الصُّورِ ذٰلِكَ يَوْمُ الْوَع۪يدِ ❋ وَجَٓاءَتْ كُلُّ نَفْسٍ مَعَهَا سَٓائِقٌ وَشَه۪يدٌ ❋ لَقَدْ كُنْتَ ف۪ي غَفْلَةٍ مِنْ هٰذَا فَكَشَفْنَا عَنْكَ غِطَٓاءَكَ فَبَصَرُكَ الْيَوْمَ حَد۪يدٌ ❋ وَقَالَ قَر۪ينُهُ هٰذَا مَا لَدَىَّ عَت۪يدٌ ❋ اَلْقِيَا ف۪ي جَهَنَّمَ كُلَّ كَفَّارٍ عَن۪يدٍ"
+      "parts": [
+        {
+          "text": "Sûre-i "
+        },
+        {
+          "text": "قٓ وَالْقُرْاٰنِ الْمَج۪يدِ",
+          "red": true
+        },
+        {
+          "text": "’i okurken‥ "
+        },
+        {
+          "text": "مَا يَلْفِظُ مِنْ قَوْلٍ اِلَّا لَدَيْهِ رَق۪يبٌ عَت۪يدٌ ❋ وَجَٓاءَتْ سَكْرَةُ الْمَوْتِ بِالْحَقِّ ذٰلِكَ مَا كُنْتَ مِنْهُ تَح۪يدُ ❋ وَنُفِخَ فِي الصُّورِ ذٰلِكَ يَوْمُ الْوَع۪يدِ ❋ وَجَٓاءَتْ كُلُّ نَفْسٍ مَعَهَا سَٓائِقٌ وَشَه۪يدٌ ❋ لَقَدْ كُنْتَ ف۪ي غَفْلَةٍ مِنْ هٰذَا فَكَشَفْنَا عَنْكَ غِطَٓاءَكَ فَبَصَرُكَ الْيَوْمَ حَد۪يدٌ ❋ وَقَالَ قَر۪ينُهُ هٰذَا مَا لَدَىَّ عَت۪يدٌ ❋ اَلْقِيَا ف۪ي جَهَنَّمَ كُلَّ كَفَّارٍ عَن۪يدٍ",
+          "red": true
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -660,7 +760,15 @@
     },
     {
       "type": "paragraph",
-      "text": "Meselâ: وَق۪يلَ يَٓا اَرْضُ ابْلَع۪ي مَٓاءَكِ وَيَا سَمَٓاءُ اَقْلِع۪ي وَغ۪يضَ الْمَٓاءُ وَقُضِيَ الْاَمْرُوَاسْتَوَتْ عَلَى الْجُودِيِّ وَق۪يلَ بُعْدًا لِلْقَوْمِ الظَّالِم۪ينَ"
+      "parts": [
+        {
+          "text": "Meselâ: "
+        },
+        {
+          "text": "وَق۪يلَ يَٓا اَرْضُ ابْلَع۪ي مَٓاءَكِ وَيَا سَمَٓاءُ اَقْلِع۪ي وَغ۪يضَ الْمَٓاءُ وَقُضِيَ الْاَمْرُوَاسْتَوَتْ عَلَى الْجُودِيِّ وَق۪يلَ بُعْدًا لِلْقَوْمِ الظَّالِم۪ينَ",
+          "red": true
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -679,7 +787,15 @@
     },
     {
       "type": "paragraph",
-      "text": "Hem meselâ: كَذَّبَتْ ثَمُودُ بِطَغْوٰيهَا ❋ اِذِ انْبَعَثَ اَشْقٰيهَا ❋ فَقَالَ لَهُمْ رَسُولُ اللّٰهِ نَاقَةَ اللّٰهِ وَسُقْيٰيهَا ❋ فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنْبِهِمْ فَسَوّٰيهَا ❋ وَلَا يَخَافُ عُقْبٰيهَا"
+      "parts": [
+        {
+          "text": "Hem meselâ: "
+        },
+        {
+          "text": "كَذَّبَتْ ثَمُودُ بِطَغْوٰيهَا ❋ اِذِ انْبَعَثَ اَشْقٰيهَا ❋ فَقَالَ لَهُمْ رَسُولُ اللّٰهِ نَاقَةَ اللّٰهِ وَسُقْيٰيهَا ❋ فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنْبِهِمْ فَسَوّٰيهَا ❋ وَلَا يَخَافُ عُقْبٰيهَا",
+          "red": true
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -687,15 +803,59 @@
     },
     {
       "type": "paragraph",
-      "text": "Hem meselâ: وَذَا النُّونِ اِذْ ذَهَبَ مُغَاضِبًا فَظَنَّ اَنْ لَنْ نَقْدِرَ عَلَيْهِ فَنَادٰى فِي الظُّلُمَاتِ اَنْ لَٓا اِلٰهَ اِلَّٓا اَنْتَ سُبْحَانَكَ اِنّ۪ي كُنْتُ مِنَ الظَّالِم۪ينَ"
+      "parts": [
+        {
+          "text": "Hem meselâ: "
+        },
+        {
+          "text": "وَذَا النُّونِ اِذْ ذَهَبَ مُغَاضِبًا فَظَنَّ اَنْ لَنْ نَقْدِرَ عَلَيْهِ فَنَادٰى فِي الظُّلُمَاتِ اَنْ لَٓا اِلٰهَ اِلَّٓا اَنْتَ سُبْحَانَكَ اِنّ۪ي كُنْتُ مِنَ الظَّالِم۪ينَ",
+          "red": true
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "text": "İşte, اَنْ لَنْ نَقْدِرَ عَلَيْهِ cümlesinden فَنَادٰى فِي الظُّلُمَاتِ cümlesine kadar çok cümleler matvîdir. O mezkûr olmayan cümleler ise, fehmi ihlâl etmiyor; selâsetine zarar vermiyor. Hazret-i Yûnus Aleyhisselâm’ın kıssasında mühim esâsları zikreder; mütebâkisini akla havâle eder."
+      "parts": [
+        {
+          "text": "İşte, "
+        },
+        {
+          "text": "اَنْ لَنْ نَقْدِرَ عَلَيْهِ",
+          "red": true
+        },
+        {
+          "text": " cümlesinden "
+        },
+        {
+          "text": "فَنَادٰى فِي الظُّلُمَاتِ",
+          "red": true
+        },
+        {
+          "text": " cümlesine kadar çok cümleler matvîdir. O mezkûr olmayan cümleler ise, fehmi ihlâl etmiyor; selâsetine zarar vermiyor. Hazret-i Yûnus Aleyhisselâm’ın kıssasında mühim esâsları zikreder; mütebâkisini akla havâle eder."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "text": "Hem meselâ: Sûre-i Yûsuf’ta فَاَرْسِلُونِ kelimesinden يُوسُفُ اَيُّهَا الصِّدّ۪يقُ ortasında yedi-sekiz cümle, îcâz ile tayyedilmiş. Hiç fehmi ihlâl etmiyor. Selâsetine zarar vermiyor."
+      "parts": [
+        {
+          "text": "Hem meselâ: Sûre-i Yûsuf’ta "
+        },
+        {
+          "text": "فَاَرْسِلُونِ",
+          "red": true
+        },
+        {
+          "text": " kelimesinden "
+        },
+        {
+          "text": "يُوسُفُ اَيُّهَا الصِّدّ۪يقُ",
+          "red": true
+        },
+        {
+          "text": " ortasında yedi-sekiz cümle, îcâz ile tayyedilmiş. Hiç fehmi ihlâl etmiyor. Selâsetine zarar vermiyor."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -707,7 +867,8 @@
     },
     {
       "type": "arabic",
-      "text": "وَاِذَا قُرِئَ الْقُرْاٰنُ فَاسْتَمِعُوا لَهُ وَاَنْصِتُوا لَعَلَّكُمْ تُرْحَمُونَ"
+      "text": "وَاِذَا قُرِئَ الْقُرْاٰنُ فَاسْتَمِعُوا لَهُ وَاَنْصِتُوا لَعَلَّكُمْ تُرْحَمُونَ",
+      "red": true
     },
     {
       "type": "paragraph",

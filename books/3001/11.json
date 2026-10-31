@@ -4,11 +4,13 @@
   "blocks": [
     {
       "type": "arabic",
-      "text": "﷽"
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "وَالشَّمْسِ وَضُحٰيهَا ❋ وَالْقَمَرِ اِذَا تَلٰيهَا ❋ وَالنَّهَارِ اِذَا جَلّٰيهَا ❋ وَالَّيْلِ اِذَا يَغْشٰيهَا ❋ وَالسَّمَٓاءِ وَمَا بَنٰيهَا ❋ وَالْاَرْضِ وَمَا طَحٰيهَا ❋ وَنَفْسٍ وَمَا سَوّٰيهَا ❋ … اِلخ"
+      "text": "وَالشَّمْسِ وَضُحٰيهَا ❋ وَالْقَمَرِ اِذَا تَلٰيهَا ❋ وَالنَّهَارِ اِذَا جَلّٰيهَا ❋ وَالَّيْلِ اِذَا يَغْشٰيهَا ❋ وَالسَّمَٓاءِ وَمَا بَنٰيهَا ❋ وَالْاَرْضِ وَمَا طَحٰيهَا ❋ وَنَفْسٍ وَمَا سَوّٰيهَا ❋ … اِلخ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -247,7 +249,14 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Demek kâinâta ve âsâra bakıp, gâibâne muâmele-i ubûdiyetle mezkûr makàmâtta mezkûr vezâifi edâ ettikten sonra Sâni'-i Hakîm’in dahi muâmelesine ve ef'âline bakmak derecesine çıktılar ki; hâzırâne bir muâmele sûretinde evvelâ Hàlık-ı Zülcelâl’in kendi san'atının mu'cizeleriyle kendini zîşuûra tanıttırmasına karşı, hayret içinde bir mârifet ile mukàbele ederek: سُبْحَانَكَ مَا عَرَفْنَاكَ حَقَّ مَعْرِفَتِكَ dediler. "
+          "text": "Demek kâinâta ve âsâra bakıp, gâibâne muâmele-i ubûdiyetle mezkûr makàmâtta mezkûr vezâifi edâ ettikten sonra Sâni'-i Hakîm’in dahi muâmelesine ve ef'âline bakmak derecesine çıktılar ki; hâzırâne bir muâmele sûretinde evvelâ Hàlık-ı Zülcelâl’in kendi san'atının mu'cizeleriyle kendini zîşuûra tanıttırmasına karşı, hayret içinde bir mârifet ile mukàbele ederek: "
+        },
+        {
+          "text": "سُبْحَانَكَ مَا عَرَفْنَاكَ حَقَّ مَعْرِفَتِكَ",
+          "red": true
+        },
+        {
+          "text": " dediler. "
         },
         {
           "text": "“Senin ta'rif edicilerin, bütün masnûâtındaki mu'cizelerindir.”",
@@ -257,13 +266,31 @@
     },
     {
       "type": "paragraph",
-      "text": "Sonra O Rahmân’ın kendi rahmetinin güzel meyveleriyle kendini sevdirmesine karşı; muhabbet ve aşk ile mukàbele edip: اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَع۪ينُ dediler."
+      "parts": [
+        {
+          "text": "Sonra O Rahmân’ın kendi rahmetinin güzel meyveleriyle kendini sevdirmesine karşı; muhabbet ve aşk ile mukàbele edip: "
+        },
+        {
+          "text": "اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَع۪ينُ",
+          "red": true
+        },
+        {
+          "text": " dediler."
+        }
+      ]
     },
     {
       "type": "paragraph",
       "parts": [
         {
-          "text": "Sonra O Mün'im-i Hakîki’nin tatlı ni'metleriyle terahhum ve şefkatini göstermesine karşı; şükür ve hamd ile mukàbele ettiler, dediler: سُبْحَانَكَ وَبِحَمْدِكَ "
+          "text": "Sonra O Mün'im-i Hakîki’nin tatlı ni'metleriyle terahhum ve şefkatini göstermesine karşı; şükür ve hamd ile mukàbele ettiler, dediler: "
+        },
+        {
+          "text": "سُبْحَانَكَ وَبِحَمْدِكَ",
+          "red": true
+        },
+        {
+          "text": " "
         },
         {
           "text": "“Senin hak şükrünü nasıl edâ edebiliriz? Sen öyle şükre lâyık bir Meşkûr’sun ki; bütün kâinâta serilmiş bütün ihsânatın açık lisân-ı hâlleri, şükür ve senânızı okuyorlar. Hem, âlem çarşısında dizilmiş ve zeminin yüzüne serpilmiş bütün ni'metlerin ilânatıyla hamd ve medhinizi bildiriyorlar. Hem, rahmet ve ni'metin manzûm meyveleri ve mevzûn yemişleri, senin cûd ve keremine şehâdet etmekle, senin şükrünü enzâr-ı mahlûkat önünde îfâ ederler.”",
@@ -273,19 +300,84 @@
     },
     {
       "type": "paragraph",
-      "text": "Sonra şu kâinâtın yüzlerinde değişen mevcûdât âyinelerinde Cemâl ve Celâl ve Kemâl ve Kibriyâ’sının izhârına karşı اَللّٰهُ اَكْبَرُ deyip ta'zîm içinde bir aczle rükûa gidip, mahviyet içinde bir muhabbet ve hayretle secde edip, mukàbele ettiler."
+      "parts": [
+        {
+          "text": "Sonra şu kâinâtın yüzlerinde değişen mevcûdât âyinelerinde Cemâl ve Celâl ve Kemâl ve Kibriyâ’sının izhârına karşı "
+        },
+        {
+          "text": "اَللّٰهُ اَكْبَرُ",
+          "red": true
+        },
+        {
+          "text": " deyip ta'zîm içinde bir aczle rükûa gidip, mahviyet içinde bir muhabbet ve hayretle secde edip, mukàbele ettiler."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "text": "Sonra O Ganiyy-i Mutlak’ın servetinin çokluğunu ve rahmetinin genişliğini göstermesine karşı; fakr ve hâcetlerini izhâr edip, duâ edip, istemekle mukàbele edip: وَاِيَّاكَ نَسْتَع۪ينُ dediler."
+      "parts": [
+        {
+          "text": "Sonra O Ganiyy-i Mutlak’ın servetinin çokluğunu ve rahmetinin genişliğini göstermesine karşı; fakr ve hâcetlerini izhâr edip, duâ edip, istemekle mukàbele edip: "
+        },
+        {
+          "text": "وَاِيَّاكَ نَسْتَع۪ينُ",
+          "red": true
+        },
+        {
+          "text": " dediler."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "text": "Sonra O Sâni'-i Zülcelâl’in kendi san'atının latîflerini, hàrikalarını, antikalarını, sergilerle teşhîrgâh-ı enâmda neşrine karşı; مَا شَاءَ اللّٰهُ deyip takdir ederek, “Ne güzel yapılmış!” deyip istihsân ederek, بَارَكَ اللّٰهُdeyip müşâhede etmek, اٰمَنَّا deyip şehâdet etmek, “Geliniz, bakınız!” hayran olarak حَيَّ عَلَى الْفَلَاحِ deyip herkesi şâhid tutmakla mukàbele ettiler."
+      "parts": [
+        {
+          "text": "Sonra O Sâni'-i Zülcelâl’in kendi san'atının latîflerini, hàrikalarını, antikalarını, sergilerle teşhîrgâh-ı enâmda neşrine karşı; "
+        },
+        {
+          "text": "مَا شَاءَ اللّٰهُ",
+          "red": true
+        },
+        {
+          "text": " deyip takdir ederek, “Ne güzel yapılmış!” deyip istihsân ederek, "
+        },
+        {
+          "text": "بَارَكَ اللّٰهُ",
+          "red": true
+        },
+        {
+          "text": "deyip müşâhede etmek, "
+        },
+        {
+          "text": "اٰمَنَّا",
+          "red": true
+        },
+        {
+          "text": " deyip şehâdet etmek, “Geliniz, bakınız!” hayran olarak "
+        },
+        {
+          "text": "حَيَّ عَلَى الْفَلَاحِ",
+          "red": true
+        },
+        {
+          "text": " deyip herkesi şâhid tutmakla mukàbele ettiler."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "text": "Hem O Sultan-ı ezel ve ebed, kâinâtın aktârında kendi Rubûbiyet’inin saltanatını ilânına ve Vahdâniyet’inin izhârına karşı; tevhid ve tasdik edip سَمِعْنَا وَاَطَعْنَا diyerek itâat ve inkıyad ile mukàbele ettiler."
+      "parts": [
+        {
+          "text": "Hem O Sultan-ı ezel ve ebed, kâinâtın aktârında kendi Rubûbiyet’inin saltanatını ilânına ve Vahdâniyet’inin izhârına karşı; tevhid ve tasdik edip "
+        },
+        {
+          "text": "سَمِعْنَا وَاَطَعْنَا",
+          "red": true
+        },
+        {
+          "text": " diyerek itâat ve inkıyad ile mukàbele ettiler."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -588,15 +680,38 @@
     },
     {
       "type": "paragraph",
-      "text": "Senin hayatının âyinesinde temessül eden Şems-i Ezelî’nin envârını hissedip sevmektir. Zîşuûr olarak O’na şevk göstermektir. O’nun muhabbetiyle kendinden geçmektir. Kalbin göz bebeğinde aks-i nurunu yerleştirmektir. İşte bu sırdandır ki, seni a'lâ-yı illiyîne çıkaran bir Hadîs-i Kudsînin meâl-i şerîfi olan: مَنْ نَه گُنْجَمْ دَرْ سَمٰوَاتُ و زَمِينْ ❋ اَزْ عَجَبْ گُنْجَمْ بَقَلْبِ مُؤْمِنِينْ denilmiştir."
+      "parts": [
+        {
+          "text": "Senin hayatının âyinesinde temessül eden Şems-i Ezelî’nin envârını hissedip sevmektir. Zîşuûr olarak O’na şevk göstermektir. O’nun muhabbetiyle kendinden geçmektir. Kalbin göz bebeğinde aks-i nurunu yerleştirmektir. İşte bu sırdandır ki, seni a'lâ-yı illiyîne çıkaran bir Hadîs-i Kudsînin meâl-i şerîfi olan: "
+        },
+        {
+          "text": "مَنْ نَه گُنْجَمْ دَرْ سَمٰوَاتُ و زَمِينْ ❋ اَزْ عَجَبْ گُنْجَمْ بَقَلْبِ مُؤْمِنِينْ",
+          "red": true
+        },
+        {
+          "text": " denilmiştir."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "text": "İşte ey nefsim! Hayatının böyle ulvî gâyâta müteveccih olduğu ve şöyle kıymetli hazineleri câmi' olduğu hâlde, hiç akıl ve insafa lâyık mıdır ki; hiç-ender hiç olan muvakkat huzûzât-ı nefsâniyeye, geçici lezâiz-i dünyeviyeye sarfedip zâyi' edersin! Eğer zâyi' etmemek istersen geçen temsîl ve hakikate remzeden, وَالشَّمْسِ وَضُحٰيهَا ❋ وَالْقَمَرِ اِذَا تَلٰيهَا ❋ وَالنَّهَارِ اِذَا جَلّٰيهَا ❋ وَالَّيْلِ اِذَا يَغْشٰيهَا ❋ وَالسَّمَٓاءِ وَمَا بَنٰيهَا ❋ وَالْاَرْضِ وَمَا طَحٰيهَا ❋ وَنَفْسٍ وَمَا سَوّٰيهَا ❋ فَاَلْهَمَهَا فُجُورَهَا وَتَقْوٰيهَا ❋ قَدْ اَفْلَحَ مَنْ زَكّٰيهَا ❋ وَقَدْخَابَ مَنْ دَسّٰيهَا Sûresi’ndeki kasem ve cevab-ı kasemi düşünüp amel et."
+      "parts": [
+        {
+          "text": "İşte ey nefsim! Hayatının böyle ulvî gâyâta müteveccih olduğu ve şöyle kıymetli hazineleri câmi' olduğu hâlde, hiç akıl ve insafa lâyık mıdır ki; hiç-ender hiç olan muvakkat huzûzât-ı nefsâniyeye, geçici lezâiz-i dünyeviyeye sarfedip zâyi' edersin! Eğer zâyi' etmemek istersen geçen temsîl ve hakikate remzeden, "
+        },
+        {
+          "text": "وَالشَّمْسِ وَضُحٰيهَا ❋ وَالْقَمَرِ اِذَا تَلٰيهَا ❋ وَالنَّهَارِ اِذَا جَلّٰيهَا ❋ وَالَّيْلِ اِذَا يَغْشٰيهَا ❋ وَالسَّمَٓاءِ وَمَا بَنٰيهَا ❋ وَالْاَرْضِ وَمَا طَحٰيهَا ❋ وَنَفْسٍ وَمَا سَوّٰيهَا ❋ فَاَلْهَمَهَا فُجُورَهَا وَتَقْوٰيهَا ❋ قَدْ اَفْلَحَ مَنْ زَكّٰيهَا ❋ وَقَدْخَابَ مَنْ دَسّٰيهَا",
+          "red": true
+        },
+        {
+          "text": " Sûresi’ndeki kasem ve cevab-ı kasemi düşünüp amel et."
+        }
+      ]
     },
     {
       "type": "arabic",
-      "text": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى شَمْسِ سَمَاءِ الرِّسَالَةِ وَقَمَرِ بُرْجِ النُّبُوَّةِ وَعَلٰى اٰلِهِ وَاَصْحَابِهِ نُجُومِ الْهِدَايَةِ وَارْحَمْنَا وَارْحَمِ الْمُؤْمِن۪ينَ وَالْمُؤْمِنَاتِ اٰم۪ينَ اٰم۪ينَ اٰم۪ينَ"
+      "text": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى شَمْسِ سَمَاءِ الرِّسَالَةِ وَقَمَرِ بُرْجِ النُّبُوَّةِ وَعَلٰى اٰلِهِ وَاَصْحَابِهِ نُجُومِ الْهِدَايَةِ وَارْحَمْنَا وَارْحَمِ الْمُؤْمِن۪ينَ وَالْمُؤْمِنَاتِ اٰم۪ينَ اٰم۪ينَ اٰم۪ينَ",
+      "red": true
     }
   ]
 }

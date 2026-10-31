@@ -4,11 +4,13 @@
   "blocks": [
     {
       "type": "arabic",
-      "text": "﷽"
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "اِنَّمَٓا اَمْرُهُٓ اِذَٓا اَرَادَ شَيْئًا اَنْ يَقُولَ لَهُ كُنْ فَيَكُونُ ❋ فَسُبْحَانَ الَّذ۪ي بِيَدِه۪ مَلَكُوتُ كُلِّ شَيْءٍ وَاِلَيْهِ تُرْجَعُونَ"
+      "text": "اِنَّمَٓا اَمْرُهُٓ اِذَٓا اَرَادَ شَيْئًا اَنْ يَقُولَ لَهُ كُنْ فَيَكُونُ ❋ فَسُبْحَانَ الَّذ۪ي بِيَدِه۪ مَلَكُوتُ كُلِّ شَيْءٍ وَاِلَيْهِ تُرْجَعُونَ",
+      "red": true
     },
     {
       "type": "quote",
@@ -30,7 +32,11 @@
           "bold": true
         },
         {
-          "text": " Mâdem öyledir, itmi'nân için istersen, biz de Kur'ân’ın feyzine istinâden diyoruz: İsm-i Nur, çok müşkülâtımızı halletmiş, inşâallâh bunu da halleder. Akla vâzıh, kalbe nurânî olacak temsîl yolunu ihtiyar ile İmâm-ı Rabbânî (ra) gibi deriz: نَه شَبَمْ نَه شَبْ پَرَسْتَمْ مَنْ ❋ غُلَامِ شَمْسَمْ اَزْ شَمْس مِى گُويَمْ خَبَرْ"
+          "text": " Mâdem öyledir, itmi'nân için istersen, biz de Kur'ân’ın feyzine istinâden diyoruz: İsm-i Nur, çok müşkülâtımızı halletmiş, inşâallâh bunu da halleder. Akla vâzıh, kalbe nurânî olacak temsîl yolunu ihtiyar ile İmâm-ı Rabbânî (ra) gibi deriz: "
+        },
+        {
+          "text": "نَه شَبَمْ نَه شَبْ پَرَسْتَمْ مَنْ ❋ غُلَامِ شَمْسَمْ اَزْ شَمْس مِى گُويَمْ خَبَرْ",
+          "red": true
         }
       ]
     },
@@ -142,7 +148,39 @@
     },
     {
       "type": "paragraph",
-      "text": "Ey nefs-i bî-hûş! Diyorsun ki:اِنَّمَٓا اَمْرُهُٓ اِذَٓا اَرَادَ شَيْئًا اَنْ يَقُولَ لَهُ كُنْ فَيَكُونُ hem اِنْ كَانَتْ اِلَّا صَيْحَةً وَاحِدَةً فَاِذَا هُمْ جَم۪يعٌ لَدَيْنَا مُحْضَرُونَ gibi âyetler, vücûd-u eşya, sırf bir emr ile ve def'î olduğunu ve صُنْعَ اللّٰهِ الَّذ۪ٓي اَتْقَنَ كُلَّ شَيْءٍ hem اَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُ gibi âyetler, vücûd-u eşya, ilim içinde azîm bir kudretle, hikmet içinde dakîk bir san'atla tedrîcî olduğunu gösteriyorlar. Vech-i tevfiki nedir?"
+      "parts": [
+        {
+          "text": "Ey nefs-i bî-hûş! Diyorsun ki:"
+        },
+        {
+          "text": "اِنَّمَٓا اَمْرُهُٓ اِذَٓا اَرَادَ شَيْئًا اَنْ يَقُولَ لَهُ كُنْ فَيَكُونُ",
+          "red": true
+        },
+        {
+          "text": " hem "
+        },
+        {
+          "text": "اِنْ كَانَتْ اِلَّا صَيْحَةً وَاحِدَةً فَاِذَا هُمْ جَم۪يعٌ لَدَيْنَا مُحْضَرُونَ",
+          "red": true
+        },
+        {
+          "text": " gibi âyetler, vücûd-u eşya, sırf bir emr ile ve def'î olduğunu ve "
+        },
+        {
+          "text": "صُنْعَ اللّٰهِ الَّذ۪ٓي اَتْقَنَ كُلَّ شَيْءٍ",
+          "red": true
+        },
+        {
+          "text": " hem "
+        },
+        {
+          "text": "اَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُ",
+          "red": true
+        },
+        {
+          "text": " gibi âyetler, vücûd-u eşya, ilim içinde azîm bir kudretle, hikmet içinde dakîk bir san'atla tedrîcî olduğunu gösteriyorlar. Vech-i tevfiki nedir?"
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -206,7 +244,14 @@
           "bold": true
         },
         {
-          "text": " İşte O Zât-ı Zülcelâl’dir ki, şöyle fermân ediyor: اِنَّمَٓا اَمْرُهُٓ اِذَٓا اَرَادَ شَيْئًا اَنْ يَقُولَ لَهُ كُنْ فَيَكُونُوَمَٓا اَمْرُ السَّاعَةِ اِلَّا كَلَمْحِ الْبَصَرِ اَوْ هُوَ اَقْرَبُ deyip hem kemâl-i kudretini ilân, hem kudretine nisbeten haşir ve kıyâmet gayet sehl ve külfetsiz olduğunu beyân ediyor. Emr-i tekvînîsi, kudret ve irâdeyi tazammun ettiğini ve bütün eşya, evâmirine gayet musahhar ve münkàd olduklarını ve mübâşeretsiz, muâlecesiz halkettiği için icâdındaki sühûlet-i mutlakayı ifâde için, sırf bir emirle işler yaptığını, Kur'ân-ı Mu'cizü'l-Beyân ile fermân ediyor."
+          "text": " İşte O Zât-ı Zülcelâl’dir ki, şöyle fermân ediyor: "
+        },
+        {
+          "text": "اِنَّمَٓا اَمْرُهُٓ اِذَٓا اَرَادَ شَيْئًا اَنْ يَقُولَ لَهُ كُنْ فَيَكُونُوَمَٓا اَمْرُ السَّاعَةِ اِلَّا كَلَمْحِ الْبَصَرِ اَوْ هُوَ اَقْرَبُ",
+          "red": true
+        },
+        {
+          "text": " deyip hem kemâl-i kudretini ilân, hem kudretine nisbeten haşir ve kıyâmet gayet sehl ve külfetsiz olduğunu beyân ediyor. Emr-i tekvînîsi, kudret ve irâdeyi tazammun ettiğini ve bütün eşya, evâmirine gayet musahhar ve münkàd olduklarını ve mübâşeretsiz, muâlecesiz halkettiği için icâdındaki sühûlet-i mutlakayı ifâde için, sırf bir emirle işler yaptığını, Kur'ân-ı Mu'cizü'l-Beyân ile fermân ediyor."
         }
       ]
     },
@@ -229,11 +274,23 @@
     },
     {
       "type": "paragraph",
-      "text": "Ey haddinden tecâvüz etmiş nefs-i pür-vesvâs! Diyorsun ki: بِيَدِه۪ مَلَكُوتُ كُلِّ شَيْءٍمَا مِنْ دَٓابَّةٍ اِلَّا هُوَ اٰخِذٌ بِنَاصِيَتِهَاوَنَحْنُ اَقْرَبُ اِلَيْهِ مِنْ حَبْلِ الْوَر۪يدِgibi âyetler, nihâyet derecede Kurbiyet-i İlâhiye’yi gösteriyor."
+      "parts": [
+        {
+          "text": "Ey haddinden tecâvüz etmiş nefs-i pür-vesvâs! Diyorsun ki: "
+        },
+        {
+          "text": "بِيَدِه۪ مَلَكُوتُ كُلِّ شَيْءٍمَا مِنْ دَٓابَّةٍ اِلَّا هُوَ اٰخِذٌ بِنَاصِيَتِهَاوَنَحْنُ اَقْرَبُ اِلَيْهِ مِنْ حَبْلِ الْوَر۪يدِ",
+          "red": true
+        },
+        {
+          "text": "gibi âyetler, nihâyet derecede Kurbiyet-i İlâhiye’yi gösteriyor."
+        }
+      ]
     },
     {
       "type": "arabic",
-      "text": "وَاِلَيْهِ تُرْجَعُونَتَعْرُجُ الْمَلٰٓئِكَةُ وَالرُّوحُ اِلَيْهِ ف۪ي يَوْمٍ كَانَ مِقْدَارُهُ خَمْس۪ينَ اَلْفَ سَنَةٍ"
+      "text": "وَاِلَيْهِ تُرْجَعُونَتَعْرُجُ الْمَلٰٓئِكَةُ وَالرُّوحُ اِلَيْهِ ف۪ي يَوْمٍ كَانَ مِقْدَارُهُ خَمْس۪ينَ اَلْفَ سَنَةٍ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -300,7 +357,14 @@
           "italic": true
         },
         {
-          "text": " Meselâ: وَلِلّٰهِ الْمَثَلُ الْاَعْلٰى Bir pâdişahın çok isimleri içinde “Kumandan” ismi çok mütedâhil dâirelerde tezâhür eder. Serasker dâire-i külliyesinden tut, müşîriyet ve ferîkiyet, tâ yüzbaşı, tâ onbaşıya kadar geniş ve dar, küllî ve cüz'î dâirelerde de zuhûr ve tecellîsi vardır. Şimdi bir nefer, hizmet-i askeriyesinde onbaşı makamında tezâhür eden cüz'î kumandanlık noktasını merci' tutar, kumandan-ı a'zamına şu cüz'î cilve-i ismiyle temâs eder ve münâsebetdâr olur. Eğer asıl ismiyle temâs etmek, ona o ünvân ile görüşmek istese onbaşılıktan tâ serasker mertebe-i külliyesine çıkmak lâzım gelir."
+          "text": " Meselâ: "
+        },
+        {
+          "text": "وَلِلّٰهِ الْمَثَلُ الْاَعْلٰى",
+          "red": true
+        },
+        {
+          "text": " Bir pâdişahın çok isimleri içinde “Kumandan” ismi çok mütedâhil dâirelerde tezâhür eder. Serasker dâire-i külliyesinden tut, müşîriyet ve ferîkiyet, tâ yüzbaşı, tâ onbaşıya kadar geniş ve dar, küllî ve cüz'î dâirelerde de zuhûr ve tecellîsi vardır. Şimdi bir nefer, hizmet-i askeriyesinde onbaşı makamında tezâhür eden cüz'î kumandanlık noktasını merci' tutar, kumandan-ı a'zamına şu cüz'î cilve-i ismiyle temâs eder ve münâsebetdâr olur. Eğer asıl ismiyle temâs etmek, ona o ünvân ile görüşmek istese onbaşılıktan tâ serasker mertebe-i külliyesine çıkmak lâzım gelir."
         }
       ]
     },
@@ -310,7 +374,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Öyle de; emr-i كُنْ فَيَكُونُ’e mâlik, güneşler ve yıldızlar emirber nefer hükmünde olan Zât-ı Zülcelâl, herşeye herşeyden daha ziyâde yakın olduğu hâlde herşey O’ndan nihâyetsiz uzaktır. O’nun huzur-u Kibriyâ’sına perdesiz girmek istenilse; zulmânî ve nurânî, yani maddî ve ekvânî ve esmâî ve sıfâtî yetmiş binler hicâbdan geçmek, her ismin binler hususî ve küllî derecât-ı tecellîsinden çıkmak, gayet yüksek tabakàt-ı sıfâtında mürûr edip tâ ism-i a'zamına mazhar olan Arş-ı A'zamına urûc etmek; eğer cezb ve lütfu olmazsa, binler seneler çalışmak ve sülûk etmek lâzım gelir."
+      "parts": [
+        {
+          "text": "Öyle de; emr-i "
+        },
+        {
+          "text": "كُنْ فَيَكُونُ",
+          "red": true
+        },
+        {
+          "text": "’e mâlik, güneşler ve yıldızlar emirber nefer hükmünde olan Zât-ı Zülcelâl, herşeye herşeyden daha ziyâde yakın olduğu hâlde herşey O’ndan nihâyetsiz uzaktır. O’nun huzur-u Kibriyâ’sına perdesiz girmek istenilse; zulmânî ve nurânî, yani maddî ve ekvânî ve esmâî ve sıfâtî yetmiş binler hicâbdan geçmek, her ismin binler hususî ve küllî derecât-ı tecellîsinden çıkmak, gayet yüksek tabakàt-ı sıfâtında mürûr edip tâ ism-i a'zamına mazhar olan Arş-ı A'zamına urûc etmek; eğer cezb ve lütfu olmazsa, binler seneler çalışmak ve sülûk etmek lâzım gelir."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -374,7 +449,14 @@
           "bold": true
         },
         {
-          "text": " deyip, ma'nen ve hayâlen veya niyeten iki cihandan geçip, kayd-ı maddiyâttan tecerrüd edip, bir mertebe-i külliye-i ubûdiyete veya küllînin bir gölgesine veya bir sûretine çıkıp, bir nev'i huzura müşerref olup, اِيَّاكَ نَعْبُدُ hitâbına (herkesin kàbiliyeti nisbetinde) bir mazhariyet-i azîmedir."
+          "text": " deyip, ma'nen ve hayâlen veya niyeten iki cihandan geçip, kayd-ı maddiyâttan tecerrüd edip, bir mertebe-i külliye-i ubûdiyete veya küllînin bir gölgesine veya bir sûretine çıkıp, bir nev'i huzura müşerref olup, "
+        },
+        {
+          "text": "اِيَّاكَ نَعْبُدُ",
+          "red": true
+        },
+        {
+          "text": " hitâbına (herkesin kàbiliyeti nisbetinde) bir mazhariyet-i azîmedir."
         }
       ]
     },
@@ -421,7 +503,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Elbette Hac miftâhıyla açılan merâtib-i külliye-i Rubûbiyet ve dûrbîniyle nazarına görünen âfâk-ı azamet-i Ulûhiyet ve şeâiriyle kalbine ve hayâline gittikçe genişlenen devâir-i ubûdiyet ve merâtib-i kibriyâ ve ufk-u tecelliyâtın verdiği harâret, hayret ve dehşet ve heybet-i Rubûbiyet اَللّٰهُ اَكْبَرُ ❋ اَللّٰهُ اَكْبَرُile teskin edilebilir ve onunla, o merâtib-i münkeşife-i meşhûde veya mutasavvire ilân edilebilir."
+      "parts": [
+        {
+          "text": "Elbette Hac miftâhıyla açılan merâtib-i külliye-i Rubûbiyet ve dûrbîniyle nazarına görünen âfâk-ı azamet-i Ulûhiyet ve şeâiriyle kalbine ve hayâline gittikçe genişlenen devâir-i ubûdiyet ve merâtib-i kibriyâ ve ufk-u tecelliyâtın verdiği harâret, hayret ve dehşet ve heybet-i Rubûbiyet "
+        },
+        {
+          "text": "اَللّٰهُ اَكْبَرُ ❋ اَللّٰهُ اَكْبَرُ",
+          "red": true
+        },
+        {
+          "text": "ile teskin edilebilir ve onunla, o merâtib-i münkeşife-i meşhûde veya mutasavvire ilân edilebilir."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -429,27 +522,33 @@
     },
     {
       "type": "arabic",
-      "text": "سُبْحَانَ مَنْ جَعَلَ خَزَائِنَهُ بَيْنَ الْكَافِ وَالنُّونِ"
+      "text": "سُبْحَانَ مَنْ جَعَلَ خَزَائِنَهُ بَيْنَ الْكَافِ وَالنُّونِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "فَسُبْحَانَ الَّذ۪ي بِيَدِه۪ مَلَكُوتُ كُلِّ شَيْءٍ وَاِلَيْهِ تُرْجَعُونَ"
+      "text": "فَسُبْحَانَ الَّذ۪ي بِيَدِه۪ مَلَكُوتُ كُلِّ شَيْءٍ وَاِلَيْهِ تُرْجَعُونَ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ"
+      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "رَبَّنَا لَا تُؤٰاخِذْنَٓا اِنْ نَس۪ينَٓا اَوْ اَخْطَأْنَا"
+      "text": "رَبَّنَا لَا تُؤٰاخِذْنَٓا اِنْ نَس۪ينَٓا اَوْ اَخْطَأْنَا",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "رَبَّناَ لَا تُزِغْ قُلُوبَنَا بَعْدَ اِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةً اِنَّكَ اَنْتَ الْوَهَّابُ"
+      "text": "رَبَّناَ لَا تُزِغْ قُلُوبَنَا بَعْدَ اِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةً اِنَّكَ اَنْتَ الْوَهَّابُ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "وَصَلِّ وَسَلِّمْ عَلٰى رَسُولِكَ الْاَ كْرَمِ مَظْهَرِ اِسْمِكَ الْاَعْظَمِ وَعَلٰى اٰلِهِ وَاَصْحَابِهِ وَاِخْواَنِهِ وَاَتْبَاعِهِ اٰم۪ينَ يَا اَرْحَمَ الرَّاحِم۪ينَ"
+      "text": "وَصَلِّ وَسَلِّمْ عَلٰى رَسُولِكَ الْاَ كْرَمِ مَظْهَرِ اِسْمِكَ الْاَعْظَمِ وَعَلٰى اٰلِهِ وَاَصْحَابِهِ وَاِخْواَنِهِ وَاَتْبَاعِهِ اٰم۪ينَ يَا اَرْحَمَ الرَّاحِم۪ينَ",
+      "red": true
     },
     {
       "type": "divider"

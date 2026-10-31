@@ -17,19 +17,23 @@
     },
     {
       "type": "arabic",
-      "text": "﷽"
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "وَاِذْ قُلْنَا لِلْمَلٰٓئِكَةِ اسْجُدُوا لِاٰدَمَ فَسَجَدُٓوا اِلَّٓا اِبْل۪يسَ"
+      "text": "وَاِذْ قُلْنَا لِلْمَلٰٓئِكَةِ اسْجُدُوا لِاٰدَمَ فَسَجَدُٓوا اِلَّٓا اِبْل۪يسَ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "اِنَّ اللّٰهَ يَأْمُرُكُمْ اَنْ تَذْبَحُوا بَقَرَةً"
+      "text": "اِنَّ اللّٰهَ يَأْمُرُكُمْ اَنْ تَذْبَحُوا بَقَرَةً",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "ثُمَّ قَسَتْ قُلُوبُكُمْ مِنْ بَعْدِ ذٰلِكَ فَهِيَ كَالْحِجَارَةِ اَوْ اَشَدُّ قَسْوَةً"
+      "text": "ثُمَّ قَسَتْ قُلُوبُكُمْ مِنْ بَعْدِ ذٰلِكَ فَهِيَ كَالْحِجَارَةِ اَوْ اَشَدُّ قَسْوَةً",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -46,7 +50,14 @@
           "bold": true
         },
         {
-          "text": " tesmiye etmekte ne münâsebet var? Hem de Âdem’e secde olan hâdise, sırf bir emr-i gaybîdir. Akıl ona yol bulamaz. Kavî bir îmândan sonra teslîm ve iz'ân edilebilir. Hâlbuki Kur'ân, umum ehl-i akla ders veriyor. Çok yerlerde اَفَلَا يَعْقِلُونَ der, akla havâle eder. Hem taşların tesâdüfî olan bazı hâlât-ı tabîiyesini ehemmiyetle beyân etmekte ne hidayet var?”"
+          "text": " tesmiye etmekte ne münâsebet var? Hem de Âdem’e secde olan hâdise, sırf bir emr-i gaybîdir. Akıl ona yol bulamaz. Kavî bir îmândan sonra teslîm ve iz'ân edilebilir. Hâlbuki Kur'ân, umum ehl-i akla ders veriyor. Çok yerlerde "
+        },
+        {
+          "text": "اَفَلَا يَعْقِلُونَ",
+          "red": true
+        },
+        {
+          "text": " der, akla havâle eder. Hem taşların tesâdüfî olan bazı hâlât-ı tabîiyesini ehemmiyetle beyân etmekte ne hidayet var?”"
         }
       ]
     },
@@ -60,7 +71,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Kur'ân-ı Hakîm’de çok hâdisât-ı cüz'iye vardır ki, herbirisinin arkasında bir düstur-u küllî saklanmış ve bir kanun-u umumînin ucu olarak gösteriliyor. Nasıl ki, عَلَّمَ اٰدَمَ الْاَسْمَٓاءَ كُلَّهَا Hazret-i Âdem’in melâikelere karşı kàbiliyet-i hilâfet için bir mu'cizesi olan ta'lim-i esmâ’dır ki, bir hâdise-i cüz'iyedir. Şöyle bir düstur-u küllînin ucudur ki:"
+      "parts": [
+        {
+          "text": "Kur'ân-ı Hakîm’de çok hâdisât-ı cüz'iye vardır ki, herbirisinin arkasında bir düstur-u küllî saklanmış ve bir kanun-u umumînin ucu olarak gösteriliyor. Nasıl ki, "
+        },
+        {
+          "text": "عَلَّمَ اٰدَمَ الْاَسْمَٓاءَ كُلَّهَا",
+          "red": true
+        },
+        {
+          "text": " Hazret-i Âdem’in melâikelere karşı kàbiliyet-i hilâfet için bir mu'cizesi olan ta'lim-i esmâ’dır ki, bir hâdise-i cüz'iyedir. Şöyle bir düstur-u küllînin ucudur ki:"
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -96,7 +118,8 @@
     },
     {
       "type": "arabic",
-      "text": "ثُمَّ قَسَتْ قُلُوبُكُمْ مِنْ بَعْدِ ذٰلِكَ فَهِيَ كَالْحِجَارَةِ اَوْ اَشَدُّ قَسْوَةً وَاِنَّ مِنَ الْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ الْاَنْهَارُ وَاِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ مِنْهُ الْمَٓاءُ وَاِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ اللّٰهِ وَمَا اللّٰهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ"
+      "text": "ثُمَّ قَسَتْ قُلُوبُكُمْ مِنْ بَعْدِ ذٰلِكَ فَهِيَ كَالْحِجَارَةِ اَوْ اَشَدُّ قَسْوَةً وَاِنَّ مِنَ الْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ الْاَنْهَارُ وَاِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ مِنْهُ الْمَٓاءُ وَاِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ اللّٰهِ وَمَا اللّٰهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -147,7 +170,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Hem, وَاِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ اللّٰهِ ile şöyle bir hakikat-i muazzamanın ucunu gösteriyor ki:"
+      "parts": [
+        {
+          "text": "Hem, "
+        },
+        {
+          "text": "وَاِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ اللّٰهِ",
+          "red": true
+        },
+        {
+          "text": " ile şöyle bir hakikat-i muazzamanın ucunu gösteriyor ki:"
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -171,7 +205,15 @@
     },
     {
       "type": "paragraph",
-      "text": "Meselâ, ikinci fıkrada der: وَاِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ مِنْهُ الْمَٓاءُ"
+      "parts": [
+        {
+          "text": "Meselâ, ikinci fıkrada der: "
+        },
+        {
+          "text": "وَاِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ مِنْهُ الْمَٓاءُ",
+          "red": true
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -183,7 +225,15 @@
     },
     {
       "type": "paragraph",
-      "text": "Hem üçüncü fıkrada der: وَاِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ اللّٰهِ"
+      "parts": [
+        {
+          "text": "Hem üçüncü fıkrada der: "
+        },
+        {
+          "text": "وَاِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ اللّٰهِ",
+          "red": true
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -195,7 +245,15 @@
     },
     {
       "type": "paragraph",
-      "text": "Hem birinci fıkrada diyor: وَاِنَّ مِنَ الْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ الْاَنْهَارُ"
+      "parts": [
+        {
+          "text": "Hem birinci fıkrada diyor: "
+        },
+        {
+          "text": "وَاِنَّ مِنَ الْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ الْاَنْهَارُ",
+          "red": true
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -255,15 +313,18 @@
     },
     {
       "type": "arabic",
-      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ"
+      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "اَللّٰهُمَّ فَهِّمْنَا اَسْرَارَ الْقُرْاٰنِ كَمَا تُحِبُّ وَتَرْضٰى وَوَفِّقْنَا لِخِدْمَتِهِ اٰم۪ينَ بِرَحْمَتِكَ يَا اَرْحَمَ الرَّاحِم۪ينَ"
+      "text": "اَللّٰهُمَّ فَهِّمْنَا اَسْرَارَ الْقُرْاٰنِ كَمَا تُحِبُّ وَتَرْضٰى وَوَفِّقْنَا لِخِدْمَتِهِ اٰم۪ينَ بِرَحْمَتِكَ يَا اَرْحَمَ الرَّاحِم۪ينَ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى مَنْ اُنْزِلَ عَلَيْهِ الْقُرْاٰنُ الْحَك۪يمُ وَعَلٰى اٰلِهِ وَصَحْبِهِ اَجْمَع۪ينَ"
+      "text": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى مَنْ اُنْزِلَ عَلَيْهِ الْقُرْاٰنُ الْحَك۪يمُ وَعَلٰى اٰلِهِ وَصَحْبِهِ اَجْمَع۪ينَ",
+      "red": true
     },
     {
       "type": "divider"
@@ -287,11 +348,13 @@
     },
     {
       "type": "arabic",
-      "text": "﷽"
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "وَلَا رَطْبٍ وَلَا يَابِسٍ اِلَّا ف۪ي كِتَابٍ مُب۪ينٍ"
+      "text": "وَلَا رَطْبٍ وَلَا يَابِسٍ اِلَّا ف۪ي كِتَابٍ مُب۪ينٍ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -344,7 +407,11 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Ezcümle: قُتِلَ اَصْحَابُ الْاُخْدُودِ ❋ اَلنَّارِذَاتِ الْوَقُودِ ❋ اِذْ هُمْ عَلَيْهَا قُعُودٌ ❋ وَهُمْ عَلٰى مَا يَفْعَلُونَ بِالْمُؤْمِن۪ينَ شُهُودٌ ❋ وَمَا نَقَمُوا مِنْهُمْ اِلَّٓا اَنْ يُؤْمِنُوا بِاللّٰهِ الْعَز۪يزِ الْحَم۪يدِ"
+          "text": "Ezcümle: "
+        },
+        {
+          "text": "قُتِلَ اَصْحَابُ الْاُخْدُودِ ❋ اَلنَّارِذَاتِ الْوَقُودِ ❋ اِذْ هُمْ عَلَيْهَا قُعُودٌ ❋ وَهُمْ عَلٰى مَا يَفْعَلُونَ بِالْمُؤْمِن۪ينَ شُهُودٌ ❋ وَمَا نَقَمُوا مِنْهُمْ اِلَّٓا اَنْ يُؤْمِنُوا بِاللّٰهِ الْعَز۪يزِ الْحَم۪يدِ",
+          "red": true
         },
         {
           "note": "3"
@@ -355,13 +422,31 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Kezâ: فِي الْفُلْكِ الْمَشْحُونِ ❋ وَخَلَقْنَا لَهُمْ مِنْ مِثْلِه۪ مَا يَرْكَبُونَ gibi âyetlerle şimendifere işâret ettiği gibi, اَللّٰهُ نُورُ السَّمٰوَاتِ وَالْاَرْضِ مَثَلُ نُورِهِ كَمِشْكٰوةٍ ف۪يهَا مِصْبَاحٌ اَلْمِصْبَاحُ ف۪ي زُجَاجَةٍ اَلزُّجَاجَةُ كَاَنَّهَا كَوْكَبٌ دُرِّيٌّ يُوقَدُ مِنْ شَجَرَةٍ مُبَارَكَةٍ زَيْتُونَةٍ"
+          "text": "Kezâ: "
+        },
+        {
+          "text": "فِي الْفُلْكِ الْمَشْحُونِ ❋ وَخَلَقْنَا لَهُمْ مِنْ مِثْلِه۪ مَا يَرْكَبُونَ",
+          "red": true
+        },
+        {
+          "text": " gibi âyetlerle şimendifere işâret ettiği gibi, "
+        },
+        {
+          "text": "اَللّٰهُ نُورُ السَّمٰوَاتِ وَالْاَرْضِ مَثَلُ نُورِهِ كَمِشْكٰوةٍ ف۪يهَا مِصْبَاحٌ اَلْمِصْبَاحُ ف۪ي زُجَاجَةٍ اَلزُّجَاجَةُ كَاَنَّهَا كَوْكَبٌ دُرِّيٌّ يُوقَدُ مِنْ شَجَرَةٍ مُبَارَكَةٍ زَيْتُونَةٍ",
+          "red": true
         },
         {
           "note": "4"
         },
         {
-          "text": " لَا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُض۪ٓئُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُورٌ عَلٰى نُورٍ يَهْدِي اللّٰهُ لِنُورِه۪ مَنْ يَشَٓاءُ âyeti, pek çok envâra, esrâra işâretle beraber elektriğe dahi remz ediyor. Şu ikinci kısım, hem çok zâtlar onlarla uğraştığından hem çok dikkat ve izâha muhtaç olduğundan ve hem çok olduğundan; şimdilik şimendifer ve elektriğe işâret eden şu âyetlerle iktifâ edip o kapıyı açmayacağım."
+          "text": " "
+        },
+        {
+          "text": "لَا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُض۪ٓئُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُورٌ عَلٰى نُورٍ يَهْدِي اللّٰهُ لِنُورِه۪ مَنْ يَشَٓاءُ",
+          "red": true
+        },
+        {
+          "text": " âyeti, pek çok envâra, esrâra işâretle beraber elektriğe dahi remz ediyor. Şu ikinci kısım, hem çok zâtlar onlarla uğraştığından hem çok dikkat ve izâha muhtaç olduğundan ve hem çok olduğundan; şimdilik şimendifer ve elektriğe işâret eden şu âyetlerle iktifâ edip o kapıyı açmayacağım."
         }
       ]
     },
@@ -409,7 +494,14 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Meselâ: Hazret-i Süleyman Aleyhisselâm’ın bir mu'cizesi olarak teshìr-i havayı beyân eden وَلِسُلَيْمٰنَ الرّ۪يحَ غُدُوُّهَا شَهْرٌ وَرَوَاحُهَا شَهْرٌ âyeti, "
+          "text": "Meselâ: Hazret-i Süleyman Aleyhisselâm’ın bir mu'cizesi olarak teshìr-i havayı beyân eden "
+        },
+        {
+          "text": "وَلِسُلَيْمٰنَ الرّ۪يحَ غُدُوُّهَا شَهْرٌ وَرَوَاحُهَا شَهْرٌ",
+          "red": true
+        },
+        {
+          "text": " âyeti, "
         },
         {
           "text": "“Hazret-i Süleyman, bir günde havada tayerân ile iki aylık bir mesâfeyi kat'etmiştir.”",
@@ -428,7 +520,14 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Hem Hazret-i Mûsa Aleyhisselâm’ın bir mu'cizesini beyân eden: فَقُلْنَا اضْرِبْ بِعَصَاكَ الْحَجَرَ فَانْفَجَرَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا ilâ âhir… Bu âyet işâret ediyor ki; zemin tahtında gizli olan rahmet hazinelerinden, basit âletlerle istifade edilebilir. Hattâ taş gibi bir sert yerde, bir asâ ile âb-ı hayat celbedilebilir. İşte şu âyet, bu mânâ ile beşere der ki: "
+          "text": "Hem Hazret-i Mûsa Aleyhisselâm’ın bir mu'cizesini beyân eden: "
+        },
+        {
+          "text": "فَقُلْنَا اضْرِبْ بِعَصَاكَ الْحَجَرَ فَانْفَجَرَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا",
+          "red": true
+        },
+        {
+          "text": " ilâ âhir… Bu âyet işâret ediyor ki; zemin tahtında gizli olan rahmet hazinelerinden, basit âletlerle istifade edilebilir. Hattâ taş gibi bir sert yerde, bir asâ ile âb-ı hayat celbedilebilir. İşte şu âyet, bu mânâ ile beşere der ki: "
         },
         {
           "text": "“Rahmetin en latîf feyzi olan âb-ı hayatı, bir asâ ile bulabilirsiniz. Öyle ise, haydi çalış, bul!”",
@@ -448,7 +547,14 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Hem meselâ: Hazret-i İsâ Aleyhisselâm’ın bir mu'cizesine dair; وَاُبْرِئُ الْاَكْمَهَ وَالْاَبْرَصَ وَاُحْيِي الْمَوْتٰى بِاِذْنِ اللّٰهِ Kur'ân, Hazret-i İsâ Aleyhisselâm’ın nasıl ahlâk-ı ulviyesine ittibâ'a beşeri sarîhan teşvik eder. Öyle de, şu elindeki san'at-ı àliyeye ve tıbb-ı Rabbânî’ye, remzen terğîb ediyor. İşte şu âyet işâret ediyor ki: "
+          "text": "Hem meselâ: Hazret-i İsâ Aleyhisselâm’ın bir mu'cizesine dair; "
+        },
+        {
+          "text": "وَاُبْرِئُ الْاَكْمَهَ وَالْاَبْرَصَ وَاُحْيِي الْمَوْتٰى بِاِذْنِ اللّٰهِ",
+          "red": true
+        },
+        {
+          "text": " Kur'ân, Hazret-i İsâ Aleyhisselâm’ın nasıl ahlâk-ı ulviyesine ittibâ'a beşeri sarîhan teşvik eder. Öyle de, şu elindeki san'at-ı àliyeye ve tıbb-ı Rabbânî’ye, remzen terğîb ediyor. İşte şu âyet işâret ediyor ki: "
         },
         {
           "text": "“En müzmin dertlere dahi derman bulunabilir. Öyle ise, ey insan ve ey musîbet-zede benî Âdem! Me'yûs olmayınız. Her dert – ne olursa olsun – dermanı mümkündür. Arayınız, bulunuz. Hattâ ölüme de muvakkat bir hayat rengi vermek mümkündür!”",
@@ -466,13 +572,28 @@
     },
     {
       "type": "paragraph",
-      "text": "Hem meselâ: Hazret-i Dâvud Aleyhisselâm hakkında: وَاَلَنَّا لَهُ الْحَد۪يدَوَاٰتَيْنَاهُ الْحِكْمَةَ وَفَصْلَ الْخِطَابِ"
+      "parts": [
+        {
+          "text": "Hem meselâ: Hazret-i Dâvud Aleyhisselâm hakkında: "
+        },
+        {
+          "text": "وَاَلَنَّا لَهُ الْحَد۪يدَوَاٰتَيْنَاهُ الْحِكْمَةَ وَفَصْلَ الْخِطَابِ",
+          "red": true
+        }
+      ]
     },
     {
       "type": "paragraph",
       "parts": [
         {
-          "text": "Hazret-i Süleyman Aleyhisselâm hakkında: وَاَسَلْنَا لَهُ عَيْنَ الْقِطْرِ âyetleri işâret ediyorlar ki; telyîn-i hadîd, en büyük bir ni'met-i İlâhiye’dir ki, büyük bir peygamberinin fazlını, onunla gösteriyor. Evet, telyîn-i hadîd, yani demiri hamur gibi yumuşatmak ve nühâsı eritmek ve mâdenleri bulmak, çıkarmak; bütün maddî sanâyi-i beşeriyenin aslı ve anasıdır ve esâsı ve mâdenidir. İşte şu âyet işâret ediyor ki: "
+          "text": "Hazret-i Süleyman Aleyhisselâm hakkında: "
+        },
+        {
+          "text": "وَاَسَلْنَا لَهُ عَيْنَ الْقِطْرِ",
+          "red": true
+        },
+        {
+          "text": " âyetleri işâret ediyorlar ki; telyîn-i hadîd, en büyük bir ni'met-i İlâhiye’dir ki, büyük bir peygamberinin fazlını, onunla gösteriyor. Evet, telyîn-i hadîd, yani demiri hamur gibi yumuşatmak ve nühâsı eritmek ve mâdenleri bulmak, çıkarmak; bütün maddî sanâyi-i beşeriyenin aslı ve anasıdır ve esâsı ve mâdenidir. İşte şu âyet işâret ediyor ki: "
         },
         {
           "text": "“Büyük bir resûle, büyük bir halife-i zemine, büyük bir mu'cize sûretinde, büyük bir ni'met olarak telyîn-i hadîddir ve demiri hamur gibi yumuşatmak ve tel gibi inceltmek ve bakırı eritmekle ekser sanâyi-i umumiyeye medâr olmaktır.”",
@@ -514,7 +635,14 @@
           "bold": true
         },
         {
-          "text": " olan hâdise-i hàrikaya delâlet eden şu âyet: قَالَ الَّذ۪ي عِنْدَهُ عِلْمٌ مِنَ الْكِتَابِ اَنَا اٰت۪يكَ بِه۪ قَبْلَ اَنْ يَرْتَدَّ اِلَيْكَ طَرْفُكَ فَلَمَّا رَاٰهُ مُسْتَقِرًّا عِنْدَهُ ilâ âhir… İşâret ediyor ki; uzak mesâfelerden eşyayı aynen veya sûreten ihzar etmek mümkündür. Hem vâkidir ki: Risaletiyle beraber saltanatla müşerref olan Hazret-i Süleyman Aleyhisselâm, hem masûmiyetine, hem de adâletine medâr olmak için pek geniş olan aktâr-ı memleketine bizzat zahmetsiz muttali' olmak ve raiyetinin ahvâlini görmek ve dertlerini işitmek, bir mu'cize sûretinde Cenâb-ı Hak ihsân etmiştir. Demek, Cenâb-ı Hakk’a i'timâd edip Süleyman Aleyhisselâm’ın lisân-ı ismetiyle istediği gibi, o da lisân-ı isti'dâdıyla Cenâb-ı Hak’tan istese ve kavânîn-i âdetine ve inâyetine tevfik-i hareket etse; ona dünya, bir şehir hükmüne geçebilir."
+          "text": " olan hâdise-i hàrikaya delâlet eden şu âyet: "
+        },
+        {
+          "text": "قَالَ الَّذ۪ي عِنْدَهُ عِلْمٌ مِنَ الْكِتَابِ اَنَا اٰت۪يكَ بِه۪ قَبْلَ اَنْ يَرْتَدَّ اِلَيْكَ طَرْفُكَ فَلَمَّا رَاٰهُ مُسْتَقِرًّا عِنْدَهُ",
+          "red": true
+        },
+        {
+          "text": " ilâ âhir… İşâret ediyor ki; uzak mesâfelerden eşyayı aynen veya sûreten ihzar etmek mümkündür. Hem vâkidir ki: Risaletiyle beraber saltanatla müşerref olan Hazret-i Süleyman Aleyhisselâm, hem masûmiyetine, hem de adâletine medâr olmak için pek geniş olan aktâr-ı memleketine bizzat zahmetsiz muttali' olmak ve raiyetinin ahvâlini görmek ve dertlerini işitmek, bir mu'cize sûretinde Cenâb-ı Hak ihsân etmiştir. Demek, Cenâb-ı Hakk’a i'timâd edip Süleyman Aleyhisselâm’ın lisân-ı ismetiyle istediği gibi, o da lisân-ı isti'dâdıyla Cenâb-ı Hak’tan istese ve kavânîn-i âdetine ve inâyetine tevfik-i hareket etse; ona dünya, bir şehir hükmüne geçebilir."
         }
       ]
     },
@@ -533,7 +661,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Cenâb-ı Hak, şu âyetin lisân-ı remziyle ma'nen diyor ki: “Ey benî Âdem! Mâdem bir abdime geniş bir mülk ve o geniş mülkünde adâlet-i tâmme yapmak için; ahvâl ve vukûât-ı zemine bizzat ıttılâ' veriyorum ve mâdem herbir insana, fıtraten, zemine bir halife olmak kàbiliyetini vermişim. Elbette o kàbiliyete göre rû-yi zemini görecek ve bakacak, anlayacak isti'dâdını dahi vermesini, hikmetim iktiza ettiğinden vermişim. Şahsen o noktaya yetişmezse de, nev'an yetişebilir. Maddeten erişemezse de, ehl-i velâyet misillû, ma'nen erişebilir. Öyle ise; şu azîm ni'metten istifade edebilirsiniz. Haydi göreyim sizi, vazife-i ubûdiyetinizi unutmamak şartıyla öyle çalışınız ki, rû-yi zemini, her tarafı herbirinize görülen ve her köşesindeki sesleri size işittiren bir bahçeye çeviriniz. هُوَ الَّذ۪ي جَعَلَ لَكُمُ الْاَرْضَ ذَلُولًا فَامْشُوا ف۪ي مَنَاكِبِهَا وَكُلُوا مِنْ رِزْقِه۪ وَاِلَيْهِ النُّشُورُ’deki fermân-ı Rahmânî’yi dinleyiniz.”"
+      "parts": [
+        {
+          "text": "Cenâb-ı Hak, şu âyetin lisân-ı remziyle ma'nen diyor ki: “Ey benî Âdem! Mâdem bir abdime geniş bir mülk ve o geniş mülkünde adâlet-i tâmme yapmak için; ahvâl ve vukûât-ı zemine bizzat ıttılâ' veriyorum ve mâdem herbir insana, fıtraten, zemine bir halife olmak kàbiliyetini vermişim. Elbette o kàbiliyete göre rû-yi zemini görecek ve bakacak, anlayacak isti'dâdını dahi vermesini, hikmetim iktiza ettiğinden vermişim. Şahsen o noktaya yetişmezse de, nev'an yetişebilir. Maddeten erişemezse de, ehl-i velâyet misillû, ma'nen erişebilir. Öyle ise; şu azîm ni'metten istifade edebilirsiniz. Haydi göreyim sizi, vazife-i ubûdiyetinizi unutmamak şartıyla öyle çalışınız ki, rû-yi zemini, her tarafı herbirinize görülen ve her köşesindeki sesleri size işittiren bir bahçeye çeviriniz. "
+        },
+        {
+          "text": "هُوَ الَّذ۪ي جَعَلَ لَكُمُ الْاَرْضَ ذَلُولًا فَامْشُوا ف۪ي مَنَاكِبِهَا وَكُلُوا مِنْ رِزْقِه۪ وَاِلَيْهِ النُّشُورُ",
+          "red": true
+        },
+        {
+          "text": "’deki fermân-ı Rahmânî’yi dinleyiniz.”"
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -543,7 +682,21 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Hem meselâ: Yine Hazret-i Süleyman Aleyhisselâm, cin ve şeytanları ve ervâh-ı habîseyi teshìr edip, şerlerini men' ve umûr-u nâfiada istihdam etmeyi ifâde eden şu âyetler مُقَرَّن۪ينَ فِي الْاَصْفَادِ ilâ âhir‥ وَمِنَ الشَّيَاط۪ينِ مَنْ يَغُوصُونَ لَهُ وَيَعْمَلُونَ عَمَلًا دُونَ ذٰلِكَ ilâ âhir‥ âyetiyle diyor ki; "
+          "text": "Hem meselâ: Yine Hazret-i Süleyman Aleyhisselâm, cin ve şeytanları ve ervâh-ı habîseyi teshìr edip, şerlerini men' ve umûr-u nâfiada istihdam etmeyi ifâde eden şu âyetler "
+        },
+        {
+          "text": "مُقَرَّن۪ينَ فِي الْاَصْفَادِ",
+          "red": true
+        },
+        {
+          "text": " ilâ âhir‥ "
+        },
+        {
+          "text": "وَمِنَ الشَّيَاط۪ينِ مَنْ يَغُوصُونَ لَهُ وَيَعْمَلُونَ عَمَلًا دُونَ ذٰلِكَ",
+          "red": true
+        },
+        {
+          "text": " ilâ âhir‥ âyetiyle diyor ki; "
         },
         {
           "text": "“Yerin, insandan sonra zîşuûr olarak en mühim sekenesi olan cin, insana hizmetkâr olabilir. Onlarla temâs edilebilir. Şeytanlar da düşmanlığı bırakmaya mecbur olup, ister istemez hizmet edebilirler ki; Cenâb-ı Hakk’ın evâmirine musahhar olan bir abdine, onları musahhar etmiştir.”",
@@ -561,11 +714,40 @@
     },
     {
       "type": "paragraph",
-      "text": "Hem, temessül-ü ervâha işâret eden Hazret-i Süleyman Aleyhisselâm’ın ifritleri celb ve teshìrine dair âyetler, hem; فَاَرْسَلْنَٓا اِلَيْهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرًا سَوِيًّا misillû bazı âyetler, rûhânilerin temessülüne işâret etmekle beraber celb-i ervâha dahi işâret ediyorlar. Fakat, işâret olunan celb-i ervâh-ı tayyibe ise, medenîlerin yaptığı gibi hezeliyât sûretinde bazı oyuncaklara o pek ciddi ve ciddi bir âlemde olan rûhlara hürmetsizlik edip, kendi yerine ve oyuncaklara celbetmek değil, belki ciddi olarak ve ciddi bir maksad için Muhyiddin-i Arabî gibi zâtlar ki, istediği vakit ervâh ile görüşen bir kısım ehl-i velâyet misillû, onlara müncelib olup münâsebet peydâ etmek ve onların yerine gidip âlemlerine bir derece takarrüb etmekle rûhâniyetlerinden manevî istifade etmektir ki, âyetler ona işâret eder ve işâret içinde bir teşviki ihsâs ediyorlar ve bu nev'i san'at ve fünûn-u hafiyenin en ileri hududunu çiziyor ve en güzel sûretini gösteriyorlar…"
+      "parts": [
+        {
+          "text": "Hem, temessül-ü ervâha işâret eden Hazret-i Süleyman Aleyhisselâm’ın ifritleri celb ve teshìrine dair âyetler, hem; "
+        },
+        {
+          "text": "فَاَرْسَلْنَٓا اِلَيْهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرًا سَوِيًّا",
+          "red": true
+        },
+        {
+          "text": " misillû bazı âyetler, rûhânilerin temessülüne işâret etmekle beraber celb-i ervâha dahi işâret ediyorlar. Fakat, işâret olunan celb-i ervâh-ı tayyibe ise, medenîlerin yaptığı gibi hezeliyât sûretinde bazı oyuncaklara o pek ciddi ve ciddi bir âlemde olan rûhlara hürmetsizlik edip, kendi yerine ve oyuncaklara celbetmek değil, belki ciddi olarak ve ciddi bir maksad için Muhyiddin-i Arabî gibi zâtlar ki, istediği vakit ervâh ile görüşen bir kısım ehl-i velâyet misillû, onlara müncelib olup münâsebet peydâ etmek ve onların yerine gidip âlemlerine bir derece takarrüb etmekle rûhâniyetlerinden manevî istifade etmektir ki, âyetler ona işâret eder ve işâret içinde bir teşviki ihsâs ediyorlar ve bu nev'i san'at ve fünûn-u hafiyenin en ileri hududunu çiziyor ve en güzel sûretini gösteriyorlar…"
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "text": "Hem meselâ: Hazret-i Dâvud Aleyhisselâm’ın mu'cizelerine dair; اِنَّا سَخَّرْنَا الْجِبَالَ مَعَهُ يُسَبِّحْنَ بِالْعَشِيِّ وَالْاِشْرَاقِيَا جِبَالُ اَوِّب۪ي مَعَهُ وَالطَّيْرَ وَاَلَنَّا لَهُ الْحَد۪يدَ ve عُلِّمْنَا مَنْطِقَ الطَّيْرِ âyetler delâlet ediyor ki: Cenâb-ı Hak, Hazret-i Dâvud Aleyhisselâm’ın tesbihâtına öyle bir kuvvet ve yüksek bir ses ve hoş bir edâ vermiştir ki, dağları vecde getirip birer muazzam fonoğraf misillû ve birer insan gibi bir serzâkirin etrafında ufkî halka tutup bir dâire olarak tesbihât ediyorlardı."
+      "parts": [
+        {
+          "text": "Hem meselâ: Hazret-i Dâvud Aleyhisselâm’ın mu'cizelerine dair; "
+        },
+        {
+          "text": "اِنَّا سَخَّرْنَا الْجِبَالَ مَعَهُ يُسَبِّحْنَ بِالْعَشِيِّ وَالْاِشْرَاقِيَا جِبَالُ اَوِّب۪ي مَعَهُ وَالطَّيْرَ وَاَلَنَّا لَهُ الْحَد۪يدَ",
+          "red": true
+        },
+        {
+          "text": " ve "
+        },
+        {
+          "text": "عُلِّمْنَا مَنْطِقَ الطَّيْرِ",
+          "red": true
+        },
+        {
+          "text": " âyetler delâlet ediyor ki: Cenâb-ı Hak, Hazret-i Dâvud Aleyhisselâm’ın tesbihâtına öyle bir kuvvet ve yüksek bir ses ve hoş bir edâ vermiştir ki, dağları vecde getirip birer muazzam fonoğraf misillû ve birer insan gibi bir serzâkirin etrafında ufkî halka tutup bir dâire olarak tesbihât ediyorlardı."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -610,7 +792,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Bununla beraber her cebelin bir şahs-ı manevîsi bulunduğunu ve ona münâsib birer tesbih ve birer ibâdeti olduğunu, eski Söz’lerde beyân etmişiz. Demek her dağ, insanların lisânıyla aks-i sadâ sırrıyla tesbihât yaptıkları gibi, kendi elsine-i mahsûsalarıyla dahi Hàlık-ı Zülcelâl’e tesbihâtları vardır. وَالطَّيْرَ مَحْشُورَةًعُلِّمْنَا مَنْطِقَ الطَّيْرِ$4c"
+      "parts": [
+        {
+          "text": "Bununla beraber her cebelin bir şahs-ı manevîsi bulunduğunu ve ona münâsib birer tesbih ve birer ibâdeti olduğunu, eski Söz’lerde beyân etmişiz. Demek her dağ, insanların lisânıyla aks-i sadâ sırrıyla tesbihât yaptıkları gibi, kendi elsine-i mahsûsalarıyla dahi Hàlık-ı Zülcelâl’e tesbihâtları vardır. "
+        },
+        {
+          "text": "وَالطَّيْرَ مَحْشُورَةًعُلِّمْنَا مَنْطِقَ الطَّيْرِ",
+          "red": true
+        },
+        {
+          "text": "$4c"
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -630,7 +823,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Hem meselâ: Hazret-i İbrahim Aleyhisselâm’ın bir mu'cizesi hakkında olan قُلْنَا يَا نَارُ كُون۪ي بَرْدًا وَسَلَامًا عَلٰٓى اِبْرٰه۪يمَ âyetinde, üç işâret-i latîfe var:"
+      "parts": [
+        {
+          "text": "Hem meselâ: Hazret-i İbrahim Aleyhisselâm’ın bir mu'cizesi hakkında olan "
+        },
+        {
+          "text": "قُلْنَا يَا نَارُ كُون۪ي بَرْدًا وَسَلَامًا عَلٰٓى اِبْرٰه۪يمَ",
+          "red": true
+        },
+        {
+          "text": " âyetinde, üç işâret-i latîfe var:"
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -659,7 +863,14 @@
           "bold": true
         },
         {
-          "text": " Ateşin bir derecesi var ki, bürûdetiyle ihrâk eder. Yani ihrâk gibi bir te'sir yapar. Cenâb-ı Hak سَلَامًا "
+          "text": " Ateşin bir derecesi var ki, bürûdetiyle ihrâk eder. Yani ihrâk gibi bir te'sir yapar. Cenâb-ı Hak "
+        },
+        {
+          "text": "سَلَامًا",
+          "red": true
+        },
+        {
+          "text": " "
         },
         {
           "note": "5"
@@ -726,7 +937,14 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Hem meselâ: وَعَلَّمَ اٰدَمَ الْاَسْمَٓاءَ كُلَّهَا "
+          "text": "Hem meselâ: "
+        },
+        {
+          "text": "وَعَلَّمَ اٰدَمَ الْاَسْمَٓاءَ كُلَّهَا",
+          "red": true
+        },
+        {
+          "text": " "
         },
         {
           "text": "“Hazret-i Âdem Aleyhisselâm’ın da'vâ-yı hilâfet-i kübrâda mu'cize-i kübrâsı, ta'lim-i Esmâ’dır.”",
@@ -850,7 +1068,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Hem meselâ: Hâtem-i dîvân-ı nübüvvet ve bütün enbiyânın mu'cizeleri, O’nun da'vâ-i risaletine bir tek mu'cize hükmünde olan enbiyânın serveri ve şu kâinâtın mâbihi'l-iftiharı ve Hazret-i Âdem’e (Aleyhisselâm) icmâlen ta'lim olunan bütün esmânın bütün merâtibiyle tafsîlen mazharı; yukarıya celâl ile parmağını kaldırmakla şakk-ı Kamer eden ve aşağıya cemâl ile indirmekle yine on parmağından kevser gibi su akıtan ve bin mu'cizât ile musaddak ve müeyyed olan Muhammed Aleyhissalâtü Vesselâm’ın mu'cize-i kübrâsı olan Kur'ân-ı Hakîm’in vücûh-u i'câzının en parlaklarından olan hak ve hakikate dair beyânâtındaki cezâlet, ifâdesindeki belâğat, maânîsindeki câmiiyet, üslûblarındaki ulviyet ve halâveti ifâde eden: قُلْ لَئِنِ اجْتَمَعَتِ الْاِنْسُ وَالْجِنُّ عَلٰٓى اَنْ يَأْتُوا بِمِثْلِ هٰذَا الْقُرْاٰنِ لَا يَأْتُونَ بِمِثْلِه۪ وَلَوْ كَانَ بَعْضُهُمْ لِبَعْضٍ ظَه۪يرًا gibi çok âyât-ı beyyinâtla ins ve cinnin enzârını, şu mu'cize-i ebediyenin vücûh-u i'câzından en zâhir ve en parlak vechine çeviriyor. Bütün ins ve cinnin damarlarına dokunduruyor. Dostlarının şevklerini, düşmanlarının inâdını tahrîk edip, azîm bir teşvik ile, şiddetli bir terğîb ile dost ve düşmanları, O’nu tanzîre ve taklide, yani nazîrini yapmak ve kelâmını O’na benzetmek için sevkediyor."
+      "parts": [
+        {
+          "text": "Hem meselâ: Hâtem-i dîvân-ı nübüvvet ve bütün enbiyânın mu'cizeleri, O’nun da'vâ-i risaletine bir tek mu'cize hükmünde olan enbiyânın serveri ve şu kâinâtın mâbihi'l-iftiharı ve Hazret-i Âdem’e (Aleyhisselâm) icmâlen ta'lim olunan bütün esmânın bütün merâtibiyle tafsîlen mazharı; yukarıya celâl ile parmağını kaldırmakla şakk-ı Kamer eden ve aşağıya cemâl ile indirmekle yine on parmağından kevser gibi su akıtan ve bin mu'cizât ile musaddak ve müeyyed olan Muhammed Aleyhissalâtü Vesselâm’ın mu'cize-i kübrâsı olan Kur'ân-ı Hakîm’in vücûh-u i'câzının en parlaklarından olan hak ve hakikate dair beyânâtındaki cezâlet, ifâdesindeki belâğat, maânîsindeki câmiiyet, üslûblarındaki ulviyet ve halâveti ifâde eden: "
+        },
+        {
+          "text": "قُلْ لَئِنِ اجْتَمَعَتِ الْاِنْسُ وَالْجِنُّ عَلٰٓى اَنْ يَأْتُوا بِمِثْلِ هٰذَا الْقُرْاٰنِ لَا يَأْتُونَ بِمِثْلِه۪ وَلَوْ كَانَ بَعْضُهُمْ لِبَعْضٍ ظَه۪يرًا",
+          "red": true
+        },
+        {
+          "text": " gibi çok âyât-ı beyyinâtla ins ve cinnin enzârını, şu mu'cize-i ebediyenin vücûh-u i'câzından en zâhir ve en parlak vechine çeviriyor. Bütün ins ve cinnin damarlarına dokunduruyor. Dostlarının şevklerini, düşmanlarının inâdını tahrîk edip, azîm bir teşvik ile, şiddetli bir terğîb ile dost ve düşmanları, O’nu tanzîre ve taklide, yani nazîrini yapmak ve kelâmını O’na benzetmek için sevkediyor."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -995,7 +1224,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Eğer havârık-ı medeniyet, dekàik-ı san'at cihetinde haklarını isterlerse ve âyetlerden makam taleb ederlerse o vakit, bir tek sinek onlara: “Susunuz!” diyecek. “Benim bir kanadım kadar hakkınız yoktur. Zîra sizlerdeki, beşerin cüz'-i ihtiyarıyla kesbedilen bütün ince san'atlar ve bütün nâzik cihâzlar toplansa benim küçücük vücûdumdaki ince san'at ve nâzenîn cihâzlar kadar acîb olamaz… اِنَّ الَّذ۪ينَ تَدْعُونَ مِنْ دُونِ اللّٰهِ لَنْ يَخْلُقُوا ذُبَابًا وَلَوِاجْتَمَعُوا لَهُ ilâ âhir‥ âyeti sizi susturur”."
+      "parts": [
+        {
+          "text": "Eğer havârık-ı medeniyet, dekàik-ı san'at cihetinde haklarını isterlerse ve âyetlerden makam taleb ederlerse o vakit, bir tek sinek onlara: “Susunuz!” diyecek. “Benim bir kanadım kadar hakkınız yoktur. Zîra sizlerdeki, beşerin cüz'-i ihtiyarıyla kesbedilen bütün ince san'atlar ve bütün nâzik cihâzlar toplansa benim küçücük vücûdumdaki ince san'at ve nâzenîn cihâzlar kadar acîb olamaz… "
+        },
+        {
+          "text": "اِنَّ الَّذ۪ينَ تَدْعُونَ مِنْ دُونِ اللّٰهِ لَنْ يَخْلُقُوا ذُبَابًا وَلَوِاجْتَمَعُوا لَهُ",
+          "red": true
+        },
+        {
+          "text": " ilâ âhir‥ âyeti sizi susturur”."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -1056,7 +1296,14 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Mâdem Kur'ân, bu dâr-ı imtihanda, bir tecrübe sûretinde, bir müsâbaka meydânında, beşerin tekemmülü için nâzil olmuştur; elbette şu dünyevî ve herkese görünecek umûr-u gaybiye-i istikbâliyeye yalnız işâret edecek ve hüccetini isbât edecek derecede akla kapı açacak. Eğer sarâhaten zikretse, sırr-ı teklif bozulur. Âdeta gökyüzündeki yıldızlarla vâzıhan لَٓا اِلٰهَ اِلَّا اللّٰهُ yazmak misillû bir bedâhete girecek. O zaman herkes ister istemez tasdik edecek. Müsâbaka olmaz, imtihan fevt olur. Kömür gibi bir rûh ile elmas gibi bir rûh "
+          "text": "Mâdem Kur'ân, bu dâr-ı imtihanda, bir tecrübe sûretinde, bir müsâbaka meydânında, beşerin tekemmülü için nâzil olmuştur; elbette şu dünyevî ve herkese görünecek umûr-u gaybiye-i istikbâliyeye yalnız işâret edecek ve hüccetini isbât edecek derecede akla kapı açacak. Eğer sarâhaten zikretse, sırr-ı teklif bozulur. Âdeta gökyüzündeki yıldızlarla vâzıhan "
+        },
+        {
+          "text": "لَٓا اِلٰهَ اِلَّا اللّٰهُ",
+          "red": true
+        },
+        {
+          "text": " yazmak misillû bir bedâhete girecek. O zaman herkes ister istemez tasdik edecek. Müsâbaka olmaz, imtihan fevt olur. Kömür gibi bir rûh ile elmas gibi bir rûh "
         },
         {
           "note": "8"
@@ -1093,19 +1340,23 @@
     },
     {
       "type": "arabic",
-      "text": "اَللّٰهُمَّ فَهِّمْنَا اَسْرَارَ الْقُرْاٰنِ وَوَفِّقْنَا لِخِدْمَتِهِ ف۪ي كُلِّ اٰنٍ وَزَمَانٍ"
+      "text": "اَللّٰهُمَّ فَهِّمْنَا اَسْرَارَ الْقُرْاٰنِ وَوَفِّقْنَا لِخِدْمَتِهِ ف۪ي كُلِّ اٰنٍ وَزَمَانٍ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ"
+      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "رَبَّنَا لَا تُؤَاخِذْنَٓا اِنْ نَس۪ينَٓا اَوْ اَخْطَأْنَا"
+      "text": "رَبَّنَا لَا تُؤَاخِذْنَٓا اِنْ نَس۪ينَٓا اَوْ اَخْطَأْنَا",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ وَكَرِّمْ عَلٰى سَيِّدِنَا وَمَوْلٰينَا مُحَمَّدٍ عَبْدِكَ وَنَبِيِّكَ وَرَسُولِكَ النَّبِيِّ الْاُمِّيِّ وَعَلٰى اٰلِهِ وَاَصْحَابِهِ وَاَزْوَاجِهِ وَذُرِّيَّاتِهِ وَعَلَى النَّبِيّ۪ينَ وَالْمُرْسَل۪ينَ وَعَلَى الْمَلٰئِكَةِ الْمُقَرَّب۪ينَ وَالْاَوْلِيَاءِ وَالصَّالِح۪ينَ ❋ اَفْضَلَ صَلَاةٍ وَاَزْكٰى سَلَامٍ وَاَنْمٰى بَرَكَاتٍ بِعَدَدِ سُوَرِ الْقُرْاٰنِ وَاٰيَاتِهِ وَحُرُوفِهِ وَكَلِمَاتِهِ وَمَعَان۪يهِ وَاِشَارَاتِهِ وَرُمُوزِهِ وَدَلَالَاتِهِ وَاغْفِرْ لَنَا وَارْحَمْنَا وَالْطُفْ بِنَا يَا اِلٰهَنَا يَا خَالِقَنَا بِكُلِّ صَلَاةٍ مِنْهَا بِرَحْمَتِكَ يَا اَرْحَمَ الرَّاحِم۪ينَ ❋ وَالْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ اٰم۪ينَ"
+      "text": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ وَكَرِّمْ عَلٰى سَيِّدِنَا وَمَوْلٰينَا مُحَمَّدٍ عَبْدِكَ وَنَبِيِّكَ وَرَسُولِكَ النَّبِيِّ الْاُمِّيِّ وَعَلٰى اٰلِهِ وَاَصْحَابِهِ وَاَزْوَاجِهِ وَذُرِّيَّاتِهِ وَعَلَى النَّبِيّ۪ينَ وَالْمُرْسَل۪ينَ وَعَلَى الْمَلٰئِكَةِ الْمُقَرَّب۪ينَ وَالْاَوْلِيَاءِ وَالصَّالِح۪ينَ ❋ اَفْضَلَ صَلَاةٍ وَاَزْكٰى سَلَامٍ وَاَنْمٰى بَرَكَاتٍ بِعَدَدِ سُوَرِ الْقُرْاٰنِ وَاٰيَاتِهِ وَحُرُوفِهِ وَكَلِمَاتِهِ وَمَعَان۪يهِ وَاِشَارَاتِهِ وَرُمُوزِهِ وَدَلَالَاتِهِ وَاغْفِرْ لَنَا وَارْحَمْنَا وَالْطُفْ بِنَا يَا اِلٰهَنَا يَا خَالِقَنَا بِكُلِّ صَلَاةٍ مِنْهَا بِرَحْمَتِكَ يَا اَرْحَمَ الرَّاحِم۪ينَ ❋ وَالْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ اٰم۪ينَ",
+      "red": true
     }
   ],
   "notes": [

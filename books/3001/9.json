@@ -4,11 +4,13 @@
   "blocks": [
     {
       "type": "arabic",
-      "text": "﷽"
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "فَسُبْحَانَ اللّٰهِ ح۪ينَ تُمْسُونَ وَح۪ينَ تُصْبِحُونَ ❋ وَلَهُ الْحَمْدُ فِي السَّمٰوَاتِ وَالْاَرْضِ وَعَشِيًّا وَح۪ينَ تُظْهِرُونَ"
+      "text": "فَسُبْحَانَ اللّٰهِ ح۪ينَ تُمْسُونَ وَح۪ينَ تُصْبِحُونَ ❋ وَلَهُ الْحَمْدُ فِي السَّمٰوَاتِ وَالْاَرْضِ وَعَشِيًّا وَح۪ينَ تُظْهِرُونَ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -322,13 +324,38 @@
           "bold": true
         },
         {
-          "text": " demekle, kusursuz kemâline, misilsiz cemâline, nihâyetsiz rahmetine karşı hamd ü senâ edip; اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَع۪ينُdemekle, muînsiz Rubûbiyet’ine, şerîksiz Ulûhiyet’ine, vezirsiz saltanatına karşı arz-ı ubûdiyet ve istiâne etmek:"
+          "text": " demekle, kusursuz kemâline, misilsiz cemâline, nihâyetsiz rahmetine karşı hamd ü senâ edip; "
+        },
+        {
+          "text": "اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَع۪ينُ",
+          "red": true
+        },
+        {
+          "text": "demekle, muînsiz Rubûbiyet’ine, şerîksiz Ulûhiyet’ine, vezirsiz saltanatına karşı arz-ı ubûdiyet ve istiâne etmek:"
         }
       ]
     },
     {
       "type": "paragraph",
-      "text": "Hem nihâyetsiz kibriyâsına, hadsiz kudretine ve aczsiz izzetine karşı rükûa gidip, bütün kâinâtla beraber za'f ve aczini, fakr ve zilletini izhâr etmekle, سُبْحَانَ رَبِّيَ الْعَظ۪يمِ deyip, Rabb-i Azîm’ini tesbih edip; hem zevâlsiz Cemâl-i Zât’ına, tağayyürsüz Sıfât-ı Kudsiye’sine, tebeddülsüz Kemâl-i Sermediyet’ine karşı secde edip, hayret ve mahviyet içinde terk-i mâsivâ ile, muhabbet ve ubûdiyetini ilân edip; hem bütün fânîlere bedel bir Cemîl-i Bâkî, bir Rahîm-i Sermedî bulup, سُبْحَانَ رَبِّيَ الْاَعْلٰىdemekle zevâlden münezzeh, kusurdan müberrâ Rabb-i A'lâ’sını takdis etmek…"
+      "parts": [
+        {
+          "text": "Hem nihâyetsiz kibriyâsına, hadsiz kudretine ve aczsiz izzetine karşı rükûa gidip, bütün kâinâtla beraber za'f ve aczini, fakr ve zilletini izhâr etmekle, "
+        },
+        {
+          "text": "سُبْحَانَ رَبِّيَ الْعَظ۪يمِ",
+          "red": true
+        },
+        {
+          "text": " deyip, Rabb-i Azîm’ini tesbih edip; hem zevâlsiz Cemâl-i Zât’ına, tağayyürsüz Sıfât-ı Kudsiye’sine, tebeddülsüz Kemâl-i Sermediyet’ine karşı secde edip, hayret ve mahviyet içinde terk-i mâsivâ ile, muhabbet ve ubûdiyetini ilân edip; hem bütün fânîlere bedel bir Cemîl-i Bâkî, bir Rahîm-i Sermedî bulup, "
+        },
+        {
+          "text": "سُبْحَانَ رَبِّيَ الْاَعْلٰى",
+          "red": true
+        },
+        {
+          "text": "demekle zevâlden münezzeh, kusurdan müberrâ Rabb-i A'lâ’sını takdis etmek…"
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -346,7 +373,21 @@
           "bold": true
         },
         {
-          "text": " – ki o vakit – gündüzün ufukta kalan bakiye-i âsârı dahi kaybolup, gece âlemi kâinâtı kaplar. مُقَلِّبُ الَّيْلِ وَالنَّهَارِ olan Kadîr-i Zülcelâl’in, o beyaz sahifeyi bu siyah sahifeye çevirmesindeki tasarrufât-ı Rabbâniye’siyle, yazın müzeyyen yeşil sahifesini, kışın bârid beyaz sahifesine çevirmesindeki مُسَخِّرُ الشَّمْسِ وَالْقَمَرِ olan Hakîm-i Zülkemâl’in icraat-ı İlâhiye’sini hatırlatır. Hem, mürûr-u zamanla ehl-i kubûrun bakiye-i âsârı dahi şu dünyadan kesilmesiyle, bütün bütün başka âleme geçmesindeki "
+          "text": " – ki o vakit – gündüzün ufukta kalan bakiye-i âsârı dahi kaybolup, gece âlemi kâinâtı kaplar. "
+        },
+        {
+          "text": "مُقَلِّبُ الَّيْلِ وَالنَّهَارِ",
+          "red": true
+        },
+        {
+          "text": " olan Kadîr-i Zülcelâl’in, o beyaz sahifeyi bu siyah sahifeye çevirmesindeki tasarrufât-ı Rabbâniye’siyle, yazın müzeyyen yeşil sahifesini, kışın bârid beyaz sahifesine çevirmesindeki "
+        },
+        {
+          "text": "مُسَخِّرُ الشَّمْسِ وَالْقَمَرِ",
+          "red": true
+        },
+        {
+          "text": " olan Hakîm-i Zülkemâl’in icraat-ı İlâhiye’sini hatırlatır. Hem, mürûr-u zamanla ehl-i kubûrun bakiye-i âsârı dahi şu dünyadan kesilmesiyle, bütün bütün başka âleme geçmesindeki "
         },
         {
           "text": "“Hàlık-ı mevt ve hayat”",
@@ -366,7 +407,18 @@
     },
     {
       "type": "paragraph",
-      "text": "İşte nihâyetsiz âciz, zaîf, hem nihâyetsiz fakir, muhtaç, hem nihâyetsiz bir istikbâl zulümâtına dalmakta, hem nihâyetsiz hâdisât içinde çalkanmakta olan rûh-u beşer, yatsı namazını kılmak için şu mânâdaki işâda, İbrahimvâri لَٓا اُحِبُّ الْاٰفِل۪ينَ deyip, Ma'bûd-u Lemyezel, Mahbûb-u Lâyezâl’in dergâhına namaz ile ilticâ edip ve şu fânî âlemde ve fânî ömürde ve karanlık dünyada ve karanlık istikbâlde, bir Bâkî-i Sermedî ile münâcât edip, bir parçacık bir sohbet-i bâkiye, birkaç dakikacık bir ömr-ü bâkî içinde dünyasına nur serpecek, istikbâlini ışıklandıracak, mevcûdâtın ve ahbabının firâk ve zevâlinden neş'et eden yaralarına merhem sürecek olan Rahmân-ı Rahîm’in iltifat-ı rahmetini ve nur-u hidayetini görüp istemek…"
+      "parts": [
+        {
+          "text": "İşte nihâyetsiz âciz, zaîf, hem nihâyetsiz fakir, muhtaç, hem nihâyetsiz bir istikbâl zulümâtına dalmakta, hem nihâyetsiz hâdisât içinde çalkanmakta olan rûh-u beşer, yatsı namazını kılmak için şu mânâdaki işâda, İbrahimvâri "
+        },
+        {
+          "text": "لَٓا اُحِبُّ الْاٰفِل۪ينَ",
+          "red": true
+        },
+        {
+          "text": " deyip, Ma'bûd-u Lemyezel, Mahbûb-u Lâyezâl’in dergâhına namaz ile ilticâ edip ve şu fânî âlemde ve fânî ömürde ve karanlık dünyada ve karanlık istikbâlde, bir Bâkî-i Sermedî ile münâcât edip, bir parçacık bir sohbet-i bâkiye, birkaç dakikacık bir ömr-ü bâkî içinde dünyasına nur serpecek, istikbâlini ışıklandıracak, mevcûdâtın ve ahbabının firâk ve zevâlinden neş'et eden yaralarına merhem sürecek olan Rahmân-ı Rahîm’in iltifat-ı rahmetini ve nur-u hidayetini görüp istemek…"
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -378,11 +430,40 @@
     },
     {
       "type": "paragraph",
-      "text": "Hem اِيَّاكَ نَعْبُدُ hitâbına terakkî etmek; yani, küçüklüğü, hiçliği, kimsesizliği ile beraber Ezel ve Ebed Sultan’ı olan Mâlik-i Yevmi'd-din’e intisabıyla şu kâinâtta nâzdâr bir misâfir ve ehemmiyetli bir vazifedâr makamına girip; اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَع۪ينُ demekle, bütün mahlûkat nâmına kâinâtın cemâat-i kübrâsı ve cem'iyet-i uzmâsındaki ibâdât ve istiânâtı O’na takdim etmek…"
+      "parts": [
+        {
+          "text": "Hem "
+        },
+        {
+          "text": "اِيَّاكَ نَعْبُدُ",
+          "red": true
+        },
+        {
+          "text": " hitâbına terakkî etmek; yani, küçüklüğü, hiçliği, kimsesizliği ile beraber Ezel ve Ebed Sultan’ı olan Mâlik-i Yevmi'd-din’e intisabıyla şu kâinâtta nâzdâr bir misâfir ve ehemmiyetli bir vazifedâr makamına girip; "
+        },
+        {
+          "text": "اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَع۪ينُ",
+          "red": true
+        },
+        {
+          "text": " demekle, bütün mahlûkat nâmına kâinâtın cemâat-i kübrâsı ve cem'iyet-i uzmâsındaki ibâdât ve istiânâtı O’na takdim etmek…"
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "text": "Hem اِهْدِنَا الصِّرَاطَ الْمُسْتَق۪يمَ demekle, istikbâl karanlığı içinde saâdet-i ebediyeye giden, nurânî yolu olan Sırat-ı Müstakîm’e hidayeti istemek…"
+      "parts": [
+        {
+          "text": "Hem "
+        },
+        {
+          "text": "اِهْدِنَا الصِّرَاطَ الْمُسْتَق۪يمَ",
+          "red": true
+        },
+        {
+          "text": " demekle, istikbâl karanlığı içinde saâdet-i ebediyeye giden, nurânî yolu olan Sırat-ı Müstakîm’e hidayeti istemek…"
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -403,7 +484,14 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Hem bütün mahlûkatın secde-i kübrâsını düşünüp, yani şu gecede yatmış mahlûkat gibi, her senede, her asırdaki envâ'-ı mevcûdât, hattâ arz, hattâ dünya, birer muntazam ordu, belki birer mutî' nefer gibi vazife-i ubûdiyet-i dünyeviyesinden emr-i كُنْ فَيَكُونُile terhis edildiği zaman, yani âlem-i gayba gönderildiği vakit, nihâyet intizam ile zevâlde gurûb seccadesinde "
+          "text": "Hem bütün mahlûkatın secde-i kübrâsını düşünüp, yani şu gecede yatmış mahlûkat gibi, her senede, her asırdaki envâ'-ı mevcûdât, hattâ arz, hattâ dünya, birer muntazam ordu, belki birer mutî' nefer gibi vazife-i ubûdiyet-i dünyeviyesinden emr-i "
+        },
+        {
+          "text": "كُنْ فَيَكُونُ",
+          "red": true
+        },
+        {
+          "text": "ile terhis edildiği zaman, yani âlem-i gayba gönderildiği vakit, nihâyet intizam ile zevâlde gurûb seccadesinde "
         },
         {
           "text": "“Allâhu Ekber”",
@@ -418,7 +506,14 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Hem emr-i كُنْ فَيَكُونُ’den gelen bir sayha-i ihyâ ve îkaz ile yine baharda kısmen aynen, kısmen mislen haşrolup kıyâm edip kemer-beste-i hizmet-i Mevlâ oldukları gibi; şu insancık, onlara iktidâen O Rahmân-ı Zülkemâl’in, O Rahîm-i Zülcemâl’in bârgâh-ı huzurunda hayret-âlûd bir muhabbet, bekà-âlûd bir mahviyet, izzet-âlûd bir tezellül içinde "
+          "text": "Hem emr-i "
+        },
+        {
+          "text": "كُنْ فَيَكُونُ",
+          "red": true
+        },
+        {
+          "text": "’den gelen bir sayha-i ihyâ ve îkaz ile yine baharda kısmen aynen, kısmen mislen haşrolup kıyâm edip kemer-beste-i hizmet-i Mevlâ oldukları gibi; şu insancık, onlara iktidâen O Rahmân-ı Zülkemâl’in, O Rahîm-i Zülcemâl’in bârgâh-ı huzurunda hayret-âlûd bir muhabbet, bekà-âlûd bir mahviyet, izzet-âlûd bir tezellül içinde "
         },
         {
           "text": "“Allâhu Ekber”",
@@ -435,11 +530,13 @@
     },
     {
       "type": "arabic",
-      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ"
+      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى مَنْ اَرْسَلْتَهُ مُعَلِّمًا لِعِبَادِكَ لِيُعَلِّمَهُمْ كَيْفِيَّةَ مَعْرِفَتِكَ وَالْعُبُودِيَّةَ لَكَ وَمُعَرِّفًا لِكُنُوزِ اَسْمَائِكَ وَتَرْجُمَانًا لِاٰيَاتِ كِتَابِ كَائِنَاتِكَ وَمِرْاٰةً بِعُبُودِيَّتِهِ لِجَمَالِ رُبُوبِيَّتِكَ وَعَلٰى اٰلِهِ وَصَحْبِهِ اَجْمَع۪ينَ وَارْحَمْنَا وَارْحَمِ الْمُؤْمِن۪ينَ وَالْمُؤْمِنَاتِ اٰم۪ينَ بِرَحْمَتِكَ يَا اَرْحَمَ الرَّاحِم۪ينَ"
+      "text": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى مَنْ اَرْسَلْتَهُ مُعَلِّمًا لِعِبَادِكَ لِيُعَلِّمَهُمْ كَيْفِيَّةَ مَعْرِفَتِكَ وَالْعُبُودِيَّةَ لَكَ وَمُعَرِّفًا لِكُنُوزِ اَسْمَائِكَ وَتَرْجُمَانًا لِاٰيَاتِ كِتَابِ كَائِنَاتِكَ وَمِرْاٰةً بِعُبُودِيَّتِهِ لِجَمَالِ رُبُوبِيَّتِكَ وَعَلٰى اٰلِهِ وَصَحْبِهِ اَجْمَع۪ينَ وَارْحَمْنَا وَارْحَمِ الْمُؤْمِن۪ينَ وَالْمُؤْمِنَاتِ اٰم۪ينَ بِرَحْمَتِكَ يَا اَرْحَمَ الرَّاحِم۪ينَ",
+      "red": true
     }
   ]
 }

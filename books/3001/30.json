@@ -67,11 +67,13 @@
     },
     {
       "type": "arabic",
-      "text": "﷽"
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "اِنَّا عَرَضْنَا الْاَمَانَةَ عَلَى السَّمٰوَاتِ وَالْاَرْضِ وَالْجِبَالِ فَاَبَيْنَ اَنْ يَحْمِلْنَهَا وَاَشْفَقْنَ مِنْهَا وَحَمَلَهَا الْاِنْسَانُ اِنَّهُ كَانَ ظَلُومًا جَهُولًا"
+      "text": "اِنَّا عَرَضْنَا الْاَمَانَةَ عَلَى السَّمٰوَاتِ وَالْاَرْضِ وَالْجِبَالِ فَاَبَيْنَ اَنْ يَحْمِلْنَهَا وَاَشْفَقْنَ مِنْهَا وَحَمَلَهَا الْاِنْسَانُ اِنَّهُ كَانَ ظَلُومًا جَهُولًا",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -198,13 +200,31 @@
     },
     {
       "type": "paragraph",
-      "text": "İşte, mâhiyetini şu tarzda bilen ve iz'ân eden ve ona göre hareket eden, قَدْ اَفْلَحَ مَنْ زَكّٰيهَا beşâretinde dâhil olur. Emâneti, bihakkın edâ eder ve o ene’nin dûrbîniyle, kâinât ne olduğunu ve ne vazife gördüğünü görür ve âfâkî ma'lûmât nefse geldiği vakit, ene’de bir musaddık görür. O ulûm, nur ve hikmet olarak kalır. Zulmet ve abesiyete inkılâb etmez."
+      "parts": [
+        {
+          "text": "İşte, mâhiyetini şu tarzda bilen ve iz'ân eden ve ona göre hareket eden, "
+        },
+        {
+          "text": "قَدْ اَفْلَحَ مَنْ زَكّٰيهَا",
+          "red": true
+        },
+        {
+          "text": " beşâretinde dâhil olur. Emâneti, bihakkın edâ eder ve o ene’nin dûrbîniyle, kâinât ne olduğunu ve ne vazife gördüğünü görür ve âfâkî ma'lûmât nefse geldiği vakit, ene’de bir musaddık görür. O ulûm, nur ve hikmet olarak kalır. Zulmet ve abesiyete inkılâb etmez."
+        }
+      ]
     },
     {
       "type": "paragraph",
       "parts": [
         {
-          "text": "Vaktâ ki ene, vazifesini şu sûretle îfâ etti; vâhid-i kıyâsî olan mevhûm rubûbiyetini ve farazî mâlikiyetini terkeder. لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَلَهُ الْحُكْمُ وَاِلَيْهِ تُرْجَعُونَ der, hakîki ubûdiyetini takınır, "
+          "text": "Vaktâ ki ene, vazifesini şu sûretle îfâ etti; vâhid-i kıyâsî olan mevhûm rubûbiyetini ve farazî mâlikiyetini terkeder. "
+        },
+        {
+          "text": "لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَلَهُ الْحُكْمُ وَاِلَيْهِ تُرْجَعُونَ",
+          "red": true
+        },
+        {
+          "text": " der, hakîki ubûdiyetini takınır, "
         },
         {
           "text": "“makam-ı ahsen-i takvîm”",
@@ -217,7 +237,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Eğer o ene, hikmet-i hilkatini unutup, vazife-i fıtriyesini terkederek kendine mânâ-yı ismiyle baksa, kendini mâlik i'tikàd etse; o vakit emânette hıyânet eder, وَقَدْ خَابَ مَنْ دَسّٰيهَا altında dâhil olur. İşte, bütün şirkleri ve şerleri ve dalâletleri tevlîd eden enâniyetin şu cihetindendir ki, semâvât ve arz ve cibâl, tedehhüş etmişler; farazî bir şirkten korkmuşlar."
+      "parts": [
+        {
+          "text": "Eğer o ene, hikmet-i hilkatini unutup, vazife-i fıtriyesini terkederek kendine mânâ-yı ismiyle baksa, kendini mâlik i'tikàd etse; o vakit emânette hıyânet eder, "
+        },
+        {
+          "text": "وَقَدْ خَابَ مَنْ دَسّٰيهَا",
+          "red": true
+        },
+        {
+          "text": " altında dâhil olur. İşte, bütün şirkleri ve şerleri ve dalâletleri tevlîd eden enâniyetin şu cihetindendir ki, semâvât ve arz ve cibâl, tedehhüş etmişler; farazî bir şirkten korkmuşlar."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -229,7 +260,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Sonra kıyâs-ı binnefs sûretiyle herkesi, hattâ herşeyi kendine kıyâs edip Cenâb-ı Hakk’ın mülkünü onlara ve esbâba taksim eder. Gayet azîm bir şirke düşer; اِنَّ الشِّرْكَ لَظُلْمٌ عَظ۪يمٌ meâlini gösterir."
+      "parts": [
+        {
+          "text": "Sonra kıyâs-ı binnefs sûretiyle herkesi, hattâ herşeyi kendine kıyâs edip Cenâb-ı Hakk’ın mülkünü onlara ve esbâba taksim eder. Gayet azîm bir şirke düşer; "
+        },
+        {
+          "text": "اِنَّ الشِّرْكَ لَظُلْمٌ عَظ۪يمٌ",
+          "red": true
+        },
+        {
+          "text": " meâlini gösterir."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -425,7 +467,14 @@
           "bold": true
         },
         {
-          "text": " Nübüvvet’in hayat-ı şahsiyedeki düsturî neticelerinden تَخَلَّقُوا بِاَخْلَاقِ اللّٰهِkaidesiyle "
+          "text": " Nübüvvet’in hayat-ı şahsiyedeki düsturî neticelerinden "
+        },
+        {
+          "text": "تَخَلَّقُوا بِاَخْلَاقِ اللّٰهِ",
+          "red": true
+        },
+        {
+          "text": "kaidesiyle "
         },
         {
           "text": "“Ahlâk-ı İlâhiye ile muttasıf olup Cenâb-ı Hakk’a mütezellilâne teveccüh edip, acz, fakr, kusurunuzu bilip dergâhına abd olunuz.”",
@@ -452,14 +501,28 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Nübüvvet’in Tevhid-i İlâhî hakkındaki netâic-i àliyesinden ve düstur-u gâliyesinden اَلْوَاحِدُ لَا يَصْدُرُ اِلَّا عَنِ الْوَاحِدِ yani "
+          "text": "Nübüvvet’in Tevhid-i İlâhî hakkındaki netâic-i àliyesinden ve düstur-u gâliyesinden "
+        },
+        {
+          "text": "اَلْوَاحِدُ لَا يَصْدُرُ اِلَّا عَنِ الْوَاحِدِ",
+          "red": true
+        },
+        {
+          "text": " yani "
         },
         {
           "text": "“Her birliği bulunan, yalnız birden sudûr edecektir.” “Mâdem herşeyde ve bütün eşyada bir birlik var; demek bir tek Zât’ın icâdıdır.”",
           "bold": true
         },
         {
-          "text": " diye olan, tevhidkârâne düsturu nerede! Eski felsefenin bir düstur-u i'tikàdiyesinden olan اَلْوَاحِدُ لَا يَصْدُرُ عَنْهُ اِلَّا الْوَاحِدُ“Birden, bir sudûr eder.” yani: “Bir zâttan, bizzat bir tek sudûr edebilir. Sâir şeyler, vâsıtalar vâsıtasıyla ondan sudûr eder.” diye Ganiyy-i Ale'l-Itlâk ve Kadîr-i Mutlak’ı, âciz vesâite muhtaç göstererek, bütün esbâba ve vesâite, rubûbiyette bir nev'i şirket verip Hàlık-ı Zülcelâl’e, “Akl-ı Evvel” nâmında bir mahlûku verip, âdeta sâir mülkünü esbâba ve vesâite taksim ederek bir şirk-i azîme yol açan, şirk-âlûd ve dalâlet-pîşe o felsefenin düsturu nerede!‥ Hükemânın yüksek kısmı olan İşrâkìyyûn böyle haltetseler; Maddiyûn, Tabîiyyûn gibi aşağı kısımları ne kadar haltedeceklerini kıyâs edebilirsin."
+          "text": " diye olan, tevhidkârâne düsturu nerede! Eski felsefenin bir düstur-u i'tikàdiyesinden olan "
+        },
+        {
+          "text": "اَلْوَاحِدُ لَا يَصْدُرُ عَنْهُ اِلَّا الْوَاحِدُ",
+          "red": true
+        },
+        {
+          "text": "“Birden, bir sudûr eder.” yani: “Bir zâttan, bizzat bir tek sudûr edebilir. Sâir şeyler, vâsıtalar vâsıtasıyla ondan sudûr eder.” diye Ganiyy-i Ale'l-Itlâk ve Kadîr-i Mutlak’ı, âciz vesâite muhtaç göstererek, bütün esbâba ve vesâite, rubûbiyette bir nev'i şirket verip Hàlık-ı Zülcelâl’e, “Akl-ı Evvel” nâmında bir mahlûku verip, âdeta sâir mülkünü esbâba ve vesâite taksim ederek bir şirk-i azîme yol açan, şirk-âlûd ve dalâlet-pîşe o felsefenin düsturu nerede!‥ Hükemânın yüksek kısmı olan İşrâkìyyûn böyle haltetseler; Maddiyûn, Tabîiyyûn gibi aşağı kısımları ne kadar haltedeceklerini kıyâs edebilirsin."
         }
       ]
     },
@@ -471,7 +534,14 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Nübüvvet’in düstur-u hakîmânesinden وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِه۪ sırrıyla: "
+          "text": "Nübüvvet’in düstur-u hakîmânesinden "
+        },
+        {
+          "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِه۪",
+          "red": true
+        },
+        {
+          "text": " sırrıyla: "
         },
         {
           "text": "“Herşeyin, her zîhayatın neticesi, hikmeti, kendine ait bir ise; Sâni'ine ait neticeleri, Fâtır’ına bakan hikmetleri binlerdir. Herbir şeyin, hattâ bir meyvenin, bir ağacın meyveleri kadar hikmetleri, neticeleri bulunduğu”",
@@ -518,7 +588,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Hem, meslek-i felsefenin esâsât-ı fâsidesindendir ki: Ene, kendi zâtında hava gibi zaîf bir mâhiyeti olduğu hâlde, felsefenin meş'ûm nazarı ile mânâ-yı ismî cihetiyle baktığı için; güyâ – buhar misâl – o ene temeyyü' edip, sonra ülfet cihetiyle ve maddiyâta tevağğul sebebiyle güyâ tasallüb ediyor. Sonra gaflet ve inkâr ile o enâniyet tecemmüd eder. Sonra isyan ile tekeddür eder, şeffâfiyetini kaybeder. Sonra gittikçe kalınlaşıp sâhibini yutar. Nev'-i insanın efkârıyla şişer. Sonra sâir insanları, hattâ esbâbı kendine ve nefsine kıyâs edip, onlara – kabûl etmedikleri ve teberrî ettikleri hâlde – birer fir'avunluk verir. İşte o vakit, Hàlık-ı Zülcelâl’in evâmirine karşı mübâreze vaziyetini alır. مَنْ يُحْيِ الْعِظَامَ وَهِيَ رَم۪يمٌ der. Meydân okur gibi, Kadîr-i Mutlak’ı acz ile ittiham eder. Hattâ, Hàlık-ı Zülcelâl’in evsâfına müdâhale eder. İşine gelmeyenleri ve nefs-i emmârenin fir'avunluğunun hoşuna gitmeyenleri ya red, ya inkâr, ya tahrif eder. Ezcümle:"
+      "parts": [
+        {
+          "text": "Hem, meslek-i felsefenin esâsât-ı fâsidesindendir ki: Ene, kendi zâtında hava gibi zaîf bir mâhiyeti olduğu hâlde, felsefenin meş'ûm nazarı ile mânâ-yı ismî cihetiyle baktığı için; güyâ – buhar misâl – o ene temeyyü' edip, sonra ülfet cihetiyle ve maddiyâta tevağğul sebebiyle güyâ tasallüb ediyor. Sonra gaflet ve inkâr ile o enâniyet tecemmüd eder. Sonra isyan ile tekeddür eder, şeffâfiyetini kaybeder. Sonra gittikçe kalınlaşıp sâhibini yutar. Nev'-i insanın efkârıyla şişer. Sonra sâir insanları, hattâ esbâbı kendine ve nefsine kıyâs edip, onlara – kabûl etmedikleri ve teberrî ettikleri hâlde – birer fir'avunluk verir. İşte o vakit, Hàlık-ı Zülcelâl’in evâmirine karşı mübâreze vaziyetini alır. "
+        },
+        {
+          "text": "مَنْ يُحْيِ الْعِظَامَ وَهِيَ رَم۪يمٌ",
+          "red": true
+        },
+        {
+          "text": " der. Meydân okur gibi, Kadîr-i Mutlak’ı acz ile ittiham eder. Hattâ, Hàlık-ı Zülcelâl’in evsâfına müdâhale eder. İşine gelmeyenleri ve nefs-i emmârenin fir'avunluğunun hoşuna gitmeyenleri ya red, ya inkâr, ya tahrif eder. Ezcümle:"
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -550,7 +631,8 @@
     },
     {
       "type": "arabic",
-      "text": "فَمَنْ يَكْفُرْ بِالطَّاغُوتِ وَيُؤْمِنْ بِاللّٰهِ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقٰى لَا انْفِصَامَ لَهَا وَاللّٰهُ سَم۪يعٌ عَل۪يمٌ"
+      "text": "فَمَنْ يَكْفُرْ بِالطَّاغُوتِ وَيُؤْمِنْ بِاللّٰهِ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقٰى لَا انْفِصَامَ لَهَا وَاللّٰهُ سَم۪يعٌ عَل۪يمٌ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -569,7 +651,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Bu risalenin te'lifinden sekiz sene evvel, İstanbul’da Ramazan-ı Şerîfte, meslek-i felsefe ile münâsebette bulunan Eski Said’in Yeni Said’e inkılâb edeceği bir hengâmdadır ki, Fâtiha-i Şerîfe’nin âhirinde: صِرَاطَ الَّذ۪ينَ اَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّٓالّ۪ينَ ile işâret ettiği üç mesleği düşünürken şöyle bir vâkıa-i hayâliye, bir hâdise-i misâliye, rüyaya benzer bir hâdise gördüm ki:"
+      "parts": [
+        {
+          "text": "Bu risalenin te'lifinden sekiz sene evvel, İstanbul’da Ramazan-ı Şerîfte, meslek-i felsefe ile münâsebette bulunan Eski Said’in Yeni Said’e inkılâb edeceği bir hengâmdadır ki, Fâtiha-i Şerîfe’nin âhirinde: "
+        },
+        {
+          "text": "صِرَاطَ الَّذ۪ينَ اَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّٓالّ۪ينَ",
+          "red": true
+        },
+        {
+          "text": " ile işâret ettiği üç mesleği düşünürken şöyle bir vâkıa-i hayâliye, bir hâdise-i misâliye, rüyaya benzer bir hâdise gördüm ki:"
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -605,14 +698,28 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "İşte وَلَا الضَّٓالّ۪ينَ ile işâret olunan "
+          "text": "İşte "
+        },
+        {
+          "text": "وَلَا الضَّٓالّ۪ينَ",
+          "red": true
+        },
+        {
+          "text": " ile işâret olunan "
         },
         {
           "text": "evvelki yol;",
           "bold": true
         },
         {
-          "text": " tabiata saplananların ve tabîiyyûn fikrini taşıyanların mesleğidir ki; onda, hakikate ve nura geçmek için ne kadar müşkülât olduğunu hissettiniz. غَيْرِ الْمَغْضُوبِ ile işâret olunan "
+          "text": " tabiata saplananların ve tabîiyyûn fikrini taşıyanların mesleğidir ki; onda, hakikate ve nura geçmek için ne kadar müşkülât olduğunu hissettiniz. "
+        },
+        {
+          "text": "غَيْرِ الْمَغْضُوبِ",
+          "red": true
+        },
+        {
+          "text": " ile işâret olunan "
         },
         {
           "text": "ikinci yol;",
@@ -627,7 +734,11 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "اَلَّذ۪ينَ اَنْعَمْتَ عَلَيْهِمْ ile işâret olunan "
+          "text": "اَلَّذ۪ينَ اَنْعَمْتَ عَلَيْهِمْ",
+          "red": true
+        },
+        {
+          "text": " ile işâret olunan "
         },
         {
           "text": "üçüncü yol ise;",
@@ -666,11 +777,13 @@
     },
     {
       "type": "arabic",
-      "text": "﷽"
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "وَقَالَ الَّذ۪ينَ كَفَرُوا لَا تَأْت۪ينَا السَّاعَةُ قُلْ بَلٰى وَرَبّ۪ي لَتَأْتِيَنَّكُمْ عَالِمِ الْغَيْبِ لَا يَعْزُبُ عَنْهُ مِثْقَالُ ذَرَّةٍ فِي السَّمٰوَاتِ وَلَا فِي الْاَرْضِ وَلَٓا اَصْغَرُ مِنْ ذٰلِكَ وَلَٓا اَكْبَرُ اِلَّا ف۪ي كِتَابٍ مُب۪ينٍ"
+      "text": "وَقَالَ الَّذ۪ينَ كَفَرُوا لَا تَأْت۪ينَا السَّاعَةُ قُلْ بَلٰى وَرَبّ۪ي لَتَأْتِيَنَّكُمْ عَالِمِ الْغَيْبِ لَا يَعْزُبُ عَنْهُ مِثْقَالُ ذَرَّةٍ فِي السَّمٰوَاتِ وَلَا فِي الْاَرْضِ وَلَٓا اَصْغَرُ مِنْ ذٰلِكَ وَلَٓا اَكْبَرُ اِلَّا ف۪ي كِتَابٍ مُب۪ينٍ",
+      "red": true
     },
     {
       "type": "quote",
@@ -840,7 +953,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Şimdi; Kur'ân-ı Hakîm’in hikmeti nokta-i nazarında tahavvülât-ı zerrâtın pek çok gayeleri, hikmetleri ve vazifeleri vardır. وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِه۪ gibi çok âyetlerle hikmetlerine ve vazifelerine işâret eder. Nümûne olarak birkaçına işâret ediyoruz."
+      "parts": [
+        {
+          "text": "Şimdi; Kur'ân-ı Hakîm’in hikmeti nokta-i nazarında tahavvülât-ı zerrâtın pek çok gayeleri, hikmetleri ve vazifeleri vardır. "
+        },
+        {
+          "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِه۪",
+          "red": true
+        },
+        {
+          "text": " gibi çok âyetlerle hikmetlerine ve vazifelerine işâret eder. Nümûne olarak birkaçına işâret ediyoruz."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -1127,7 +1251,21 @@
           "bold": true
         },
         {
-          "text": "Elbette يَوْمَ تُبَدَّلُ الْاَرْضُ غَيْرَ الْاَرْضِ sırrıyla, وَاِنَّ الدَّارَ الْاٰخِرَةَ لَهِيَ الْحَيَوَانُ işâretiyle "
+          "text": "Elbette "
+        },
+        {
+          "text": "يَوْمَ تُبَدَّلُ الْاَرْضُ غَيْرَ الْاَرْضِ",
+          "red": true
+        },
+        {
+          "text": " sırrıyla, "
+        },
+        {
+          "text": "وَاِنَّ الدَّارَ الْاٰخِرَةَ لَهِيَ الْحَيَوَانُ",
+          "red": true
+        },
+        {
+          "text": " işâretiyle "
         },
         {
           "text": "şu dünyada câmid, şuûrsuz ve mühim vazifeler gören zerrât-ı arziyenin; elbette taşı, ağacı, herşeyi zîhayat ve zîşuûr olan âhiretin bazı binalarında derc ve isti'mâli muktezâ-yı hikmettir.",
@@ -1258,32 +1396,50 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Evet, geçmiş üç nokta sırrıyla, herbir zerre, mebde'-i hareketinde lisân-ı hâl ile ﷽ der. Yani: "
+          "text": "Evet, geçmiş üç nokta sırrıyla, herbir zerre, mebde'-i hareketinde lisân-ı hâl ile "
+        },
+        {
+          "text": "﷽",
+          "red": true
+        },
+        {
+          "text": " der. Yani: "
         },
         {
           "text": "“Ben, Allah’ın nâmıyla, hesabıyla, ismiyle, izniyle, kuvvetiyle hareket ediyorum.”",
           "bold": true
         },
         {
-          "text": " Sonra netice-i hareketinde, herbir masnû' gibi herbir zerre, herbir tâifesi, lisân-ı hâl ile اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ der ki; bir kaside-i medhiye hükmünde olan san'atlı bir mahlûkun nakşında, kudretin küçük bir kalem ucu hükmünde kendini gösterir. Belki herbiri; manevî, Rabbânî, muazzam hadsiz başlı bir fonoğrafın birer plağı hükmünde olan masnû'ların üstünde dönen ve Tahmîdât-ı Rabbâniye kasideleriyle o masnûâtı konuşturan ve Tesbihât-ı İlâhiye neşîdelerini okutturan birer iğne başı sûretinde kendini gösteriyorlar."
+          "text": " Sonra netice-i hareketinde, herbir masnû' gibi herbir zerre, herbir tâifesi, lisân-ı hâl ile "
+        },
+        {
+          "text": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ",
+          "red": true
+        },
+        {
+          "text": " der ki; bir kaside-i medhiye hükmünde olan san'atlı bir mahlûkun nakşında, kudretin küçük bir kalem ucu hükmünde kendini gösterir. Belki herbiri; manevî, Rabbânî, muazzam hadsiz başlı bir fonoğrafın birer plağı hükmünde olan masnû'ların üstünde dönen ve Tahmîdât-ı Rabbâniye kasideleriyle o masnûâtı konuşturan ve Tesbihât-ı İlâhiye neşîdelerini okutturan birer iğne başı sûretinde kendini gösteriyorlar."
         }
       ]
     },
     {
       "type": "arabic",
-      "text": "دَعْوٰيهُمْ ف۪يهَا سُبْحَانَكَ اللّٰهُمَّ وَتَحِيَّتُهُمْ ف۪يهَا سَلَامٌ وَاٰخِرُ دَعْوٰيهُمْ اَنِ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ"
+      "text": "دَعْوٰيهُمْ ف۪يهَا سُبْحَانَكَ اللّٰهُمَّ وَتَحِيَّتُهُمْ ف۪يهَا سَلَامٌ وَاٰخِرُ دَعْوٰيهُمْ اَنِ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ"
+      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "رَبَنَّا لَا تُزِغْ قُلُوبَنَا بَعْدَ اِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةً اِنَّكَ اَنْتَ الْوَهَّابُ"
+      "text": "رَبَنَّا لَا تُزِغْ قُلُوبَنَا بَعْدَ اِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةً اِنَّكَ اَنْتَ الْوَهَّابُ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ صَلَاةً تَكُونُ لَكَ رِضَاءً وَلِحَقِّهِ اَدَاءً وَعَلٰى اٰلِهِ وَصَحْبِهِ وَاِخْوَانِهِ وَسَلِّمْ وَسَلِّمْنَا وَسَلِّمْ د۪ينَنَا، اٰم۪ينَ يَا رَبَّ الْعَالَم۪ينَ"
+      "text": "اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ صَلَاةً تَكُونُ لَكَ رِضَاءً وَلِحَقِّهِ اَدَاءً وَعَلٰى اٰلِهِ وَصَحْبِهِ وَاِخْوَانِهِ وَسَلِّمْ وَسَلِّمْنَا وَسَلِّمْ د۪ينَنَا، اٰم۪ينَ يَا رَبَّ الْعَالَم۪ينَ",
+      "red": true
     }
   ],
   "notes": [

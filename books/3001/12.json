@@ -4,11 +4,13 @@
   "blocks": [
     {
       "type": "arabic",
-      "text": "﷽"
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "وَمَنْ يُؤْتَ الْحِكْمَةَ فَقَدْ اُو۫تِيَ خَيْرًا كَث۪يرًا"
+      "text": "وَمَنْ يُؤْتَ الْحِكْمَةَ فَقَدْ اُو۫تِيَ خَيْرًا كَث۪يرًا",
+      "red": true
     },
     {
       "type": "quote",
@@ -226,7 +228,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Meselâ; en cüz'îsi ve basiti, hayvanatın ilhâmâtıdır. Sonra avâm-ı nâsın ilhâmâtıdır. Sonra avâm-ı melâikenin ilhâmâtıdır. Sonra evliyâ ilhâmâtıdır. Sonra melâike-i izâm ilhâmâtıdır. İşte şu sırdandır ki; kalbin telefonuyla vâsıtasız münâcât eden bir velî der: حَدَّثَن۪ي قَلْب۪ي عَنْ رَبّ۪ي Yani: “Kalbim benim Rabbimden haber veriyor.” Demiyor: “Rabbü'l-Âlemîn’den haber veriyor.” Hem der: “Kalbim, Rabbimin âyinesidir, arşıdır.” Demiyor: “Rabbü'l-Âlemîn’in arşıdır.” Çünkü; kàbiliyeti mikdarınca ve yetmiş bine yakın hicâbların nisbet-i ref'i derecesinde mazhar-ı hitâb olabilir."
+      "parts": [
+        {
+          "text": "Meselâ; en cüz'îsi ve basiti, hayvanatın ilhâmâtıdır. Sonra avâm-ı nâsın ilhâmâtıdır. Sonra avâm-ı melâikenin ilhâmâtıdır. Sonra evliyâ ilhâmâtıdır. Sonra melâike-i izâm ilhâmâtıdır. İşte şu sırdandır ki; kalbin telefonuyla vâsıtasız münâcât eden bir velî der: "
+        },
+        {
+          "text": "حَدَّثَن۪ي قَلْب۪ي عَنْ رَبّ۪ي",
+          "red": true
+        },
+        {
+          "text": " Yani: “Kalbim benim Rabbimden haber veriyor.” Demiyor: “Rabbü'l-Âlemîn’den haber veriyor.” Hem der: “Kalbim, Rabbimin âyinesidir, arşıdır.” Demiyor: “Rabbü'l-Âlemîn’in arşıdır.” Çünkü; kàbiliyeti mikdarınca ve yetmiş bine yakın hicâbların nisbet-i ref'i derecesinde mazhar-ı hitâb olabilir."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -242,15 +255,146 @@
     },
     {
       "type": "paragraph",
-      "text": "Eğer Kur'ân’ın İsm-i A'zamdan ve her ismin a'zamlık mertebesinden geldiğini bir parça fehmetmek istersen Âyete'l-Kürsî ve âyet-i وَعِنْدَهُ مَفَاتِحُ الْغَيْبِ ve âyet-i قُلِ اللّٰهُمَّ مَالِكَ الْمُلْكِ ve âyet-i يُغْشِي الَّيْلَ النَّهَارَ يَطْلُبُهُ حَث۪يثًا وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ مُسَخَّرَاتٍ بِاَمْرِه۪ ve âyet-i يَٓا اَرْضُ ابْلَع۪ي مَٓاءَكِ وَيَا سَمَٓاءُ اَقْلِع۪ي ve âyet-i تُسَبِّحُ لَهُ السَّمٰوَاتُ السَّبْعُ وَالْاَرْضُ وَمَنْ ف۪يهِنَّ ve âyet-i مَا خَلْقُكُمْ وَلَا بَعْثُكُمْ اِلَّا كَنَفْسٍ وَاحِدَةٍ ve âyet-i اِنَّا عَرَضْنَا الْاَمَانَةَ عَلَى السَّمٰوَاتِ وَالْاَرْضِ وَالْجِبَالِve âyet-i يَوْمَ نَطْوِي السَّمَٓاءَ كَطَىِّ السِّجِلِّ لِلْكُتُبِ ve âyet-i وَمَا قَدَرُوا اللّٰهَ حَقَّ قَدْرِه۪ وَالْاَرْضُ جَم۪يعًا قَبْضَتُهُ يَوْمَ الْقِيٰمَةِ ve âyet-i لَوْ اَنْزَلْنَا هٰذَا الْقُرْاٰنَ عَلٰى جَبَلٍ لَرَاَيْتَهُ gibi âyetlerin küllî, umumî, ulvî ifâdelerine bak!"
+      "parts": [
+        {
+          "text": "Eğer Kur'ân’ın İsm-i A'zamdan ve her ismin a'zamlık mertebesinden geldiğini bir parça fehmetmek istersen Âyete'l-Kürsî ve âyet-i "
+        },
+        {
+          "text": "وَعِنْدَهُ مَفَاتِحُ الْغَيْبِ",
+          "red": true
+        },
+        {
+          "text": " ve âyet-i "
+        },
+        {
+          "text": "قُلِ اللّٰهُمَّ مَالِكَ الْمُلْكِ",
+          "red": true
+        },
+        {
+          "text": " ve âyet-i "
+        },
+        {
+          "text": "يُغْشِي الَّيْلَ النَّهَارَ يَطْلُبُهُ حَث۪يثًا وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ مُسَخَّرَاتٍ بِاَمْرِه۪",
+          "red": true
+        },
+        {
+          "text": " ve âyet-i "
+        },
+        {
+          "text": "يَٓا اَرْضُ ابْلَع۪ي مَٓاءَكِ وَيَا سَمَٓاءُ اَقْلِع۪ي",
+          "red": true
+        },
+        {
+          "text": " ve âyet-i "
+        },
+        {
+          "text": "تُسَبِّحُ لَهُ السَّمٰوَاتُ السَّبْعُ وَالْاَرْضُ وَمَنْ ف۪يهِنَّ",
+          "red": true
+        },
+        {
+          "text": " ve âyet-i "
+        },
+        {
+          "text": "مَا خَلْقُكُمْ وَلَا بَعْثُكُمْ اِلَّا كَنَفْسٍ وَاحِدَةٍ",
+          "red": true
+        },
+        {
+          "text": " ve âyet-i "
+        },
+        {
+          "text": "اِنَّا عَرَضْنَا الْاَمَانَةَ عَلَى السَّمٰوَاتِ وَالْاَرْضِ وَالْجِبَالِ",
+          "red": true
+        },
+        {
+          "text": "ve âyet-i "
+        },
+        {
+          "text": "يَوْمَ نَطْوِي السَّمَٓاءَ كَطَىِّ السِّجِلِّ لِلْكُتُبِ",
+          "red": true
+        },
+        {
+          "text": " ve âyet-i "
+        },
+        {
+          "text": "وَمَا قَدَرُوا اللّٰهَ حَقَّ قَدْرِه۪ وَالْاَرْضُ جَم۪يعًا قَبْضَتُهُ يَوْمَ الْقِيٰمَةِ",
+          "red": true
+        },
+        {
+          "text": " ve âyet-i "
+        },
+        {
+          "text": "لَوْ اَنْزَلْنَا هٰذَا الْقُرْاٰنَ عَلٰى جَبَلٍ لَرَاَيْتَهُ",
+          "red": true
+        },
+        {
+          "text": " gibi âyetlerin küllî, umumî, ulvî ifâdelerine bak!"
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "text": "Hem, başlarında اَلْحَمْدُ لِلّٰهِ veyâhut «سَبَّحَ» ve يُسَبِّحُ bulunan sûrelerin başlarına dikkat et; tâ, bu sırr-ı azîmin şuâını göresin. Hem, الٓمٓ’lerin ve الٓرٰ’ların ve حٰمٓ’lerin fâtihalarına bak; Kur'ân’ın, Cenâb-ı Hakk’ın yanında ehemmiyetini bilesin."
+      "parts": [
+        {
+          "text": "Hem, başlarında "
+        },
+        {
+          "text": "اَلْحَمْدُ لِلّٰهِ",
+          "red": true
+        },
+        {
+          "text": " veyâhut "
+        },
+        {
+          "text": "«سَبَّحَ»",
+          "red": true
+        },
+        {
+          "text": " ve "
+        },
+        {
+          "text": "يُسَبِّحُ",
+          "red": true
+        },
+        {
+          "text": " bulunan sûrelerin başlarına dikkat et; tâ, bu sırr-ı azîmin şuâını göresin. Hem, "
+        },
+        {
+          "text": "الٓمٓ",
+          "red": true
+        },
+        {
+          "text": "’lerin ve "
+        },
+        {
+          "text": "الٓرٰ",
+          "red": true
+        },
+        {
+          "text": "’ların ve "
+        },
+        {
+          "text": "حٰمٓ",
+          "red": true
+        },
+        {
+          "text": "’lerin fâtihalarına bak; Kur'ân’ın, Cenâb-ı Hakk’ın yanında ehemmiyetini bilesin."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "text": "Eğer şu “Dördüncü Esâs”ın kıymetdâr sırrını fehmettin ise; enbiyâya gelen vahyin ekseri, melek vâsıtasıyla olduğunu ve ilhâmın ekseri, vâsıtasız olduğunu anlarsın. Hem, en büyük bir velî, hiçbir nebînin derecesine yetişmediğinin sırrını anlarsın. Hem Kur'ân’ın azametini ve izzet-i kudsiyetini ve ulviyet-i i'câzının sırrını anlarsın. Hem, Mi'râc’ın sırr-ı lüzumunu; yani tâ semâvâta, tâ Sidretü'l-Müntehâ’ya, tâ Kàb-ı Kavseyn’e gidip, اَقْرَبُ اِلَيْهِ مِنْ حَبْلِ الْوَر۪يدِ olan Zât-ı Zülcelâl ile münâcât edip, tarfetü'l-aynda yerine gelmek sırrını anlarsın…"
+      "parts": [
+        {
+          "text": "Eğer şu “Dördüncü Esâs”ın kıymetdâr sırrını fehmettin ise; enbiyâya gelen vahyin ekseri, melek vâsıtasıyla olduğunu ve ilhâmın ekseri, vâsıtasız olduğunu anlarsın. Hem, en büyük bir velî, hiçbir nebînin derecesine yetişmediğinin sırrını anlarsın. Hem Kur'ân’ın azametini ve izzet-i kudsiyetini ve ulviyet-i i'câzının sırrını anlarsın. Hem, Mi'râc’ın sırr-ı lüzumunu; yani tâ semâvâta, tâ Sidretü'l-Müntehâ’ya, tâ Kàb-ı Kavseyn’e gidip, "
+        },
+        {
+          "text": "اَقْرَبُ اِلَيْهِ مِنْ حَبْلِ الْوَر۪يدِ",
+          "red": true
+        },
+        {
+          "text": " olan Zât-ı Zülcelâl ile münâcât edip, tarfetü'l-aynda yerine gelmek sırrını anlarsın…"
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -263,7 +407,8 @@
     },
     {
       "type": "arabic",
-      "text": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلَيْهِ وَعَلٰى اٰلِهِ كَمَا يَل۪يقُ بِرَحْمَتِكَ وَبِحُرْمَتِهِ اٰم۪ينَ"
+      "text": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلَيْهِ وَعَلٰى اٰلِهِ كَمَا يَل۪يقُ بِرَحْمَتِكَ وَبِحُرْمَتِهِ اٰم۪ينَ",
+      "red": true
     }
   ]
 }

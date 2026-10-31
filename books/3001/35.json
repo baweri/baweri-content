@@ -13,15 +13,18 @@
     },
     {
       "type": "arabic",
-      "text": "﷽"
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ وَالصَّلٰوةُ وَالسَّلَامُ عَلٰى سَيِّدِنَا مُحَمَّدٍ"
+      "text": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ وَالصَّلٰوةُ وَالسَّلَامُ عَلٰى سَيِّدِنَا مُحَمَّدٍ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "وَعَلٰى اٰلِهِ وَصَحْبِهِ اَجْمَع۪ينَ"
+      "text": "وَعَلٰى اٰلِهِ وَصَحْبِهِ اَجْمَع۪ينَ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -292,7 +295,14 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Hattâ o zamanlarda, Mısır Câmiü'l-Ezher Üniversitesi reislerinden meşhûr Şeyh Bahît Efendi, İstanbul’a bir seyahat için geldiğinde, Kürdistan’ın sarp, yalçın kayaları arasından gelerek, İstanbul’da bulunan Bediüzzaman Said Nursî’yi ilzam edemeyen İslâm ulemâsı, Şeyh Bahît’ten bu genç hocanın (Bediüzzaman’ın) ilzam edilmesini isterler. Şeyh Bahît de, bu teklifi kabûl ederek bir münâzara zemini arar. Ve bir namaz vakti Ayasofya Câmii’nden çıkılıp “çayhâne”ye oturulduğunda, bunu fırsat telâkki eden Şeyh Bahît Efendi, Bediüzzaman Said Nursî’ye hitâben: مَا تَقُولُ ف۪ي حَقِّ الْاَوْرُوبَا وَالْعُثْمَانِيَّةِ Yani: "
+          "text": "Hattâ o zamanlarda, Mısır Câmiü'l-Ezher Üniversitesi reislerinden meşhûr Şeyh Bahît Efendi, İstanbul’a bir seyahat için geldiğinde, Kürdistan’ın sarp, yalçın kayaları arasından gelerek, İstanbul’da bulunan Bediüzzaman Said Nursî’yi ilzam edemeyen İslâm ulemâsı, Şeyh Bahît’ten bu genç hocanın (Bediüzzaman’ın) ilzam edilmesini isterler. Şeyh Bahît de, bu teklifi kabûl ederek bir münâzara zemini arar. Ve bir namaz vakti Ayasofya Câmii’nden çıkılıp “çayhâne”ye oturulduğunda, bunu fırsat telâkki eden Şeyh Bahît Efendi, Bediüzzaman Said Nursî’ye hitâben: "
+        },
+        {
+          "text": "مَا تَقُولُ ف۪ي حَقِّ الْاَوْرُوبَا وَالْعُثْمَانِيَّةِ",
+          "red": true
+        },
+        {
+          "text": " Yani: "
         },
         {
           "text": "“Avrupa ve Osmanlı Devleti hakkında ne diyorsunuz? Fikriniz nedir?”",
@@ -305,7 +315,15 @@
     },
     {
       "type": "paragraph",
-      "text": "Buna karşı, Bediüzzaman’ın verdiği cevab şu oldu: اِنَّ الْاَوْرُوبَا حَامِلَةٌ بِالْاِسْلَامِيَّةِ فَسَتَلِدُ يَوْمًا مَاوَاِنَّ الْعُثْمَانِيَّةَ حَامِلَةٌ بِالْاَوْرُوبَائِيَّةِ فَسَتَلِدُ اَيْضًا يَوْمًا مَا"
+      "parts": [
+        {
+          "text": "Buna karşı, Bediüzzaman’ın verdiği cevab şu oldu: "
+        },
+        {
+          "text": "اِنَّ الْاَوْرُوبَا حَامِلَةٌ بِالْاِسْلَامِيَّةِ فَسَتَلِدُ يَوْمًا مَاوَاِنَّ الْعُثْمَانِيَّةَ حَامِلَةٌ بِالْاَوْرُوبَائِيَّةِ فَسَتَلِدُ اَيْضًا يَوْمًا مَا",
+          "red": true
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -358,7 +376,14 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Bir eser okunacağı veya bir söz dinleneceği zaman, evvelâ مَنْ قَالَ وَلِمَنْ قَالَ وَلِمَ قَالَ وَف۪يمَا قَالَ yani: "
+          "text": "Bir eser okunacağı veya bir söz dinleneceği zaman, evvelâ "
+        },
+        {
+          "text": "مَنْ قَالَ وَلِمَنْ قَالَ وَلِمَ قَالَ وَف۪يمَا قَالَ",
+          "red": true
+        },
+        {
+          "text": " yani: "
         },
         {
           "text": "Kim söylemiş? Kime söylemiş? Ne için söylemiş? Ne makamda söylemiş?",
@@ -642,7 +667,14 @@
           "bold": true
         },
         {
-          "text": " اِنَّا لِلّٰهِ وَاِنَّٓا اِلَيْهِ رَاجِعُونَ "
+          "text": " "
+        },
+        {
+          "text": "اِنَّا لِلّٰهِ وَاِنَّٓا اِلَيْهِ رَاجِعُونَ",
+          "red": true
+        },
+        {
+          "text": " "
         },
         {
           "text": "de.”",
@@ -738,7 +770,14 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Bediüzzaman, arz ve semâvâttaki mevcûdâtı, hayret ve istihsânla temâşâ eder. Kırlarda ve dağlarda hususan bahar mevsiminde çok gezinti yapar. O seyrangâhlarda zihnen meşguliyet ve dakîk bir tefekkür ve dâimî bir huzur hâlindedir. Ağaç ve nebâtât ve çiçekleri, مَا شَاءَ اللّٰهُ بَارَكَ اللّٰهُفَتَبَارَكَ اللّٰهُ اَحْسَنُ الْخَالِق۪ينَ "
+          "text": "Bediüzzaman, arz ve semâvâttaki mevcûdâtı, hayret ve istihsânla temâşâ eder. Kırlarda ve dağlarda hususan bahar mevsiminde çok gezinti yapar. O seyrangâhlarda zihnen meşguliyet ve dakîk bir tefekkür ve dâimî bir huzur hâlindedir. Ağaç ve nebâtât ve çiçekleri, "
+        },
+        {
+          "text": "مَا شَاءَ اللّٰهُ بَارَكَ اللّٰهُفَتَبَارَكَ اللّٰهُ اَحْسَنُ الْخَالِق۪ينَ",
+          "red": true
+        },
+        {
+          "text": " "
         },
         {
           "text": "“Ne güzel yaratılmışlar.”",
@@ -798,7 +837,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Aynen öyle de: Ulemâ-i ilm-i kelâm, esbâbı nihâyet-i âlemde teselsül ve devrin muhâliyeti ile kesip, sonra Vâcibü'l-Vücûd’un vücûdunu onunla isbât ediyorlar; uzun bir yolda gidiliyor. Amma, Kur'ân-ı Hakîm’in minhâc-ı hakîkisi ise; her yerde suyu buluyor, çıkarıyor. Herbir âyeti, birer Asâ-yı Mûsa gibi, nereye vursa âb-ı hayat fışkırtıyor. وَف۪ي كُلِّ شَيْءٍ لَهُ اٰيَةٌ تَدُلُّ عَلٰى اَنَّهُ وَاحِدٌ düsturunu herşeye okutturuyor."
+      "parts": [
+        {
+          "text": "Aynen öyle de: Ulemâ-i ilm-i kelâm, esbâbı nihâyet-i âlemde teselsül ve devrin muhâliyeti ile kesip, sonra Vâcibü'l-Vücûd’un vücûdunu onunla isbât ediyorlar; uzun bir yolda gidiliyor. Amma, Kur'ân-ı Hakîm’in minhâc-ı hakîkisi ise; her yerde suyu buluyor, çıkarıyor. Herbir âyeti, birer Asâ-yı Mûsa gibi, nereye vursa âb-ı hayat fışkırtıyor. "
+        },
+        {
+          "text": "وَف۪ي كُلِّ شَيْءٍ لَهُ اٰيَةٌ تَدُلُّ عَلٰى اَنَّهُ وَاحِدٌ",
+          "red": true
+        },
+        {
+          "text": " düsturunu herşeye okutturuyor."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -840,7 +890,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Edîb ve şâirler, zevâl ve firâktan ağlamışlar, ölümden vâveylâ etmişlerdir. Güz mevsimini hüzünle tasvir etmişlerdir. Hattâ, dünyaca meşhûr Arab edîbleri “Eğer firâk olmasa idi, ölüm rûhlarımızı almak için yol bulup gelemezdi.” mânâsında لَوْ لَا مُفَارَقَةُ الْاَحْبَابِ مَا وَجَدَتْ لَهَا الْمُنَايَا اِلٰى اَرْوَاحِنَا سُبُلًا demişlerdir."
+      "parts": [
+        {
+          "text": "Edîb ve şâirler, zevâl ve firâktan ağlamışlar, ölümden vâveylâ etmişlerdir. Güz mevsimini hüzünle tasvir etmişlerdir. Hattâ, dünyaca meşhûr Arab edîbleri “Eğer firâk olmasa idi, ölüm rûhlarımızı almak için yol bulup gelemezdi.” mânâsında "
+        },
+        {
+          "text": "لَوْ لَا مُفَارَقَةُ الْاَحْبَابِ مَا وَجَدَتْ لَهَا الْمُنَايَا اِلٰى اَرْوَاحِنَا سُبُلًا",
+          "red": true
+        },
+        {
+          "text": " demişlerdir."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -1094,7 +1155,8 @@
     },
     {
       "type": "arabic",
-      "text": "وَاٰخِرُ دَعْوٰيهُمْ اَنِ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ"
+      "text": "وَاٰخِرُ دَعْوٰيهُمْ اَنِ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ",
+      "red": true
     }
   ],
   "notes": [

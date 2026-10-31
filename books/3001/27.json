@@ -8,11 +8,13 @@
     },
     {
       "type": "arabic",
-      "text": "﷽"
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "وَلَوْ رَدُّوهُ اِلَى الرَّسُولِ وَاِلٰٓى اُو۬لِي الْاَمْرِ مِنْهُمْ لَعَلِمَهُ الَّذ۪ينَ يَسْتَنْبِطُونَهُ مِنْهُمْ"
+      "text": "وَلَوْ رَدُّوهُ اِلَى الرَّسُولِ وَاِلٰٓى اُو۬لِي الْاَمْرِ مِنْهُمْ لَعَلِمَهُ الَّذ۪ينَ يَسْتَنْبِطُونَهُ مِنْهُمْ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -117,7 +119,14 @@
           "bold": true
         },
         {
-          "text": " اِنَّ الضَّرُورَاتِ تُب۪يحُ الْمَحْظُورَاتِ kaidesi, yani: "
+          "text": " "
+        },
+        {
+          "text": "اِنَّ الضَّرُورَاتِ تُب۪يحُ الْمَحْظُورَاتِ",
+          "red": true
+        },
+        {
+          "text": " kaidesi, yani: "
         },
         {
           "text": "“Zarûret haramı helâl derecesine getirir.”",
@@ -310,15 +319,18 @@
     },
     {
       "type": "arabic",
-      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ"
+      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "$4e"
+      "text": "$4e",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "اٰم۪ينَ بِرَحْمَتِكَ يَا اَرْحَمَ الرَّاحِم۪ينَ"
+      "text": "اٰم۪ينَ بِرَحْمَتِكَ يَا اَرْحَمَ الرَّاحِم۪ينَ",
+      "red": true
     },
     {
       "type": "divider"
@@ -343,35 +355,43 @@
     },
     {
       "type": "arabic",
-      "text": "يَا رَسُولَ اللّٰهِ چِه بَاشَدْ چُونْ سَگِ اَصْحَابِ كَهْف"
+      "text": "يَا رَسُولَ اللّٰهِ چِه بَاشَدْ چُونْ سَگِ اَصْحَابِ كَهْف",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "دَاخِلِ جَنَّتْ شَوَمْ دَرْ زُمْرَهِٔ اَصْحَابِ تُو"
+      "text": "دَاخِلِ جَنَّتْ شَوَمْ دَرْ زُمْرَهِٔ اَصْحَابِ تُو",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "اُو رَوَدْ دَرْ جَنَّتْ وَ مَنْ دَرْ جَهَنَّمْ كَىْ رَوَاسْت"
+      "text": "اُو رَوَدْ دَرْ جَنَّتْ وَ مَنْ دَرْ جَهَنَّمْ كَىْ رَوَاسْت",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "اُو سَگِ اَصْحَابِ كَهْف وَ مَنْ سَگِ اَصْحَابِ تُو"
+      "text": "اُو سَگِ اَصْحَابِ كَهْف وَ مَنْ سَگِ اَصْحَابِ تُو",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "بِاسْمِهِ سُبْحَانَهُ"
+      "text": "بِاسْمِهِ سُبْحَانَهُ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ"
+      "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "﷽"
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "مُحَمَّدٌ رَسُولُ اللّٰهِ وَالَّذ۪ينَ مَعَهُٓ اَشِدَّٓاءُ عَلَى الْكُفَّارِ رُحَمَٓاءُ بَيْنَهُمْ… الخ"
+      "text": "مُحَمَّدٌ رَسُولُ اللّٰهِ وَالَّذ۪ينَ مَعَهُٓ اَشِدَّٓاءُ عَلَى الْكُفَّارِ رُحَمَٓاءُ بَيْنَهُمْ… الخ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -451,7 +471,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Bir zaman kalbime geldi; niçin Muhyiddin-i Arabî gibi hàrika zâtlar sahâbelere yetişemiyorlar? Sonra namaz içinde سُبْحَانَ رَبِّيَ الْاَعْلٰى derken, şu kelimenin mânâsı inkişaf etti. Tam mânâsıyla değil, fakat bir parça hakikati göründü. Kalben dedim: “Keşke bir tek namaza bu kelime gibi muvaffak olsaydım, bir sene ibâdetten daha iyi idi.” Namazdan sonra anladım ki; o hâtıra ve o hâl, sahâbelerin ibâdetteki derecelerine yetişilmediğine bir irşaddır."
+      "parts": [
+        {
+          "text": "Bir zaman kalbime geldi; niçin Muhyiddin-i Arabî gibi hàrika zâtlar sahâbelere yetişemiyorlar? Sonra namaz içinde "
+        },
+        {
+          "text": "سُبْحَانَ رَبِّيَ الْاَعْلٰى",
+          "red": true
+        },
+        {
+          "text": " derken, şu kelimenin mânâsı inkişaf etti. Tam mânâsıyla değil, fakat bir parça hakikati göründü. Kalben dedim: “Keşke bir tek namaza bu kelime gibi muvaffak olsaydım, bir sene ibâdetten daha iyi idi.” Namazdan sonra anladım ki; o hâtıra ve o hâl, sahâbelerin ibâdetteki derecelerine yetişilmediğine bir irşaddır."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -598,7 +629,25 @@
     },
     {
       "type": "paragraph",
-      "text": "Evet, sahâbeler mâdem İslâmiyet’in te'sisinde ve envâr-ı Kur'âniye’nin neşrinde, saff-ı evvel teşkil ediyorlar;اَلسَّبَبُ كَالْفَاعِلِsırrınca, bütün ümmetin hasenâtından onlara hisse çıkar. Ümmetin اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى اٰلِهِ وَاَصْحَابِهِ demesiyle; sahâbelerin, bütün ümmetin hasenâtından hissedarlıklarını gösteriyor. Hem nasıl ki bir ağacın kökündeki küçük bir meziyet, ağacın dallarında büyük bir sûret alır, büyük bir daldan daha büyüktür. Hem nasıl ki mebde'de küçük bir irtifa, gittikçe bir yekûn teşkil eder. Hem nasıl ki nokta-i merkeziyeye yakın bir iğne ucu kadar bir ziyâdelik, dâire-i muhîtada, bazen bir metre kadar ziyâdeye mukâbil geliyor."
+      "parts": [
+        {
+          "text": "Evet, sahâbeler mâdem İslâmiyet’in te'sisinde ve envâr-ı Kur'âniye’nin neşrinde, saff-ı evvel teşkil ediyorlar;"
+        },
+        {
+          "text": "اَلسَّبَبُ كَالْفَاعِلِ",
+          "red": true
+        },
+        {
+          "text": "sırrınca, bütün ümmetin hasenâtından onlara hisse çıkar. Ümmetin "
+        },
+        {
+          "text": "اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى اٰلِهِ وَاَصْحَابِهِ",
+          "red": true
+        },
+        {
+          "text": " demesiyle; sahâbelerin, bütün ümmetin hasenâtından hissedarlıklarını gösteriyor. Hem nasıl ki bir ağacın kökündeki küçük bir meziyet, ağacın dallarında büyük bir sûret alır, büyük bir daldan daha büyüktür. Hem nasıl ki mebde'de küçük bir irtifa, gittikçe bir yekûn teşkil eder. Hem nasıl ki nokta-i merkeziyeye yakın bir iğne ucu kadar bir ziyâdelik, dâire-i muhîtada, bazen bir metre kadar ziyâdeye mukâbil geliyor."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -614,11 +663,13 @@
     },
     {
       "type": "arabic",
-      "text": "اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ اَلَّذ۪ي قَالَ اَصْحَاب۪ي كَالنُّجُومِ بِاَيِّهِمْ اِقْتَدَيْتُمْ اِهْتَدَيْتُمْ وَخَيْرُ الْقُرُونِ قَرْن۪ي وَعَلٰى اٰلِهِ وَصَحْبِهِ وَسَلِّمْ"
+      "text": "اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ اَلَّذ۪ي قَالَ اَصْحَاب۪ي كَالنُّجُومِ بِاَيِّهِمْ اِقْتَدَيْتُمْ اِهْتَدَيْتُمْ وَخَيْرُ الْقُرُونِ قَرْن۪ي وَعَلٰى اٰلِهِ وَصَحْبِهِ وَسَلِّمْ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ"
+      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
+      "red": true
     },
     {
       "type": "divider"
@@ -696,7 +747,8 @@
     },
     {
       "type": "arabic",
-      "text": "دَرْ طَرِيقِ نَقْشبَنْدِى لَازِمْ اٰمَدْ چَارِ تَرْك: تَرْكِ دُنْيَا، تَرْكِ عُقْبَى، تَرْكِ هَسْتِى، تَرْكِ تَرْكْ"
+      "text": "دَرْ طَرِيقِ نَقْشبَنْدِى لَازِمْ اٰمَدْ چَارِ تَرْك: تَرْكِ دُنْيَا، تَرْكِ عُقْبَى، تَرْكِ هَسْتِى، تَرْكِ تَرْكْ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -783,11 +835,13 @@
     },
     {
       "type": "arabic",
-      "text": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى رَسُولِكَ الَّذ۪ي قَالَ: لَا تَسُبُّوا اَصْحَاب۪ي، لَوْ اَنْفَقَ اَحَدُكُمْ مِثْلَ اُحُدٍ ذَهَبًا مَا بَلَغَ نِصْفَ مُدٍّ مِنْ اَصْحَاب۪ي صَدَقَ رَسُولُ اللّٰهِ"
+      "text": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى رَسُولِكَ الَّذ۪ي قَالَ: لَا تَسُبُّوا اَصْحَاب۪ي، لَوْ اَنْفَقَ اَحَدُكُمْ مِثْلَ اُحُدٍ ذَهَبًا مَا بَلَغَ نِصْفَ مُدٍّ مِنْ اَصْحَاب۪ي صَدَقَ رَسُولُ اللّٰهِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ"
+      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
+      "red": true
     }
   ],
   "notes": [

@@ -4,7 +4,8 @@
   "blocks": [
     {
       "type": "arabic",
-      "text": "مِنْ بَيْنِ هِلَالِ الصَّوْمِ وَهِلَالِ الْع۪يدِ"
+      "text": "مِنْ بَيْنِ هِلَالِ الصَّوْمِ وَهِلَالِ الْع۪يدِ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -59,7 +60,14 @@
           "bold": true
         },
         {
-          "text": " nâmındaki kısacık vecîzeleri bir derece izâh etmek için, hem nesir tarzında yazılmış, hem de sâir dîvânlar gibi hayâlâta, mîzansız hissiyata girilmemiş olmasıdır. Baştan aşağıya mantık ile Hakàik-ı Kur'âniye ve îmâniye olarak, yanında bulunan biraderzâdesi gibi bazı talebelerine bir ders-i ilmîdir. Belki bir ders-i îmânî ve Kur'ânî’dir. Üstadımızın baştaki ifâdesinde dediği gibi, biz de anlamışızdır ki: Nazma ve şiire hiç meyli ve onlarla iştigâli de yoktur. وَمَا عَلَّمْنَاهُ الشِّعْرَ sırrının bir nümûnesini gösteriyor."
+          "text": " nâmındaki kısacık vecîzeleri bir derece izâh etmek için, hem nesir tarzında yazılmış, hem de sâir dîvânlar gibi hayâlâta, mîzansız hissiyata girilmemiş olmasıdır. Baştan aşağıya mantık ile Hakàik-ı Kur'âniye ve îmâniye olarak, yanında bulunan biraderzâdesi gibi bazı talebelerine bir ders-i ilmîdir. Belki bir ders-i îmânî ve Kur'ânî’dir. Üstadımızın baştaki ifâdesinde dediği gibi, biz de anlamışızdır ki: Nazma ve şiire hiç meyli ve onlarla iştigâli de yoktur. "
+        },
+        {
+          "text": "وَمَا عَلَّمْنَاهُ الشِّعْرَ",
+          "red": true
+        },
+        {
+          "text": " sırrının bir nümûnesini gösteriyor."
         }
       ]
     },
@@ -85,7 +93,15 @@
     },
     {
       "type": "paragraph",
-      "text": "اَلْمَرْءُ عَدُوٌّ لِمَا جَهِلَkaidesiyle, ben dahi nazım ve kafiyeyi bilmediğimden ona kıymet vermezdim. Sâfiye’yi kafiyeye fedâ etmek tarzında hakikatin sûretini nazmın keyfine göre tağyîr etmek hiç istemezdim. Şu kafiyesiz, nazımsız kitapta en àlî hakikatlere, en müşevveş bir libâs giydirdim."
+      "parts": [
+        {
+          "text": "اَلْمَرْءُ عَدُوٌّ لِمَا جَهِلَ",
+          "red": true
+        },
+        {
+          "text": "kaidesiyle, ben dahi nazım ve kafiyeyi bilmediğimden ona kıymet vermezdim. Sâfiye’yi kafiyeye fedâ etmek tarzında hakikatin sûretini nazmın keyfine göre tağyîr etmek hiç istemezdim. Şu kafiyesiz, nazımsız kitapta en àlî hakikatlere, en müşevveş bir libâs giydirdim."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -133,7 +149,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Ey kàri'! Peşinen bunu itiraf ederim ki; san'at-ı hat ve nazımda isti'dâdımdan çok müştekîyim. Hattâ şimdi ismimi de düzgün yazamıyorum. Nazm u vezin ise; ömrümde bir fıkra yapamamıştım. Birdenbire zihnime, nazma musırrâne bir arzu geldi. Sahâbelerin gazevâtına dair Kürtçe: قَوْلِ نَوَالَاس۪يسَبَانْ nâmında bir destan vardı. Onun ilâhi tarzındaki tabîi nazmına rûhum hoşlanıyordu. Ben de kendime mahsûs onun tarz-ı nazmını ihtiyar ettim. Nazma benzer bir nesir yazdım. Fakat vezin için kat'iyyen tekellüf yapmadım. İsteyen adam, nazmı hâtıra getirmeden, zahmetsiz, nesren okuyabilir. Hem nesren olarak bakmalı, tâ mânâ anlaşılsın. Her kıt'ada ittisal-i mânâ vardır. Kafiyede tevakkuf edilmesin. Külâh püskülsüz olur, vezin de kafiyesiz olur, nazım da kaidesiz olur. Zannımca lafz ve nazım, san'atça câzibedâr olsa, nazarı kendiyle meşgul eder. Nazarı mânâdan çevirmemek için perîşan olması daha iyidir."
+      "parts": [
+        {
+          "text": "Ey kàri'! Peşinen bunu itiraf ederim ki; san'at-ı hat ve nazımda isti'dâdımdan çok müştekîyim. Hattâ şimdi ismimi de düzgün yazamıyorum. Nazm u vezin ise; ömrümde bir fıkra yapamamıştım. Birdenbire zihnime, nazma musırrâne bir arzu geldi. Sahâbelerin gazevâtına dair Kürtçe: "
+        },
+        {
+          "text": "قَوْلِ نَوَالَاس۪يسَبَانْ",
+          "red": true
+        },
+        {
+          "text": " nâmında bir destan vardı. Onun ilâhi tarzındaki tabîi nazmına rûhum hoşlanıyordu. Ben de kendime mahsûs onun tarz-ı nazmını ihtiyar ettim. Nazma benzer bir nesir yazdım. Fakat vezin için kat'iyyen tekellüf yapmadım. İsteyen adam, nazmı hâtıra getirmeden, zahmetsiz, nesren okuyabilir. Hem nesren olarak bakmalı, tâ mânâ anlaşılsın. Her kıt'ada ittisal-i mânâ vardır. Kafiyede tevakkuf edilmesin. Külâh püskülsüz olur, vezin de kafiyesiz olur, nazım da kaidesiz olur. Zannımca lafz ve nazım, san'atça câzibedâr olsa, nazarı kendiyle meşgul eder. Nazarı mânâdan çevirmemek için perîşan olması daha iyidir."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -199,15 +226,18 @@
     },
     {
       "type": "arabic",
-      "text": "﷽"
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ"
+      "text": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "وَالصَّلٰوةُ عَلٰى سَيِّدِ الْمُرْسَل۪ينَ وَعَلٰى اٰلِهِ وَصَحْبِهِ اَجْمَع۪ينَ"
+      "text": "وَالصَّلٰوةُ عَلٰى سَيِّدِ الْمُرْسَل۪ينَ وَعَلٰى اٰلِهِ وَصَحْبِهِ اَجْمَع۪ينَ",
+      "red": true
     },
     {
       "type": "heading",
@@ -335,7 +365,8 @@
     },
     {
       "type": "arabic",
-      "text": "لَا يَعْلَمُ الْغَيْبَ اِلَّا اللّٰهُ"
+      "text": "لَا يَعْلَمُ الْغَيْبَ اِلَّا اللّٰهُ",
+      "red": true
     },
     {
       "type": "divider"
@@ -460,7 +491,8 @@
     },
     {
       "type": "arabic",
-      "text": "سُبْحَانَكَ لَا قُدْرَةَ ف۪ينَا رَبَّنَا اَنْتَ الْقَد۪يرُ الْاَزَلِيُّ ذُوالْجَلَالِ"
+      "text": "سُبْحَانَكَ لَا قُدْرَةَ ف۪ينَا رَبَّنَا اَنْتَ الْقَد۪يرُ الْاَزَلِيُّ ذُوالْجَلَالِ",
+      "red": true
     },
     {
       "type": "divider"
@@ -471,7 +503,8 @@
     },
     {
       "type": "arabic",
-      "text": "مَا خَلْقُكُمْ وَلَا بَعْثُكُمْ اِلَّا كَنَفْسٍ وَاحِدَةٍ"
+      "text": "مَا خَلْقُكُمْ وَلَا بَعْثُكُمْ اِلَّا كَنَفْسٍ وَاحِدَةٍ",
+      "red": true
     },
     {
       "type": "quote",
@@ -2510,7 +2543,11 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "اِذَا تَاَنَّثَ الرِّجَالُ السُّفَهَاءُ بِالْهَوَسَاتِ اِذًا تَرَجَّلَ النِّسَاءُ النَّاشِزَاتُ بِالْوَقَاحَاتِ "
+          "text": "اِذَا تَاَنَّثَ الرِّجَالُ السُّفَهَاءُ بِالْهَوَسَاتِ اِذًا تَرَجَّلَ النِّسَاءُ النَّاشِزَاتُ بِالْوَقَاحَاتِ",
+          "red": true
+        },
+        {
+          "text": " "
         },
         {
           "note": "16"
@@ -2684,7 +2721,8 @@
     },
     {
       "type": "arabic",
-      "text": "اِنَّ الْاِنْسَانَ كَصُورَةِ يٰسٓ كُتِبَتْ ف۪يهَا سُورَةُ يٰسٓفَتَبَارَكَ اللّٰهُ اَحْسَنُ الْخَالِق۪ينَ"
+      "text": "اِنَّ الْاِنْسَانَ كَصُورَةِ يٰسٓ كُتِبَتْ ف۪يهَا سُورَةُ يٰسٓفَتَبَارَكَ اللّٰهُ اَحْسَنُ الْخَالِق۪ينَ",
+      "red": true
     },
     {
       "type": "divider"
@@ -3096,11 +3134,13 @@
     },
     {
       "type": "arabic",
-      "text": "اُولَاشْمَازْ دَسْتِ اَدَبِ غَرْبِ هَوَسْبَارِ هَوَاكَارِ دَهَادَارْ"
+      "text": "اُولَاشْمَازْ دَسْتِ اَدَبِ غَرْبِ هَوَسْبَارِ هَوَاكَارِ دَهَادَارْ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "دَأْبِ اَدَبِ اَبَدْ مُدَّتِ قُرْاٰنِ ضِيَابَارِ شِفَاكَارِ هُدَادَارْ"
+      "text": "دَأْبِ اَدَبِ اَبَدْ مُدَّتِ قُرْاٰنِ ضِيَابَارِ شِفَاكَارِ هُدَادَارْ",
+      "red": true
     },
     {
       "type": "quote",
@@ -3346,11 +3386,13 @@
     },
     {
       "type": "arabic",
-      "text": "فَتَبَارَكَ اللّٰهُ اَحْسَنُ الْخَالِق۪ينَ"
+      "text": "فَتَبَارَكَ اللّٰهُ اَحْسَنُ الْخَالِق۪ينَ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "وَاٰخِرُ دَعْوٰينَا اَنِ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ"
+      "text": "وَاٰخِرُ دَعْوٰينَا اَنِ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ",
+      "red": true
     },
     {
       "type": "quote",
@@ -3366,7 +3408,8 @@
     },
     {
       "type": "arabic",
-      "text": "اَللّٰهُمَّ اِهْدِنَا الصِّرَاطَ الْمُسْتَق۪يمَ ❋ صِرَاطَ الَّذ۪ينَ اَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّٓالّ۪ينَ اٰم۪ينَ"
+      "text": "اَللّٰهُمَّ اِهْدِنَا الصِّرَاطَ الْمُسْتَق۪يمَ ❋ صِرَاطَ الَّذ۪ينَ اَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّٓالّ۪ينَ اٰم۪ينَ",
+      "red": true
     },
     {
       "type": "divider"
@@ -3657,7 +3700,8 @@
     },
     {
       "type": "arabic",
-      "text": "اَللّٰهُمَّ اهْدِنَا الصِّرَاطَ الْمُسْتَق۪يمَ اٰم۪ينَ"
+      "text": "اَللّٰهُمَّ اهْدِنَا الصِّرَاطَ الْمُسْتَق۪يمَ اٰم۪ينَ",
+      "red": true
     },
     {
       "type": "divider"

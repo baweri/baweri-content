@@ -4,11 +4,13 @@
   "blocks": [
     {
       "type": "arabic",
-      "text": "﷽"
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "اِنَّ اللّٰهَ اشْتَرٰى مِنَ الْمُؤْمِن۪ينَ اَنْفُسَهُمْ وَاَمْوَالَهُمْ بِاَنَّ لَهُمُ الْجَنَّةَ"
+      "text": "اِنَّ اللّٰهَ اشْتَرٰى مِنَ الْمُؤْمِن۪ينَ اَنْفُسَهُمْ وَاَمْوَالَهُمْ بِاَنَّ لَهُمُ الْجَنَّةَ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -52,7 +54,15 @@
     },
     {
       "type": "paragraph",
-      "text": "İşte ey nefs-i pür-heves! Şu misâlin dûrbîni ile hakikatin yüzüne bak. Amma O Pâdişah ise; ezel-ebed Sultan’ı olan Rabbin, Hàlık’ındır. Ve o çiftlikler, makineler, âletler, mîzanlar ise; senin dâire-i hayatın içindeki mâmelekin ve o mâmelekin içindeki cisim, rûh ve kalbin ve onlar içindeki göz ve dil, akıl ve hayâl gibi zâhirî ve bâtınî hâsselerindir. Ve O Yâver-i Ekrem ise, Resûl-i Kerîm’dir. Ve o fermân-ı ahkem ise, Kur'ân-ı Hakîm’dir ki; bahsinde bulunduğumuz ticâret-i azîmeyi, şu âyetle ilân ediyor:اِنَّ اللّٰهَ اشْتَرٰى مِنَ الْمُؤْمِن۪ينَ اَنْفُسَهُمْ وَاَمْوَالَهُمْ بِاَنَّ لَهُمُ الْجَنَّةَ"
+      "parts": [
+        {
+          "text": "İşte ey nefs-i pür-heves! Şu misâlin dûrbîni ile hakikatin yüzüne bak. Amma O Pâdişah ise; ezel-ebed Sultan’ı olan Rabbin, Hàlık’ındır. Ve o çiftlikler, makineler, âletler, mîzanlar ise; senin dâire-i hayatın içindeki mâmelekin ve o mâmelekin içindeki cisim, rûh ve kalbin ve onlar içindeki göz ve dil, akıl ve hayâl gibi zâhirî ve bâtınî hâsselerindir. Ve O Yâver-i Ekrem ise, Resûl-i Kerîm’dir. Ve o fermân-ı ahkem ise, Kur'ân-ı Hakîm’dir ki; bahsinde bulunduğumuz ticâret-i azîmeyi, şu âyetle ilân ediyor:"
+        },
+        {
+          "text": "اِنَّ اللّٰهَ اشْتَرٰى مِنَ الْمُؤْمِن۪ينَ اَنْفُسَهُمْ وَاَمْوَالَهُمْ بِاَنَّ لَهُمُ الْجَنَّةَ",
+          "red": true
+        }
+      ]
     },
     {
       "type": "paragraph",

@@ -17,11 +17,13 @@
     },
     {
       "type": "arabic",
-      "text": "﷽"
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "اِنَّ الصَّلٰوةَ كَانَتْ عَلٰى الْمُؤْمِن۪ينَ كِتَابًا مَوْقُوتًا"
+      "text": "اِنَّ الصَّلٰوةَ كَانَتْ عَلٰى الْمُؤْمِن۪ينَ كِتَابًا مَوْقُوتًا",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -277,7 +279,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Eğer namazı kılsan, o namazın ile o âlemin Sâni'-i Zülcelâl’ine müteveccih olsan, birden sana bakan âlemin tenevvür eder. Âdeta namazın bir elektrik lambası ve namaza niyetin onun düğmesine dokunması gibi, o âlemin zulümâtını dağıtır. Ve o herc ü merc-i dünyeviyedeki karmakarışık, perîşaniyet içindeki tebeddülât ve harekât, hikmetli bir intizam ve mânidâr bir kitabet-i kudret olduğunu gösterir. اَللّٰهُ نُورُ السَّمٰوَاتِ وَالْاَرْضِ âyet-i pür-envârından bir nuru, senin kalbine serper. Senin o günkü âlemini, o nurun in'ikâsıyla ışıklandırır. Senin lehinde nurâniyetle şehâdet ettirir."
+      "parts": [
+        {
+          "text": "Eğer namazı kılsan, o namazın ile o âlemin Sâni'-i Zülcelâl’ine müteveccih olsan, birden sana bakan âlemin tenevvür eder. Âdeta namazın bir elektrik lambası ve namaza niyetin onun düğmesine dokunması gibi, o âlemin zulümâtını dağıtır. Ve o herc ü merc-i dünyeviyedeki karmakarışık, perîşaniyet içindeki tebeddülât ve harekât, hikmetli bir intizam ve mânidâr bir kitabet-i kudret olduğunu gösterir. "
+        },
+        {
+          "text": "اَللّٰهُ نُورُ السَّمٰوَاتِ وَالْاَرْضِ",
+          "red": true
+        },
+        {
+          "text": " âyet-i pür-envârından bir nuru, senin kalbine serper. Senin o günkü âlemini, o nurun in'ikâsıyla ışıklandırır. Senin lehinde nurâniyetle şehâdet ettirir."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -293,7 +306,8 @@
     },
     {
       "type": "arabic",
-      "text": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى مَنْ قَالَ: « اَلصَّلٰوةُ عِمَادُ الدّ۪ينِ » وَعَلٰى اٰلِهِ وَصَحْبِهِ اَجْمَع۪ينَ"
+      "text": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى مَنْ قَالَ: « اَلصَّلٰوةُ عِمَادُ الدّ۪ينِ » وَعَلٰى اٰلِهِ وَصَحْبِهِ اَجْمَع۪ينَ",
+      "red": true
     },
     {
       "type": "divider"
@@ -313,11 +327,13 @@
     },
     {
       "type": "arabic",
-      "text": "﷽"
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "رَبِّ اَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاط۪ينِ ❋ وَاَعُوذُ بِكَ رَبِّ اَنْ يَحْضُرُونِ"
+      "text": "رَبِّ اَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاط۪ينِ ❋ وَاَعُوذُ بِكَ رَبِّ اَنْ يَحْضُرُونِ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -404,11 +420,33 @@
     },
     {
       "type": "paragraph",
-      "text": "İkinci Merhem: Dinde harec yoktur.لَا حَرَجَ فِي الدّ۪ينِ Mâdem dört mezheb haktır. Mâdem istiğfara müncer olan derk-i kusur ise, gurura müncer olan hüsn-ü amelin rü'yetine – böyle vesveseli adama – müreccahtır. Yani böyle vesveseli adam, amelini güzel görüp gurura düşmektense, amelini kusurlu görse, istiğfar etse daha evlâdır."
+      "parts": [
+        {
+          "text": "İkinci Merhem: Dinde harec yoktur."
+        },
+        {
+          "text": "لَا حَرَجَ فِي الدّ۪ينِ",
+          "red": true
+        },
+        {
+          "text": " Mâdem dört mezheb haktır. Mâdem istiğfara müncer olan derk-i kusur ise, gurura müncer olan hüsn-ü amelin rü'yetine – böyle vesveseli adama – müreccahtır. Yani böyle vesveseli adam, amelini güzel görüp gurura düşmektense, amelini kusurlu görse, istiğfar etse daha evlâdır."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "text": "Mâdem böyledir; sen vesveseyi at. Şeytana de ki: “Şu hâl, bir harecdir. Hakikat-i hâle muttali' olmak güçtür. Dindeki yüsre münâfîdir. لَاحَرَجَ فِي الدِّينِاَلدِّينُ يُسْرٌ esâsına muhâliftir. Elbette böyle amelim bir mezheb-i hakka muvâfık gelir. O bana kâfîdir. Hem lâakal ben aczimi itiraf ederek ibâdeti lâyıkı vechile edâ edemediğimden istiğfar ve tazarru ile merhamet-i İlâhiye’ye dehàlet edip, kusurum affolunmak, kusurlu amelim kabûl olunmak için mütezellilâne bir niyâza vesiledir.”"
+      "parts": [
+        {
+          "text": "Mâdem böyledir; sen vesveseyi at. Şeytana de ki: “Şu hâl, bir harecdir. Hakikat-i hâle muttali' olmak güçtür. Dindeki yüsre münâfîdir. "
+        },
+        {
+          "text": "لَاحَرَجَ فِي الدِّينِاَلدِّينُ يُسْرٌ",
+          "red": true
+        },
+        {
+          "text": " esâsına muhâliftir. Elbette böyle amelim bir mezheb-i hakka muvâfık gelir. O bana kâfîdir. Hem lâakal ben aczimi itiraf ederek ibâdeti lâyıkı vechile edâ edemediğimden istiğfar ve tazarru ile merhamet-i İlâhiye’ye dehàlet edip, kusurum affolunmak, kusurlu amelim kabûl olunmak için mütezellilâne bir niyâza vesiledir.”"
+        }
+      ]
     },
     {
       "type": "heading",
@@ -438,7 +476,14 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "İşte bunun gibi, meselâ: Hakàik-ı îmâniyeden olan hayat-ı dünyeviyenin gurûbuna ve hayat-ı uhreviyenin tulû'una, imkân-ı zâtî cihetinde gelen vehimler, yakìn-i îmânîye zarar vermez. Hem لَاعِبْرَةَ لِلْاِحْتِمَالِ الْغَيْرِ النَّاشِئِ عَنْ دَل۪يلٍyani: "
+          "text": "İşte bunun gibi, meselâ: Hakàik-ı îmâniyeden olan hayat-ı dünyeviyenin gurûbuna ve hayat-ı uhreviyenin tulû'una, imkân-ı zâtî cihetinde gelen vehimler, yakìn-i îmânîye zarar vermez. Hem "
+        },
+        {
+          "text": "لَاعِبْرَةَ لِلْاِحْتِمَالِ الْغَيْرِ النَّاشِئِ عَنْ دَل۪يلٍ",
+          "red": true
+        },
+        {
+          "text": "yani: "
         },
         {
           "text": "“Bir delilden neş'et etmeyen bir ihtimalin, hiç ehemmiyeti yoktur.”",
@@ -469,7 +514,14 @@
           "bold": true
         },
         {
-          "text": " İfrata varmamak, hem galebe çalmamak şartıyla, asl-ı vesvese teyakkuza sebebdir, taharrîye dâîdir, ciddiyete vesiledir. Lâkaydlığı atar, tehâvünü def'eder. Onun için Hakîm-i Mutlak, şu dâr-ı imtihanda, şu meydân-ı müsâbakada, bize bir kamçı-yı teşvik olarak vesveseyi şeytanın eline vermiş; beşerin başına vuruyor. Şâyet ziyâde incitse, Hakîm-i Rahîm’e şekvâ etmeli, اَعُوذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّج۪يمِ demeli…"
+          "text": " İfrata varmamak, hem galebe çalmamak şartıyla, asl-ı vesvese teyakkuza sebebdir, taharrîye dâîdir, ciddiyete vesiledir. Lâkaydlığı atar, tehâvünü def'eder. Onun için Hakîm-i Mutlak, şu dâr-ı imtihanda, şu meydân-ı müsâbakada, bize bir kamçı-yı teşvik olarak vesveseyi şeytanın eline vermiş; beşerin başına vuruyor. Şâyet ziyâde incitse, Hakîm-i Rahîm’e şekvâ etmeli, "
+        },
+        {
+          "text": "اَعُوذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّج۪يمِ",
+          "red": true
+        },
+        {
+          "text": " demeli…"
         }
       ]
     }

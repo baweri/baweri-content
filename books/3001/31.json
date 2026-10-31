@@ -18,23 +18,62 @@
     },
     {
       "type": "arabic",
-      "text": "﷽"
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "سُبْحَانَ الَّذ۪ٓي اَسْرٰى بِعَبْدِه۪ لَيْلًا مِنَ الْمَسْجِدِ الْحَرَامِ اِلَى الْمَسْجِدِ الْاَقْصَا الَّذ۪ي بَارَكْنَا حَوْلَهُ لِنُرِيَهُ مِنْ اٰيَاتِنَا اِنَّهُ هُوَ السَّم۪يعُ الْبَص۪يرُ"
+      "text": "سُبْحَانَ الَّذ۪ٓي اَسْرٰى بِعَبْدِه۪ لَيْلًا مِنَ الْمَسْجِدِ الْحَرَامِ اِلَى الْمَسْجِدِ الْاَقْصَا الَّذ۪ي بَارَكْنَا حَوْلَهُ لِنُرِيَهُ مِنْ اٰيَاتِنَا اِنَّهُ هُوَ السَّم۪يعُ الْبَص۪يرُ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "اِنْ هُوَ اِلَّا وَحْيٌ يُوحٰى ❋ عَلَّمَهُ شَد۪يدُ الْقُوٰى ❋ ذُومِرَّةٍ فَاسْتَوٰى ❋ وَهُوَ بِالْاُفُقِ الْاَعْلٰى ❋ ثُمَّ دَنَا فَتَدَلّٰى ❋ فَكَانَ قَابَ قَوْسَيْنِ اَوْ اَدْنٰى ❋ فَاَوْحٰٓى اِلٰى عَبْدِه۪ مَٓا اَوْحٰى ❋ مَا كَذَبَ الْفُؤَادُ مَارَاٰى ❋ اَفَتُمَارُونَهُ عَلٰى مَا يَرٰى ❋ وَلَقَدْ رَاٰهُ نَزْلَةً اُخْرٰى ❋ عِنْدَ سِدْرَةِ الْمُنْتَهٰى ❋ عِنْدَهَا جَنَّةُ الْمَأْوٰي ❋ اِذْ يَغْشَى السِّدْرَةَ مَا يَغْشٰى ❋ مَا زَاغَ الْبَصَرُ وَمَا طَغٰى ❋ لَقَدْ رَاٰى مِنْ اٰيَاتِ رَبِّهِ الْكُبْرٰى"
+      "text": "اِنْ هُوَ اِلَّا وَحْيٌ يُوحٰى ❋ عَلَّمَهُ شَد۪يدُ الْقُوٰى ❋ ذُومِرَّةٍ فَاسْتَوٰى ❋ وَهُوَ بِالْاُفُقِ الْاَعْلٰى ❋ ثُمَّ دَنَا فَتَدَلّٰى ❋ فَكَانَ قَابَ قَوْسَيْنِ اَوْ اَدْنٰى ❋ فَاَوْحٰٓى اِلٰى عَبْدِه۪ مَٓا اَوْحٰى ❋ مَا كَذَبَ الْفُؤَادُ مَارَاٰى ❋ اَفَتُمَارُونَهُ عَلٰى مَا يَرٰى ❋ وَلَقَدْ رَاٰهُ نَزْلَةً اُخْرٰى ❋ عِنْدَ سِدْرَةِ الْمُنْتَهٰى ❋ عِنْدَهَا جَنَّةُ الْمَأْوٰي ❋ اِذْ يَغْشَى السِّدْرَةَ مَا يَغْشٰى ❋ مَا زَاغَ الْبَصَرُ وَمَا طَغٰى ❋ لَقَدْ رَاٰى مِنْ اٰيَاتِ رَبِّهِ الْكُبْرٰى",
+      "red": true
     },
     {
       "type": "paragraph",
-      "text": "Evvelki âyet-i azîmenin azîm hazinesinden yalnız «اِنَّهُ» zamîrinde, bir düstur-u belâğata istinâd eden iki remzin mes'elemize münâsebeti olduğu için, i'câz bahsinde beyân edildiği üzere yazacağız."
+      "parts": [
+        {
+          "text": "Evvelki âyet-i azîmenin azîm hazinesinden yalnız "
+        },
+        {
+          "text": "«اِنَّهُ»",
+          "red": true
+        },
+        {
+          "text": " zamîrinde, bir düstur-u belâğata istinâd eden iki remzin mes'elemize münâsebeti olduğu için, i'câz bahsinde beyân edildiği üzere yazacağız."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "text": "İşte Kur'ân-ı Hakîm, Habîb-i Ekrem Aleyhi Efdalü's-salâtü ve Ekmelü's-selâm’ın Mi'râc’ının mebde'i olan, Mescid-i Haram’dan Mescid-i Aksâ’ya olan seyranını zikrettikten sonra اِنَّهُ هُوَ السَّم۪يعُ الْبَص۪يرُ der. Ve şu kelâm ile Sûre-i وَالنَّجْمِ اِذَا هَوٰى’da işâret olunan müntehâ-yı mi'râca remzeden «اِنَّهُ»’deki zamîr, ya Cenâb-ı Hakk’a râci'dir veyâhut Peygamber’edir."
+      "parts": [
+        {
+          "text": "İşte Kur'ân-ı Hakîm, Habîb-i Ekrem Aleyhi Efdalü's-salâtü ve Ekmelü's-selâm’ın Mi'râc’ının mebde'i olan, Mescid-i Haram’dan Mescid-i Aksâ’ya olan seyranını zikrettikten sonra "
+        },
+        {
+          "text": "اِنَّهُ هُوَ السَّم۪يعُ الْبَص۪يرُ",
+          "red": true
+        },
+        {
+          "text": " der. Ve şu kelâm ile Sûre-i "
+        },
+        {
+          "text": "وَالنَّجْمِ اِذَا هَوٰى",
+          "red": true
+        },
+        {
+          "text": "’da işâret olunan müntehâ-yı mi'râca remzeden "
+        },
+        {
+          "text": "«اِنَّهُ»",
+          "red": true
+        },
+        {
+          "text": "’deki zamîr, ya Cenâb-ı Hakk’a râci'dir veyâhut Peygamber’edir."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -137,7 +176,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Meselâ, deniliyor ki: “Cenâb-ı Hak, اَقْرَبُ اِلَيْهِ مِنْ حَبْلِ الْوَر۪يدِ’dir. Herşeye, herşeyden daha yakındır. Cisimden, mekândan münezzehtir. Her velî, kalbi içinde O’nunla görüşebilir. Neden dolayı Velâyet-i Ahmediye (asm), Mi'râc gibi uzun bir seyahatin neticesinden sonra, her velînin kendi kalbinde muvaffak olduğu münâcâta muvaffak oluyor.”"
+      "parts": [
+        {
+          "text": "Meselâ, deniliyor ki: “Cenâb-ı Hak, "
+        },
+        {
+          "text": "اَقْرَبُ اِلَيْهِ مِنْ حَبْلِ الْوَر۪يدِ",
+          "red": true
+        },
+        {
+          "text": "’dir. Herşeye, herşeyden daha yakındır. Cisimden, mekândan münezzehtir. Her velî, kalbi içinde O’nunla görüşebilir. Neden dolayı Velâyet-i Ahmediye (asm), Mi'râc gibi uzun bir seyahatin neticesinden sonra, her velînin kendi kalbinde muvaffak olduğu münâcâta muvaffak oluyor.”"
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -172,7 +222,18 @@
     },
     {
       "type": "paragraph",
-      "text": "İşte وَلِلّٰهِ الْمَثَلُ الْاَعْلٰى şu temsîl gibi; şu kâinât Hàlık’ının ve Mâlikü'l-Mülk ve'l-Melekût’un ve Hâkim-i Ezel ve Ebed’in iki tarzda mükâlemesi, sohbeti, iltifatı vardır. Birisi; cüz'î ve hàs, diğeri; küllî ve âmm… İşte Mi'râc, Velâyet-i Ahmediye’nin (asm), bütün velâyâtın fevkınde bir külliyet, bir ulviyet sûretinde bir tezâhürüdür ki; bütün kâinâtın Rabbi ismiyle, bütün mevcûdâtın Hàlık’ı ünvânıyla Cenâb-ı Hakk’ın sohbetine ve münâcâtına müşerrefiyettir."
+      "parts": [
+        {
+          "text": "İşte "
+        },
+        {
+          "text": "وَلِلّٰهِ الْمَثَلُ الْاَعْلٰى",
+          "red": true
+        },
+        {
+          "text": " şu temsîl gibi; şu kâinât Hàlık’ının ve Mâlikü'l-Mülk ve'l-Melekût’un ve Hâkim-i Ezel ve Ebed’in iki tarzda mükâlemesi, sohbeti, iltifatı vardır. Birisi; cüz'î ve hàs, diğeri; küllî ve âmm… İşte Mi'râc, Velâyet-i Ahmediye’nin (asm), bütün velâyâtın fevkınde bir külliyet, bir ulviyet sûretinde bir tezâhürüdür ki; bütün kâinâtın Rabbi ismiyle, bütün mevcûdâtın Hàlık’ı ünvânıyla Cenâb-ı Hakk’ın sohbetine ve münâcâtına müşerrefiyettir."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -515,7 +576,14 @@
           "bold": true
         },
         {
-          "text": " Seyyârât içinde mutavassıt ve yıldızlar içinde küçük ve kesif olan küre-i arz, mevcûdât içinde en kıymetdâr ve nurânî olan hayat ve şuûr, hesabsız bir sûrette onda bulunuyorlar. Elbette karanlıklı bir hâne hükmünde olan şu arza nisbeten, müzeyyen kasırlar, mükemmel saraylar hükmünde olan yıldızlar ve yıldızların denizleri olan gökler, zîşuûr ve zîhayat ve pek kesretli ve muhtelifü'l-ecnâs olan melâike ve rûhânilerin meskenleridir. Pek kat'î bir sûrette İşârâtü'l-İ'câz nâmındaki tefsirimde ثُمَّ اسْتَوٰٓى اِلَى السَّمَٓاءِ فَسَوّٰيهُنَّ سَبْعَ سَمٰوَاتٍ âyetinde, semâvâtın hem vücûdu, hem taaddüdü isbât edildiğinden ve melâike hakkında Yirmidokuzuncu Söz’de, iki kere iki dört eder kat'iyyetinde, melâikelerin vücûdunu isbât ettiğimizden, onlara iktifâen burada kısa kesiyoruz."
+          "text": " Seyyârât içinde mutavassıt ve yıldızlar içinde küçük ve kesif olan küre-i arz, mevcûdât içinde en kıymetdâr ve nurânî olan hayat ve şuûr, hesabsız bir sûrette onda bulunuyorlar. Elbette karanlıklı bir hâne hükmünde olan şu arza nisbeten, müzeyyen kasırlar, mükemmel saraylar hükmünde olan yıldızlar ve yıldızların denizleri olan gökler, zîşuûr ve zîhayat ve pek kesretli ve muhtelifü'l-ecnâs olan melâike ve rûhânilerin meskenleridir. Pek kat'î bir sûrette İşârâtü'l-İ'câz nâmındaki tefsirimde "
+        },
+        {
+          "text": "ثُمَّ اسْتَوٰٓى اِلَى السَّمَٓاءِ فَسَوّٰيهُنَّ سَبْعَ سَمٰوَاتٍ",
+          "red": true
+        },
+        {
+          "text": " âyetinde, semâvâtın hem vücûdu, hem taaddüdü isbât edildiğinden ve melâike hakkında Yirmidokuzuncu Söz’de, iki kere iki dört eder kat'iyyetinde, melâikelerin vücûdunu isbât ettiğimizden, onlara iktifâen burada kısa kesiyoruz."
         }
       ]
     },
@@ -527,7 +595,21 @@
           "bold": true
         },
         {
-          "text": " Esîrden yapılmış elektrik, ziyâ, harâret, câzibe gibi seyyâlât-ı latîfenin medârı olmuş ve hadîste اَلسَّمَاءُ مَوْجٌ مَكْفُوفٌ işâretiyle, seyyârât ve nücûmun harekâtına müsâid olmuş ve Samanyolu denilen مَجَرَّةُ السَّمَاءِ’dan, tâ en yakın seyyâreye kadar, muhtelif vaziyet ve teşekkülde yedi tabaka, herbir tabaka âlem-i arzdan, tâ âlem-i berzaha, âlem-i misâle, tâ âlem-i âhirete kadar birer âlemin damı hükmünde birer semânın bulunması, hikmeten, aklen iktiza eder."
+          "text": " Esîrden yapılmış elektrik, ziyâ, harâret, câzibe gibi seyyâlât-ı latîfenin medârı olmuş ve hadîste "
+        },
+        {
+          "text": "اَلسَّمَاءُ مَوْجٌ مَكْفُوفٌ",
+          "red": true
+        },
+        {
+          "text": " işâretiyle, seyyârât ve nücûmun harekâtına müsâid olmuş ve Samanyolu denilen "
+        },
+        {
+          "text": "مَجَرَّةُ السَّمَاءِ",
+          "red": true
+        },
+        {
+          "text": "’dan, tâ en yakın seyyâreye kadar, muhtelif vaziyet ve teşekkülde yedi tabaka, herbir tabaka âlem-i arzdan, tâ âlem-i berzaha, âlem-i misâle, tâ âlem-i âhirete kadar birer âlemin damı hükmünde birer semânın bulunması, hikmeten, aklen iktiza eder."
         }
       ]
     },
@@ -709,7 +791,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Aynen öyle de: وَلِلّٰهِ الْمَثَلُ الْاَعْلٰى Ezel, Ebed Sultan’ı olan Sâni'-i Zülcelâl, nihâyetsiz kemâlâtını ve nihâyetsiz cemâlini görmek ve göstermek istemiştir ki, şu âlem sarayını öyle bir tarzda yapmıştır ki; herbir mevcûd pek çok dillerle O’nun kemâlâtını zikreder, pek çok işâretlerle cemâlini gösterir. Esmâ-i Hüsnâ’sının herbir isminde ne kadar gizli manevî defineler ve herbir ünvân-ı mukaddesesinde ne kadar mahfî letâif bulunduğunu, şu kâinât bütün mevcûdâtıyla gösterir ve öyle bir tarzda gösterir ki; bütün fünûn, bütün desâtiriyle şu kitab-ı kâinâtı, zaman-ı Âdem’den beri mütâlaa ediyor. Hâlbuki o kitab, Esmâ ve Kemâlât-ı İlâhiye’ye dair ifâde ettiği mânâların ve gösterdiği âyetlerin öşr-i mi'şârını daha okuyamamış."
+      "parts": [
+        {
+          "text": "Aynen öyle de: "
+        },
+        {
+          "text": "وَلِلّٰهِ الْمَثَلُ الْاَعْلٰى",
+          "red": true
+        },
+        {
+          "text": " Ezel, Ebed Sultan’ı olan Sâni'-i Zülcelâl, nihâyetsiz kemâlâtını ve nihâyetsiz cemâlini görmek ve göstermek istemiştir ki, şu âlem sarayını öyle bir tarzda yapmıştır ki; herbir mevcûd pek çok dillerle O’nun kemâlâtını zikreder, pek çok işâretlerle cemâlini gösterir. Esmâ-i Hüsnâ’sının herbir isminde ne kadar gizli manevî defineler ve herbir ünvân-ı mukaddesesinde ne kadar mahfî letâif bulunduğunu, şu kâinât bütün mevcûdâtıyla gösterir ve öyle bir tarzda gösterir ki; bütün fünûn, bütün desâtiriyle şu kitab-ı kâinâtı, zaman-ı Âdem’den beri mütâlaa ediyor. Hâlbuki o kitab, Esmâ ve Kemâlât-ı İlâhiye’ye dair ifâde ettiği mânâların ve gösterdiği âyetlerin öşr-i mi'şârını daha okuyamamış."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -824,7 +917,14 @@
           "bold": true
         },
         {
-          "text": " Bir orduya parmağından gelen suyu içirmesi ve câmide bir cemâat-i azîme huzurunda, kuru direğin, minberin naklinden dolayı müfârakat-ı Ahmediye’den (asm) deve gibi enîn ederek ağlaması; وَانْشَقَّ الْقَمَرُnassı ile, Şakk-ı Kamer gibi, muhakkìklerin tahkîkatıyla bine bâliğ mu'cizâtla serfirâz olduğunu tarih ve siyer gösteriyor."
+          "text": " Bir orduya parmağından gelen suyu içirmesi ve câmide bir cemâat-i azîme huzurunda, kuru direğin, minberin naklinden dolayı müfârakat-ı Ahmediye’den (asm) deve gibi enîn ederek ağlaması; "
+        },
+        {
+          "text": "وَانْشَقَّ الْقَمَرُ",
+          "red": true
+        },
+        {
+          "text": "nassı ile, Şakk-ı Kamer gibi, muhakkìklerin tahkîkatıyla bine bâliğ mu'cizâtla serfirâz olduğunu tarih ve siyer gösteriyor."
         }
       ]
     },
@@ -1023,7 +1123,18 @@
     },
     {
       "type": "paragraph",
-      "text": "İşte böyle bir Zât ki; اَلسَّبَبُ كَالْفَاعِلِ sırrınca bütün ümmetin işlediği hasenâtın bir misli, O’nun kefe-i mîzanında bulunan ve umum ümmetinin salavâtı, O’nun manevî kemâlâtına imdâd veren ve risaletinde gördüğü vezâifin netâicini ve manevî ücretleriyle beraber rahmet ve muhabbet-i İlâhiye’nin nihâyetsiz feyzine mazhar olan bir Zât, elbette Mi'râc merdiveniyle Cennet’e, Sidretü'l-Müntehâ’ya, Arş’a ve Kàb-ı Kavseyn’e kadar gitmek; ayn-ı hak, nefs-i hakikat ve mahz-ı hikmettir."
+      "parts": [
+        {
+          "text": "İşte böyle bir Zât ki; "
+        },
+        {
+          "text": "اَلسَّبَبُ كَالْفَاعِلِ",
+          "red": true
+        },
+        {
+          "text": " sırrınca bütün ümmetin işlediği hasenâtın bir misli, O’nun kefe-i mîzanında bulunan ve umum ümmetinin salavâtı, O’nun manevî kemâlâtına imdâd veren ve risaletinde gördüğü vezâifin netâicini ve manevî ücretleriyle beraber rahmet ve muhabbet-i İlâhiye’nin nihâyetsiz feyzine mazhar olan bir Zât, elbette Mi'râc merdiveniyle Cennet’e, Sidretü'l-Müntehâ’ya, Arş’a ve Kàb-ı Kavseyn’e kadar gitmek; ayn-ı hak, nefs-i hakikat ve mahz-ı hikmettir."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -1291,19 +1402,23 @@
     },
     {
       "type": "arabic",
-      "text": "اَللّٰهُمَّ صَلِّ عَلٰى مَنِ انْشَقَّ بِاِشَارَتِهِ الْقَمَرُ وَنَبَعَ مِنْ اَصَابِعِهِ الْمَاءُ كَالْكَوْثَرِ صَاحِبِ الْمِعْرَاجِ وَمَا زَاغَ الْبَصَرُ سَيِّدِنَا مُحَمَّدٍ وَعَلٰى اٰلِهِ وَاَصْحَابِهِ اَجْمَع۪ينَ مِنْ اَوَّلِ الدُّنْيَا اِلٰى اٰخِرِ الْمَحْشَرِ"
+      "text": "اَللّٰهُمَّ صَلِّ عَلٰى مَنِ انْشَقَّ بِاِشَارَتِهِ الْقَمَرُ وَنَبَعَ مِنْ اَصَابِعِهِ الْمَاءُ كَالْكَوْثَرِ صَاحِبِ الْمِعْرَاجِ وَمَا زَاغَ الْبَصَرُ سَيِّدِنَا مُحَمَّدٍ وَعَلٰى اٰلِهِ وَاَصْحَابِهِ اَجْمَع۪ينَ مِنْ اَوَّلِ الدُّنْيَا اِلٰى اٰخِرِ الْمَحْشَرِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ"
+      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "رَبَّنَا تَقَبَّلْ مِنَّا اِنَّكَ اَنْتَ السَّم۪يعُ الْعَل۪يمُرَبَّنَا لَا تُؤَاخِذْنَٓا اِنْ نَس۪ينَٓا اَوْ اَخْطَأْنَارَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ اِذْ هَدَيْتَنَارَبَّنَٓا اَتْمِمْ لَنَا نُورَنَا وَاغْفِرْلَنَا اِنَّكَ عَلٰى كُلِّ شَيْءٍ قَد۪يرٌ"
+      "text": "رَبَّنَا تَقَبَّلْ مِنَّا اِنَّكَ اَنْتَ السَّم۪يعُ الْعَل۪يمُرَبَّنَا لَا تُؤَاخِذْنَٓا اِنْ نَس۪ينَٓا اَوْ اَخْطَأْنَارَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ اِذْ هَدَيْتَنَارَبَّنَٓا اَتْمِمْ لَنَا نُورَنَا وَاغْفِرْلَنَا اِنَّكَ عَلٰى كُلِّ شَيْءٍ قَد۪يرٌ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "وَاٰخِرُ دَعْوٰيهُمْ اَنِ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ"
+      "text": "وَاٰخِرُ دَعْوٰيهُمْ اَنِ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ",
+      "red": true
     },
     {
       "type": "heading",
@@ -1321,11 +1436,13 @@
     },
     {
       "type": "arabic",
-      "text": "﷽"
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "اِقْتَرَبَتِ السَّاعَةُ وَانْشَقَّ الْقَمَرُ ❋ وَاِنْ يَرَوْا اٰيَةً يُعْرِضُوا وَيَقُولُوا سِحْرٌ مُسْتَمِرٌّ"
+      "text": "اِقْتَرَبَتِ السَّاعَةُ وَانْشَقَّ الْقَمَرُ ❋ وَاِنْ يَرَوْا اٰيَةً يُعْرِضُوا وَيَقُولُوا سِحْرٌ مُسْتَمِرٌّ",
+      "red": true
     },
     {
       "type": "paragraph",
@@ -1364,11 +1481,33 @@
     },
     {
       "type": "paragraph",
-      "text": "O zaman, o zemindeki küffarın gayet şedîd derecede inâdları, tarihen ma'lûm ve meşhûr olduğu hâlde; Kur'ân-ı Hakîm’in وَانْشَقَّ الْقَمَرُ demesiyle şu vak'ayı umum âleme ihbar ettiği hâlde; Kur'ân’ı inkâr eden o küffardan hiçbir kimse, şu âyetin tekzîbine, yani ihbar ettiği şu vâkıanın inkârına ağız açmamışlar. Eğer o zamanda o hâdise, o küffarca kat'î ve vâki bir hâdise olmasa idi; şu sözü serrişte ederek, gayet dehşetli bir tekzîbe ve Peygamber’in ibtal-i da'vâsına hücum göstereceklerdi."
+      "parts": [
+        {
+          "text": "O zaman, o zemindeki küffarın gayet şedîd derecede inâdları, tarihen ma'lûm ve meşhûr olduğu hâlde; Kur'ân-ı Hakîm’in "
+        },
+        {
+          "text": "وَانْشَقَّ الْقَمَرُ",
+          "red": true
+        },
+        {
+          "text": " demesiyle şu vak'ayı umum âleme ihbar ettiği hâlde; Kur'ân’ı inkâr eden o küffardan hiçbir kimse, şu âyetin tekzîbine, yani ihbar ettiği şu vâkıanın inkârına ağız açmamışlar. Eğer o zamanda o hâdise, o küffarca kat'î ve vâki bir hâdise olmasa idi; şu sözü serrişte ederek, gayet dehşetli bir tekzîbe ve Peygamber’in ibtal-i da'vâsına hücum göstereceklerdi."
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "text": "Hâlbuki, şu vak'aya dair siyer ve tarih, o vak'a ile münâsebetdâr küffarın adem-i vukû'una dair hiçbir şeyini nakletmemişlerdir. Yalnız; وَيَقُولُوا سِحْرٌ مُسْتَمِرٌّ âyetinin beyân ettiği gibi, tarihçe menkul olan şudur ki: O hâdiseyi gören küffar, “sihirdir” demişler ve “Bize sihir gösterdi. Eğer sâir taraflardaki kervan ve kafileler görmüşlerse hakikattir. Yoksa bize sihir etmiş.” demişler. Sonra sabahleyin Yemen ve başka taraflardan gelen kafileler ihbar ettiler ki: “Böyle bir hâdiseyi gördük.” Sonra küffar, Fahr-i Âlem (asm) hakkında (hâşâ!) “Yetîm-i Ebû Tâlib’in sihri semâya da te'sir etti!” dediler."
+      "parts": [
+        {
+          "text": "Hâlbuki, şu vak'aya dair siyer ve tarih, o vak'a ile münâsebetdâr küffarın adem-i vukû'una dair hiçbir şeyini nakletmemişlerdir. Yalnız; "
+        },
+        {
+          "text": "وَيَقُولُوا سِحْرٌ مُسْتَمِرٌّ",
+          "red": true
+        },
+        {
+          "text": " âyetinin beyân ettiği gibi, tarihçe menkul olan şudur ki: O hâdiseyi gören küffar, “sihirdir” demişler ve “Bize sihir gösterdi. Eğer sâir taraflardaki kervan ve kafileler görmüşlerse hakikattir. Yoksa bize sihir etmiş.” demişler. Sonra sabahleyin Yemen ve başka taraflardan gelen kafileler ihbar ettiler ki: “Böyle bir hâdiseyi gördük.” Sonra küffar, Fahr-i Âlem (asm) hakkında (hâşâ!) “Yetîm-i Ebû Tâlib’in sihri semâya da te'sir etti!” dediler."
+        }
+      ]
     },
     {
       "type": "heading",
@@ -1468,7 +1607,18 @@
     },
     {
       "type": "paragraph",
-      "text": "Ehl-i adâlet olan sahâbelerin, vukû'una icmâı‥ Ve ehl-i tahkîk umum müfessirlerin, وَانْشَقَّ الْقَمَرُ tefsirinde onun vukû'una ittifakı‥ Ve ehl-i rivâyet-i sâdıka bütün muhaddisînin, pek çok senedlerle ve muhtelif tarîklerle vukû'unu nakletmesi‥ Ve ehl-i keşf ve ilhâm bütün evliyâ ve sıddıkînin şehâdeti‥ Ve İlm-i Kelâmın meslekçe birbirinden çok uzak olan imâmların ve mütebahhir ulemânın tasdiki‥ Ve nass-ı kat'î ile dalâlet üzerine icmâları vâki olmayan Ümmet-i Muhammediye’nin o vak'ayı telâkki-i bilkabûl etmesi; güneş gibi İnşikak-ı Kamer’i isbât eder."
+      "parts": [
+        {
+          "text": "Ehl-i adâlet olan sahâbelerin, vukû'una icmâı‥ Ve ehl-i tahkîk umum müfessirlerin, "
+        },
+        {
+          "text": "وَانْشَقَّ الْقَمَرُ",
+          "red": true
+        },
+        {
+          "text": " tefsirinde onun vukû'una ittifakı‥ Ve ehl-i rivâyet-i sâdıka bütün muhaddisînin, pek çok senedlerle ve muhtelif tarîklerle vukû'unu nakletmesi‥ Ve ehl-i keşf ve ilhâm bütün evliyâ ve sıddıkînin şehâdeti‥ Ve İlm-i Kelâmın meslekçe birbirinden çok uzak olan imâmların ve mütebahhir ulemânın tasdiki‥ Ve nass-ı kat'î ile dalâlet üzerine icmâları vâki olmayan Ümmet-i Muhammediye’nin o vak'ayı telâkki-i bilkabûl etmesi; güneş gibi İnşikak-ı Kamer’i isbât eder."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -1499,17 +1649,23 @@
           "bold": true
         },
         {
-          "text": " عَلَيْهِ وَعَلٰى اٰلِهِ الصَّلَاةُ وَالتَّسْل۪يمَاتُ مِلْاَ الْاَرْضِ وَالسَّمٰوَاتِ"
+          "text": " "
+        },
+        {
+          "text": "عَلَيْهِ وَعَلٰى اٰلِهِ الصَّلَاةُ وَالتَّسْل۪يمَاتُ مِلْاَ الْاَرْضِ وَالسَّمٰوَاتِ",
+          "red": true
         }
       ]
     },
     {
       "type": "arabic",
-      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ"
+      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
+      "red": true
     },
     {
       "type": "arabic",
-      "text": "اَللّٰهُمَّ بِحَقِّ مَنِ انْشَقَّ الْقَمَرُ بِاِشَارَتِهِ اِجْعَلْ قَلْب۪ي وَقُلُوبَ طَلَبَةِ رَسَائِلِ النُّورِ الصَّادِق۪ينَ كَالْقَمَرِ ف۪ي مُقَابَلَةِ شَمْسِ الْقُرْاٰنِ اٰم۪ينَ اٰم۪ينَ"
+      "text": "اَللّٰهُمَّ بِحَقِّ مَنِ انْشَقَّ الْقَمَرُ بِاِشَارَتِهِ اِجْعَلْ قَلْب۪ي وَقُلُوبَ طَلَبَةِ رَسَائِلِ النُّورِ الصَّادِق۪ينَ كَالْقَمَرِ ف۪ي مُقَابَلَةِ شَمْسِ الْقُرْاٰنِ اٰم۪ينَ اٰم۪ينَ",
+      "red": true
     }
   ],
   "notes": [
