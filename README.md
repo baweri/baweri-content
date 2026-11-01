@@ -92,6 +92,8 @@ A block has either `text` (plain) or `parts`, for text with italic or bold runs 
 
 An `arabic` block with `"center": true` is set in the middle of the line, as the book prints it (the Risale-i Nur's standalone Arabic); others run from the right.
 
+`book.json` may name a `ref`, the commit its chapters are read from. The CDN serves a commit's files exactly, where `main`'s can stay old for a while after a change; so after changing chapters, commit them, then raise `version` and set `ref` to that commit in a second commit.
+
 `red` is for what the book itself prints in red, as the Risale-i Nur prints its Arabic: a part with `"red": true`, or an `arabic` block with `"red": true`. Other books leave it out, and their Arabic stays in the text's color.
 
 The app draws everything with its own fonts and colors, so the text carries no formatting beyond italic and bold.
