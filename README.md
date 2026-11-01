@@ -86,6 +86,7 @@ Each book is split into chapters, so the app only downloads what's being read.
 | `source` | a hadith's or quotation's source, small and grey |
 | `divider` | a break between sections (no text) |
 | `pageBreak` | what follows starts a new page, e.g. the text after a preface (no text) |
+| `title` | where the chapter's title goes, if not at its top, e.g. after a preface that comes first (no text) |
 
 A block has either `text` (plain) or `parts`, for text with italic or bold runs and footnote references: each part is `{ "text", "italic"?, "bold"?, "red"? }` or `{ "note": "<id>" }`, pointing at an entry in the chapter's `notes`.
 
