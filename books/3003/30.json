@@ -34,7 +34,8 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -89,7 +90,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$4e"
+      "text": "Evet nasıl ki, Risale-i Nur’un çok cüz'lerinde kat'î bürhânlarla isbât edilmiş ki, ism-i Hakem ve Hakîm’in bir cilvesi olan fiil-i tanzim ve nizâm; ve ism-i Adl ve Âdil’in bir cilvesi olan fiil-i tevzîn ve mîzan; ve ism-i Cemîl ve Kerîm’in bir cilvesi olan fiil-i tezyîn ve ihsân; ve ism-i Rab ve Rahîm’in bir cilvesi olan fiil-i terbiye ve in'âm; bu dâire-i a'zam-ı âlemde, herbiri bir tek hakikat ve bir tek fiil olduklarından, bir tek Zâtın vücûb-u vücûdunu ve vahdetini gösteriyorlar. Aynen öyle de; ism-i Kuddûs’ün bir mazharı ve bir cilvesi olan fiil-i tanzîf ve tathîr dahi, O Zât-ı Vâcibü'l-Vücûd’un hem güneş gibi mevcûdiyetini, hem gündüz gibi vahdâniyetini gösteriyorlar. Ve mezkûr tanzim, tevzîn, tezyîn, tanzîf misillû o ef'âl-i hakîmâne, a'zamî dâirede vahdet-i nev'iyeleri noktasında bir tek Sâni'-i Vâhid’i gösterdikleri gibi; Esmâ-i Hüsnâ’nın ekserîsinin, belki binbir esmânın herbirinin böyle birer cilve-i a'zamı, bu dâire-i a'zamda vardır. Ve o cilveden gelen fiil, büyüklüğü nisbetinde vuzûh ve kat'iyyetle Vâhid-i Ehad’i gösterir."
     },
     {
       "type": "paragraph",
@@ -97,7 +98,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$4f"
+      "text": "Eğer herbiri birer bürhân-ı bâhir-i Vahdâniyet olan o yüzer geniş fiillerden tek birisi Vâhid-i Ehad’e verilmezse, yüzer vecihte muhâller lâzım gelir. Meselâ; onlardan değil hikmet, inâyet, rahmet, iâşe, ihyâ gibi bedîhî hakikatler ve Vahdânî deliller, belki yalnız tanzîf fiili kâinât Hàlık’ına verilmezse, o vakit ehl-i dalâletin o meslek-i küfrîsinde lâzım gelir ki; ya tanzîf ile alâkadar zerreden, sinekten tut, tâ unsurlara, yıldızlara kadar bütün mahlûkatın herbiri, koca kâinâtın tezyîn ve tevzîn ve tanzim ve tanzîfini bilecek, düşünecek ve ona göre davranacak bir kàbiliyette olacak; veyâhut Hàlık-ı âlemin sıfât-ı kudsiyesi kendisinde bulunacak; veyâhut bu kâinâtın tezyînât ve tanzîfâtı ve vâridât ve masârifinin muvâzenelerini tanzim etmek için, kâinât büyüklüğünde bir meclis-i meşveret bulundurulacak ve hadsiz zerreler, sinekler, yıldızlar o meclisin âzâları olacak. Ve hâkezâ, bunlar gibi hurâfeli, safsatalı yüzer muhâller bulunacak. Tâ ki, her tarafta görünen ve müşâhede olunan umumî ve ihâtalı ulvî tezyîn ve tathîr ve tanzîf vücûd bulabilsin. Bu ise, bir muhâl değil, belki yüz bin muhâl ortaya girer."
     },
     {
       "type": "paragraph",
@@ -149,7 +150,8 @@
     {
       "type": "arabic",
       "text": "وَاِنْ مِنْ شَىْءٍ اِلَّا عِنْدَنَا خَزَٓائِنُهُ وَمَا نُنَزِّلُهُٓ اِلَّا بِقَدَرٍ مَعْلُومٍ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -168,7 +170,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$4e"
+      "text": "Şu kâinât öyle bir saraydır ki, o sarayda mütemâdiyen tahrib ve tamir içinde çalkanan bir şehir var. Ve o şehirde her vakit harb ve hicret içinde kaynayan bir memleket var. Ve o memlekette her zaman mevt ve hayat içinde yuvarlanan bir âlem var. Hâlbuki; o sarayda, o şehirde, o memlekette, o âlemde o derece hayret-engîz bir muvâzene, bir mîzan, bir tevzîn hükmediyor; bilbedâhe isbât eder ki, bu hadsiz mevcûdâtta olan hadsiz tahavvülât ve vâridât ve masârif, herbir ânda umum kâinâtı görür, nazar-ı teftişinden geçirir bir tek Zâtın mîzanıyla ölçülür, tartılır. Yoksa, balıklardan bir balık, bin yumurtacık ile ve nebâtâttan haşhaş gibi bir çiçek, yirmi bin tohum ile ve sel gibi akan unsurların, inkılâbların hücumuyla, şiddetle muvâzeneyi bozmaya çalışan ve istilâ etmek isteyen esbâb başıboş olsalardı veyâhut maksadsız, serseri tesâdüf ve mîzansız, kör kuvvete ve şuûrsuz, zulmetli tabiata havâle edilseydi, o muvâzene-i eşya ve muvâzene-i kâinât öyle bozulacaktı ki, bir senede, belki bir günde herc ü merc olurdu. Yani deniz karmakarışık şeylerle dolacaktı, taaffün edecekti. Hava gazât-ı muzırra ile zehirlenecekti. Zemin ise bir mezbele, bir mezbaha, bir bataklığa dönecekti. Dünya boğulacaktı."
     },
     {
       "type": "paragraph",
@@ -419,7 +421,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$53"
+      "text": "Onuncu Söz’de işâret edildiği gibi, bir Sâni'-i Hakîm ve gayet hikmetli bir usta, bir sarayın herbir taşında yüzer hikmeti hassâsiyetle takib etse, sonra o saraya dam yapmayıp, boşu boşuna harâb olmasıyla, takib ettiği hadsiz hikmetleri zâyi' etmesini hiçbir zîşuûr kabûl etmediği ve bir Hakîm-i Mutlak, kemâl-i hikmetinden, bir dirhem kadar bir çekirdekten yüzer batman faydaları, gayeleri, hikmetleri dikkatle takib ettiği hâlde, dağ gibi koca ağaca bir dirhem kadar bir tek fayda, bir tek küçük gaye, bir tek meyve vermek için o koca ağacın pek çok masârifini yapmakla, kendi hikmetine bütün bütün zıt ve muhâlif olarak, müsrifâne bir sefâhet irtikâb etmesi hiçbir cihetle imkânı olmadığı gibi; aynen öyle de, bu kâinât sarayının herbir mevcûdâtına yüzer hikmet takan ve yüzer vazife ile techiz eden, hattâ herbir ağaca meyveleri adedince hikmetler ve çiçekleri adedince vazifeler veren bir Sâni'-i Hakîm, kıyâmeti getirmemekle ve haşri yapmamakla, bütün bu had ve hesaba gelmeyen hikmetleri ve nihâyetsiz vazifeleri mânâsız, abes, boş, faydasız zâyi' etmesi, O Kadîr-i Mutlak’ın kemâl-i kudretine acz-i mutlak verdiği gibi, O Hakîm-i Mutlak’ın kemâl-i hikmetine hadsiz abesiyet ve faydasızlığı ve O Rahîm-i Mutlak’ın cemâl-i rahmetine nihâyetsiz çirkinliği ve O Âdil-i Mutlak’ın kemâl-i adâletine nihâyetsiz zulmü vermek demektir. Âdeta, kâinâtta herkese görünen hikmet, rahmet, adâleti inkâr etmektir. Bu ise, en acîb bir muhâldir ki, hadsiz bâtıl şeyler, içinde bulunur."
     },
     {
       "type": "paragraph",
@@ -467,7 +469,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$54"
+      "text": "İsm-i Hakem ve Hakîm, bedâhet derecesinde, Resûl-i Ekrem Aleyhissalâtü Vesselâm’ın risaletine delâlet ve istilzam ediyor denilebilir. Evet, mâdem gayet mânidâr bir kitab, onu ders verecek bir muallim ister. Ve gayet güzel bir cemâl, kendini görecek ve gösterecek bir ayna iktiza eder. Ve gayet kemâlde bir san'at, teşhîrci bir dellâl ister. Elbette, herbir harfinde yüzer mânâlar, hikmetler bulunan bu Kitab-ı Kebîr-i Kâinâtın muhâtabı olan nev'-i insan içinde, elbette bir rehber-i ekmel, bir muallim-i ekber bulunacak. Tâ ki, o kitapta bulunan kudsî ve hakîki hikmetleri ders verecek; belki kâinâttaki hikmetlerin vücûdunu bildirecek; belki kâinâtın hilkatindeki makàsıd-ı Rabbâniye’nin zuhûruna, belki husûlüne vesile olacak; ve umum kâinâtta Hàlık tarafından gayet ehemmiyetle izhârını irâde ettiği kemâl-i san'atını, cemâl-i esmâsını bildirecek, âyinedârlık edecek; ve O Hàlık, bütün mevcûdâtla Kendini sevdirmek ve zîşuûr mahlûklarından mukàbele istediğinden, o zîşuûrların nâmına birisi o geniş tezâhürat-ı Rubûbiyete karşı geniş bir ubûdiyet ile mukàbele edip, berr ve bahri cezbeye getirecek, semâvât ve arzı çınlatacak bir velvele-i teşhîr ve takdis ile, o zîşuûrların nazarını o san'atların Sâni'ine çevirecek; ve kudsî dersler ve ta'limâtla bütün ehl-i aklın kulaklarını kendine çevirecek bir Kur'ân-ı Azîmü'ş-Şân’la, O Sâni'-i Hakem-i Hakîm’in makàsıd-ı İlâhiye’sini en güzel bir sûrette gösterecek; ve bütün hikmetlerinin tezâhürüne ve tezâhürat-ı cemâliye ve celâliyesine karşı en ekmel bir mukàbele edecek bir Zât, güneşin vücûdu gibi bu kâinâta lâzımdır, zarûrîdir. Ve öyle eden ve en ekmel bir sûrette o vazifeleri yapan, bilmüşâhede, Resûl-i Ekrem Aleyhissalâtü Vesselâm’dır. Öyle ise; güneş ziyâyı, ziyâ gündüzü istilzam ettiği derecede, kâinâttaki hikmetler Risalet-i Ahmediye’yi istilzam eder."
     },
     {
       "type": "paragraph",
@@ -484,12 +486,14 @@
     {
       "type": "arabic",
       "text": "عَلَيْهِ وَعَلٰى اٰلِهِ وَصَحْبِهِ الصَّلَاةُ وَالسَّلَامُ بِعَدَدِ عَاشِرَاتِ الْاَيَّامِ وَذَرَّاتِ الْاَنَامِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "divider"
@@ -501,7 +505,8 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -552,7 +557,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$55"
+      "text": "Zeminin yüzünde mâdenî maddelerin, unsurların ve câmidât mahlûkatın gayet muntazam, fakat gizli sikkelerinden kat'-ı nazar, yalnız iki yüz bin hayvanat tâifelerinin ve iki yüz bin nebâtât envâ'ının atkı ipleriyle dokunan nakışlı şu sikkeye bak ki: Birden bahar mevsiminde, zeminin yüzünde, birbiri içinde, beraber, ayrı ayrı şekilleri, ayrı ayrı hizmetleri, ayrı ayrı rızıkları, ayrı ayrı cihâzâtları; hiçbirini şaşırmayarak, yanlış etmeyerek, nihâyet karışıklık içinde nihâyet derecede temyiz ve tefrik ile, gayet hassas bir mîzanla, herbir şeye lâzım olan herşeyleri külfetsiz, tam vaktinde, umulmadığı yerden verildiğini gözümüzle gördüğümüzden, zeminin sîmâsında o keyfiyet, o tedbir, o idare öyle bir Hâtem-i Vahdâniyet ve öyle bir Sikke-i Ehadiyet’tir ki; bütün o mevcûdâtı birden, hiçten icâd edip beraber idare etmeyen bir zât, rubûbiyet ve icâd cihetiyle hiçbir şeye karışamaz. Çünkü karışmış olsa, o hadsiz geniş muvâzene-i idare bozulacak. Fakat insanların o kavânîn-i Rubûbiyetin hüsn-ü cereyanlarına, yine emr-i İlâhî ile, sûrî bir hizmeti var."
     },
     {
       "type": "heading",
@@ -786,7 +791,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$56"
+      "text": "Evet, kâinâtın envâ'ları birbiri içine girift olması ve kenetleşmesi ve herbirinin vazifesi umuma baktığı cihetle, kâinâtı, Rubûbiyet ve icâd noktasında tecezzî kabûl etmez bir küll hükmüne getirdiği misillû; kâinâtta fa'âliyet gösteren ef'âl-i umumiye-i muhîta dahi, birbirinin içinde tedâhül cihetiyle, yani, meselâ hayat vermek fiili içinde, aynı ânda iâşe ve terzîk fiili görünüyor. Ve o iâşe, ihyâ fiilleri içinde, aynı zamanda o zîhayatın cesedini tanzim, techiz fiilleri müşâhede olunuyor. Ve o iâşe, ihyâ, tanzim, techiz fiilleri içinde; aynı vakitte tasvir, terbiye ve tedbir fiilleri nazara çarpıyor. Ve hâkezâ, böyle muhît ve umumî ef'âlin birbiri içine tedâhülü ve girift olması ve ziyâdaki yedi renk gibi imtizaç, belki ittihâd etmesi haysiyetiyle ve o ef'âlin herbiri mâhiyetçe bir birlik ve vahdet içinde ekser mevcûdâta ihâtası ve şümûlü ve Vahdânî birer fiil olduğundan, herhalde fâilinin bir tek Zât olması ve herbiri umum kâinâtı istilâ etmesi ve sâir ef'âl ile muâvenetdârâne birleşmesi itibariyle, kâinâtı tecezzî kabûl etmez bir küll hükmüne getirdiği gibi; zîhayat mahlûkların herbirisi, kâinâtın bir çekirdeği, bir fihristesi, bir nümûnesi hükmünde olduğundan, kâinâtı, Rubûbiyet noktasında tecezzî ve inkısamı imkân haricinde bir küllî hükmüne getirmiştir."
     },
     {
       "type": "paragraph",
@@ -901,7 +906,8 @@
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "divider"
@@ -913,7 +919,8 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -1108,7 +1115,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$54"
+      "text": "Hayatın yirmisekizinci hàssasında beyân edilmiştir ki: Hayat, îmânın altı erkânına bakıp isbât ediyor; onların tahakkukuna işâretler ediyor. Evet, mâdem bu kâinâtın en mühim neticesi ve mâyesi ve hikmet-i hilkati hayattır; elbette o hakikat-i àliye, bu fânî, kısacık, noksan, elemli hayat-ı dünyeviyeye münhasır değildir. Belki, hayatın yirmi dokuz hàssasıyla mâhiyetinin azameti anlaşılan şecere-i hayatın gayesi, neticesi ve o şecerenin azametine lâyık meyvesi, hayat-ı ebediyedir ve hayat-ı uhreviyedir; taşıyla ve ağacıyla, toprağıyla hayatdâr olan dâr-ı saâdetteki hayattır. Yoksa, bu hadsiz cihâzât-ı mühimme ile techiz edilen hayat şeceresi, zîşuûr hakkında, hususan insan hakkında, meyvesiz, faydasız, hakikatsiz olmak lâzım gelecek. Ve sermâyece ve cihâzâtça serçe kuşundan meselâ, yirmi derece ziyâde ve bu kâinâtın ve zîhayatın en mühim, yüksek ve ehemmiyetli mahlûku olan insan, serçe kuşundan, saâdet-i hayat cihetinde yirmi derece aşağı düşüp, en bedbaht, en zelîl bir bîçâre olacak. Hem en kıymetdâr bir ni'met olan akıl dahi, geçmiş zamanın hüzünlerini ve gelecek zamanın korkularını düşünmekle kalb-i insanı mütemâdiyen incitip bir lezzete dokuz elemleri karıştırdığından, en musîbetli bir belâ olur. Bu ise yüz derece bâtıldır."
     },
     {
       "type": "paragraph",
@@ -1149,11 +1156,11 @@
     },
     {
       "type": "paragraph",
-      "text": "$55"
+      "text": "Hem hayat, “melâikeye îmân” rüknüne dahi bakar, remzen isbât eder. Çünkü; mâdem kâinâtta en mühim netice hayattır ve en ziyâde intişar eden ve kıymetdârlığı için nüshaları teksir edilen ve zemin misâfirhânesini gelip geçen kafilelerle şenlendiren zîhayatlardır; ve mâdem küre-i arz bu kadar zîhayatın envâ'ıyla dolmuş ve mütemâdiyen zîhayat envâ'larını tecdîd ve teksir etmek hikmetiyle, her vakit dolar boşanır ve en hasîs ve çürümüş maddelerinde dahi kesretle zîhayatlar halk edilerek bir mahşer-i huveynât oluyor; ve mâdem hayatın süzülmüş en sâfî hülâsası olan şuûr ve akıl ve en latîf ve sâbit cevheri olan rûh, bu küre-i arzda gayet kesretli bir sûrette halk olunuyorlar; âdeta küre-i arz, hayat ve akıl ve şuûr ve ervâh ile ihyâ olup öyle şenlendirilmiş. Elbette küre-i arzdan daha latîf, daha nurânî, daha büyük, daha ehemmiyetli olan ecrâm-ı semâviye, ölü, câmid, hayatsız, şuûrsuz kalması imkân haricindedir. Demek gökleri, güneşleri, yıldızları şenlendirecek ve hayatdâr vaziyetini verecek ve netice-i hilkat-i semâvâtı gösterecek ve Hitâbât-ı Sübhâniyeye mazhar olacak olan zîşuûr, zîhayat ve semâvâta münâsib sekeneler, herhalde sırr-ı hayatla bulunuyorlar ki; onlar da melâikelerdir."
     },
     {
       "type": "paragraph",
-      "text": "$56"
+      "text": "Hem hayatın sırr-ı mâhiyeti “peygamberlere îmân” rüknüne bakıp remzen isbât eder. Evet, mâdem kâinât hayat için yaratılmış ve hayat dahi Hayy-ı Kayyûm-u Ezelî’nin bir cilve-i a'zamıdır, bir nakş-ı ekmelidir, bir san'at-ı ecmelidir. Mâdem Hayat-ı Sermediye, resûllerin gönderilmesiyle ve kitapların indirilmesiyle kendini gösterir. (Evet, eğer kitaplar ve peygamberler olmazsa, o Hayat-ı Ezeliye bilinmez. Nasıl ki, bir adamın söylemesiyle diri ve hayatdâr olduğu anlaşılır; öyle de, bu kâinâtın perdesi altında olan âlem-i gaybın arkasında söyleyen, konuşan, emir ve nehyedip hitâb eden bir Zâtın kelimâtını, hitâbâtını gösterecek, peygamberler ve ellerinde nâzil olan kitaplardır.) Elbette kâinâttaki hayat, kat'î bir sûrette Hayy-ı Ezelî’nin vücûb-u vücûduna kat'î şehâdet ettiği gibi; o Hayat-ı Ezeliyenin şuââtı, celevâtı, münâsebâtı olan “irsâl-i rusül” ve “inzâl-i kütüb” rükünlerine bakar, remzen isbât eder. Ve bilhassa risalet-i Muhammediye (asm) ve vahy-i Kur'ânî, hayatın rûhu ve aklı hükmünde olduğundan, bu hayatın vücûdu gibi hakkâniyetleri kat'îdir denilebilir."
     },
     {
       "type": "paragraph",
@@ -1237,37 +1244,44 @@
     {
       "type": "arabic",
       "text": "يَا حَىُّ قَبْلَ كُلِّ حَىٍّ ❋يَا حَىُّ بَعْدَ كُلِّ حَىٍّ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "يَا حَىُّ الَّذ۪ي لَا يُشْبِهُهُ شَىْءٌ ❋يَا حَىُّ الَّذ۪ي لَيْسَ كَمِثْلِهِ حَىٌّ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "يَا حَىُّ الَّذ۪ي لَا يُشَارِكُهُ حَىٌّ ❋يَا حَىُّ الَّذ۪ي لَا يَحْتَاجُ اِلٰى حَىٍّ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "يَا حَىُّ الَّذ۪ي يُم۪يتُ كُلَّ حَىٍّ ❋يَا حَىُّ الَّذ۪ي يَرْزُقُ كُلَّ حَىٍّ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "يَا حَىُّ الَّذ۪ي يُحْيِي الْمَوْتٰى ❋يَا حَىُّ الَّذ۪ي لَا يَمُوتُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ يَا لَٓا اِلٰهَ اِلَّا اَنْتَ الْاَمَانُ الْاَمَانُ نَجِّنَا مِنَ النَّارِ اٰم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "divider"
@@ -1313,7 +1327,8 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -1513,7 +1528,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$53"
+      "text": "Hem, insanların bir kısmı, güyâ daha ileri görüyor gibi, daha ziyâde câhilâne bir dalâletle, Sâni'-i Zülcelâl’in gayet latîf, nâzenîn, mutî', musahhar bir sahife-i icraatı ve emirlerinin bir vâsıta-i nakliyâtı ve zaîf bir perde-i tasarrufâtı ve latîf bir midâd-ı (mürekkeb) kitabeti ve en nâzenîn bir hulle-i icâdâtı ve bir mâye-i masnûâtı ve bir mezraa-i hubûbatı olan “esîr” maddesini, cilve-i Rubûbiyetine âyinedârlık ettiği için, masdar ve fâil tevehhüm etmişler. Bu acîb cehâlet, hadsiz muhâlleri istilzam ediyor. Çünkü esîr maddesi; maddiyûnları boğduran zerrât maddesinden daha latîf ve eski hükemânın saplandığı heyûlâ fihristesinden daha kesif, ihtiyarsız, şuûrsuz, câmid bir maddedir. Bu hadsiz bir sûrette tecezzî ve inkısam eden ve nâkillik ve infiâl hàssasıyla ve vazifesiyle techiz edilen bu maddeye, belki o maddenin zerreden çok derece daha küçük olan zerrelerine, herşeyde herşeyi görecek, bilecek, idare edecek bir ihtiyar ve bir iktidar ile vücûd bulan fiilleri, eserleri isnâd etmek, esîrin zerreleri adedince yanlıştır."
     },
     {
       "type": "paragraph",
@@ -2480,12 +2495,14 @@
     {
       "type": "arabic",
       "text": "يَا اَللّٰهُ ، يَا رَحْمٰنُ ، يَا رَح۪يمُ ، يَا فَرْدُ ، يَا حَىُّ ، يَا قَيُّومُ ، يَا حَكَمُ ، يَا عَدْلُ ، يَا قُدُّوسُ ، نَسْئَلُكَ بِحَقِّ فُرْقَانِكَ الْحَك۪يمِ وَبِحُرْمَةِ حَب۪يبِكَ الْاَكْرَمِ ، وَبِحَقِّ اَسْمَائِكَ الْحُسْنٰى وَبِحُرْمَةِ اِسْمِكَ الْاَعْظَمِ ، اَنْ تَحْفَظَنَا مِنْ شَرِّ النَّفْسِ وَالشَّيْطَانِ وَمِنْ شَرِّ الْجِنِّ وَالْاِنْسَانِ اٰم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     }
   ],
   "notes": [

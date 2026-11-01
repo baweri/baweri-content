@@ -9,12 +9,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اِنَّ ف۪ي خَلْقِ السَّمٰوَاتِ وَالْاَرْضِ وَاخْتِلَافِ الَّيْلِ وَالنَّهَارِ وَالْفُلْكِ الَّت۪ي تَجْر۪ي فِي الْبَحْرِ بِمَا يَنْفَعُ النَّاسَ وَمَٓا اَنْزَلَ اللّٰهُ مِنَ السَّمَٓاءِ مِنْ مَٓاءٍ فَاَحْيَا بِهِ الْاَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ ف۪يهَا مِنْ كُلِّ دَٓابَّةٍ وَتَصْر۪يفِ الرِّيَاحِ وَالسَّحَابِ الْمُسَخَّرِ بَيْنَ السَّمَٓاءِ وَالْاَرْضِ لَاٰيَاتٍ لِقَوْمٍ يَعْقِلُونَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "heading",
@@ -533,7 +535,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$50"
+      "text": "Hem nasıl ki, onlar Senin vücûb-u vücûduna ve vahdetine şehâdet ediyorlar; öyle de, rû-yi zeminde dört yüz bin milletlerden teşekkül eden zîhayat ordusundaki hadsiz efrâdın yüz binler tarzda iâşe ve idareleri; şaşırmayarak, karıştırmayarak mükemmel yapılmasıyla, Senin rubûbiyetinin vahdâniyetteki haşmetine ve bir baharı bir çiçek kadar kolay icâd eden kudretinin azametine ve herşeye taallukuna delâlet ettikleri gibi; koca zeminin her tarafında, hadsiz hayvanatına ve insanlara, hadsiz taamların çeşit çeşit aksâmını ihzar eden rahmetinin hadsiz genişliğine ve o hadsiz işler ve in'âmlar ve idareler ve iâşeler ve icraatlar kemâl-i intizamla cereyanları ve herşey, hattâ zerreler o emirlere ve icraata itâat ve musahhariyetleriyle, hâkimiyetinin hadsiz vüs'atine kat'î delâlet etmekle beraber; o ağaçların ve nebâtların ve herbir yaprak ve çiçek ve meyve ve kök ve dal ve budak gibi herbirisinin herbir şeyini, herbir işini bilerek, görerek fâidelere, maslahatlara, hikmetlere göre yapılmakla, Senin ilminin herşeye ihâtasına ve hikmetinin herşeye şümûlüne pek zâhir bir sûrette delâlet ve hadsiz parmaklarıyla işâret ederler. Ve Senin gayet kemâldeki cemâl-i san'atına ve nihâyet cemâldeki kemâl-i ni'metine hadsiz dilleriyle senâ ve medhederler."
     },
     {
       "type": "paragraph",
@@ -740,7 +742,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$50"
+      "text": "Hem nasıl ki, bu kâinâtı, zîrûha, hususan insana mükemmel bir saray hükmüne getiren ve Cennet’i ve saâdet-i ebediyeyi cin ve inse ihzar eden ve en küçük bir zîhayatı unutmayan ve en âciz bir kalbin tatminine ve taltifine çalışan rahmetinin hadsiz genişliğini ve zerrâttan tâ seyyârâta kadar bütün envâ'-ı mahlûkatı emirlerine itâat ettiren ve teshìr ve tavzif eden hâkimiyetinin nihâyetsiz vüs'atini haber vererek, mu'cizât ve hüccetleriyle isbât ederler; öyle de, kâinâtı, eczâları adedince risaleler içinde bulunan bir kitab-ı kebîr hükmüne getiren ve Levh-i Mahfûz’un defterleri olan İmâm-ı Mübîn ve Kitab-ı Mübîn’de, bütün mevcûdâtın bütün sergüzeştlerini kaydedip yazan ve umum çekirdeklerde umum ağaçlarının fihristlerini ve programlarını ve zîşuûrun başlarında bütün kuvve-i hâfızalarda, sâhiblerinin tarihçe-i hayatlarını yanlışsız, muntazaman yazdıran ilminin herşeye ihâtasına ve herbir mevcûda çok hikmetleri takan, hattâ herbir ağaçta meyveleri sayısınca neticeleri verdiren ve herbir zîhayatta a'zâları, belki eczâları ve hüceyrâtları adedince maslahatları takib eden, hattâ insanın lisânını çok vazifelerde tavzif etmekle beraber, taamların tatları adedince zevkî olan mîzancıklar ile techiz ettiren hikmet-i kudsiyenin herbir şeye şümûlüne; hem bu dünyada nümûneleri görülen celâlî ve cemâlî isimlerinin tecellîleri daha parlak bir sûrette ebedü'l-âbâdda devam edeceğine ve bu fânî âlemde nümûneleri müşâhede edilen ihsânatının daha şa'şaalı bir sûrette dâr-ı saâdette istimrarına ve bekàsına ve bu dünyada onları gören müştâkların ebedde dahi refâkatlerine ve beraber bulunmalarına bil'icmâ, bil'ittifak şehâdet ve delâlet ve işâret ederler."
     },
     {
       "type": "paragraph",
@@ -812,12 +814,14 @@
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَاٰخِرُ دَعْوٰيهُمْ اَنِ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "divider"

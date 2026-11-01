@@ -13,7 +13,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -239,7 +240,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -276,7 +278,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Kardeşiniz Said Nursî",
+          "text": "Kardeşiniz \n"
+        },
+        {
+          "text": "Said Nursî",
           "bold": true
         }
       ]
@@ -376,7 +381,8 @@
     {
       "type": "arabic",
       "text": "لَا يَعْلَمُ الْغَيْبَ اِلَّا اللّٰهُرَبَّنَا لَاتُؤَاخِذْنَٓا اِنْ نَس۪ينَٓا اَوْ اَخْطَأْنَا",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -652,7 +658,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -953,7 +960,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -2059,7 +2067,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -2123,7 +2132,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -2168,12 +2178,14 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -2277,12 +2289,14 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -2568,7 +2582,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -2732,7 +2747,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -2934,7 +2950,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -2956,7 +2973,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Evet, doğrudur. Feyzi",
+          "text": "Evet, doğrudur. \n"
+        },
+        {
+          "text": "Feyzi",
           "bold": true
         }
       ]
@@ -2977,7 +2997,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Evet, doğrudur. Ali Rıza",
+          "text": "Evet, doğrudur. \n"
+        },
+        {
+          "text": "Ali Rıza",
           "bold": true
         }
       ]
@@ -2998,7 +3021,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Evet, doğrudur. Ziya",
+          "text": "Evet, doğrudur. \n"
+        },
+        {
+          "text": "Ziya",
           "bold": true
         }
       ]
@@ -3019,7 +3045,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Evet, doğrudur. Mahmud",
+          "text": "Evet, doğrudur. \n"
+        },
+        {
+          "text": "Mahmud",
           "bold": true
         }
       ]
@@ -3040,7 +3069,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Evet, doğrudur.Süleyman",
+          "text": "Evet, doğrudur.\n"
+        },
+        {
+          "text": "Süleyman",
           "bold": true
         }
       ]
@@ -3073,7 +3105,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Evet, doğrudur.Hamza",
+          "text": "Evet, doğrudur.\n"
+        },
+        {
+          "text": "Hamza",
           "bold": true
         }
       ]
@@ -3156,7 +3191,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -3206,7 +3242,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -3258,12 +3295,14 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "quote",
@@ -3318,7 +3357,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -3355,7 +3395,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -3400,7 +3441,8 @@
     {
       "type": "arabic",
       "text": "اَلصَّبْرُ مِفْتَاحُ الْفَرَجِ وَالسُّرُورِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "divider"
@@ -3412,7 +3454,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -3500,7 +3543,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -3537,7 +3581,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -3612,7 +3657,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -3731,7 +3777,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",

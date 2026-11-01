@@ -15,17 +15,20 @@
     {
       "type": "arabic",
       "text": "اَعُوذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّج۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "تَنَزَّلُ الْمَلٰٓئِكَةُ وَالرُّوحُ ف۪يهَا بِاِذْنِ رَبِّهِمْقُلِ الرُّوحُ مِنْ اَمْرِ رَبّ۪ي",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -180,7 +183,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$4c"
+      "text": "İki adam… Biri bedevî, vahşî; biri medenî, aklı başında olarak arkadaş olup İstanbul gibi haşmetli bir şehre gidiyorlar. O medenî muhteşem şehrin uzak bir köşesinde pis, perîşan küçük bir hâneye, bir fabrikaya rast geliyorlar. Görüyorlar ki, o hâne; amele, sefil, miskin adamlarla doludur. Acîb bir fabrika içinde çalışıyorlar. O hânenin etrafı da zîrûh ve zîhayatlarla doludur. Fakat onların medâr-ı taayyüşü ve hususî şerâit-i hayatiyeleri vardır ki, onların bir kısmı, âkilü'n-nebâttır, yalnız nebâtât ile yaşıyorlar. Diğer bir kısmı, âkilü's-semektir, balıktan başka bir şey yemiyorlar. O iki adam, bu hâli görüyorlar, bakıyorlar ki; uzakta, binler müzeyyen saraylar, àlî kasırlar görünüyor. O sarayların ortalarında geniş tezgâhlar ve vüs'atli meydânlar vardır. O iki adam, uzaklık sebebiyle veyâhut göz zaîfliğiyle veya o sarayın sekenelerinin gizlenmesi sebebiyle o sarayın sekeneleri, o iki adama görünmüyorlar. Hem, şu perîşan hânedeki şerâit-i hayatiye, o saraylarda bulunmuyor. O vahşî, bedevî, hiç şehir görmemiş adam, bu esbâba binâen görünmediklerinden ve buradaki şerâit-i hayat orada bulunmadığından der: “O saraylar, sekenelerden hàlîdir, boştur; zîrûh, içinde yoktur.” der, vahşetin en ahmakça bir hezeyanını yapar. İkinci adam der ki: “Ey bedbaht! Şu hakîr, küçük hâneyi görüyorsun ki, zîrûh ile, amelelerle doldurulmuş… Ve biri var ki, bunları her vakit tazelendiriyor, istihdam ediyor. Bak, bu hâne etrafında boş bir yer yoktur; zîhayat ve zîrûh ile doldurulmuştur. Acaba hiç mümkün müdür ki; şu uzakta bize görünen şu muntazam şehrin, şu hikmetli tezyînâtın, şu san'atlı sarayların onlara münâsib àlî sekeneleri bulunmasın! Elbette o saraylar, umumen doludur ve onlarda yaşayanlara göre başka şerâit-i hayatiyeleri var. Evet, ot yerine belki börek yerler; balık yerine baklava yiyebilirler. Uzaklık sebebiyle veya gözünün kàbiliyetsizliği veya onların gizlenmekliği ile görünmemeleri, onların olmamalarına, hiçbir vakit delil olamaz."
     },
     {
       "type": "paragraph",
@@ -1602,17 +1605,20 @@
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "رَبَّنَا لَا تُؤٰاخِذْنَٓا اِنْ نَس۪ينَٓا اَوْ اَخْطَأْنَا",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى اٰلِ سَيِّدِنَا مُحَمَّدٍ كَمَا صَلّيْتَ عَلٰى سَيِّدِنَا اِبْرٰه۪يمَ وَعَلٰى اٰلِ سَيِّدِنَا اِبْرٰه۪يمَ اِنَّكَ حَم۪يدٌ مَج۪يدٌ",
-      "red": true
+      "red": true,
+      "center": true
     }
   ],
   "notes": [

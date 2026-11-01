@@ -18,7 +18,8 @@
     {
       "type": "arabic",
       "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -27,12 +28,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَبَشِّرِ الصَّابِر۪ينَ ❋ اَلَّذ۪ينَ اِذَٓا اَصَابَتْهُمْ مُص۪يبَةٌ قَالُٓوا اِنَّا لِلّٰهِ وَاِنَّٓا اِلَيْهِ رَاجِعُونَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -81,7 +84,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$4f"
+      "text": "Bir zaman, bir zât, bir zindânda bulunuyor. Sevimli bir çocuğu yanına gönderilmiş. O bîçâre mahpus, hem kendi elemini çekiyor, hem veledinin istirahatini te'min edemediği için, onun zahmetiyle müteellim oluyordu. Sonra merhametkâr hâkim ona bir adam gönderir, der ki: “Şu çocuk çendan senin evlâdındır, fakat benim raiyetim ve milletimdir. Onu ben alacağım, güzel bir sarayda beslettireceğim.” O adam ağlar, sızlar: “Benim medâr-ı tesellîm olan evlâdımı vermeyeceğim” der. Ona arkadaşları der ki: “Senin teessürâtın mânâsızdır. Eğer sen çocuğa acıyorsan, çocuk şu mülevves, ufûnetli, sıkıntılı zindâna bedel; ferâhlı, saâdetli bir saraya gidecek. Eğer sen nefsin için müteessir oluyorsan, menfaatini arıyorsan; çocuk burada kalsa, muvakkaten şübheli bir menfaatinle beraber, çocuğun meşakkatlerinden çok sıkıntı ve elem çekmek var. Eğer oraya gitse, sana bin menfaati var. Çünkü pâdişahın merhametini celbe sebeb olur, sana şefâatçi hükmüne geçer. Pâdişah, onu seninle görüştürmek arzu edecek. Elbette görüşmek için onu zindâna göndermeyecek, belki seni zindândan çıkarıp o saraya celbedecek, çocukla görüştürecek. Şu şartla ki, pâdişaha emniyetin ve itâatin varsa…”"
     },
     {
       "type": "paragraph",
@@ -169,8 +172,10 @@
       "parts": [
         {
           "text": "اَلْبَاق۪ي هُوَ الْبَاق۪ي",
-          "bold": true,
           "red": true
+        },
+        {
+          "text": "\n"
         },
         {
           "text": "Said Nursî",

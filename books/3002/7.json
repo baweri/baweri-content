@@ -5,17 +5,20 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ اَبَدًا دَائِمًا",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -135,8 +138,10 @@
       "parts": [
         {
           "text": "اَلْبَاق۪ي هُوَ الْبَاق۪ي",
-          "bold": true,
           "red": true
+        },
+        {
+          "text": "\n"
         },
         {
           "text": "Said Nursî",

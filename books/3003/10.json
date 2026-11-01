@@ -5,7 +5,8 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -224,7 +225,14 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Pür-kusur Şamlı Hâfız Tevfik",
+          "text": "Pür-kusur",
+          "bold": true
+        },
+        {
+          "text": "\n \n"
+        },
+        {
+          "text": "Şamlı Hâfız Tevfik",
           "bold": true
         }
       ]
@@ -281,7 +289,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Ez'afü'l-İbâdHâfız Hâlid",
+          "text": "Ez'afü'l-İbâd\n"
+        },
+        {
+          "text": "Hâfız Hâlid",
           "bold": true
         }
       ]
@@ -341,7 +352,7 @@
           "bold": true
         },
         {
-          "text": "$56"
+          "text": " Kuleönü’ndeki kıymetdâr, çalışkan, mühim bir talebem olan Mustafa ile, onun çok sâdık ve fedâkâr arkadaşı Hâfız Mustafa’dır (rh). Ben bayramdan sonra, ehl-i dünya bize sıkıntı verip Hizmet-i Kur'âniye’ye fütûr vermemek için, “Şimdilik gelmesinler”, diye haber göndermiştim. “Şâyet gelecek olurlarsa birer birer gelsinler.” Hâlbuki bunlar, üç adam birden, bir gece geldiler. Fecirden evvel hava müsâidse gitmek niyet edildi. Hiç vukû' bulmadığı bir tarzda, hem Mustafa Çavuş, hem Süleyman Efendi, hem ben, hem onlar, zâhir bir tedbiri düşünemedik, bize unutturuldu. Herbirimiz ötekine bırakıp ihtiyatsızlık etti. Onlar fecirden evvel gittiler. Öyle bir fırtına onları iki saat mütemâdiyen tokatladı ki, bu fırtınadan kurtulmayacaklar diye telâş ettim. Şimdiye kadar bu kışta ne öyle bir fırtına olmuş ve ne de bu kadar kimseye acımıştım. Sonra Süleyman’ı, ihtiyatsızlığının cezası olarak arkalarından gönderip, sıhhat ve selâmetlerini anlamak için gönderecektim. Mustafa Çavuş dedi: “O gitse, o da kalacak. Ben de onun arkasından gidip aramak lâzım. Benim arkamdan da Abdullâh Çavuş gelmek lâzım.” Bu hususta “Tevekkelnâ Alallâh” dedik, intizar ettik."
         }
       ]
     },
@@ -410,7 +421,8 @@
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     }
   ],
   "notes": [

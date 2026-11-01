@@ -5,12 +5,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "الٓرٰ كِتَابٌ اُحْكِمَتْ اٰيَاتُهُ ثُمَّ فُصِّلَتْ مِنْ لَدُنْ حَك۪يمٍ خَب۪يرٍ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "quote",
@@ -304,12 +306,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَمَا الْحَيٰوةُ الدُّنْيَٓا اِلَّا مَتَاعُ الْغُرُورِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -398,12 +402,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اِذَا زُلْزِلَتِ الْاَرْضُ زِلْزَالَهَا ❋ وَاَخْرَجَتِ الْاَرْضُ اَثْقَالَهَا ❋ وَقَالَ الْاِنْسَانُ مَا لَهَا ❋ يَوْمَئِذٍ تُحَدِّثُ اَخْبَارَهَا ❋ بِاَنَّ رَبَّكَ اَوْحٰى لَهَا ❋ …اِلخ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -626,7 +632,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$49"
+      "text": "Meselâ: Bu âhirde beşerin bir derece umumiyet şeklini alan zulümlü, zulümâtlı isyanından, kâinât ve anâsır-ı külliye kızdıklarından ve Hàlık-ı arz ve semâvât dahi, değil hususî bir Rubûbiyet, belki bütün kâinâtın, bütün âlemlerin Rabbi ve Hâkim’i haysiyetiyle, küllî ve geniş bir tecellî ile kâinâtın hey'et-i mecmuasında ve Rubûbiyet’in dâire-i külliyesinde nev'-i insanı uyandırmak ve dehşetli tuğyanından vazgeçirmek ve tanımak istemedikleri kâinât Sultan’ını tanıttırmak için emsâlsiz, kesilmeyen bir su, hava ve elektrikten; zelzeleyi, fırtınayı ve Harb-i Umumî gibi umumî ve dehşetli âfâtı, nev'-i insanın yüzüne çarparak onunla hikmetini, kudretini, adâletini, kayyûmiyetini, irâdesini ve hâkimiyetini pek zâhir bir sûrette gösterdiği hâlde; insan sûretinde bir kısım ahmak şeytanlar ise, o küllî işârât-ı Rabbâniye’ye ve terbiye-i İlâhiye’ye karşı eblehâne bir temerrüd ile mukàbele edip diyorlar ki: “Tabiattır; bir mâdenin patlamasıdır, tesâdüfîdir. Güneş’in harâreti elektrikle çarpmasıdır ki, Amerika’da beş saat bütün makineleri durdurmuş ve Kastamonu Vilâyeti cevvinde ve havasında semâyı kızartmış, yangın sûretini vermiş.” diye mânâsız hezeyanlar ediyorlar."
     },
     {
       "type": "paragraph",
@@ -703,7 +709,8 @@
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     }
   ],
   "notes": [

@@ -5,12 +5,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَلَّذ۪ينَ يُؤْمِنُونَ بِالْغَيْبِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",

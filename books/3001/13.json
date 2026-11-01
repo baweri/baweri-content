@@ -21,17 +21,20 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَنُنَزِّلُ مِنَ الْقُرْاٰنِ مَا هُوَ شِفَٓاءٌ وَرَحْمَةٌ لِلْمُؤْمِن۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَمَا عَلَّمْنَاهُ الشِّعْرَ وَمَا يَنْبَغ۪ي لَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -70,7 +73,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$47"
+      "text": "Âyetlerinin herbir necmi, vezin kaydı altına girmeyip, tâ ekser âyetlere bir nev'i merkez olsun ve kardeşi olsun ve mâbeynlerinde mevcûd münâsebet-i maneviyeye râbıta olmak için, o dâire-i muhîta içindeki âyetlere birer hatt-ı münâsebet teşkil etmesidir. Güyâ serbest herbir âyetin, ekser âyetlere bakar birer gözü, müteveccih birer yüzü var. Kur'ân içinde binler Kur'ân bulunur ki; herbir meşreb sâhibine birisini verir. Nasıl ki, Yirmibeşinci Söz’de beyân edildiği gibi, Sûre-i İhlâs içinde otuz altı Sûre-i İhlâs mikdarınca herbiri zi'l-ecniha olan altı cümlenin terkîbâtından müteşekkil bir hazine-i ilm-i tevhid bulunuyor ve tazammun ediyor. Evet, nasıl ki semâda olan intizamsız yıldızların sûreten adem-i intizamı cihetiyle herbir yıldız, kayd altına girmeyip herbirisi ekser yıldızlara bir nev'i merkez olarak dâire-i muhîtasındaki – birer birer – herbir yıldıza, mevcûdât beynindeki nisbet-i hafiyeye işâret olarak, birer hatt-ı münâsebet uzatıyor. Güyâ herbir tek yıldız, necm-i âyet gibi umum yıldızlara bakar birer gözü, müteveccih birer yüzü vardır."
     },
     {
       "type": "paragraph",
@@ -231,7 +234,8 @@
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ يَا مُنَزِّلَ الْقُرْاٰنِ بِحَقِّ الْقُرْاٰنِ وَبِحَقِّ مَنْ اُنْزِلَ عَلَيْهِ الْقُرْاٰنُ نَوِّرْ قُلُوبَنَا وَقُبُورَنَا بِنُورِ الْا۪يمَانِ وَالْقُرْاٰنِ اٰم۪ينَ يَا مُسْتَعَانُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "divider"
@@ -247,7 +251,8 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "heading",
@@ -504,7 +509,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -593,7 +599,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -685,17 +692,20 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ اَبَدًا دَائِمًا",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -758,7 +768,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -803,7 +814,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$51"
+      "text": "Nev'-i beşer; bu son Harb-i Umumî’nin eşedd-i zulüm ve eşedd-i istibdâdı ile‥ ve merhametsiz tahribâtı ile‥ ve bir tek düşmanın yüzünden yüzer masûmu perîşan etmesiyle‥ ve mağlûbların dehşetli me'yûsiyetleriyle‥ ve gâliblerin dehşetli telâş ve hâkimiyetlerini muhâfaza ve büyük tahribâtlarını tamir edememelerinden gelen dehşetli vicdân azâblarıyla‥ ve dünya hayatının bütün bütün fânî ve muvakkat olması ve medeniyet fantaziyelerinin aldatıcı ve uyutucu olduğu umuma görünmesiyle‥ ve fıtrat-ı beşeriyedeki yüksek isti'dâdâtın ve mâhiyet-i insaniyesinin umumî bir sûrette dehşetli yaralanmasıyla‥ ve gaflet ve dalâletin, sert ve sağır olan tabiatın, Kur'ân’ın elmas kılıncı altında parçalanmasıyla‥ ve gaflet ve dalâletin en boğucu, aldatıcı, en geniş perdesi olan siyaset-i rû-yi zeminin pek çirkin, pek gaddârâne hakîki sûreti görünmesiyle‥ elbette ve elbette hiç şübhe yok ki: Şimâl’de, Garb’da, Amerika’da emâreleri göründüğüne binâen, nev'-i beşerin mâşuk-u mecâzîsi olan hayat-ı dünyeviye böyle çirkin ve geçici olmasından; fıtrat-ı beşerin hakîki sevdiği, aradığı hayat-ı bâkiyeyi bütün kuvvetiyle arayacak: Ve elbette hiç şübhe yok ki: Bin üç yüz altmış senede, her asırda üç yüz elli milyon şâkirdi bulunan‥ ve her hükmüne ve da'vâsına milyonlar ehl-i hakikat tasdik ile imza basan‥ ve her dakikada milyonlar hâfızların kalbinde kudsiyet ile bulunup, lisânlarıyla beşere ders veren‥ ve hiçbir kitapta emsâli bulunmayan bir tarzda, beşer için hayat-ı bâkiyeyi ve saâdet-i ebediyeyi müjde veren‥ ve bütün beşerin yaralarını tedâvi eden Kur'ân-ı Mu'cizü'l-Beyân’ın şiddetli, kuvvetli ve tekrarlı binler âyâtıyla, belki sarîhan ve işâreten on binler defa da'vâ edip haber veren ve sarsılmaz kat'î delillerle, şübhe getirmez hadsiz hüccetleriyle, hayat-ı bâkiyeyi kat'iyyetle müjde ve saâdet-i ebediyeyi ders vermesi; elbette nev'-i beşer, bütün bütün aklını kaybetmezse, maddî veya manevî bir kıyâmet başlarına kopmazsa; İsveç, Norveç, Finlandiya ve İngiltere’nin Kur'ân’ı kabûl etmeğe çalışan meşhûr hatîbleri ve Amerika’nın din-i hakkı arayan ehemmiyetli cem'iyeti gibi; rû-yi zeminin geniş kıt'aları ve büyük hükûmetleri Kur'ân-ı Mu'cizü'l-Beyân’ı arayacaklar ve hakikatlerini anladıktan sonra bütün rûh u canlarıyla sarılacaklar. Çünkü; bu hakikat noktasında, kat'iyyen Kur'ân’ın misli yoktur ve olamaz. Ve hiçbir şey bu mu'cize-i ekberin yerini tutamaz."
     },
     {
       "type": "paragraph",
@@ -1029,7 +1040,8 @@
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "divider"
@@ -1041,17 +1053,20 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ اَبَدًا دَائِمًا",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",

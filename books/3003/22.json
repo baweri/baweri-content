@@ -5,7 +5,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "quote",
@@ -31,12 +32,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَمَنْ يَتَوَكَّلْ عَلَى اللّٰهِ فَهُوَ حَسْبُهُ اِنَّ اللّٰهَ بَالِغُ اَمْرِه۪ قَدْ جَعَلَ اللّٰهُ لِكُلِّ شَيْءٍ قَدْرًا",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -107,7 +110,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$4b"
+      "text": "Amma şu vilâyetin milleti, umumiyetle benden ziyâde beni müdafaa etmek mecburiyetleri şundandır ki; bu dokuz senedir hem kardeş, hem dost, hem mübârek olan bu milletin hayat-ı ebediyesine ve kuvvet-i îmâniyesine ve saâdet-i hayatiyesine bilfiil ve maddeten te'sirini gösteren yüzer risalelerle çalıştığımızı ve hiçbir dağdağa ve zarar, hiç kimseye o risaleler yüzünden gelmediği ve hiçbir garazkârâne tereşşuhât-ı siyâsiye ve dünyeviye görülmediği ve Lillâhi'l-Hamd şu Isparta Vilâyeti, eski zamanın Şam-ı Şerîf’inin mübârekiyeti ve Âlem-i İslâmın medrese-i umumîsi olan Mısır’ın Câmiü'l-Ezher’i mübârekiyeti nev'inden, kuvvet-i îmâniye ve salâbet-i diniye cihetinde bir mübârekiyet makamını Risale-i Nur vâsıtasıyla kazanarak; bu vilâyette, îmânın kuvveti lâkaydlığa ve ibâdetin iştiyakı, sefâhete hâkim olmasını ve umum vilâyetlerin fevkınde bir meziyet-i dindarâneyi Risale-i Nur bu vilâyete kazandırdığından, elbette bu vilâyetteki umum insanlar hattâ farazâ dinsizi de olsa, beni ve Risale-i Nur’u müdafaaya mecburdur. Onların çok ehemmiyetli müdafaa hakları içinde, benim gibi vazifesini bitirmiş ve Lillâhi'l-Hamd, binlerle şâkirdler benim gibi bir âcizin yerinde çalışmış ve çalıştığı hengâmda, ehemmiyetsiz cüz'î hakkım beni müdafaaya sevketmiyor. Bu kadar binlerle da'vâ vekilleri bulunan bir adam, kendi da'vâsını kendi müdafaa etmez."
     },
     {
       "type": "heading",
@@ -411,17 +414,20 @@
     {
       "type": "arabic",
       "text": "وَقُلْ رَبِّ اَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاط۪ينِ ❋ وَاَعُوذُ بِكَ رَبِّ اَنْ يَحْضُرُونِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ يَا حَافِظُ يَاحَف۪يظُ يَا خَيْرَ الْحَافِظ۪ينَ ، اِحْفَظْن۪ي وَاحْفَظْ رُفَقَائ۪ي مِنْ شَرِّ النَّفْسِ وَالشَّيْطَانِ وَمِنْ شَرِّ الْجِنِّ وَالْاِنْسَانِ وَمِنْ شَرِّ اَهْلِ الضَّلَالَةِ وَاَهْلِ الطُّغْيَانِ اٰم۪ينَ اٰم۪ينَ اٰم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     }
   ],
   "notes": [

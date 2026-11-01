@@ -5,7 +5,8 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -60,12 +61,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَبِهِ نَسْتَع۪ينُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -398,7 +401,7 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "$36"
+          "text": "Meselâ: Sırr-ı vahdet ile kâinât; öyle cesîm ve cismânî bir melâike hükmünde olur ki, mevcûdâtın nev'ileri adedince yüz binler başlı ve her başında o nev'ide bulunan ferdlerin sayısınca yüz binler ağız ve her ağzında o ferdin cihâzât ve eczâ ve a'zâ ve hüceyrâtı mikdarınca yüz binler diller ile Sâni'ini takdis ederek tesbihât yapan İsrâfil-misâl ubûdiyette ulvî bir makam sâhibi bir acâibü'l-mahlûkat iken‥ hem sırr-ı tevhid ile âhiret âlemlerine ve menzillerine çok mahsulât yetiştiren bir mezraa‥ ve dâr-ı saâdet tabakalarına a'mâl-i beşeriye gibi çok hâsılâtıyla levâzımat tedârik eden bir fabrika‥ ve âlem-i bekàda, hususan Cennet-i a'lâdaki ehl-i temâşâya dünyadan alınma sermedî manzaraları göstermek için mütemâdiyen işleyen yüz bin yüzlü sinemalı bir fotoğraf iken; şirk ise, bu çok acîb ve tam mutî', hayatdâr ve cismânî melâikeyi; câmid, rûhsuz, fânî, vazifesiz, hêlik, mânâsız hâdisâtın herc ü merci altında ve inkılâbların fırtınaları içinde, adem zulümâtında yuvarlanan bir perîşan mecmua-i vâhiyesi‥ hem bu çok garîb ve tam muntazam, menfaatdâr fabrikayı; mahsulâtsız, neticesiz, işsiz, muattal, karmakarışık olarak şuûrsuz tesâdüflerin oyuncağı ve sağır tabiatın ve kör kuvvetin mel'abegâhı ve umum zîşuûrun mâtemhânesi ve bütün zîhayatın mezbahası ve hüzüngâhı sûretine çevirir. İşte "
         },
         {
           "text": "اِنَّ الشِّرْكَ لَظُلْمٌ عَظ۪يمٌ",
@@ -947,7 +950,7 @@
           "bold": true
         },
         {
-          "text": "$37"
+          "text": "’da hakikat-i hâl böyle isbât edilmiş ve mâdem, bilmüşâhede gözümüz önünde görüyoruz ki, gayet derecede san'atlı ve kıymetdârlık ile beraber nihâyet derecede bir mebzûliyet var. Ve herbir zîhayat fevkalâde mu'cizâne ve hàrika ve çok cihâzâtları bulunan birer makine-i acîbe olmakla beraber, sehàvet-i mutlaka içinde kibrit çakar gibi bir sür'at-i hàrika ile gayet derecede kolaylık ve sühûlet ve külfetsiz bir sûrette vücûda geliyorlar. Elbette bizzarûre ve bilbedâhe gösterir ki, o mebzûliyet ve o sühûlet, vahdetten ve bir tek Zâtın işleri olmasından ileri geliyor. Yoksa, değil ucuzluk ve çokluk ve çabukluk ve kolaylık ve kıymetdârlık, belki şimdi beş para ile alınan bir meyve, beş yüz lira ile alınmayacaktı; belki bulunmayacak derecede nâdir olacaktı. Ve şimdi saati kurmak ve elektriğin düğmelerine dokunmakla işleyen muntazam makineler gibi vücûdları, icâdları kolay ve âsân olan zîhayat şeyler; imtina' derecesinde suûbetli, müşkülâtlı olacak ve bir günde ve bir saatte ve bir dakikada bütün cihâzât ve şerâit-i hayatıyla vücûda gelen bir kısım hayvanlar bir senede, belki bir asırda, belki hiç gelmeyecek idi."
         }
       ]
     },
@@ -995,7 +998,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$38"
+      "text": "İşte bütün eşya bir tek zâta verilmesi, vücûb ve lüzum derecesinde bir kolaylık ve müteaddid esbâba verilmesi, imtina' ve muhâl derecesinde müşkülâtlar bulunduğu gibi herşey Zât-ı Vâhid-i Ehade verilse, nihâyet derecede ucuzluk içinde gayet derecede kıymetdâr ve fevkalâde san'atlı ve çok mânidâr ve gayet kuvvetli olur. Eğer şirk yolunda müteaddid esbâba ve tabiata havâle edilse, nihâyet derece pahalılık içinde, gayet derecede ehemmiyetsiz, san'atsız, mânâsız, kuvvetsiz olur. Çünkü, nasıl bir adam, askerlik haysiyetiyle bir kumandan-ı a'zama intisab ve istinâd ettiğinden, hem bir ordu onun arkasında – lüzum olursa – tahşid edilebilir bir kuvve-i maneviyeyi, hem o kumandanın ve ordunun kuvveti onun ihtiyat kuvveti olmasıyla, kuvvet-i şahsiyesinden binler defa ziyâde maddî bir kudreti, hem o ehemmiyetli kuvvetinin menâbi'ini ve cephanesini – ordu taşıdığı için – kendisi taşımağa mecbur olmadığından fevkalâde işleri yapabilecek bir iktidarı kazandığından, o tek nefer, düşman olan bir müşîri esir ve bir şehri tehcir ve bir kaleyi teshìr edebilir. Ve eseri hàrika ve kıymetdâr olur. Eğer askerliği terkedip kendi kendine kalsa, o hàrika kuvve-i maneviyeyi ve o fevkalâde kudreti ve o mu'cizekâr iktidarı birden kaybederek, âdi bir başıbozuk gibi kuvvet-i şahsiyesine göre cüz'î, kıymetsiz, ehemmiyetsiz işleri görebilir. Ve eseri de o nisbette küçülür."
     },
     {
       "type": "paragraph",
@@ -1037,7 +1040,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$39"
+      "text": "Evet, biz bakıyoruz, görüyoruz ki: Kanda herbir zerre o kadar muntazam ve çok vazifeleri görüyor ki, yıldızlardan geri kalmıyor. Ve kanda bulunan herbir küreyvât-ı hamrâ ve beyzâ, o derece şuûrkârâne cesed için muhâfaza ve iâşe hususunda öyle işleri görüyor ki, en mükemmel erzâk memurlarından ve muhâfaza askerinden daha mükemmeldir. Ve cisimdeki hüceyrelerinin herbirisi, o derece muntazam muâmelâta ve vâridât ve sarfiyata mazhardır ki, en mükemmel bir cesedden ve bir saraydan daha mükemmel idare edilir. Ve hayvanatın ve nebâtâtın herbir ferdi, yüzünde öyle bir sikkeyi ve içinde ve sînesinde öyle bir makineyi taşıyor ki, bütün hayvanları ve nebâtları icâd eden bir Zât, ancak o sikkeyi o yüzde ve o makineyi o sîne içinde yapabilir. Ve zîhayattan herbir nev'i, o derece zemin yüzünde muntazaman yayılmış ve sâir nev'ilere münâsebetdârâne karışmış ki, bütün o envâ'ı birden icâd, idare, tedbir, terbiye etmeyen ve zemin yüzünü örten ve dört yüz bin nebâtî ve hayvanî olan atkı ipleriyle dokunan gayet nakışlı ve san'atlı hayatdâr bir haliçeyi nesc ve icâd edemeyen, o tek nev'i icâd ve idare edemez. Daha bunlara başka şeyler kıyâs edilse, anlaşılır ki, kâinât mecmuası, halk ve icâd cihetinde tecezzî kabûl etmez bir külldür ve tedbir ve rubûbiyet cihetinde inkısamı imkânsız bir küllîdir."
     },
     {
       "type": "paragraph",
@@ -1661,62 +1664,74 @@
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ اِنَّهُ لَيْسَ فِي السَّمٰوَاتِ دَوَرَاتٌ وَنُجُومٌ وَمُحَرَّكَاتٌ سَيَّارَاتٌ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَلَا فِي الْجَوِّ سَحَابَاتٌ وَبُرُوقٌ مُسَبِّحَاتٌ وَرَعَدَاتٌ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَلَا فِي الْاَرْضِ غَمَرَاتٌ وَحَيَوَانَاتٌ وَعَجَائِبُ مَصْنُوعَاتٍ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَلَا فِي الْبِحَارِ قَطَرَاتٌ وَسَمَكَاتٌ وَغَرَائِبُ مَخْلُوقَاتٍ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَلَا فِي الْجِبَالِ حَجَرَاتٌ وَنَبَاتَاتٌ وَمُدَخَّرَاتُ مَعْدَنِيَّاتٍ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَلَا فِي الْاَشْجَارِ وَرَقَاتٌ وَزَهَرَاتٌ مُزَيَّنَاتٌ وَثَمَرَاتٌ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَلَا فِي الْاَجْسَامِ حَرَكَاتٌ وَاٰلَاتٌ وَمُنَظَّمَاتُ جِهَازَاتٍ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَلَا فِي الْقُلُوبِ خَطَرَاتٌ وَاِلْهَامَاتٌ وَمُنَوَّرَاتُ اِعْتِقَادَاتٍ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اِلَّا وَهِيَ كُلُّهَا عَلٰى وُجُوبِ وُجُودِكَ شَاهِدَاتٌ وَعَلٰى وَحْدَانِيَّتِكَ دَالَّاتٌ وَف۪ي مُلْكِكَ مُسَخَّرَاتٌ فَبِالْقُدْرَةِ الَّت۪ي سَخَّرْتَ بِهَا الْاَرَض۪ينَ وَالسَّمٰوَاتِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "سَخِّرْ ل۪ي نَفْس۪ي وَسَخِّرْ ل۪ي مَطْلُوب۪ي وَسَخِّرْ لِرَسَائِلِ النُّورِ وَلِخِدْمَةِ الْقُرْاٰنِ وَالْا۪يمَانِ قُلُوبَ عِبَادِكَ وَقُلُوبَ الْمَخْلُوقَاتِ الرُّوحَانِيَّاتِ مِنَ الْعُلْوِيَّاتِ وَالسُّفْلِيَاتِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "يَا سَم۪يعُ يَا قَر۪يبُ يَا مُج۪يبَ الدَّعَوَاتِ اٰم۪ينَ وَالْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     }
   ],
   "notes": [

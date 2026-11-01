@@ -23,12 +23,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "سَنُر۪يهِمْ اٰيَاتِنَا فِي الْاٰفَاقِ وَف۪ٓي اَنْفُسِهِمْ حَتّٰى يَتَبَيَّنَ لَهُمْ اَنَّهُ الْحَقُّ اَوَلَمْ يَكْفِ بِرَبِّكَ اَنَّهُ عَلٰى كُلِّ شَيْءٍ شَه۪يدٌ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -76,7 +78,7 @@
           "red": true
         },
         {
-          "text": "$67"
+          "text": " Sâni'-i Zülcelâl, Hâkim-i Hakîm, Adl-i Hakem ve binbir Esmâ-i Kudsiye ile müsemmâ Fâtır-ı Bî-misâl, şu âlem-i ekber olan kâinât sarayının ve hilkat şeceresinin icâdını irâde etti. Altı günde o sarayın, o şecerenin esâsâtını, desâtir-i hikmet ve kavânîn-i ilm-i ezelîsi ile vaz'etti. Sonra ulvî ve süflî tabakàta ve dallara ayırıp, kazâ ve kader desâtiri ile tafsîl ve tasvir etti. Sonra her mahlûkatın her tâifesini ve her tabakasını sun' ve inâyet düsturu ile tanzim etti. Sonra herşeyi, herbir âlemi ona lâyık bir tarzda, meselâ; semâyı yıldızlarla, zemini çiçeklerle tezyîn ettiği gibi, süslendirip tezyîn etti. Sonra o kavânîn-i külliye ve desâtir-i umumiye meydânlarında esmâlarını tecellî ettirip tenvir etti. Sonra bu kanun-u küllînin tazyîkinden feryâd eden ferdlere Rahmân-ı Rahîm isimlerini hususî bir sûrette imdâda yetiştirdi. Demek, o küllî ve umumî desâtiri içinde, hususî ihsânatı, hususî imdâdları, hususî cilveleri var ki; herşey, her vakit, her hâceti için O’ndan istimdâd eder, O’na bakabilir. Sonra her menzilden, her tabakadan, her âlemden, her tâifeden, her ferdden, herşeyden, kendini gösterecek, yani vücûdunu ve vahdetini bildirecek pencereler açmış. Her kalb içinde bir telefon bırakmış."
         }
       ]
     },
@@ -223,7 +225,8 @@
     {
       "type": "arabic",
       "text": "اِنَّ ف۪ي خَلْقِ السَّمٰوَاتِ وَالْاَرْضِ وَاخْتِلَافِ الَّيْلِ وَالنَّهَارِ وَالْفُلْكِ الَّت۪ي تَجْر۪ي فِي الْبَحْرِ بِمَا يَنْفَعُ النَّاسَ وَمَٓا اَنْزَلَ اللّٰهُ مِنَ السَّمَٓاءِ مِنْ مَٓاءٍ فَاَحْيَا بِهِ الْاَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ ف۪يهَا مِنْ كُلِّ دَٓابَّةٍ وَتَصْر۪يفِ الرِّيَاحِ وَالسَّحَابِ الْمُسَخَّرِ بَيْنَ السَّمَٓاءِ وَالْاَرْضِ لَاٰيَاتٍ لِقَوْمٍ يَعْقِلُونَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -356,7 +359,8 @@
     {
       "type": "arabic",
       "text": "وَاَنْزَلَ مِنَ السَّمَٓاءِ مَٓاءً فَاَخْرَجَ بِه۪ مِنَ الثَّمَرَاتِ رِزْقًا لَكُمْ وَسَخَّرَ لَكُمُ الْفُلْكَ لِتَجْرِيَ فِي الْبَحْرِ بِاَمْرِهِ وَسَخَّرَ لَكُمُ الْاَنْهَارَ ❋ وَسَخَّرَ لَكُمُ الشَّمْسَ وَالْقَمَرَ دَٓائِبَيْنِ وَسَخَّرَ لَكُمُ الَّيْلَ وَالنَّهَارَ ❋ وَاٰتٰيكُمْ مِنْ كُلِّ مَا سَاَلْتُمُوهُ وَاِنْ تَعُدُّوا نِعْمَتَ اللّٰهِ لَا تُحْصُوهَا",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -544,7 +548,8 @@
     {
       "type": "arabic",
       "text": "اِنَّ فِي السَّمٰوَاتِ وَالْاَرْضِ لَاٰيَاتٍ لِلْمُؤْمِن۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -600,7 +605,8 @@
     {
       "type": "arabic",
       "text": "اَوَلَمْ يَنْظُرُوا ف۪ي مَلَكُوتِ السَّمٰوَاتِ وَالْاَرْضِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -695,17 +701,20 @@
     {
       "type": "arabic",
       "text": "فَسُبْحَانَ الَّذ۪ي بِيَدِه۪ مَلَكُوتُ كُلِّ شَيْءٍ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا عِنْدَنَا خَزَٓائِنُهُ وَمَا نُنَزِّلُهُٓ اِلَّا بِقَدَرٍ مَعْلُومٍ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَاَرْسَلْنَا الرِّيَاحَ لَوَاقِحَ فَاَنْزَلْنَا مِنَ السَّمَٓاءِ مَٓاءً فَاَسْقَيْنَاكُمُوهُ وَمَٓا اَنْتُمْ لَهُ بِخَازِن۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -780,7 +789,8 @@
     {
       "type": "arabic",
       "text": "وَالشَّمْسُ تَجْر۪ي لِمُسْتَقَرٍّ لَهَا ذٰلِكَ تَقْد۪يرُ الْعَز۪يزِ الْعَل۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -835,12 +845,14 @@
     {
       "type": "arabic",
       "text": "اَلَمْ نَجْعَلِ الْاَرْضَ مِهَادًا ❋ وَالْجِبَالَ اَوْتَادًا ❋ وَخَلَقْنَاكُمْ اَزْوَاجًا",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "فَانْظُرْ اِلٰٓى اٰثَارِ رَحْمَتِ اللّٰهِ كَيْفَ يُحْيِ الْاَرْضَ بَعْدَ مَوْتِهَاۜ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -951,7 +963,8 @@
     {
       "type": "arabic",
       "text": "لَٓا اِلٰهَ اِلَّا هُوَ كُلُّ شَيْءٍ هَالِكٌ اِلَّا وَجْهَهُ لَهُ الْحُكْمُ وَاِلَيْهِ تُرْجَعُونَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -1103,7 +1116,8 @@
     {
       "type": "arabic",
       "text": "اَللّٰهُ خَالِقُ كُلِّ شَيْءٍ وَهُوَ عَلٰى كُلِّ شَيْءٍ وَك۪يلٌ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -1208,7 +1222,8 @@
     {
       "type": "arabic",
       "text": "وَمِنْ اٰيَاتِه۪ خَلْقُ السَّمٰوَاتِ وَالْاَرْضِ وَاخْتِلَافُ اَلْسِنَتِكُمْ وَاَلْوَانِكُمْ اِنَّ ف۪ي ذٰلِكَ لَاٰيَاتٍ لِلْعَالِم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -1240,7 +1255,8 @@
     {
       "type": "arabic",
       "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِه۪",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -1291,12 +1307,14 @@
     {
       "type": "arabic",
       "text": "لَوْ كَانَ ف۪يهِمَٓا اٰلِهَةٌ اِلَّا اللّٰهُ لَفَسَدَتَا",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "كُلُّ شَيْءٍ هَالِكٌ اِلَّا وَجْهَهُ لَهُ الْحُكْمُ وَاِلَيْهِ تُرْجَعُونَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -1435,12 +1453,14 @@
     {
       "type": "arabic",
       "text": "لَقَدْ خَلَقْنَا الْاِنْسَانَ ف۪ٓي اَحْسَنِ تَقْو۪يمٍ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَفِي الْاَرْضِ اٰيَاتٌ لِلْمُوقِن۪ينَ ❋ وَف۪ٓي اَنْفُسِكُمْ اَفَلَا تُبْصِرُونَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -1543,7 +1563,8 @@
     {
       "type": "arabic",
       "text": "هُوَ الَّذ۪ٓي اَرْسَلَ رَسُولَهُ بِالْهُدٰى وَد۪ينِ الْحَقِّ لِيُظْهِرَهُ عَلَى الدّ۪ينِ كُلِّه۪ وَكَفٰى بِاللّٰهِ شَه۪يدًاقُلْ يَٓا اَيُّهَا النَّاسُ اِنّ۪ي رَسُولُ اللّٰهِ اِلَيْكُمْ جَم۪يعًاۨ الَّذ۪ي لَهُ مُلْكُ السَّمٰوَاتِ وَالْاَرْضِ لَٓا اِلٰهَ اِلَّا هُوَ يُحْي۪ي وَيُم۪يتُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -1560,12 +1581,14 @@
     {
       "type": "arabic",
       "text": "اَلْحَمْدُ لِلّٰهِ الَّذ۪ٓي اَنْزَلَ عَلٰى عَبْدِهِ الْكِتَابَ وَلَمْ يَجْعَلْ لَهُ عِوَجًا ❋ قَيِّمًا…",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "الٓرٰ كِتَابٌ اَنْزَلْنَاهُ اِلَيْكَ لِتُخْرِجَ النَّاسَ مِنَ الظُّلُمَاتِ اِلَى النُّورِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -1578,17 +1601,20 @@
     {
       "type": "arabic",
       "text": "رَبَّنَا لَا تُؤَاخِذْنَٓا اِنْ نَس۪ينَٓا اَوْ اَخْطَأْنَارَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ اِذْ هَدَيْتَنَا",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "رَبَّنَا تَقَبَّلْ مِنَّا اِنَّكَ اَنْتَ السَّم۪يعُ الْعَل۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَتُبْ عَلَيْنَا اِنَّكَ اَنْتَ التَّوَّابُ الرَّح۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "divider"
@@ -1627,17 +1653,20 @@
     {
       "type": "arabic",
       "text": "وَالسَّلَامُ عَلٰى مَنِ اتَّبَعَ الْهُدٰى ❋ وَالْمَلَامُ عَلٰى مَنِ اتَّبَعَ الْهَوٰى",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى مَنْ اَرْسَلْتَهُ رَحْمَةً لِلْعَالَم۪ينَ وَعَلٰى اٰلِهِ وَصَحْبِهِ وَسَلِّمْ اٰم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     }
   ],
   "notes": [

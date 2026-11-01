@@ -111,7 +111,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$64"
+      "text": "yani, “Cenâb-ı Hak’tan başka, bütün esbâb ve ulûhiyetleri ehl-i dalâlet tarafından da'vâ edilen âliheler ictimâ' etse, bir sineği halk edemezler. Yani, sineğin hilkati öyle bir mu'cize-i Rabbâniyedir ve bir âyet-i tekvîniyedir ki, bütün esbâb toplansa, onun mislini yapamazlar, o âyet-i Rabbâniyeye muâraza edemezler, taklidini yapamazlar” meâlindeki âyetine ehemmiyetli bir mevzû teşkil eden ve Nemrud’u mağlûb eden; ve Hazret-i Mûsa (as) onların tâcizlerine karşı müştekiyâne, “Yâ Rab, bu muacciz mahlûkları ne için bu kadar çoğaltmışsın?” deyince, ilhâmen cevab gelmiş ki: “Sen bir defa sineklere i'tirâz ettin. Bu sinekler çok defa suâl ediyorlar ki: ‘Yâ Rab, bu koca kafalı beşer Seni yalnız bir lisân ile zikrediyor. Bazı da gaflet ediyor. Eğer yalnız kafasından bizleri halk etseydin, binler lisân ile Sana zikredecek bizim gibi mahlûklar olurlardı.’” diye, Hazret-i Mûsa’nın (as) şekvâsına bin i'tirâz kuvvetinde hikmet-i hilkatini müdafaa eden sineğin; hem gayet nezâfet-perver, her vakit abdest alır gibi yüzünü, gözünü, kanatlarını temizleyen bu tâife, elbette mühim bir vazifesi vardır. Hikmet-i beşeriyenin nazarı kàsırdır; daha o vazifeyi ihâta edememiş."
     },
     {
       "type": "paragraph",
@@ -172,7 +172,8 @@
     {
       "type": "arabic",
       "text": "سُبْحَانَ مَنْ تَحَيَّرَ ف۪ي صُنْعِهِ الْعُقُولُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -202,7 +203,8 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "quote",
@@ -408,12 +410,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "قُلْ لَوْ كَانَ الْبَحْرُ مِدَادًا لِكَلِمَاتِ رَبّ۪ي لَنَفِدَ الْبَحْرُ قَبْلَ اَنْ تَنْفَدَ كَلِمَاتُ رَبّ۪ي وَلَوْ جِئْنَا بِمِثْلِه۪ مَدَدًا",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "quote",
@@ -453,7 +457,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$69"
+      "text": "Ma'lûmdur ki, umulmadık bir şeyden kelâmın sudûru, kelâmı ehemmiyetleştirir; kendini dinlettiriyor. Hususan cevv-i semâ ve bulutlar gibi büyük cirmlerde tekellümvâri sadâlar dahi ehemmiyetle herkese kendini dinlettiriyor. Hususan dağ cesâmetinde bir fonoğrafın nağamâtı daha fazla kulağın nazar-ı dikkatini celb eder. Hususan semâvât tabakalarını plaklar ittihàz edip küre-i arzın kafasına işittirmek için sudûr eden sadâ-yı semâvî-i Kur'ânîyi, radyo kuvvetiyle, zerrât-ı havâiye o hurûfâta âhize ve nâkile oldukları gibi, elbette bu kudsî hurûfât-ı Kur'âniyeye birer âyine, birer lisân, birer ibre ucu, birer kulak hükmüne geçtiğine remzen, Kur'ân-ı Hakîm’in hurûfâtının ne derece ehemmiyetli, kıymetli, hâsiyetli, hayattar olduğuna işâreten, âyet mânâ-yı işârîsiyle diyor ki: “Kelâmullâh olan Kur'ân o kadar hayattar ve kıymetdârdır ki, onu dinleyen, işiten kulakların adedi ve o kulaklara giren o kudsî kelimelerin sayısını, bütün denizler mürekkeb ve melâike kâtib ve zerreler noktalar ve nebâtlar ve kıllar kalemler olsa, bitiremezler.”"
     },
     {
       "type": "paragraph",
@@ -499,7 +503,8 @@
     {
       "type": "arabic",
       "text": "وَالْعِلْمُ عِنْدَ اللّٰهِلَا يَعْلَمُ الْغَيْبَ اِلَّا اللّٰهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "heading",
@@ -564,19 +569,21 @@
           "bold": true
         },
         {
-          "text": "$65"
+          "text": " Tağayyür, tebeddül, tecezzî, tahayyüzden mukaddes, münezzeh, müberrâ, muallâ olan Zât-ı Zülcelâl’in vücûb-u vücûduna ve takaddüs ve tenezzühüne muvâfık düşmeyen tasavvurâta sebebiyet verir ve telkinât-ı bâtılaya medâr olur. Evet, vahdetü'l-vücûddan bahseden; fikren serâdan Süreyyâ’ya çıkarak, kâinâtı arkasında bırakıp nazarını Arş-ı A'lâya diken, istiğrakî bir sûrette kâinâtı ma'dûm sayıp herşeyi doğrudan doğruya kuvvet-i îmân ile Vâhid-i Ehadden görebilir. Yoksa, kâinâtın arkasında durup kâinâta bakan ve önünde esbâbı gören ve ferşten nazar eden, elbette esbâb içinde boğulup, tabiat bataklığına düşmek ihtimali var. Fikren arşa çıkan, Celâleddin-i Rûmî gibi, diyebilir; “Kulağını aç! Herkesten işittiğin sözleri, fıtrî fonoğraflar gibi Cenâb-ı Hak’tan işitebilirsin.” Yoksa, Celâleddin gibi, bu derece yükseğe çıkamayan ve ferşten arşa kadar mevcûdâtı âyine şeklinde görmeyen adama, “Kulak ver, herkesten Kelâmullâh’ı işitirsin” desen, ma'nen arştan ferşe sukùt eder gibi, hilâf-ı hakikat tasavvurât-ı bâtılaya giriftâr olur!…"
         }
       ]
     },
     {
       "type": "arabic",
       "text": "قُلِ اللّٰهُ ثُمَّ ذَرْهُمْ ف۪ي خَوْضِهِمْ يَلْعَبُونَمَا لِلتُّرَابِ وَلِرَبِّ الْاَرْبَابِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "سُبْحَانَ مَنْ تَقَدَّسَ عَنِ الْاَشْبَاهِ ذَاتُهُ وَتَنَزَّهَتْ عَنْ مُشَابَهَةِ الْاَمْثَالِ صِفَاتُهُ وَشَهِدَ عَلٰى رُبُوبِيَّتِهِ اٰيَاتُهُ جَلَّ جَلَالُهُ وَلَٓا اِلٰهَ اِلَّا هُوَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -690,7 +697,8 @@
     {
       "type": "arabic",
       "text": "فَيَكْف۪يكَ اَنَّ اللّٰهَ صَلّٰى بِنَفْسِهِ ❋ وَاَمْلَاكَهُ صَلَّتْ عَلَيْهِ وَسَلَّمَتْ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -711,12 +719,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَوْ هُمْ قَٓائِلُونَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -799,7 +809,8 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -926,7 +937,7 @@
           "bold": true
         },
         {
-          "text": "$64"
+          "text": " Seciye-i àliye-i Sahâbeyi ve meşreb-i nurânî-yi peygamberîyi beyân eden Risale-i Nur dâiresindeki feyze kanâat etmeyip, bir kısım kardeşlerimiz tarîkat hevesiyle üstadının ve kardeşlerinin şahs-ı manevîsinin rızâsını ve iznini almadan başka yerde o hevesle, hem kendine fâidesi olmayarak, hem bizlere, hem Risale-i Nur’a, hem musîbet-zede arkadaşlarımıza, Risale-i Nur’a girmeyen rüfekamıza zarar ve müteaddid ve dikkatle bizi tecessüs eden adamların nazar-ı dikkatini celbe medâr bir heveste bulundular. Ben ki, her birinizi yüz hemşehrime değiştirmediğimi resmen mahkemede iddia ettim ve beni ziyaret edenlere karşı iddia etmişim ki; Risale-i Nur talebelerinin en küçüğünü, hariç bir velîden daha ehemmiyetli gördüğümü ve Kuleönlü Ali, Lütfi gibi genç ve hàlis Risale-i Nur talebelerini hariçteki büyükçe bir velîye tercih ettiğimi çok emârelerle benden anladığınız hâlde, nasıl oluyor ki menfaatsiz, belki zararlı bir heves yolunda arkadaşlarının şahs-ı manevîsinin ma'lûm ve àlî makamını ve Üstadınızın müsellem size karşı hayırhâhlığını düşünmeyip, – hariçte makamı sizce mechûl – ve hem o bîçâreye zararlı bir sûrette şeyhlik damarını tahrîk etmek sûretinde sohbet etmek muvâfık değildir."
         }
       ]
     },
@@ -1014,7 +1025,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$64"
+      "text": "Hafîz-i Zülcelâl’in hıfz ve himâyetine bakınız ki; mes'elemiz münâsebetiyle Risale-i Nur’un risaleleri adedine muvâfık olarak, yüz yirmi küsûr adamın mahrem evrakları ile istintakta oldukları hâlde ve ecnebîlerin entrikalarıyla ve muhâlif komitecilerin dolaplarıyla mevcûd ve münteşir müteaddid cem'iyetlerin hiçbirisiyle, Risale-i Nur’un hiçbir şâkirdinin münâsebetdârlığını gösterecek hiçbir madde bulunmaması, gayet zâhir ve parlak bir Himâye-i Rabbâniyedir. Muhâfaza-i İlâhiye’ye ve İmâm-ı Ali (ra) ve Gavs-ı A'zam (ks), Risale-i Nur’a ait kerâmet-i gaybiyelerini cidden te'yid eden bir inâyet-i Rahmâniyedir. Kırkikilik bir top güllesini, kırk iki masûm ve mazlum kardeşlerimizin Dergâh-ı İlâhiye’ye açılan elleriyle durdurup, geri çevirip, atanların başlarında ma'nen patlattırdı. Bizlere, yalnız ehemmiyetsiz, sevâblı, hafif birkaç yara bereden başka olmadı. Böyle bir seneden beri doldurulan bir toptan, böyle pek az zarar ile kurtulmak hàrikadır. Böyle pek büyük bir ni'mete karşı, şükür ve sürûr ve sevinç ile mukàbele etmek gerektir. Bundan sonraki hayatımız bize ait olamaz; çünkü müfsidlerin plânlarına göre, yüzde yüz mahv idi. Demek bundan sonraki hayatı kendimize değil, belki hak ve hakikate vakfetmeliyiz. Şekvâ değil, şükrettirecek rahmetin izini, yüzünü, özünü görmeye çalışmalıyız."
     },
     {
       "type": "paragraph",
@@ -1077,7 +1088,8 @@
     {
       "type": "arabic",
       "text": "فَلَمَّا نَسُوا مَا ذُكِّرُوا بِه۪ … اَخَذْنَاهُمْ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -1352,12 +1364,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اِنَّمَٓا اَمْرُهُٓ اِذَٓا اَرَادَ شَيْئًا اَنْ يَقُولَ لَهُ كُنْ فَيَكُونُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -1624,12 +1638,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَمَا خَلَقْتُ الْجِنَّ وَالْاِنْسَ اِلَّا لِيَعْبُدُونِ ❋ مَٓا اُر۪يدُ مِنْهُمْ مِنْ رِزْقٍ وَمَٓا اُر۪يدُ اَنْ يُطْعِمُونِ ❋ اِنَّ اللّٰهَ هُوَ الرَّزَّاقُ ذُو الْقُوَّةِ الْمَت۪ينُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -1869,7 +1885,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Âciz talebenizŞefîk",
+          "text": "Âciz talebeniz\n"
+        },
+        {
+          "text": "Şefîk",
           "bold": true
         }
       ]
@@ -1884,7 +1903,8 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -2037,12 +2057,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اِنَّ النَّفْسَ لَاَمَّارَةٌ بِالسُّٓوءِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -2087,7 +2109,8 @@
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ احْفَظْنَا مِنْ شَرِّ النَّفْسِ وَالشَّيْطَانِ وَمِنْ شَرِّ الْجِنِّ وَالْاِنْسَانِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "divider"
@@ -2099,7 +2122,8 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -2195,7 +2219,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$64"
+      "text": "Evet, bir melâikenin üfürmesiyle uçurulabilir olan câsus şeytanları böyle bir işâret-i azîme-i semâviye ile, melâikelerle mübâreze ettirmek, elbette o vahy-i Kur'ânî’nin haşmet-i saltanatını göstermek içindir. Hem bu haşmetli olan beyân-ı Kur'ânî ve azametli tahşidât-ı semâviye ise, cinnîlerin, şeytanların semâvât ehlini mübârezeye ve müdafaaya sevk edecek bir iktidarları, bir müdafaaları bulunduğunu ifâde için değil; belki kalb-i Muhammedî’den (asm) tâ semâvât âlemine, tâ Arş-ı A'zama kadar olan uzun yolda, hiçbir yerde cin ve şeytanın müdâhaleleri olmamasına işâret için, vahy-i Kur'ânî, koca semâvâtta, umum melâikece medâr-ı bahsolan bir hakikattir ki, bir derece ona temâs etmek için, şeytanlar, tâ semâvâta kadar çıkmaya mecbur olup, hiçbir şeye muvaffak olamayarak recmedilmesiyle işâret ediyor ki; kalb-i Muhammedî’ye (asm) gelen vahiy ve huzur-u Muhammediye’ye (asm) gelen Cebrâil ve nazar-ı Muhammedî’ye (asm) görünen hakàik-ı gaybiye, sağlam ve müstakîmdir, hiçbir cihetle şübhe girmez diye, Kur'ân-ı Mu'cizü'l-Beyân, mu'cizâne haber veriyor."
     },
     {
       "type": "paragraph",
@@ -2203,12 +2227,13 @@
     },
     {
       "type": "paragraph",
-      "text": "$65"
+      "text": "Amma bir dâire-i külliyenin cüz'î bir hâdise-i şahsiye ile meşgul olması, yani, kâhinlere gaybî haberleri getirmek için şeytanlar, tâ semâvâta çıkıp kulak veriyorlar, yarım yamalak yanlış haberler getiriyorlar diye tefsirlerdeki ifâdelerin bir hakikati şu olmak gerektir ki; semâvât memleketinin pâyitahtına kadar gidip o cüz'î haberi almak değildir. Belki cevv-i havaya dahi şümûlü bulunan semâvât memleketinin – teşbihte hatâ yok – karakolhâneleri hükmünde bazı mevkileri var ki, o mevkilerde arz memleketi ile münâsebetdârlık oluyor. Cüz'î hâdiseler için, o cüz'î makamlardan kulak hırsızlığı yapıyorlar. Hattâ kalb-i insanî dahi o makamlardan birisidir ki, melek-i ilhâm ile şeytan-ı hususî, o mevkide mübâreze ediyorlar. Ve hakàik-ı îmâniye ve Kur'âniye ve hâdisât-ı Muhammediye (asm) ise, ne kadar cüz'î de olsa, en büyük, en küllî bir hâdise-i mühimme hükmünde, en küllî bir dâire olan Arş-ı A'zamda ve dâire-i semâvâtta – temsîlde hatâ olmasın – mukadderât-ı kâinâtın manevî ceridelerinde neşrolunuyor gibi, her köşede medâr-ı bahsoluyor diye beyân ile beraber; kalb-i Muhammedî’den (asm) tâ dâire-i Arşa varıncaya kadar ise, hiçbir cihetle müdâhale imkânı olmadığından, semâvâtı dinlemekten başka şeytanların çaresi kalmadığını ifâde ile, vahy-i Kur'ânî ve Nübüvvet-i Ahmediye (asm) ne derece yüksek bir derece-i hakkâniyette olduğunu ve hiçbir cihetle hilâf ve yanlış ve hile, ona yanaşmak mümkün olmadığını, gayet belîğâne, belki mu'cizâne ilân etmek ve göstermektir."
     },
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",

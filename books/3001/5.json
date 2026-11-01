@@ -5,12 +5,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اِنَّ اللّٰهَ مَعَ الَّذ۪ينَ اتَّقَوْا وَالَّذ۪ينَ هُمْ مُحْسِنُونَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",

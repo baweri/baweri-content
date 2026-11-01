@@ -22,7 +22,8 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -179,7 +180,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "heading",
@@ -420,11 +422,13 @@
       "parts": [
         {
           "text": "اَلْبَاق۪ي هُوَ الْبَاق۪ي",
-          "bold": true,
           "red": true
         },
         {
-          "text": "Duânıza muhtaç kardeşinizSaid Nursî",
+          "text": "\nDuânıza muhtaç kardeşiniz\n"
+        },
+        {
+          "text": "Said Nursî",
           "bold": true
         }
       ]

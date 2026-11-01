@@ -17,12 +17,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "قَالَتْ رُسُلُهُمْ اَفِي اللّٰهِ شَكٌّ فَاطِرِ السَّمٰوَاتِ وَالْاَرْضِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -30,7 +32,7 @@
     },
     {
       "type": "quote",
-      "text": "Şu sırrı izâhtan evvel bir ihtar:$4d"
+      "text": "Şu sırrı izâhtan evvel bir ihtar: Bin üç yüz otuz sekizde bundan on iki sene evvel (şimdi yirmi seneden geçti) Ankara’ya gittim. İslâm ordusunun Yunan’a galebesinden neş'e alan ehl-i îmânın kuvvetli efkârı içinde, gayet müdhiş bir zındıka fikri, içine girmek ve bozmak ve zehirlendirmek için dessâsâne çalıştığını gördüm. “Eyvâh!” dedim, “Bu ejderha îmânın erkânına ilişecek!” O vakit, şu âyet-i kerîme bedâhet derecesinde Vücûd ve Vahdâniyeti ifhâm ettiği cihetle, ondan istimdâd edip, o zındıkanın başını dağıtacak derecede Kur'ân-ı Hakîm’den alınan kuvvetli bir bürhânı, Nur’un Arabî risalesinde yazdım. Ankara’da, Yeni Gün Matbaasında tab' ettirmiştim. Fakat maatteessüf Arabî bilen az ve ehemmiyetle bakanlar da nâdir olmakla beraber, gayet muhtasar ve mücmel bir sûrette o kuvvetli bürhân te'sirini göstermedi. Maatteessüf, o dinsizlik fikri hem inkişaf etti, hem kuvvet buldu. Bilmecbûriye, o bürhânı Türkçe olarak bir derece beyân edeceğim. O bürhânın bazı parçaları, bazı risalelerde tam izâh edildiğinden, burada icmâlen yazılacaktır. Sâir risalelerde inkısam etmiş olan müteaddid bürhânlar, bu bürhânda kısmen ittihâd ediyor, herbiri bunun bir cüz'ü hükmüne geçiyor."
     },
     {
       "type": "heading",
@@ -559,7 +561,7 @@
           "bold": true
         },
         {
-          "text": "$4e"
+          "text": " Şu kâinâtın Hàlık-ı Hakîm’i, kâinâtı bir ağaç hükmünde halkedip, en mükemmel meyvesini zîşuûr ve zîşuûrun içinde en câmi' meyvesini insan yapmıştır. Ve insanın en ehemmiyetli, belki insanın netice-i hilkati ve gaye-i fıtratı ve semere-i hayatı olan şükür ve ibâdeti; O Hâkim-i Mutlak ve Âmir-i Müstakil, kendini sevdirmek ve tanıttırmak için kâinâtı halkeden O Vâhid-i Ehad, bütün kâinâtın meyvesi olan insanı ve insanın en yüksek meyvesi olan şükür ve ibâdetini başka ellere verir mi? Bütün bütün hikmetine zıd olarak, netice-i hilkati ve semere-i kâinâtı abes eder mi? Hâşâ ve kellâ!‥ Hem, hikmetini ve Rubûbiyetini inkâr ettirecek bir tarzda mahlûkatın ibâdetlerini başkalara vermeye rızâ gösterir mi, hiç müsâade eder mi? Ve hem hadsiz bir derecede kendini sevdirmeyi ve tanıttırmayı ef'âliyle gösterdiği hâlde, en mükemmel mahlûkatının şükür ve minnetdârlıklarını, tahabbüb ve ubûdiyetlerini başka esbâba vermekle kendini unutturup, kâinâttaki makàsıd-ı àliyesini inkâr ettirir mi? Ey tabiat-perestlikten vazgeçen arkadaş! Haydi sen söyle!"
         }
       ]
     },
@@ -806,12 +808,14 @@
     {
       "type": "arabic",
       "text": "اَلْحَمْدُ لِلّٰهِ عَلٰى د۪ينِ الْاِسْلَامِ وَكَمَالِ الْا۪يمَانِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     }
   ],
   "notes": [

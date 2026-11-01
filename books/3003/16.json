@@ -9,12 +9,14 @@
     {
       "type": "arabic",
       "text": "وَاِنْ مِنْ شَىْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -157,17 +159,20 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -372,12 +377,14 @@
     {
       "type": "arabic",
       "text": "وَاِنْ مِنْ شَىْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -535,8 +542,10 @@
       "parts": [
         {
           "text": "اَلْبَاق۪ي هُوَ الْبَاق۪ي",
-          "bold": true,
           "red": true
+        },
+        {
+          "text": "\n"
         },
         {
           "text": "Said Nursî",
@@ -558,12 +567,14 @@
     {
       "type": "arabic",
       "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -675,11 +686,13 @@
       "parts": [
         {
           "text": "اَلْبَاق۪ي هُوَ الْبَاق۪ي",
-          "bold": true,
           "red": true
         },
         {
-          "text": " Kardeşiniz Said Nursî",
+          "text": "\n \nKardeşiniz \n"
+        },
+        {
+          "text": "Said Nursî",
           "bold": true
         }
       ]

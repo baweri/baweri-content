@@ -5,12 +5,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَالشَّمْسِ وَضُحٰيهَا ❋ وَالْقَمَرِ اِذَا تَلٰيهَا ❋ وَالنَّهَارِ اِذَا جَلّٰيهَا ❋ وَالَّيْلِ اِذَا يَغْشٰيهَا ❋ وَالسَّمَٓاءِ وَمَا بَنٰيهَا ❋ وَالْاَرْضِ وَمَا طَحٰيهَا ❋ وَنَفْسٍ وَمَا سَوّٰيهَا ❋ … اِلخ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -46,7 +48,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$45"
+      "text": "“Ey ahâli! Şu kasrın meliki olan Seyyidimiz, bu şeylerin izhârıyla ve bu sarayı yapmasıyla kendini size tanıttırmak istiyor. Siz dahi onu tanıyınız ve güzelce tanımağa çalışınız. Hem şu tezyînâtla kendini size sevdirmek istiyor. Siz dahi onun san'atını takdir ve işlerini istihsân ile kendinizi ona sevdiriniz. Hem, bu gördüğünüz ihsânat ile, size muhabbetini gösteriyor. Siz dahi, itâat ile ona muhabbet ediniz. Hem, şu görünen in'âm ve ikramlar ile size şefkatini ve merhametini gösteriyor. Siz dahi şükür ile ona hürmet ediniz. Hem, şu kemâlâtının âsârıyla manevî cemâlini size göstermek istiyor. Siz dahi, onu görmeğe ve teveccühünü kazanmağa iştiyakınızı gösteriniz. Hem, bütün şu gördüğünüz masnûât ve müzeyyenât üstünde birer mahsûs sikke, birer hususî hâtem, birer taklid edilmez tuğrâ koymakla, herşey kendisine hàs olduğunu ve kendi eser-i desti olduğunu ve kendisi tek ve yektâ, istiklâl ve infirad sâhibi olduğunu size göstermek istiyor. Siz dahi onu, tek ve yektâ ve misilsiz, nazîrsiz, bî-hemtâ tanıyınız ve kabûl ediniz.”"
     },
     {
       "type": "paragraph",
@@ -711,7 +713,8 @@
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى شَمْسِ سَمَاءِ الرِّسَالَةِ وَقَمَرِ بُرْجِ النُّبُوَّةِ وَعَلٰى اٰلِهِ وَاَصْحَابِهِ نُجُومِ الْهِدَايَةِ وَارْحَمْنَا وَارْحَمِ الْمُؤْمِن۪ينَ وَالْمُؤْمِنَاتِ اٰم۪ينَ اٰم۪ينَ اٰم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     }
   ]
 }

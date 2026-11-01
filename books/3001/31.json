@@ -19,17 +19,20 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "سُبْحَانَ الَّذ۪ٓي اَسْرٰى بِعَبْدِه۪ لَيْلًا مِنَ الْمَسْجِدِ الْحَرَامِ اِلَى الْمَسْجِدِ الْاَقْصَا الَّذ۪ي بَارَكْنَا حَوْلَهُ لِنُرِيَهُ مِنْ اٰيَاتِنَا اِنَّهُ هُوَ السَّم۪يعُ الْبَص۪يرُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اِنْ هُوَ اِلَّا وَحْيٌ يُوحٰى ❋ عَلَّمَهُ شَد۪يدُ الْقُوٰى ❋ ذُومِرَّةٍ فَاسْتَوٰى ❋ وَهُوَ بِالْاُفُقِ الْاَعْلٰى ❋ ثُمَّ دَنَا فَتَدَلّٰى ❋ فَكَانَ قَابَ قَوْسَيْنِ اَوْ اَدْنٰى ❋ فَاَوْحٰٓى اِلٰى عَبْدِه۪ مَٓا اَوْحٰى ❋ مَا كَذَبَ الْفُؤَادُ مَارَاٰى ❋ اَفَتُمَارُونَهُ عَلٰى مَا يَرٰى ❋ وَلَقَدْ رَاٰهُ نَزْلَةً اُخْرٰى ❋ عِنْدَ سِدْرَةِ الْمُنْتَهٰى ❋ عِنْدَهَا جَنَّةُ الْمَأْوٰي ❋ اِذْ يَغْشَى السِّدْرَةَ مَا يَغْشٰى ❋ مَا زَاغَ الْبَصَرُ وَمَا طَغٰى ❋ لَقَدْ رَاٰى مِنْ اٰيَاتِ رَبِّهِ الْكُبْرٰى",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -783,7 +786,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Birinci Temsîl:$4f"
+      "text": "Birinci Temsîl: Onbirinci Söz’ün hikâye-i temsîliyesinde tafsîlen beyân edildiği gibi: Nasıl ki bir sultan-ı zîşan’ın, pek çok hazineleri ve o hazinelerde pek çok cevâhirlerin envâ'ı bulunsa, hem sanâyi-i garîbede çok mehâreti olsa ve hesabsız fünûn-u acîbeye mârifeti, ihâtası bulunsa, nihâyetsiz ulûm-u bedîaya, ilim ve ıttılâ'ı olsa; her cemâl ve kemâl sâhibi, kendi cemâl ve kemâlini görüp ve göstermek istemesi sırrınca, elbette o sultan-ı zîfünûn dahi, bir meşher açmak ister ki; içinde sergiler dizsin, tâ nâsın enzârına saltanatının haşmetini, hem servetinin şa'şaasını, hem kendi san'atının hàrikalarını, hem kendi mârifetinin garîbelerini izhâr edip göstersin; tâ cemâl ve kemâl-i manevîsini iki vecihle müşâhede etsin. Bir vechi; bizzat nazar-ı dekàik-âşinâsıyla görsün. Diğeri; gayrın nazarıyla baksın. Ve şu hikmete binâen elbette, cesîm, muhteşem, geniş bir saray yapmaya başlar. Şâhâne bir sûrette dâirelere, menzillere taksim eder. Hazinelerinin türlü türlü murassaâtıyla süslendirip, kendi dest-i san'atının en güzel, en latîf san'atlarıyla zînetlendirir. Fünûn ve hikmetinin en incelikleriyle tanzim eder ve ulûmunun âsâr-ı mu'cizekârâneleriyle donatır, tekmîl eder. Sonra ni'metlerinin çeşitleriyle, taamlarının lezîzleriyle, her tâifeye lâyık sofraları serer. Bir ziyâfet-i âmme ihzar eder. Sonra raiyetine kendi kemâlâtını göstermek için, onları seyre ve ziyâfete dâvet eder."
     },
     {
       "type": "paragraph",
@@ -1403,22 +1406,26 @@
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ صَلِّ عَلٰى مَنِ انْشَقَّ بِاِشَارَتِهِ الْقَمَرُ وَنَبَعَ مِنْ اَصَابِعِهِ الْمَاءُ كَالْكَوْثَرِ صَاحِبِ الْمِعْرَاجِ وَمَا زَاغَ الْبَصَرُ سَيِّدِنَا مُحَمَّدٍ وَعَلٰى اٰلِهِ وَاَصْحَابِهِ اَجْمَع۪ينَ مِنْ اَوَّلِ الدُّنْيَا اِلٰى اٰخِرِ الْمَحْشَرِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "رَبَّنَا تَقَبَّلْ مِنَّا اِنَّكَ اَنْتَ السَّم۪يعُ الْعَل۪يمُرَبَّنَا لَا تُؤَاخِذْنَٓا اِنْ نَس۪ينَٓا اَوْ اَخْطَأْنَارَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ اِذْ هَدَيْتَنَارَبَّنَٓا اَتْمِمْ لَنَا نُورَنَا وَاغْفِرْلَنَا اِنَّكَ عَلٰى كُلِّ شَيْءٍ قَد۪يرٌ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَاٰخِرُ دَعْوٰيهُمْ اَنِ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "heading",
@@ -1437,12 +1444,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اِقْتَرَبَتِ السَّاعَةُ وَانْشَقَّ الْقَمَرُ ❋ وَاِنْ يَرَوْا اٰيَةً يُعْرِضُوا وَيَقُولُوا سِحْرٌ مُسْتَمِرٌّ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -1660,12 +1669,14 @@
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ بِحَقِّ مَنِ انْشَقَّ الْقَمَرُ بِاِشَارَتِهِ اِجْعَلْ قَلْب۪ي وَقُلُوبَ طَلَبَةِ رَسَائِلِ النُّورِ الصَّادِق۪ينَ كَالْقَمَرِ ف۪ي مُقَابَلَةِ شَمْسِ الْقُرْاٰنِ اٰم۪ينَ اٰم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     }
   ],
   "notes": [

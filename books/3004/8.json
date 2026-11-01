@@ -40,7 +40,8 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "quote",
@@ -155,7 +156,7 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "$42"
+          "text": "İşte bu temsîl gibi, her vakit gördüğümüz ecel darağacının arkasında mukadderât-ı nev'-i beşer piyangosundan ehl-i îmân ve tâat için – hüsn-ü hâtime şartıyla – ebedî ve tükenmez bir hazinenin bileti çıkacağını yüzde yüz ihtimal ile; sefâhet ve haram ve i'tikàdsızlık ve fıskta devam edenler – tevbe etmemek şartıyla – ya i'dâm-ı ebedî (âhirete inanmayanlara) veya dâimî ve karanlık haps-i münferid (bekà-i rûh’a inanan ve sefâhette gidenlere) ve şekàvet-i ebediye i'lâmını alacaklarını yüzde doksan dokuz ihtimal ile kat'î haber veren, başta ellerinde nişane-i tasdik olan hadsiz mu'cizeler bulunan yüz yirmi dört bin Peygamberler ve onların verdikleri haberlerin izlerini ve – sinemada gibi – gölgelerini, keşf ile, zevk ile görüp tasdik ederek imza basan yüz yirmi dört milyondan ziyâde evliyâlar (Kaddesallâhu Esrârahüm) ve o iki kısım meşâhir-i insaniyenin haberlerini aklen kat'î bürhânlarla ve kuvvetli hüccetlerle – fikren ve mantıken – yakìnî bir sûrette isbât ederek tasdik edip imza basan milyarlar gelen geçen muhakkìkler, "
         },
         {
           "note": "1"
@@ -178,7 +179,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$43"
+      "text": "Mâdem hakikat-i hâl budur‥ biz mahpuslar, bu hapis musîbetinden intikamımızı tam almak için o mübârek ikinci hey'etin hediyelerini kabûl etmeliyiz. Yani, nasıl ki, bir dakika intikam lezzeti ve birkaç dakika veya bir-iki saat sefâhet lezzetleriyle bu musîbet; bizi on beş ve beş ve on ve iki-üç sene bu hapse soktu, dünyamızı bize zindân eyledi; biz dahi bu musîbetin rağmına ve inâdına, bir-iki saat müddet-i hapsi bir-iki gün ibâdete ve iki-üç sene cezamızı – mübârek kafilenin hediyeleriyle – yirmi-otuz sene bâkî bir ömre ve on ve yirmi sene hapiste cezamızı milyonlar sene Cehennem hapsinden affımıza vesile edip fânî dünyamızın ağlamasına mukâbil, bâkî hayatımızı güldürerek bu musîbetten tam intikamımızı almalıyız. Hapishâneyi terbiyehâne gösterip vatanımıza ve milletimize birer terbiyeli, emniyetli, menfaatli adam olmağa çalışmalıyız. Ve hapishâne memurları ve müdürleri ve müdebbirleri dahi, cânî ve eşkıyâ ve serseri ve kàtil ve sefâhetçi ve vatana muzır zannettikleri adamları, bir mübârek dershânede çalışan talebeler görsünler ve müftehirâne Allah’a şükretsinler."
     },
     {
       "type": "divider"
@@ -604,7 +605,8 @@
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "divider"
@@ -625,12 +627,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَمَٓا اَمْرُ السَّاعَةِ اِلَّا كَلَمْحِ الْبَصَرِ اَوْ هُوَ اَقْرَبُمَا خَلْقُكُمْ وَلَا بَعْثُكُمْ اِلَّا كَنَفْسٍ وَاحِدَةٍفَانْظُرْ اِلٰٓى اٰثَارِ رَحْمَتِ اللّٰهِ كَيْفَ يُحْيِي الْاَرْضَ بَعْدَ مَوْتِهَاۜ اِنَّ ذٰلِكَ لَمُحْيِ الْمَوْتٰى وَهُوَ عَلٰى كُلِّ شَيْءٍ قَد۪يرٌ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -731,7 +735,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$42"
+      "text": "Hem mâdem biz gözümüzle görüyoruz ki; umum mahlûklarda ve zemin yüzünde öyle bir hikmet eli işliyor ve öyle bir adâlet ölçüleriyle işler dönüyor ki, akl-ı beşer onun fevkınde düşünemiyor. Meselâ, insanın bin cihâzâtına takılan hikmetlerinden yalnız bir küçük çekirdek kadar kuvve-i hâfızasında bütün tarihçe-i hayatını ve ona temâs eden hadsiz hâdisâtı o kuvvecikte yazıp, onu bir kütübhâne hükmüne getirip ve insanın haşirde muhâkemesi için neşir olacak olan defter-i a'mâlinin bir küçük senedi olarak her vakit hatırlatmak sırrı ile her insanın eline vererek dimağının cebine koyan bir ezelî hikmet ve bütün masnûâtta gayet hassas mîzanlar ile a'zâlarını yerleştiren, mikroptan gergedana, sinekten simurga kuşuna, bir çiçekli nebâttan milyarlar, trilyonlarla çiçekler açan bahar çiçeğine kadar, isrâfsız ölçülerle bir tenâsüb, bir muvâzene, bir intizam ve bir cemâl içinde masnûâtı bir hüsn-ü san'at yapan ve her zîhayatın hukuk-u hayatını kemâl-i mîzanla veren; iyiliklere güzel neticeler ve fenâlıklara fenâ neticeler verdiren ve Âdem zamanından beri tâğî ve zâlim kavimlere vurduğu tokatlarla kendini pek kuvvetli ihsâs ettiren bir adâlet-i sermediye, elbette ve hiç şübhe getirmez ki:"
     },
     {
       "type": "paragraph",
@@ -834,7 +838,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$43"
+      "text": "Hem mâdem, gündüz bedâhetle güneşi gösterdiği gibi, zemin yüzünde, mevsimlerin tebeddülünde küllî ölmek ve dirilmekte, perde arkasında bir mutasarrıf; gayet intizamla koca küre-i arzı bir bahçe, belki bir ağaç kolaylığında ve intizamında ve azametli baharı bir çiçek sühûletinde ve mîzanlı zînetinde ve zemin sahifesinde üç yüz bin haşir ve neşrin nümûne ve misâllerini gösteren üç yüz bin kitab hükmündeki nebâtât ve hayvanat tâifelerini (onda) yazar, beraber ve birbiri içinde şaşırmayarak, karışık iken karıştırmayarak, birbirine benzemekle beraber iltibassız, sehivsiz, hatâsız, mükemmel, muntazam, mânidâr yazan bir kalem-i kudret, bu azameti içinde hadsiz bir rahmet, nihâyetsiz bir hikmet ile işlediği gibi; koca kâinâtı bir hânesi misillû insana musahhar ve müzeyyen ve tefriş etmek ve o insanı halife-i zemin ederek ve dağ ve gök ve yer tahammülünden çekindikleri emânet-i kübrâyı ona vermesi ve sâir zîhayatlara bir derece zâbitlik mertebesiyle mükerrem etmesi ve Hitâbât-ı Sübhâniyesine ve sohbetine müşerref eylemesi ile fevkalâde bir makam verdiği ve bütün semâvî fermânlarda ona saâdet-i ebediyeyi ve bekà-i uhreviyeyi kat'î va'd ve ahdettiği hâlde, elbette ve hiçbir şübhe olmaz ki:"
     },
     {
       "type": "paragraph",
@@ -2390,12 +2394,14 @@
     {
       "type": "arabic",
       "text": "اَلْحَمْدُ لِلّٰهِ عَلٰى اِنْعَامِهِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "divider"
@@ -2407,12 +2413,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اٰمَنَ الرَّسُولُ بِمَٓا اُنْزِلَ اِلَيْهِ مِنْ رَبِّه۪ وَالْمُؤْمِنُونَ كُلٌّ اٰمَنَ بِاللّٰهِ وَمَلٰٓئِكَتِه۪ وَكُتُبِه۪ وَرُسُلِه۪ لَا نُفَرِّقُ بَيْنَ اَحَدٍ مِنْ رُسُلِه۪… اِلٰى اٰخِرِ الْاٰيَةِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -2705,7 +2713,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$44"
+      "text": "Evet, nazar-ı gaflet ve dalâlette, vahşetli ve dehşetli bir ademistan‥ ve elîm ve mahvolmuş bir mezaristan olan bütün geçmiş zaman ve ölmüş karnlar ve asırlar; canlı birer sahife-i ibret ve baştan başa rûhlu, hayatdâr bir acîb âlem ve mevcûd ve bizimle münâsebetdâr bir memleket-i Rabbâniye sûretinde sinema perdeleri gibi; kâh bizi o zamanlara, kâh o zamanları yanımıza getirerek her asra ve her tabakaya gösterip yüksek bir i'câz ile dersini veren Kur'ân-ı Mu'cizü'l-Beyân, aynı i'câz ile; nazar-ı dalâlette câmid, perîşan, ölü, hadsiz bir vahşetgâh olan ve firâk ve zevâlde yuvarlanan bu kâinâtı bir kitab-ı Samedânî, bir şehr-i Rahmânî, bir meşher-i sun'-i Rabbânî olarak o câmidâtı canlandırarak birer vazifedâr sûretinde birbiriyle konuşturup ve birbirinin imdâdına koşturup, nev'-i beşere ve cin ve meleğe hakîki ve nurlu ve zevkli hikmet dersleri veren bu Kur'ân-ı Azîmü'ş-Şân, elbette her harfinde on ve yüz ve bazen bin ve binler sevâb bulunması‥ ve bütün cin ve ins toplansa O’nun mislini getirememesi‥ ve bütün benî Âdem’le ve kâinâtla tam yerinde konuşması‥ ve her zaman milyonlar hâfızların kalblerinde zevk ile yazılması‥ ve çok tekrarla ve kesretli tekrârâtıyla usandırmaması‥ ve çok iltibas yerleri ve cümleleri ile beraber çocukların nâzik ve basit kafalarında mükemmel yerleşmesi‥ ve hastaların ve az sözden müteessir olan ve sekerâtta olanların kulağında mâ-i zemzem misillû hoş gelmesi gibi kudsî imtiyazları kazanır. Ve iki cihanın saâdetlerini kendi şâkirdlerine kazandırır."
     },
     {
       "type": "paragraph",
@@ -3094,7 +3102,7 @@
           "red": true
         },
         {
-          "text": "$45"
+          "text": " düsturuyla; bütün ümmetinin, bütün zamanlarda işlediği hasenâtın bir misli O’nun defter-i hasenâtına girmesi ve bütün kâinâtın hakikatlerini, getirdiği nur ile nurlandırması, değil yalnız cin, ins, melek ve zîhayatı, belki kâinâtı, semâvât ve arzı minnetdâr eylemesi ve isti'dâd lisânıyla nebâtâtın duâları ve ihtiyac-ı fıtrî diliyle hayvanatın duâları, gözümüz önünde bilfiil kabûl olmasının şehâdetiyle milyonlar, belki rûhânilerle beraber milyarlar fıtrî ve reddedilmez duâları makbûl olan sulehâ-yı ümmeti her gün O Zât’a salât ve selâm ünvânı ile rahmet duâları ve manevî kazançlarını en evvel O Zât’a bağışlamaları ve bütün ümmetçe okunan Kur'ânın üç yüz bin hurûfunun, herbirisinde on sevâbdan tâ yüz, tâ bin hasene ve meyve vermesinden – yalnız kırâat-ı Kur'ân cihetiyle – defter-i a'mâline hadsiz nurlar girmesi haysiyetiyle, O Zât’ın şahsiyet-i maneviyesi olan Hakikat-i Muhammediye istikbâlde bir şecere-i tûbâ-i Cennet hükmünde olacağını Allâmü'l-Guyûb bilmiş ve görmüş, o makama göre Kur'ânında o azîm ehemmiyeti vermiş ve Fermânında O’na tebaiyeti ve Sünnet-i Seniye’sine ittibâ' ile şefâatine mazhariyeti en ehemmiyetli bir mes'ele-i insaniye göstermiş ve o haşmetli şecere-i tûbânın bir çekirdeği olan şahsiyet-i beşeriyetini ve bidâyetteki vaziyet-i insaniyesini ara sıra nazara almasıdır."
         }
       ]
     },
@@ -3216,13 +3224,17 @@
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
       "parts": [
         {
-          "text": "Duânıza çok muhtaç ve size çok müştâk Kardeşiniz Said Nursî",
+          "text": "Duânıza çok muhtaç ve size çok müştâk \nKardeşiniz \n"
+        },
+        {
+          "text": "Said Nursî",
           "bold": true
         }
       ]
@@ -3286,7 +3298,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$46"
+      "text": "Sâliklerinin her asırda fevkalâde bir metânetle sarılmaları ile ve emir ve nehyine tamamen inkıyad etmeleriyle, güyâ yeni nâzil olmuş gibi tazeliği isbât edilmiş olan Kur'ân-ı Mu'cizü'l-Beyân’ın, bütün asırlarda, zâlimlerine karşı şiddetli ve dehşetli ve tekrarlı tehdidleri ve mazlumlarına karşı şefkatli ve rahmetli mükerrer taltifleri, hususuyla bu asrımıza bakan tehdidâtı içinde zâlimlerine misli görülmemiş bir hâlette, sanki feze'-i ekberden bir nümûneyi andıran semâvî bir Cehennem’le altı-yedi seneden beri mütemâdiyen feryâd u figân ettirmesi ve kezâ mazlumlarının bu asırdaki küllî ferdleri başında Risale-i Nur talebelerinin bulunması ve hakikaten bu talebeleri de ümem-i sâlifenin Enbiyâlarına verilen necâtlar gibi pek büyük umumî ve hususî necâtlara mazhar etmesi ve muârızları olan dinsizlerin cehennemî azâbla tokatlanmalarını göstermesi, hem iki güzel ve latîf hâşiyelerle hâtime verilmek sûretiyle çiçeğin tamam edilmesi, bu fakir talebeniz Husrev’i o kadar büyük bir sürûrla sonsuz bir şükre sevketti ki; bu güzel çiçeğin verdiği sevinç ve sürûru müddet-i ömrümde hissetmediğimi sevgili Üstadıma arzettiğim gibi, kardeşlerime de kerrâtla söylemişim."
     },
     {
       "type": "paragraph",
@@ -3313,7 +3325,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Çok kusurlu talebeniz Husrev",
+          "text": "Çok kusurlu talebeniz \n"
+        },
+        {
+          "text": "Husrev",
           "bold": true
         }
       ]
@@ -3778,12 +3793,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "قُلْ اَعُوذُ بِرَبِّ الْفَلَقِ ❋ مِنْ شَرِّ مَا خَلَقَ ❋ وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَ ❋ وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ ❋ وَمِنْ شَرِّ حَاسِدٍ اِذَا حَسَدَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -4087,7 +4104,8 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -4286,7 +4304,8 @@
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "quote",
@@ -4311,17 +4330,20 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -4356,7 +4378,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Çok hakîr talebeniz Husrev",
+          "text": "Çok hakîr talebeniz \n"
+        },
+        {
+          "text": "Husrev",
           "bold": true
         }
       ]
@@ -4371,12 +4396,14 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -4526,7 +4553,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Isparta ve havâlisinde bulunanNur Talebeleri",
+          "text": "Isparta ve havâlisinde bulunan\n"
+        },
+        {
+          "text": "Nur Talebeleri",
           "bold": true
         }
       ]

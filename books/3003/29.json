@@ -9,7 +9,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -40,17 +41,20 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَالصَّلَاةُ وَالسَّلَامُ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى اٰلِهِ وَ صَحْبِهِ اَجْمَعِينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "heading",
@@ -2170,7 +2174,7 @@
           "bold": true
         },
         {
-          "text": "$57"
+          "text": "وَمَا الْأَسْبَابُ إِلَّا حِجَابٌ رَقِيقٌ عَلَى تَصَرُّفِ الْقُدْرَةِ الْأَزَلِيَّةِ، لَيْسَ لَهَا تَأْثِيرٌ إِيجَادِيٌّ فِي نَفْسِ الْأَمْرِ. إِذْ أَشْرَفُ الْأَسْبَابِ وَأَوْسَعُهَا اخْتِيَارًا هُوَ الْإِنْسَانُ؛ مَعَ أَنَّهُ لَيْسَ فِي يَدِهِ مِنْ أَظْهَرِ أَفْعَالِهِ الِاخْتِيَاريَّةِ كَ« الْأَكْلِ وَالْكَلامِ وَالْفِكْرِ » مِنْ مِئَاتِ أَجْزَاءٍ إِلَّا جُزْءٌ وَاحِدٌ مَشْكُوكٌ. فَإِذَا كَانَ السَّبَبُ الْأَشْرَفُ وَالْأَوْسَعُ اخْتِيَارًا مَغْلُولَ الْأَيْدِي عَنِ التَّصَرُّفِ الْحَقِيقِيِّ كَمَا تَرٰى؛ فَكَيْفَ يُمْكِنُ أَنْ تَكُونَ الْبَهِيمَاتُ وَالْجَمَادَاتُ شَرِيكةً فِي الْإِيجَادِ وَالرُّبُوبِيَّةِ لِخَالِقِ الْأَرْضِ وَالسَّمٰوَاتِ. فَكَمَا لَا يُمْكِنُ أَنْ يَكُونَ الظَّرْفُ الَّذِي وَضَعَ السُّلْطَانُ فِيهِ الْهَدِيَّةَ، أَوِ الْمَنْدِيلُ الَّذِي لَفَّ فِيهِ الْعَطِيَّةَ، أَوِ النَّفَرُ الَّذِي أَرْسَلَ عَلَى يَدِهِ النِّعْمَةَ إِلَيْكَ، شُرَكَاءَ لِلسُّلْطَانِ فِي سَلْطَنَتِهِ؛ كَذٰلِكَ لَا يُمْكِنُ أَنْ يَكُونَ الْأَسْبَابُ الْمُرْسَلَةُ عَلَى أَيْدِيهِمُ النِّعَمُ إِلَيْنَا، وَالظُّرُوفُ الَّتِي هِيَ صَنَادِيقُ لِلنِّعَمِ الْمُدَّخَرَةِ لَنَا، وَالْأَسْبَابُ الَّتِي الْتَفَّتْ عَلَى عَطَايَا إِلٰهِيَّةٍ مُهْدَاةٍ إِلَيْنَا، شُرَكَاءَ أَعْوَانًا أَوْ وَسَائِطَ مُؤَثِّرَةً."
         },
         {
           "note": "34"
@@ -2484,7 +2488,7 @@
           "bold": true
         },
         {
-          "text": "$58"
+          "text": "فَالْحِكْمَةُ الْعَامَّةُ فِي تَنْظِيمَاتِهَا‥ وَالْعِنَايَةُ التَّامَّةُ فِي تَزْيِينَاتِهَا‥ وَالرَّحْمَةُ الْوَاسِعَةُ فِي تَلْطِيفَاتِهَا‥ وَالْأَرْزَاقُ وَالْإِعَاشَةُ الشَّامِلَةُ فِي تَرْبِيَتِهَا‥ وَالْحَيَاةُ الْعَجِيبَةُ الصَّنْعَةِ بِمَظْهَرِيَّتِهَا لِلشُّؤُونِ الذَّاتِيَّةِ لِفَاطِرِهَا‥ وَالْمَحَاسِنُ القَصْدِيَّةُ فِي تَحْسِينَاتِهَا‥ وَدَوَامُ تَجَلِّي الْجَمَالِ الْمُنْعَكِسِ مَعَ زَوَالِهَا‥ وَالْعِشْقُ الصَّادِقُ فِي قَلْبِها لِمَعْبُودِهَا‥ وَالِانْجِذَابُ الظَّاهِرُ فِي جَذْبَتِهَا‥ وَاتِّفاقُ كُلِّ كُمَّلِهَا عَلَى وَحْدَةِ فَاطِرِهَا‥ وَالتَّصَرُّفُ لِمَصَالِحَ فِي أَجْزَائِهَا‥ وَالتَّدْبِيرُ الْحَكِيمُ لِنَبَاتَاتِهَا‥ وَالتَّرْبِيَةُ الْكَرِيمَةُ لِحَيَوَانَاتِهَا‥ وَالِانْتِظَامُ الْمُكَمَّلُ فِي تَغَيُّرَاتِ أَرْكَانِهَا‥ وَالْغَايَاتُ الْجَسِيمَةُ فِي انْتِظَامِ كُلِّيَّتِهَا‥ وَالْحُدُوثُ دَفْعَةً مَعَ غايَةِ كَمَالِ حُسْنِ صَنْعَتِهَا بِلَا احْتِيَاجٍ إِلَى مُدَّةٍ وَمَادَّةٍ‥ وَالتَّشَخُّصَاتُ الْحَكِيمَةُ مَعَ عَدَمِ تَحْدِيدِ تَرَدُّدِ إِمْكَانَاتِهَا‥ وَقَضَاءُ حَاجَاتِهَا عَلَى غَايَةِ كَثْرَتِهَا وَتَنَوُّعِهَا فِي أَوْقَاتِهَا اللَّائِقَةِ الْمُنَاسِبَةِ، مِنْ حَيْثُ لَا يُحْتَسَبُ وَمِنْ حَيْثُ لَا يُشْعَرُ مَعَ قِصَرِ أَيْدِيهَا عَنْ أَصْغَرِ مَطَالِبِهَا‥ وَالْقُوَّةُ الْمُطْلَقَةُ فِي مَعْدَنِ ضَعْفِهَا‥ وَالْقُدْرَةُ الْمُطْلَقَةُ فِي مَنْبَعِ عَجْزِهَا‥ وَالْحَياةُ الظَاهِرَةُ فِي جُمُودِهَا‥ وَالشُّعُورُ الْمُحِيطُ فِي جَهْلِهَا‥ وَالِانْتِظَامُ الْمُكَمَّلُ فِي تَغَيُّرَاتِهَا الْمُسْتَلْزِمُ لِوُجُودِ الْمُغَيِّرِ الْغَيْرِ الْمُتَغَيِّرِ‥ وَالِاتِّفَاقُ فِي تَسْبِيحَاتِهَا كَالدَّوَائِرِ الْمُتَدَاخِلَةِ الْمُتَّحِدَةِ الْمَرْكَزِ‥ وَالْمَقْبُولِيَّةُ فِي دَعَوَاتِهَا الثَّلَاثِ « بِلِسَانِ اسْتِعْدَادِهَا، وَبِلِسَانِ احْتِيَاجَاتِهَا"
         },
         {
           "note": "41"
@@ -6242,7 +6246,7 @@
           "bold": true
         },
         {
-          "text": "$52"
+          "text": "أَمْسَيْنَا وَأَصْبَحْنَا نُشْهِدُكَ وَنُشْهِدُ جَمِيعَ صِفَاتِكَ الْمُتَقَدِّسَةِ‥ وَنُشْهِدُ جَمِيعَ أَسْمَائِكَ الْحُسْنٰى‥ وَنُشْهِدُ جَمِيعَ مَلآئِكَتِكَ الْعُلْيَا‥ وَنُشْهِدُ جَمِيعَ مَخْلُوقَاتِكَ الشَّتَّى‥ وَنُشْهِدُ جَمِيعَ أَنْبِيَائِكَ الْعُظْمَى، وَجَمِيعَ أَوْلِيَائِكَ الْكُبْرَى. وَجَمِيعَ أَصْفِيَائِكَ الْعُلْيَا‥ وَنُشْهِدُ جَمِيعَ آيَاتِكَ التَّكْوِينِيَّةِ الَّتِي لَا تُعَدُّ وَلَا تُحْصَى‥ وَنُشْهِدُ جَمِيعَ مَصْنُوعَاتِكَ الْمُزَيَّنَاتِ الْمَوْزُونَاتِ الْمَنْظُومَاتِ الْمُتَمَاثِلَاتِ‥ وَنُشْهِدُ جَمِيعَ ذَرَّاتِ الْكَائِنَاتِ الْعَاجِزَاتِ الْجَامِدَاتِ الْجَاهِلَاتِ والْحَامِلَةِ بِحَوْلِكَ وَطَوْلِكَ وَأَمْرِكَ وَإِذْنِكَ عَجَائِبَ الْوَظائِفِ الْمُنتَظَمَاتِ‥ ونُشْهِدُ جَمِيعَ مُرَكَّبَاتِ الذَّرَّاتِ الغَيْرِ الْمَحْدُودَاتِ الْمُتَنَوِّعَاتِ الْمُنتَظَمَاتِ الْمُتْقَنَاتِ الْمَصْنُوعَاتِ مِنَ الْبَسَائِطِ الْجَامِدَاتِ‥ وَنُشْهِدُ جَمِيعَ تَرَكُّبَاتِ الْمَوْجُودَاتِ النَّامِيَاتِ، الْمُخْتَلِطَةِ مَوَادُّ حَيَاتِهَا فِي غَايَةِ الِاخْتِلَاطِ، وَالْمُتَمَيِّزَةِ دَفْعَةً فِي غَايَةِ الِامْتِيَازِ‥ وَنُشْهِدُ حَبِيبَكَ الْأَكْرَمَ سُلْطَانَ الْأَنْبِيَاءِ وَالْأَوْلِيَاءِ أَفْضَلَ الْمَخْلُوقَاتِ ذَا الْمُعْجِزَاتِ الْبَاهِرَةِ عَلَيْهِ وَعَلَى آلِهِ أَفْضَلُ الصَّلَوَاتِ وَالتَّسْلِيمَاتِ‥ وَنُشْهِدُ فُرْقَانَكَ الْحَكِيمَ ذَا الْآيَاتِ الْبَيِّنَاتِ وَالْبَرَاهِينِ النَّيِّرَاتِ وَالدَّلَائِلِ الْوَاضِحَاتِ وَالْأَنْوَارِ السَّاطِعَاتِ: بِأَنَّا كُلَّنَا نَشْهَدُ"
         }
       ]
     },
@@ -6876,7 +6880,7 @@
     },
     {
       "id": "42",
-      "text": "[53]$59"
+      "text": "[53]Kâinâtın tanzimâtındaki hikmet-i âmme; tezyînâtındaki inâyet-i tâmme; taltifatındaki rahmet-i vâsia; terbiyesindeki erzâk ve iâşe-i şâmile; Fâtır’ının şuûnât-ı zâtiyesine mazhariyetiyle acîb bir san'at izhâr eden hayatı; tahsinatındaki mehâsin-i kasdiye; mevcûdâtının zevâliyle beraber onlarda in'ikâs eden tecelliyât-ı cemâliyenin devamı; kâinâtın kalbinde, Ma'bûd’una karşı sâdık aşk; cezbelerinde zâhir olan incizab; kâinâttaki bütün kâmillerin, onun Fâtır’ının vahdetine dair ittifakları; eczâsında fayda ve maslahatları gözeten tasarrufât; nebâtâtındaki hakîmâne tedbir; hayvanatındaki kerîmâne terbiye; erkânının tağayyürâtındaki mükemmel intizam; külliyetinin intizamında gözetilen cesîm gayeler; maddeye ve zamana muhtaç olmayarak ve gayet kemâldeki bir hüsn-ü san'atla def'aten icâd edilmesi; sınırsız imkânât içinde mütereddid mevcûdâta verilen hakîmâne teşahhusât; gayet kesretli ve mütenevvi' hâcetlerinin, ellerinin yetişmediği en küçük matlablarına kadar, umulmadık tarzda ve hesabsız bir şekilde, lâyık ve münâsib vakitte kaza edilmesi; za'fında tecellî eden kuvvet-i mutlaka; aczinde tecellî eden kudret-i mutlaka; cümûdunda tezâhür eden hayat; cehline rağmen herşeyi her şe'niyle ihâta eden küllî şuûr; tağayyürden münezzeh bir tağyîr edicinin vücûdunu istilzam eden tağayyürâtındaki intizam-ı mükemmel; bir merkez etrafındaki mütedâhil dâireler gibi müttefik tesbihâtları; isti'dâd lisânıyla, ihtiyac-ı fıtrî lisânıyla ve ıztırar lisânıyla edilen üç nevi duâların makbûliyeti; mevcûdâtın münâcâtları ve ibâdetleriyle mazhar oldukları şühûdât ve füyûzâtları; mukadderâtındaki intizam; Fâtır’ını zikretmekle mutmain oluşları; mevcûdâtın mebde' ile müntehâlarını birleştiren hayt-ı vuslatın ibâdet oluşu ve ibâdet vâsıtasıyla kemâlâtlarının zuhûr edişi ve Sâni'inin o mevcûdu halk etmekteki makàsıdının tahakkuk etmesi;"
     },
     {
       "id": "43",
@@ -7072,7 +7076,7 @@
     },
     {
       "id": "91",
-      "text": "وَالتَّحِيَّاتُ$52اَلتَّحِيَّاتُ demekle kendi lisânımızla o tahiyyâtları yâd edip, kendi hesabımıza dergâh-ı İlâhiye’ye takdim ederiz. Zâten lisân, o makinelerden birisidir ve ondan matlûb neticelerden birincisi, bir tercümânlıktır."
+      "text": "وَالتَّحِيَّاتُ Yani: Bütün zîhayatların âsâr-ı hayatlarını muntazaman murad-ı İlâhî dâiresinde gösterdikleri cihetle, Sâni'-i Zülcelâl’lerinin san'atını alkışlıyorlar. Nasıl ki bir zât hàrika bir makine yapsa, o makinenin başında bir fonoğraf, bir fotoğraf gibi ayrı ayrı kendi kendine işler, konuşur, yazar, muhâbere eder cihâzât bulunsa, o adamın istediği tarzda işlese, neticelerini güzelce verse; o makineye bakan nasıl ki o adamı Mâşâallâh ve Bârekallâh’lar ile alkışlar, manevî hediyeler verir. Aynen o makine de, ondan maksûd olan neticeleri, eserleri mükemmel izhâr etmekle; o cihâzâtın lisân-ı hâliyle, san'atkârını takdirler ve tahsinler ve ma'nen Mâşâallâh’larla tebrik edip alkışlar, tahiyeler ve hediyeler verir. İşte bütün zîhayatın her birisi başında pek çok muhtelif fonoğraflar, fotoğraflar, telgraf ve telefon makineleri gibi çok makineler var. Onlar hilkatlerindeki netâici, maksadları nihâyet derecede mükemmel gösterdiklerinden, hayatlarının tezâhüratıyla, tahiyyât tâbir edilen manevî alkışlar, hediyeler, tebrikler ve tahsinlerle, Sâni'-i Zülcelâl’inin tesbihâtını, hem kemâlât-ı san'atını ilân ediyorlar demektir. Biz ise اَلتَّحِيَّاتُ demekle kendi lisânımızla o tahiyyâtları yâd edip, kendi hesabımıza dergâh-ı İlâhiye’ye takdim ederiz. Zâten lisân, o makinelerden birisidir ve ondan matlûb neticelerden birincisi, bir tercümânlıktır."
     },
     {
       "id": "92",
@@ -7216,7 +7220,7 @@
     },
     {
       "id": "127",
-      "text": "[6]$53\n[7]Sen Vâcibü'l-vücûd, Vâhidü'l-Ehad, Ferdü's-Samed, Hayyü'l-Kayyûm, Alîmü'l-Hakîm, Kadîrü'l-Mürîd, Semîü'l-Basîr, RahmânürRahîm, Adlü'l-Hakem, Muktedirü'l-Mütekellim olan Allah’sın ve bütün güzel isimler Sana aittir.\n[8]Ve kezâ şehâdet ederiz ki, Senden başka hiçbir ilâh yoktur. Sen birsin ve Senin şerîkin yoktur. Sen herşeye kadîrsin ve herşeyi hakkıyla bilirsin."
+      "text": "[6]Akşama erdiğimizde ve sabaha girdiğimizde, hep Seni ve Senin bütün mukaddes sıfatlarını şâhid tutarız; Senin bütün Esmâ-i Hüsnâ’nı şâhid tutarız; Senin yüce âlemlerdeki bütün meleklerini şâhid tutarız; Senin muhtelif mahlûkatının hepsini şâhid tutarız; Senin büyük peygamberlerinin hepsini şâhid tutarız; Senin büyük evliyâlarının hepsini şâhid tutarız; Senin bütün yüksek asfiyâlarını şâhid tutarız; Senin had ve hesaba gelmeyen tekvînî âyetlerinin hepsini şâhid tutarız; Senin hilkatte birbirine benzeyen bütün müzeyyen, mevzûn ve manzûm masnûâtını şâhid tutarız. Kendileri âciz, câmid ve câhil oldukları halde, Senin havl ve kuvvetinle ve emir ve izninle, pek acîb ve muntazam vazifeleri kaldıran bütün zerrât-ı kâinâtı şâhid tutarız; basit ve câmid zerrelerden yapılan mütenevvi', muntazam, itkanlı ve san'atlı hadsiz mürekkebâtın hepsini şâhid tutarız. Hayat maddeleri nihâyet derecede karışıklık içinde olduğu halde, nihâyet derecede imtiyazla ve def'aten birbirinden ayırt edilerek neşv ü nemâ bulan muhtelif mevcûdâtın bütün terekkübâtını şâhid tutarız. Enbiyâ ve evliyânın sultanı, mahlûkatının en efdali ve bâhir mu'cizelerin sâhibi olan Habîb-i Ekrem’ini –salât ve selâmın en üstünü onun ve Âlinin üzerine olsun– şâhid tutarız; âyât-ı beyyine, berâhin-i neyyire, delâil-i vâzıh ve envâr-ı sâtıa sâhibi Furkàn-ı Hakîm’ini şâhid tutarız; ve hepimiz şehâdet ederiz ki:\n[7]Sen Vâcibü'l-vücûd, Vâhidü'l-Ehad, Ferdü's-Samed, Hayyü'l-Kayyûm, Alîmü'l-Hakîm, Kadîrü'l-Mürîd, Semîü'l-Basîr, RahmânürRahîm, Adlü'l-Hakem, Muktedirü'l-Mütekellim olan Allah’sın ve bütün güzel isimler Sana aittir.\n[8]Ve kezâ şehâdet ederiz ki, Senden başka hiçbir ilâh yoktur. Sen birsin ve Senin şerîkin yoktur. Sen herşeye kadîrsin ve herşeyi hakkıyla bilirsin."
     },
     {
       "id": "128",
@@ -7228,7 +7232,7 @@
     },
     {
       "id": "130",
-      "text": "[9]$54\n[10]Ey Hafîz, ey Hâfız, ey Hayrü'l-Hâfızîn olan Allah’ım!\n[11]Bize ihsân ettiğin bu şehâdetleri Senin hıfz ve himâyene ve Senin rahmetine tevdî' ediyoruz. Haşir ve mîzan gününe kadar onları hıfzeyle. Âmîn. Hamd, âlemlerin Rabbi olan Allah’a mahsustur."
+      "text": "[9]Ve kezâ, mezkûr şehâdât ve şâhidlerin hepsini şâhid tutarak ve onların hepsiyle beraber şehâdet ederiz ki, Muhammed (asm) Senin kulun, peygamberin, âlemlerde seçkin kıldığın kulun, halîlin, mülkünün cemâli, san'atının meliki, inâyetinin pınarı, hidayetinin güneşi, muhabbetinin lisânı, rahmetinin misâli, mahlûkatının nuru, mevcûdâtının şerefi, tılsım-ı kâinâtının keşşâfı, saltanat-ı rubûbiyet’inin dellâlı, künûz-u esmânın ta'rif edicisi, kullarına Senin evâmirinin muallimi, kitab-ı kâinâtının âyâtının müfessiri, mahlûkatındaki tecelliyâtını görmek ve zîşuûr kullarına göstermek için medâr yaptığın bu zât; Kendi cemâline, esmâna, san'atına, masnûâtına ve mahlûkatının mehâsinine olan muhabbetinin mir'âtı; âlemlere rahmet olarak ve bu âlem sarayının nakışlarındaki renk san'atının hikmetleriyle, saltanat-ı rubûbiyet’inin kemâlâtındaki güzellikleri beyân etmek ve kitab-ı âlemînin kelimâtındaki, âyâtındaki ve satırlarındaki hikmetlerin işârâtıyla, Senin isimlerinin hazinelerini ta'rif etmek ve marziyâtını bildirmek üzere gönderdiğin habîbin ve resûlündür, ey Rabbü's-Semâvâti ve'l-Arâdîn! Ona, onun Âline ve Ashâbına ve ihvânına, her anda ve her zamanda milyonlar salât ve selâm olsun.\n[10]Ey Hafîz, ey Hâfız, ey Hayrü'l-Hâfızîn olan Allah’ım!\n[11]Bize ihsân ettiğin bu şehâdetleri Senin hıfz ve himâyene ve Senin rahmetine tevdî' ediyoruz. Haşir ve mîzan gününe kadar onları hıfzeyle. Âmîn. Hamd, âlemlerin Rabbi olan Allah’a mahsustur."
     },
     {
       "id": "131",

@@ -5,12 +5,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "يَا اَللّٰهُ ❋ يَا رَحْمٰنُ ❋ يَا رَح۪يمُ ❋ يَا فَرْدُ ❋ يَا حَيُّ ❋ يَا قَيُّومُ ❋ يَا حَكَمُ ❋ يَا عَدْلُ ❋ يَا قُدُّوسُ ❋",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "quote",
@@ -24,7 +26,7 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Umum Nur Şâkirdleri nâmına "
+          "text": "Umum Nur Şâkirdleri nâmına \n"
         },
         {
           "text": "Said Nursî",

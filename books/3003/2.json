@@ -5,12 +5,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اِذْ نَادٰى رَبَّهُٓ اَنّ۪ي مَسَّنِيَ الضُّرُّ وَاَنْتَ اَرْحَمُ الرَّاحِم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -107,7 +109,8 @@
     {
       "type": "arabic",
       "text": "مَالِكُ الْمُلْكِ يَتَصَرَّفُ ف۪ي مُلْكِهِ كَيْفَ يَشَاءُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",

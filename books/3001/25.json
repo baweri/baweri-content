@@ -86,12 +86,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "قُلْ لَئِنِ اجْتَمَعَتِ الْاِنْسُ وَالْجِنُّ عَلٰٓى اَنْ يَأْتُوا بِمِثْلِ هٰذَا الْقُرْاٰنِ لَا يَأْتُونَ بِمِثْلِه۪ وَلَوْ كَانَ بَعْضُهُمْ لِبَعْضٍ ظَه۪يرًا",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "quote",
@@ -2273,7 +2275,7 @@
           "red": true
         },
         {
-          "text": "$55"
+          "text": " “Veyâhut; ukùl-ü aşere ve erbâbü'l-envâ' nâmıyla şerîkleri i'tikàd eden müşrik felâsife gibi ve yıldızlara ve melâikelere bir nev'i ulûhiyet isnâd eden Sâbiiyûn gibi Cenâb-ı Hakk’a veled nisbet eden mülhid ve dâllînler gibi, Zât-ı Ehad ve Samed’in vücûb-u vücûduna, vahdetine, samediyetine, istiğnâ-yı mutlakına zıt olan veledi nisbet ve melâikenin ubûdiyetine ve ismetine ve cinsiyetine münâfî olan ünûseti isnâd mı ederler! Kendilerine şefâatçi mi zannederler ki, sana tâbi olmuyorlar? İnsan gibi mümkin, fânî, bekà-yı nev'ine muhtaç ve cismânî ve mütecezzî, tekessüre kàbil ve âciz, dünya-perest, yardımcı bir vârise muhtaç ve müştâk mahlûklar için vâsıta-i tekessür ve teâvün ve râbıta-i hayat ve bekà olan tenâsül; elbette ve elbette vücûdu vâcib ve dâim‥ bekàsı, ezelî ve ebedî‥ zâtı, cismâniyetten mücerred ve muallâ‥ ve mâhiyeti, tecezzî ve tekessürden münezzeh ve müberrâ‥ ve kudreti, aczden mukaddes ve bî-hemtâ olan Zât-ı Zülcelâl’e evlâd isnâd etmek; hem o âciz, mümkin, miskin insanlar dahi beğenmedikleri ve izzet-i mağrûrânesine yakıştıramadıkları bir nev'i evlâd – yani, hadsiz kızları – isnâd etmek öyle bir safsatadır ve öyle bir dîvânelik hezeyanıdır ki; o fikirde olan heriflerin tekzîbleri, inkârları hiçtir. Aldırmamalısın. Herbir sersemin safsatasına, her dîvânenin hezeyanına kulak verilmez.”"
         }
       ]
     },
@@ -3311,7 +3313,8 @@
     {
       "type": "arabic",
       "text": "وَلَتَجِدَنَّهُمْ اَحْرَصَ النَّاسِ عَلٰى حَيٰوةٍوَتَرٰى كَث۪يرًا مِنْهُمْ يُسَارِعُونَ فِي الْاِثْمِ وَالْعُدْوَانِ وَاَكْلِهِمُ السُّحْتَ لَبِئْسَ مَا كَانُوا يَعْمَلُونَوَيَسْعَوْنَ فِي الْاَرْضِ فَسَادًا وَاللّٰهُ لَا يُحِبُّ الْمُفْسِد۪ينَوَقَضَيْنَٓا اِلٰى بَن۪ٓي اِسْرَٓائ۪يلَ فِي الْكِتَابِ لَتُفْسِدُنَّ فِي الْاَرْضِ مَرَّتَيْنِوَلَاتَعْثَوْا فِي الْاَرْضِ مُفْسِد۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -4376,7 +4379,7 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "$5c"
+          "text": "İşte bu âyet; Cenâb-ı Hakk’ın kemâl-i Kudret’ini ve Azamet-i Rubûbiyet’ini gösteren ve vahdâniyetine şehâdet eden semâvât ve arzın hilkatindeki tecellî-i saltanat-ı Ulûhiyet ve gece-gündüzün ihtilâfındaki tecellî-i Rubûbiyet; ve hayat-ı ictimâiye-i insana en büyük bir vâsıta olan gemiyi denizde teshìr ile tecellî-i rahmet; ve semâdan âb-ı hayatı ölmüş zemine gönderip zemini yüz bin tâifeleriyle ihyâ edip bir mahşer-i acâib sûretine getirmekteki tecellî-i azamet-i kudret; ve zeminde hadsiz muhtelif hayvanatı basit bir topraktan halketmekteki tecellî-i rahmet ve kudret; ve rüzgârları, nebâtât ve hayvanatın teneffüs ve telkîhlerine hizmet gibi vezâif-i azîme ile tavzif edip tedbir ve teneffüse sâlih vaziyete getirmek için tahrîk ve idaresindeki tecellî-i rahmet ve hikmet; ve zemin ve âsumân ortasında vâsıta-i rahmet olan bulutları bir mahşer-i acâib gibi muallakta toplayıp dağıtmak, bir ordu gibi istirahat ettirip vazife başına dâvet etmek gibi teshìrindeki tecellî-i Rubûbiyet gibi mensûcât-ı san'atı ta'dâd ettikten sonra aklı, onların hakàikına ve tafsîline sevkedip tefekkür ettirmek için "
         },
         {
           "text": "لَاٰيَاتٍ لِقَوْمٍ يَعْقِلُونَ",
@@ -4611,7 +4614,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$5d"
+      "text": "İşte şu âyetler, evvelâ Cenâb-ı Hakk’ın insana karşı şu koca kâinâtı nasıl bir saray hükmünde halkedip semâdan zemine âb-ı hayatı gönderip, insanlara rızkı yetiştirmek için zemini ve semâyı iki hizmetkâr ettiği gibi, zeminin sâir aktârında bulunan herbir nev'i meyvelerinden herbir adama istifade imkânı vermek, hem insanlara semere-i sa'ylerini mübâdele edip her nev'i medâr-ı maîşetini te'min etmek için gemiyi insana musahhar etmiştir. Yani denize, rüzgâra, ağaca öyle bir vaziyet vermiş ki; rüzgâr bir kamçı, gemi bir at, deniz onun ayağı altında bir çöl gibi durur. İnsanları gemi vâsıtasıyla bütün zemine münâsebetdâr etmekle beraber ırmakları, büyük nehirleri, insanın fıtrî birer vesâit-i nakliyesi hükmünde teshìr, hem Güneş ile Ay’ı seyrettirip mevsimleri ve mevsimlerde değişen Mün'im-i Hakîki’nin renk renk ni'metlerini insanlara takdim etmek için iki musahhar hizmetkâr ve o büyük dolabı çevirmek için iki dümenci hükmünde halketmiş. Hem, gece ve gündüzü insana musahhar yani, hâb-ı rahatına geceyi örtü; gündüzü, maîşetlerine ticâretgâh hükmünde teshìr etmiştir."
     },
     {
       "type": "paragraph",
@@ -5011,7 +5014,7 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "$5e"
+          "text": "İşte şu sûrede, “Semâvât ve arzın Fâtır-ı Zülcelâl’i, semâvât ve arzı öyle bir tarzda tezyîn edip âsâr-ı kemâlini göstermekle hadsiz seyircilerinden Fâtır’ına hadsiz medh ü senâlar ettiriyor ve öyle de hadsiz ni'metlerle süslendirmiş ki; semâ ve zemin, bütün ni'metlerin ve ni'met-dîdelerin lisânlarıyla, O Fâtır-ı Rahmân’ına, nihâyetsiz hamd ve sitâyiş ederler.” dedikten sonra, yerin şehirleri ve memleketleri içinde Fâtır’ın verdiği cihâzât ve kanatlarıyla seyr ü seyahat eden insanlarla, hayvanat ve tuyûr gibi, semâvî saraylar olan yıldızlar ve ulvî memleketleri olan burçlarda gezmek ve tayerân etmek için, o memleketin sekeneleri olan meleklerine kanat veren Zât-ı Zülcelâl, elbette herşeye kadîr olmak lâzım gelir. Bir sineğe, bir meyveden bir meyveye; bir serçeye, bir ağaçtan bir ağaca uçmak kanadını veren, Zühre’den Müşteri’ye, Müşteri’den Zühal’e uçacak kanatları O veriyor. Hem, melâikeler, sekene-i zemin gibi cüz'iyete münhasır değiller, bir mekân-ı muayyen onları kaydedemiyor. Bir vakitte dört veya daha ziyâde yıldızlarda bulunduğuna işâret "
         },
         {
           "text": "مَثْنٰى وَثُلٰثَ وَرُبَاعَ",
@@ -5653,7 +5656,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$52"
+      "text": "Meselâ: Bir denizde hesabsız cevherlerin aksâmıyla dolu bir definenin bulunduğunu farzedelim. Gavvâs dalgıçlar, o definenin cevâhirini aramak için dalıyorlar. Gözleri kapalı olduğundan el yordamıyla anlarlar. Bir kısmının eline uzunca bir elmas geçer; o gavvâs hükmeder ki, bütün hazine, uzun direk gibi bir elmastan ibarettir. Arkadaşlarından başka cevâhiri işittiği vakit hayâl eder ki, o cevherler, bulduğu elmasın tâbileridir, fusûs ve nukùşlarıdır. Bir kısmının da kürevî bir yâkut eline geçer. Başkası, murabba' bir kehribâr bulur ve hâkezâ… Herbiri eliyle gördüğü cevheri, o hazinenin aslı ve mu'zamı i'tikàd edip, işittiklerini o hazinenin zevâid ve teferruâtı zanneder. O vakit hakàikın muvâzenesi bozulur. Tenâsüb de gider. Çok hakikatin rengi değişir. Hakikatin hakîki rengini görmek için te'vilâta ve tekellüfata muztar kalır. Hattâ bazen inkâr ve ta'tîle kadar giderler. Hükemâ-i İşrâkìyyûn’un kitaplarına ve sünnetin mîzanıyla tartmayıp keşfiyât ve meşhûdâtına i'timâd eden mutasavvifînin kitaplarını teemmül eden, bu hükmümüzü bilâ-şübhe tasdik eder. Demek, hakàik-ı Kur'âniyenin cinsinden ve Kur'ân’ın dersinden aldıkları hâlde – çünkü Kur'ân değiller – böyle nâkıs geliyor."
     },
     {
       "type": "paragraph",
@@ -5822,32 +5825,38 @@
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "رَبَّناَ لَا تُؤَاخِذْنَٓا اِنْ نَس۪ينَٓا اَوْ اَخْطَأْنَارَبِّ اشْرَحْ ل۪ي صَدْر۪ي ❋ وَيَسِّرْ ل۪ٓي اَمْر۪ي ❋ وَاحْلُلْ عُقْدَةً مِنْ لِسَان۪ي ❋ يَفْقَهُوا قَوْل۪ي",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
-      "text": "$4f",
-      "red": true
+      "text": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ اَفْضَلَ وَاَجْمَلَ وَاَنْبَلَ وَاَظْهَرَ وَاَطْهَرَ وَاَحْسَنَ وَاَبَرَّ وَاَكْرَمَ وَاَعَزَّ وَاَعْظَمَ وَاَشْرَفَ وَاَعْلٰى وَاَزْكٰى وَاَبْرَكَ وَاَلْطَفَ صَلَوَاتِكَ ، وَاَوْفٰى وَاَكْثَرَ وَاَزْيَدَ وَاَرْقٰى وَاَرْفَعَ وَاَدْوَمَ سَلَامِكَ ، صَلَاةً وَسَلَامًا وَرَحْمَةً وَرِضْوَانًا وَعَفْوًا وَغُفْرَانًا تَمْتَدُّ وَتَز۪يدُ بِوَابِلِ سَحَائِبِ مَوَاهِبِ جُودِكَ وَكَرَمِكَ ، وَتَنْمُوا وَتَزْكُوا بِنَفَائِسِ شَرَائِفِ لَطَائِفِ جُودِكَ وَمِنَنِكَ ، اَزَلِيَّةً بِاَزَلِيَّتِكَ لَا تَزُولُ ، اَبَدِيَّةً بِاَبَدِيَّتِكَ لَا تَحُولُ ، عَلٰى عَبْدِكَ وَحَب۪يبِكَ وَرَسُولِكَ مُحَمَّدٍ خَيْرِ خَلْقِكَ ، اَلنُّورِ الْبَاهِرِ اللَّامِعِ ، وَالْبُرْهَانِ الظَّاهِرِ الْقَاطِعِ ، وَالْبَحْرِ الزَّاخِرِ ، وَالنُّورِ الْغَامِرِ ، وَالْجَمَالِ الزَّاهِرِ ، وَالْجَلَالِ الْقَاهِرِ ، وَالْكَمَالِ الْفَاخِرِ ، صَلَاتَكَ الَّت۪ي صَلَّيْتَ بِعَظَمَةِ ذَاتِكَ عَلَيْهِ وَعَلٰى اٰلِهِ وَصَحْبِهِ كَذٰلِكَ ، صَلَاةً تَغْفِرُبِهَا ذُنُوبَنَا ، وَتَشْرَحُ بِهَا صُدُورَنَا ، وَتُطَهِّرُ بِهَا قُلُوبَنَا ، وَتُرَوِّحُ بِهَا اَرْوَاحَنَا ، وَتُقَدِّسُ بِهَا اَسْرَارَنَا ، وَتُنَزِّهُ بِهَا خَوَاطِرَنَا وَاَفْكَارَنَا ، وَتُصَفّ۪ي بِهَا كُدُورَاتِ مَا ف۪ي اَسْرَارِنَا ، وَتَشْف۪ي بِهَا اَمْرَاضَنَا ، وَتَفْتَحُ بِهَا اَقْفَالَ قُلُوبِنَا",
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ اِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةً اِنَّكَ اَنْتَ الْوَهَّابُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَاٰخِرُ دَعْوٰيهُمْ اَنِ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اٰم۪ينَ ، اٰم۪ينَ ، اٰم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "divider"
@@ -5968,7 +5977,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Altıncı Nokta:$55"
+      "text": "Altıncı Nokta: Kur'ân’ın altı ciheti nurânîdir, sıdk ve hakkâniyetini gösterir. Evet, altında, hüccet ve bürhân direkleri; üstünde, sikke-i i'câz lem'aları; önünde ve hedefinde, saâdet-i dâreyn hediyeleri ve arkasında nokta-i istinâdı, vahy-i semâvî hakikatleri; sağında, hadsiz ukùl-ü müstakîmenin deliller ile tasdikleri; solunda, selîm kalblerin ve temiz vicdânların ciddi itmi'nânları ve samîmî incizabları ve teslîmleri, Kur'ân’ın fevkalâde, hàrika, metîn, hücum edilmez bir kal'a-i semâviye-i arziye olduğunu isbât ettikleri gibi; altı makamdan dahi O’nun ayn-ı hak ve sâdık olduğunu ve beşerin kelâmı olmadığını ve yanlışı bulunmadığını imza eden, başta, bu kâinâtta dâima güzelliği izhâr, iyiliği ve doğruluğu himâye ve sahtekârları ve müfterileri imha ve izâle etmek âdetini bir düstur-u fa'âliyet ittihàz eden bu kâinâtın Mutasarrıf’ı, O Kur'ân’a âlemde en makbûl, en yüksek, en hâkimâne bir makam-ı hürmet ve bir mertebe-i muvaffakıyet vermesiyle O’nu tasdik ve imza ettiği gibi; İslâmiyet’in menba'ı ve Kur'ân’ın tercümânı olan Zât’ın (asm) herkesten ziyâde O’na i'tikàd ve ihtiramı ve nüzûlü zamanında uyku gibi bir vaziyet-i nâimânede bulunması ve sâir kelâmları O’na yetişememesi ve bir derece benzememesi ve ümmiyetiyle beraber gitmiş ve gelecek hakîki hâdisât-ı kevniyeyi, gaybiyâne, Kur'ân ile tereddüdsüz ve itmi'nân ile beyân etmesi ve çok dikkatli gözlerin nazarı altında hiçbir hile, hiçbir yanlış vaziyeti görülmeyen o tercümân, bütün kuvvetiyle Kur'ân’ın herbir hükmünü öyle îmân ve tasdik edip hiçbir şey O’nu sarsmaması dahi Kur'ân’ın semâvî, hakkâniyetli ve kendi Hàlık-ı Rahîm’inin mübârek kelâmı olduğunu imza ediyor."
     },
     {
       "type": "paragraph",
@@ -6003,7 +6012,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$56"
+      "text": "Hem, Kur'ân’ı tefsir eden ve bir kısmı otuz-kırk, hattâ yetmiş cild olarak birer tefsir yazan yüksek zekâlı müdakkik binler mütefennin ulemânın, senedleri ve delilleriyle beyân ettikleri Kur'ân’daki hadsiz meziyetleri ve nükteleri ve hâsiyetleri ve sırları ve àlî mânâları ve umûr-u gaybiyenin her nev'inden kesretli gaybî ihbarları izhâr ve isbât etmeleri ve bilhassa Risale-i Nur’un yüz otuz kitabı, herbiri, Kur'ân’ın bir meziyetini, bir nüktesini kat'î bürhânlarla isbât etmesi ve bilhassa Mu'cizât-ı Kur'âniye Risalesi, şimendifer ve tayyare gibi medeniyetin hàrikalarından çok şeyleri Kur'ân’dan istihrâc eden Yirminci Söz’ün İkinci Makamı ve Risale-i Nur’a ve elektriğe işâret eden âyetlerin işârâtını bildiren İşârât-ı Kur'âniye nâmındaki Birinci Şuâ ve Hurûf-u Kur'âniye, ne kadar muntazam ve esrârlı ve mânâlı olduğunu gösteren Rumûzât-ı Semâniye nâmındaki sekiz küçük risaleler ve Sûre-i Feth’in âhirki âyeti, beş vecihle ihbar-ı gaybî cihetinde mu'cizeliğini isbât eden küçücük bir risale gibi Risale-i Nur’un herbir cüz'ü, Kur'ân’ın bir hakikatini, bir nurunu izhâr etmesi; Kur'ân’ın misli olmadığına ve mu'cize ve hàrika olduğuna ve bu âlem-i şehâdette âlem-i gaybın lisânı ve bir Allâmü'l-Guyûb’un kelâmı bulunduğuna bir imzadır."
     },
     {
       "type": "paragraph",
@@ -6097,7 +6106,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$50"
+      "text": "Evet, nazar-ı gaflet ve dalâlette, vahşetli ve dehşetli bir ademistan‥ ve elîm ve mahvolmuş bir mezaristan olan bütün geçmiş zaman ve ölmüş karnlar ve asırlar; canlı birer sahife-i ibret ve baştan başa rûhlu, hayatdâr bir acîb âlem ve mevcûd ve bizimle münâsebetdâr bir memleket-i Rabbâniye sûretinde sinema perdeleri gibi; kâh bizi o zamanlara, kâh o zamanları yanımıza getirerek her asra ve her tabakaya gösterip yüksek bir i'câz ile dersini veren Kur'ân-ı Mu'cizü'l-Beyân, aynı i'câz ile; nazar-ı dalâlette câmid, perîşan, ölü, hadsiz bir vahşetgâh olan ve firâk ve zevâlde yuvarlanan bu kâinâtı bir kitab-ı Samedânî, bir şehr-i Rahmânî, bir meşher-i sun'-i Rabbânî olarak o câmidâtı canlandırarak birer vazifedâr sûretinde birbiriyle konuşturup ve birbirinin imdâdına koşturup, nev'-i beşere ve cin ve meleğe hakîki ve nurlu ve zevkli hikmet dersleri veren bu Kur'ân-ı Azîmü'ş-Şân, elbette her harfinde on ve yüz ve bazen bin ve binler sevâb bulunması‥ ve bütün cin ve ins toplansa O’nun mislini getirememesi‥ ve bütün benî Âdem’le ve kâinâtla tam yerinde konuşması‥ ve her zaman milyonlar hâfızların kalblerinde zevk ile yazılması‥ ve çok tekrarla ve kesretli tekrârâtıyla usandırmaması‥ ve çok iltibas yerleri ve cümleleri ile beraber çocukların nâzik ve basit kafalarında mükemmel yerleşmesi‥ ve hastaların ve az sözden müteessir olan ve sekerâtta olanların kulağında mâ-i zemzem misillû hoş gelmesi gibi kudsî imtiyazları kazanır. Ve iki cihanın saâdetlerini kendi şâkirdlerine kazandırır."
     },
     {
       "type": "paragraph",
@@ -6494,7 +6503,7 @@
           "red": true
         },
         {
-          "text": "$51"
+          "text": " düsturuyla; bütün ümmetinin, bütün zamanlarda işlediği hasenâtın bir misli O’nun defter-i hasenâtına girmesi ve bütün kâinâtın hakikatlerini, getirdiği nur ile nurlandırması, değil yalnız cin, ins, melek ve zîhayatı, belki kâinâtı, semâvât ve arzı minnetdâr eylemesi ve isti'dâd lisânıyla nebâtâtın duâları ve ihtiyac-ı fıtrî diliyle hayvanatın duâları, gözümüz önünde bilfiil kabûl olmasının şehâdetiyle milyonlar, belki rûhânilerle beraber milyarlar fıtrî ve reddedilmez duâları makbûl olan sulehâ-yı ümmeti her gün O Zât’a salât ve selâm ünvânı ile rahmet duâları ve manevî kazançlarını en evvel O Zât’a bağışlamaları ve bütün ümmetçe okunan Kur'ânın üç yüz bin hurûfunun, herbirisinde on sevâbdan tâ yüz, tâ bin hasene ve meyve vermesinden – yalnız kırâat-ı Kur'ân cihetiyle – defter-i a'mâline hadsiz nurlar girmesi haysiyetiyle, O Zât’ın şahsiyet-i maneviyesi olan Hakikat-i Muhammediye istikbâlde bir şecere-i tûbâ-i Cennet hükmünde olacağını Allâmü'l-Guyûb bilmiş ve görmüş, o makama göre Kur'ânında o azîm ehemmiyeti vermiş ve Fermânında O’na tebaiyeti ve Sünnet-i Seniye’sine ittibâ' ile şefâatine mazhariyeti en ehemmiyetli bir mes'ele-i insaniye göstermiş ve o haşmetli şecere-i tûbânın bir çekirdeği olan şahsiyet-i beşeriyetini ve bidâyetteki vaziyet-i insaniyesini ara sıra nazara almasıdır."
         }
       ]
     },
@@ -6606,16 +6615,24 @@
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
       "parts": [
         {
-          "text": "Duânıza çok muhtaç ve size çok müştâk"
+          "text": "Duânıza çok muhtaç ve size çok müştâk\n"
         },
         {
-          "text": "KardeşinizSaid Nursî",
+          "text": "Kardeşiniz",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Said Nursî",
           "bold": true
         }
       ]

@@ -9,12 +9,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "فَانْظُرْ اِلٰٓى اٰثَارِ رَحْمَتِ اللّٰهِ كَيْفَ يُحْيِ الْاَرْضَ بَعْدَ مَوْتِهَاۜ اِنَّ ذٰلِكَ لَمُحْيِ الْمَوْتٰى وَهُوَ عَلٰى كُلِّ شَيْءٍ قَد۪يرٌ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -1480,12 +1482,14 @@
     {
       "type": "arabic",
       "text": "عَلَيْهِ صَلَوَاتُ الرَّحْمٰنِ مِلْءَ الدُّنْيَا وَدَارِ الْجِنَانِ ❋",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى عَبْدِكَ وَرَسُولِكَ ذٰلِكَ الْحَب۪يبِ الَّذ۪ي هُوَ سَيِّدُ الْكَوْنَيْنِ وَفَخْرُ الْعَالَمَيْنِ وَحَيَاةُ الدّٰارَيْنِ وَوَس۪يلَةُ السَّعَادَتَيْنِ وَذُو الْجَنَاحَيْنِ وَرَسُولُ الثَّقَلَيْنِ وَعَلٰى اٰلِهِ وَصَحْبِهِ اَجْمَع۪ينَ وَعَلٰى اِخْوٰانِهِ مِنَ النَّبِيّ۪ينَ وَالْمُرْسَل۪ينَ اٰم۪ينَ ❋",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "heading",
@@ -1527,7 +1531,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$68"
+      "text": "Şu hakikate, şu temsîl dûrbîniyle bak ki: Meselâ, sen yolda gidiyorsun. Görüyorsun ki, yol içinde bir han var. Bir büyük zât, o hanı, kendine gelen misâfirlerine yapmış. O misâfirlerin bir gece tenezzüh ve ibretleri için, o hanın tezyînâtına milyonlar altınlar sarfediyor. Hem o misâfirler, o tezyînâttan pek azı ve az bir zamanda bakıp, o ni'metlerden pek az bir vakitte, az bir şey tadıp, doymadan gidiyorlar. Fakat her misâfir, kendine mahsûs fotoğrafıyla, o handaki şeylerin sûretlerini alıyorlar. Hem o büyük zâtın hizmetkârları da, misâfirlerin sûret-i muâmelelerini gayet dikkat ile alıyorlar ve kaydediyorlar. Hem görüyorsun ki; o zât, her günde, o kıymetdâr tezyînâtın çoğunu tahrib eder. Yeni gelecek misâfirlere, yeni tezyînâtı icâd eder. Bunu gördükten sonra hiç şübhen kalır mı ki: Bu yolda bu hanı yapan zâtın; dâimî, pek àlî menzilleri‥ hem tükenmez pek kıymetli hazineleri‥ hem müstemir, pek büyük bir sehàveti vardır. Şu handa gösterdiği ikram ile, misâfirlerini, kendi yanında bulunan şeylere iştihâlarını açıyor. Ve onlara hazırladığı hediyelere, rağbetlerini uyandırıyor."
     },
     {
       "type": "paragraph",
@@ -2134,7 +2138,7 @@
           "bold": true
         },
         {
-          "text": "$5f"
+          "text": " Hâkim-i Bilhak, Rahîm-i Mutlak; insana öyle bir isti'dâd verip, yer ile gökler ve dağlar tahammülünden çekindiği emânet-i kübrâyı tahammül edip; yani küçücük cüz'î ölçüleriyle, san'atçıklarıyla Hàlık’ının muhît sıfatlarını, küllî şuûnâtını, nihâyetsiz tecelliyâtını ölçerek bilip; hem, yerde en nâzik, nâzenîn, nâzdâr, âciz, zaîf yaratıp; hâlbuki bütün yerin nebâtî ve hayvanî olan mahlûkatına bir nev'i tanzimât memuru yapıp, onların tarz-ı tesbihât ve ibâdetlerine müdâhale ettirip, kâinâttaki icraat-ı İlâhiye’ye, küçücük mikyâsta bir temsîl gösterip, Rubûbiyet-i Sübhâniye’yi fiilen ve kàlen kâinâtta ilân ettirmek, meleklerine tercih edip, hilâfet rütbesini verdiği hâlde; ona, bütün bu vazifelerinin gayesi ve neticesi ve semeresi olan saâdet-i ebediyeyi vermesin! Onu, bütün mahlûkatının en bedbaht, en bîçâre, en musîbet-zede, en dert-mend, en zelîl bir derekeye atıp; en mübârek, nurânî ve âlet-i tes'îd bir hediye-i hikmeti olan aklı; o bîçâreye en meş'ûm ve zulmânî bir âlet-i tâzib yapıp, hikmet-i mutlakasına büsbütün zıt ve merhamet-i mutlakasına külliyen münâfî bir merhametsizlik etsin! Hâşâ ve kellâ!‥"
         }
       ]
     },
@@ -2456,32 +2460,38 @@
     {
       "type": "arabic",
       "text": "فَلِلّٰهِ الْحُجَّةُ الْبَالِغَةُفَانْظُرْ اِلٰٓى اٰثَارِ رَحْمَتِ اللّٰهِ كَيْفَ يُحْيِ الْاَرْضَ بَعْدَ مَوْتِهَاۜ اِنَّ ذٰلِكَ لَمُحْيِ الْمَوْتٰى وَهُوَ عَلٰى كُلِّ شَيْءٍ قَد۪يرٌ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "قَالَ مَنْ يُحْيِ الْعِظَامَ وَهِيَ رَم۪يمٌ ❋ قُلْ يُحْي۪يهَا الَّذ۪ٓي اَنْشَاَهَٓا اَوَّلَ مَرَّةٍ وَهُوَ بِكُلِّ خَلْقٍ عَل۪يمٌيَٓا اَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمْ اِنَّ زَلْزَلَةَ السَّاعَةِ شَيْءٌ عَظ۪يمٌ ❋ يَوْمَ تَرَوْنَهَا تَذْهَلُ كُلُّ مُرْضِعَةٍ عَمَّٓا اَرْضَعَتْ وَتَضَعُ كُلُّ ذَاتِ حَمْلٍ حَمْلَهَا وَتَرَى النَّاسَ سُكَارٰى وَمَا هُمْ بِسُكَارٰى وَلٰكِنَّ عَذَابَ اللّٰهِ شَد۪يدٌاَللّٰهُ لَٓا اِلٰهَ اِلَّا هُوَ لَيَجْمَعَنَّكُمْ اِلٰى يَوْمِ الْقِيٰمَةِ لَا رَيْبَ ف۪يهِ وَمَنْ اَصْدَقُ مِنَ اللّٰهِ حَد۪يثًا",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اِنَّ الْاَبْرَارَ لَف۪ي نَع۪يمٍ ❋ وَاِنَّ الْفُجَّارَ لَف۪ي جَح۪يمٍ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اِذَا زُلْزِلَتِ الْاَرْضُ زِلْزَالَهَا ❋ وَاَخْرَجَتِ الْاَرْضُ اَثْقَالَهَا ❋ وَقَالَ الْاِنْسَانُ مَالَهَا ❋ يَوْمَئِذٍ تُحَدِّثُ اَخْبَارَهَا ❋ بِاَنَّ رَبَّكَ اَوْحٰى لَهَا ❋ يَوْمَئِذٍ يَصْدُرُ النَّاسُ اَشْتَاتًا لِيُرَوْا اَعْمَالَهُمْ ❋ فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ ❋ وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَلْقَارِعَةُ ❋ مَا الْقَارِعَةُ ❋ وَمَٓا اَدْرٰيكَ مَا الْقَارِعَةُ ❋ يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ ❋ وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنْفُوشِ ❋ فَاَمَّا مَنْ ثَقُلَتْ مَوَاز۪ينُهُ ❋ فَهُوَ ف۪ي ع۪يشَةٍ رَاضِيَةٍ ❋ وَاَمَّا مَنْ خَفَّتْ مَوَاز۪ينُهُ ❋ فَاُمُّهُ هَاوِيَةٌ ❋ وَمَٓا اَدْرٰيكَ مَاهِيَهْ ❋ نَارٌ حَامِيَةٌ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَلِلّٰهِ غَيْبُ السَّمٰوَاتِ وَالْاَرْضِ وَمَٓا اَمْرُ السَّاعَةِ اِلَّا كَلَمْحِ الْبَصَرِ اَوْ هُوَ اَقْرَبُ اِنَّ اللّٰهَ عَلٰى كُلِّ شَيْءٍ قَد۪يرٌ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -2501,17 +2511,20 @@
     {
       "type": "arabic",
       "text": "اٰمَنْتُ بِاللّٰهِ وَمَلٰئِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ وَالْيَوْمِ الْاٰخِرِ وَبِالْقَدَرِ خَيْرِهِ وَشَرِّهِ مِنَ اللّٰهِ تَعَالٰى وَالْبَعْثُ بَعْدَ الْمَوْتِ حَقٌّ وَاَنَّ الْجَنَّةَ حَقٌّ وَالنَّارَ حَقٌّ وَاَنَّ الشَّفَاعَةَ حَقٌّ وَاَنَّ مُنْكَرًا وَنَك۪يرًا حَقٌّ وَاَنَّ اللّٰهَ يَبْعَثُ مَنْ فِي الْقُبُورِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَشْهَدُ اَنْ لَٓا اِلٰهَ اِلَّا اللّٰهُ وَاَشْهَدُ اَنَّ مُحَمَّدًا رَسُولُ اللّٰهِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ صَلِّ عَلٰى اَلْطَفِ وَاَشْرَفِ وَاَكْمَلِ وَاَجْمَلِ ثَمَرَاتِ طُوبَاءِ رَحْمَتِكَ الَّذ۪ي اَرْسَلْتَهُ رَحْمَةً لِلْعَالَم۪ينَ وَوَس۪يلَةً لِوُصُولِنَا اِلٰى اَزْيَنِ وَاَحْسَنِ وَاَجْلٰى وَاَعْلٰى ثَمَرَاتِ تِلْكَ الطُّوبَاءِ الْمُتَدَلِّيَةِ عَلٰى دَارِ الْاٰخِرَةِ اَىِ الْجَنَّةِ ❋ اَللّٰهُمَّ اَجِرْنَا وَاَجِرْ وَالِدَيْنَا مِنَ النَّارِ وَاَدْخِلْنَا وَاَدْخِلْ وَالِدَيْنَا الْجَنَّةَ مَعَ الْاَبْرَارِ بِجَاهِ نَبِيِّكَ الْمُخْتَارِ اٰم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -2582,12 +2595,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
-      "text": "$52",
-      "red": true
+      "text": "فَسُبْحَانَ اللّٰهِ ح۪ينَ تُمْسُونَ وَح۪ينَ تُصْبِحُونَ ❋ وَلَهُ الْحَمْدُ فِي السَّمٰوَاتِ وَالْاَرْضِ وَعَشِيًّا وَح۪ينَ تُظْهِرُونَ ❋ يُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَيُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ وَيُحْيِ الْاَرْضَ بَعْدَ مَوْتِهَا وَكَذٰلِكَ تُخْرَجُونَ ❋ وَمِنْ اٰيَاتِه۪ٓ اَنْ خَلَقَكُمْ مِنْ تُرَابٍ ثُمَّ اِذَٓا اَنْتُمْ بَشَرٌ تَنْتَشِرُونَ ❋ وَمِنْ اٰيَاتِه۪ٓ اَنْ خَلَقَ لَكُمْ مِنْ اَنْفُسِكُمْ اَزْوَاجًا لِتَسْكُنُٓوا اِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً اِنَّ ف۪ي ذٰلِكَ لَاٰيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ ❋ وَمِنْ اٰيَاتِه۪ خَلْقُ السَّمٰوَاتِ وَالْاَرْضِ وَاخْتِلَافُ اَلْسِنَتِكُمْ وَاَلْوَانِكُمْ اِنَّ ف۪ي ذٰلِكَ لَاٰيَاتٍ لِلْعَالِم۪ينَ ❋ وَمِنْ اٰيَاتِه۪ مَنَامُكُمْ بِالَّيْلِ وَالنَّهَارِ وَابْتِغَٓاؤُكُمْ مِنْ فَضْلِه۪ اِنَّ ف۪ي ذٰلِكَ لَاٰيَاتٍ لِقَوْمٍ يَسْمَعُونَ ❋ وَمِنْ اٰيَاتِه۪ يُر۪يكُمُ الْبَرْقَ خَوْفًا وَطَمَعًا وَيُنَزِّلُ مِنَ السَّمَٓاءِ مَٓاءً فَيُحْي۪ي بِهِ الْاَرْضَ بَعْدَ مَوْتِهَاۜ اِنَّ ف۪ي ذٰلِكَ لَاٰيَاتٍ لِقَوْمٍ يَعْقِلُونَ ❋ وَمِنْ اٰيَاتِه۪ٓ اَنْ تَقُومَ السَّمَٓاءُ وَالْاَرْضُ بِاَمْرِه۪ ثُمَّ اِذَا دَعَاكُمْ دَعْوَةً مِنَ الْاَرْضِ اِذَٓا اَنْتُمْ تَخْرُجُونَ ❋ وَلَهُ مَنْ فِي السَّمٰوَاتِ وَالْاَرْضِ كُلٌّ لَهُ قَانِتُونَ ❋ وَهُوَ الَّذ۪ي يَبْدَؤُا الْخَلْقَ ثُمَّ يُع۪يدُهُ وَهُوَ اَهْوَنُ عَلَيْهِ وَلَهُ الْمَثَلُ الْاَعْلٰى فِي السَّمٰوَاتِ وَالْاَرْضِ وَهُوَ الْعَز۪يزُ الْحَك۪يمُ",
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -3547,7 +3562,8 @@
     {
       "type": "arabic",
       "text": "قَالَ مَنْ يُحْيِ الْعِظَامَ وَهِيَ رَم۪يمٌ ❋ قُلْ يُحْي۪يهَا الَّذ۪ٓي اَنْشَاَهَٓا اَوَّلَ مَرَّةٍ وَهُوَ بِكُلِّ خَلْقٍ عَل۪يمٌ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",

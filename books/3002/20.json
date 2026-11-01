@@ -5,22 +5,26 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "لَٓا اِلٰهَ اِلَّا اللّٰهُ وَحْدَهُ لَا شَر۪يكَ لَهُ ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْي۪ي وَيُم۪يتُ وَهُوَ حَيٌّ لَا يَمُوتُ بِيَدِهِ الْخَيْرُ وَهُوَ عَلٰى كُلِّ شَيْءٍ قَد۪يرٌ وَاِلَيْهِ الْمَص۪يرُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "quote",
@@ -516,7 +520,8 @@
     {
       "type": "arabic",
       "text": "لَهُ الْمُلْكُ لِاَنَّ ذَاكَ الْعَالَمَ الْكَب۪يرَ كَهٰذَا الْعَالَمِ الصَّغ۪يرِ ❋ مَصْنُوعَا قُدْرَتِهِ مَكْتُوبَا قَدَرِهِ ❋ اِبْدَاعُهُ لِذَاكَ صَيَّرَهُ مَسْجِدًا ❋ ا۪يجَادُهُ لِهٰذَا صَيَّرَهُ سَاجِدًا ❋ اِنْشَاؤُهُ لِذَاكَ صَيَّرَ ذَاكَ مِلْكًا ❋ ا۪يجَادُهُ لِهٰذَا صَيَّرَهُ مَمْلُوكًا ❋ صَنْعَتُهُ ف۪ي ذَاكَ تَظَاهَرَتْ كِتَابًا ❋ صِبْغَتُهُ ف۪ي هٰذَا تَزَاهَرَتْ خِطَابًا ❋ قُدْرَتُهُ ف۪ي ذَاكَ تُظْهِرُ حِشْمَتَهُ ❋ رَحْمَتُهُ ف۪ي هٰذَا تُنَظِّمُ نِعْمَتَهُ ❋ حِشْمَتُهُ ف۪ي ذَاكَ تَشْهَدُ هُوَ الْوَاحِدُ ❋ نِعْمَتُهُ ف۪ي هٰذَا تُعْلِنُ هُوَ الْاَحَدُ ❋ سِكَّتُهُ ف۪ي ذَاكَ فِي الْكُلِّ وَالْاَجْزَاءِ ❋ خَاتَمُهُ ف۪ي هٰذَا فِي الْجِسْمِ وَالْاَعْضَاءِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "heading",
@@ -944,7 +949,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$59"
+      "text": "İşte şu mertebe-i tevhidin bürhân-ı a'zamına şöyle işâret ederiz ki: – Başka bir Söz’de izâh ve isbât edildiği gibi – zemin yüzünün sahrâsında çadırları kurulmuş gayet muhteşem zîhayatlar ordusunu görüyoruz. Evet Hayy u Kayyûmun hadsiz ordularından, her bahar mevsiminde yeni silâh altına alınmış, gâibden gelen taze bir ordu meydâna çıkmış görüyoruz. Şu orduya bakıyoruz ki; nebâtât tâifelerinden iki yüz binden ziyâde ve hayvanat milletlerinden yine yüz binden fazla çeşit çeşit muhtelif kavimler görüyoruz. Herbir milletin, herbir tâifenin; elbisesi ayrı, erzâkı ayrı, ta'limâtı ayrı, terhisâtı ayrı, silâhları ayrı, müddet-i askeriyeleri ayrı olduğu hâlde, bir kumandan-ı a'zam, hadsiz kudret ve hikmetiyle ve nihâyetsiz ilim ve irâdesiyle, bitmez rahmetiyle, tükenmez hazinesiyle, hiçbirini unutmayarak, şaşırmayarak, karıştırmayarak, geciktirmeyerek‥ ayrı ayrı bütün o üç yüz binden ziyâde milletleri ve tâifeleri; kemâl-i intizam ile, tamam-ı mîzan ile, vakti vaktine ayrı ayrı erzâklarını, ayrı ayrı elbiselerini, ayrı ayrı silâhlarını vererek, ayrı ayrı ta'limât yaptırarak, ayrı ayrı terhisât ettiğini, gözü bulunan bilmüşâhede görür ve kalbi bulunan biayne'l-yakìn tasdik eder…"
     },
     {
       "type": "paragraph",
@@ -1145,7 +1150,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$5a"
+      "text": "Şu kâinâtta görünen ef'âl ile tasarruf edip icâd eden Sâni'in, bir muhît ilmi var. Ve o ilim, O’nun Zâtının hàssa-i lâzime-i zarûriyesidir. İnfikâki muhâldir. Nasıl ki, güneşin zâtı bulunup ziyâsı bulunmamak kàbil değil, öyle de; binler derece ondan ziyâde kàbil değildir ki; şu muntazam mevcûdâtı icâd eden Zât’ın ilmi, ondan infikâk etsin. Şu ilm-i muhît, O Zât’a lâzım olduğu gibi, taalluk cihetiyle herşeye dahi lâzımdır. Yani, hiçbir şey O’ndan gizlenmesi kàbil değildir. Perdesiz, güneşe karşı zemin yüzündeki eşya, güneşi görmemesi kàbil olmadığı gibi; O Alîm-i Zülcelâl’in nur-u ilmine karşı eşyanın gizlenmesi, bin derece daha gayr-ı kàbildir, muhâldir. Çünkü huzur var; yani, herşey dâire-i nazarındadır ve mukâbildir ve dâire-i şühûdundadır ve herşeye nüfûzu var. Şu câmid güneş, şu âciz insan, şu şuûrsuz röntgen şuâı gibi zînurlar; hâdis, nâkıs ve ârızî oldukları hâlde, onların nurları, mukâbilindeki herşeyi görüp nüfûz ederlerse; elbette vâcib ve muhît ve zâtî olan nur-u ilm-i Ezelîden hiçbir şey gizlenemez ve haricinde kalamaz."
     },
     {
       "type": "paragraph",
@@ -1830,32 +1835,38 @@
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَيْهِ وَعَلٰى اٰلِهِ وَصَحْبِهِ بِعَدَدِ اَنْفَاسِ اَهْلِ الْجَنَّةِ فِي الْجَنَّةِ وَاحْشُرْنَا وَنَاشِرَهُ وَرُفَقَائَهُ وَصَاحِبَهُ سَع۪يدًا وَوَالِد۪ينَا وَاِخْوَانَنَا وَاَخَوَاتِنَا تَحْتَ لِوَائِهِ وَارْزُقْنَا شَفَاعَتَهُ وَاَدْخِلْنَا الْجَنَّةَ مَعَ اٰلِهِ وَاَصْحَابِهِ بِرَحْمَتِكَ يَا اَرْحَمَ الرَّاحِم۪ينَ اٰم۪ينَ اٰم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "رَبَّنَا لَا تُؤَاخِذْنَٓا اِنْ نَس۪ينَٓا اَوْ اَخْطَأْنَارَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ اِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةً اِنَّكَ اَنْتَ الْوَهَّابُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "رَبِّ اشْرَحْ ل۪ي صَدْر۪ي ❋ وَيَسِّرْ ل۪ٓي اَمْر۪ي ❋ وَاحْلُلْ عُقْدَةً مِنْ لِسَان۪ي ❋ يَفْقَهُوا قَوْل۪ي",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "رَبَّنَا تَقَبَّلْ مِنَّا اِنَّكَ اَنْتَ السَّم۪يعُ الْعَل۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَتُبْ عَلَيْنَا اِنَّكَ اَنْتَ التَّوَّابُ الرَّح۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "divider"
@@ -1867,27 +1878,32 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَلَا بِذِكْرِ اللّٰهِ تَطْمَئِنُّ الْقُلُوبُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "ضَرَبَ اللّٰهُ مَثَلًا رَجُلًا ف۪يهِ شُرَكَٓاءُ مُتَشَاكِسُونَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -2057,32 +2073,38 @@
     {
       "type": "arabic",
       "text": "ضَرَبَ اللّٰهُ مَثَلًا رَجُلًا ف۪يهِ شُرَكَٓاءُ مُتَشَاكِسُونَ وَرَجُلًا سَلَمًا لِرَجُلٍ هَلْ يَسْتَوِيَانِ مَثَلًا اَلْحَمْدُ لِلّٰهِ بَلْ اَكْثَرُهُمْ لَا يَعْلَمُونَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا مُحَمَّدٍ بِعَدَدِ ذَرَّاتِ الْكَائِنَاتِ وَعَلٰى اٰلِهِ وَصَحْبِهِ اَجْمَع۪ينَ اٰم۪ينَ وَالْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ يَا اَحَدُ يَا وَاحِدُ يَا صَمَدُ يَا مَنْ لَٓا اِلٰهَ اِلَّا هُوَ وَحْدَهُ لَا شَر۪يكَ لَهُ ❋ يَا مَنْ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ ❋ وَيَا مَنْ يُحْي۪ي وَيُم۪يتُ ❋ يَا مَنْ بِيَدِهِ الْخَيْرُ ❋ يَا مَنْ هُوَ عَلٰى كُلِّ شَيْئٍ قَد۪يرٌ ❋ يَا مَنْ اِلَيْهِ الْمَص۪يرُ ❋ بِحَقِّ اَسْرَارِ هٰذِهِ الْكَلِمَاتِ اِجْعَلْ نَاشِرَ هٰذِهِ الرِّسَالَةِ وَرُفَقَائَهُ وَصَاحِبَهَا سَع۪يدًا مِنَ الْمُوَحِّد۪ينَ الْكَامِل۪ينَ وَمِنَ الصِّدّ۪يق۪ينَ الْمُحَقِّق۪ينَ وَمِنَ الْمُؤْمِن۪ينَ الْمُتَّق۪ينَ اٰم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ بِحَقِّ سِرِّ اَحَدِيَّتِكَ اِجْعَلْ نَاشِرَ هٰذَا الْكِتَابِ نَاشِرًا لِاَسْرَارِ التَّوْح۪يدِ وَقَلْبَهُ مَظْهَرًا لِاَنْوَارِ الْا۪يمَانِ وَلِسَانَهُ نَاطِقًا بِحَقَائِقِ الْقُرْاٰنِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اٰم۪ينَ‥ اٰم۪ينَ‥ اٰم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     }
   ],
   "notes": [

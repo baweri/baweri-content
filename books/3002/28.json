@@ -18,12 +18,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اِنْ كُنْتُمْ لِلرُّؤْيَا تَعْبُرُونَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -243,7 +245,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$5a"
+      "text": "O vâsi' meydânlık, Âlem-i İslâmiyet’tir. Meydânlığın nihâyetindeki mescid, Isparta Vilâyetidir. Etrafı bulanık çamurlu su, hâl ve zamanın sefâhet ve atâlet ve bid'atlar bataklığıdır. Sen, selâmetle, bulaşmadan, sür'atle mescide eriştiğin; herkesten evvel envâr-ı Kur'âniye’ye sâhib çıkıp, kalbini bozmadan sağlam kaldığına işârettir. Mesciddeki küçük cemâat ise; Hakkı, Hulûsi, Sabri, Süleyman, Rüşdü, Bekir, Mustafa, Ali, Zühtü, Lütfi, Husrev, Re'fet gibi Sözler’in hameleleridir. Ufak kürsü ise, Barla gibi küçük bir köydür. Yüksek ses ise, Sözler’deki kuvvet ve sür'at-i intişarlarına işârettir. Birinci safta sana tahsîs edilen makam ise, Abdurrahman’dan sana münhal kalan yerdir. O cemâat; telsiz âletlerin âhizeleri hükmünde, bütün dünyaya ders işittirmek istemek işâreti ve hakikati ise, inşâallâh tamamıyla sonra çıkacak. Şimdi efrâdı birer küçük çekirdek iseler de, ileride tevfik-i İlâhî ile birer şecere-i àliye hükmüne geçerler ve birer telsiz telgrafın merkezi olurlar. Sarıklı küçük genç bir zât ise; Hulûsi’ye omuz omuza verecek, belki geçecek birisi, nâşirler ve talebeler içine girmeye namzeddir. Bazılarını zannederim, fakat kat'î hükmedemem. O genç, kuvve-i velâyetle meydâna atılacak bir zâttır. Sâir noktaları sen benim bedelime tâbir et."
     },
     {
       "type": "paragraph",
@@ -407,12 +409,14 @@
     {
       "type": "arabic",
       "text": "اَللّٰهُ اَعْلَمُ بِالصَّوَابِ ❋ لَا يَعْلَمُ الْغَيْبَ اِلَّا اللّٰهُقُلْ اِنَّمَا الْعِلْمُ عِنْدَ اللّٰهِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "هُوَ الَّذ۪ٓي اَنْزَلَ عَلَيْكَ الْكِتَابَ مِنْهُ اٰيَاتٌ مُحْكَمَاتٌ هُنَّ اُمُّ الْكِتَابِ وَاُخَرُ مُتَشَابِهَاتٌ فَاَمَّا الَّذ۪ينَ ف۪ي قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَابَهَ مِنْهُ ابْتِغَٓاءَ الْفِتْنَةِ وَابْتِغَٓاءَ تَأْو۪يلِه۪ وَمَا يَعْلَمُ تَأْو۪يلَهُٓ اِلَّا اللّٰهُ وَالرَّاسِخُونَ فِي الْعِلْمِ يَقُولُونَ اٰمَنَّا بِه۪ كُلٌّ مِنْ عِنْدِ رَبِّنَا وَمَا يَذَّكَّرُ اِلَّٓا اُولُوا الْاَلْبَابِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "divider"
@@ -718,12 +722,14 @@
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ صَلَاةً تَكُونُ لَكَ رِضَاءً وَلِحَقِّهِ اَدَاءً وَعَلٰى اٰلِهِ وَصَحْبِهِ وَسَلِّمْ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "divider"
@@ -806,7 +812,8 @@
     {
       "type": "arabic",
       "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "quote",
@@ -1059,12 +1066,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -1238,22 +1247,26 @@
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ اجْعَلْنَا مِنَ الشَّاكِر۪ينَ بِرَحْمَتِكَ يَا اَرْحَمَ الرَّاحِم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا مُحَمَّدٍ سَيِّدِ الشَّاكِر۪ينَ وَالْحَامِد۪ينَ وَعَلٰى اٰلِهِ وَصَحْبِهِ اَجْمَع۪ينَ اٰم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَاٰخِرُ دَعْوٰيهُمْ اَنِ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "divider"
@@ -1274,7 +1287,8 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
@@ -1581,12 +1595,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "قُلْ بِفَضْلِ اللّٰهِ وَبِرَحْمَتِه۪ فَبِذٰلِكَ فَلْيَفْرَحُوا هُوَ خَيْرٌ مِمَّا يَجْمَعُونَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -2004,12 +2020,14 @@
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ صَلَاةً تَكُونُ لَكَ رِضَاءً وَلِحَقِّهِ اَدَاءً وَعَلٰى اٰلِهِ وَصَحْبِهِ وَسَلِّمْ تَسْل۪يمًا كَث۪يرًا اٰم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "divider"
@@ -2253,7 +2271,8 @@
     {
       "type": "arabic",
       "text": "رَبَّنَا لَا تُؤَاخِذْنَٓا اِنْ نَس۪ينَٓا اَوْ اَخْطَأْنَا",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "divider"
@@ -2416,8 +2435,11 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Ahmed Gâlib(Rahmetullâhi Aleyh)",
+          "text": "Ahmed Gâlib",
           "bold": true
+        },
+        {
+          "text": "\n(Rahmetullâhi Aleyh)"
         }
       ]
     },
@@ -2486,8 +2508,11 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Binbaşı Âsım(Rahmetullâhi Aleyh)",
+          "text": "Binbaşı Âsım",
           "bold": true
+        },
+        {
+          "text": "\n(Rahmetullâhi Aleyh)"
         }
       ]
     },
@@ -2719,7 +2744,8 @@
     {
       "type": "arabic",
       "text": "اَلْحَمْدُ لِلّٰهِ هٰذَا مِنْ فَضْلِ رَبّ۪ي",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "heading",
@@ -2728,17 +2754,20 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَلسَّلَامُ عَلَيْكُمْ وَعَلٰى وَالِدَيْكُمْ وَعَلٰى اِخْوَانِكُمْ وَعَلٰى رُفَقَائِكُمْ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -2888,7 +2917,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Kardeşiniz Said Nursî",
+          "text": "Kardeşiniz \n"
+        },
+        {
+          "text": "Said Nursî",
           "bold": true
         }
       ]
@@ -3211,7 +3243,8 @@
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     }
   ],
   "notes": [

@@ -37,12 +37,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "كٓهٰيٰعٓصٓ ❋ ذِكْرُ رَحْمَتِ رَبِّكَ عَبْدَهُ زَكَرِيَّا ❋ اِذْ نَادٰى رَبَّهُ نِدَٓاءً خَفِيًّا ❋ قَالَ رَبِّ اِنّ۪ي وَهَنَ الْعَظْمُ مِنّ۪ي وَاشْتَعَلَ الرَّأْسُ شَيْبًا وَلَمْ اَكُنْ بِدُعَٓائِكَ رَبِّ شَقِيًّا",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -178,7 +180,7 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "$59"
+          "text": "Evet, nass-ı hadîs ile; nev'-i beşerin en mümtâz şahsiyetleri olan yüz yirmi dört bin enbiyânın icmâ ve tevâtür ile, kısmen şühûda ve kısmen hakkalyakìne istinâden, müttefikan Âhiret’in vücûdundan ve insanların oraya sevkedileceğinden ve bu kâinâtın Hàlık’ının kat'î va'dettiği Âhiret’i getireceğinden haber verdikleri gibi; onların verdikleri haberi keşif ve şühûd ile ilmelyakìn sûretinde tasdik eden yüz yirmi dört milyon evliyânın o Âhiret’in vücûduna şehâdetleriyle ve bu kâinâtın Sâni'-i Hakîm’inin bütün esmâsı bu dünyada gösterdikleri cilveleriyle, bir âlem-i bekàyı bilbedâhe iktiza ettiklerinden, yine Âhiret’in vücûduna delâletiyle; ve her sene baharda rû-yi zeminde ayakta duran had ve hesaba gelmez ölmüş ağaçların cenazelerini emr-i “kün feyekûn” ile ihyâ edip “Ba'sü ba'de'l-mevt”e mazhar eden… Ve haşir ve neşrin yüz binler nümûnesi olarak nebâtât tâifelerinden ve hayvanat milletlerinden üç yüz bin nev'ileri haşir ve neşreden hadsiz bir Kudret-i Ezeliye ve hesabsız ve isrâfsız bir hikmet-i Ebediye ve rızka muhtaç bütün zîrûhları kemâl-i şefkatle gayet hàrika bir tarzda iâşe ettiren… Ve her baharda az bir zamanda had ve hesaba gelmez envâ'-ı zînet ve mehâsini gösteren bir rahmet-i bâkiye ve bir inâyet-i dâimenin bilbedâhe Âhiret’in vücûdunu istilzam ile; ve şu kâinâtın en mükemmel meyvesi ve Hàlık-ı Kâinât’ın en sevdiği masnû'u ve kâinâtın mevcûdâtıyla en ziyâde alâkadar olan insandaki şedîd, sarsılmaz, dâimî olan aşk-ı bekà ve şevk-i ebediyet ve âmâl-i sermediyet bilbedâhe işâret ve delâletiyle, bu âlem-i fânîden sonra bir âlem-i bâkî ve bir dâr-ı Âhiret ve bir dâr-ı saâdet bulunduğunu o derece kat'î bir sûrette isbât ederler ki; dünyanın vücûdu kadar, bilbedâhe Âhiret’in vücûdunu kabûl etmeyi istilzam ederler. "
         },
         {
           "note": "3"
@@ -1446,7 +1448,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$5a"
+      "text": "Ma'nen: “Sen hapse Medrese-i Yûsufiye nâmı vermişsin. Hem Denizli’de, sıkıntınızdan bin derece ziyâde hem ferâh, hem manevî kâr, hem oradaki mahpusların Nurlardan istifadeleri, hem büyük dâirelerde Nurların fütûhâtı gibi neticeler, size şekvâ yerinde binler şükrettirdi. Herbir saat hapsinizi ve sıkıntınızı on saat ibâdet hükmüne getirdi, o fânî saatleri bâkîleştirdi. İnşâallâh, bu üçüncü Medrese-i Yûsufiye’deki musîbet-zedelerin Nurlardan istifadeleri ve tesellî bulmaları, senin bu soğuk ve ağır sıkıntını harâretlendirip sevinçlere çevirecek. Ve hiddet ettiğin adamlar, eğer aldanmışlarsa, bilmeyerek sana zulmediyorlar; onlar hiddete lâyık değiller. Eğer bilerek ve garazla ve dalâlet hesabına seni incitiyorlar ve işkence yapıyorlarsa, onlar pek yakın bir zamanda ölümün i'dâm-ı ebedîsiyle kabrin haps-i münferidine girip dâimî sıkıntılı azâb çekecekler. Sen onların zulmü yüzünden hem sevâb, hem fânî saatlerini bâkîleştirmeyi, hem manevî lezzetleri, hem vazife-i ilmiye ve diniyeyi ihlâs ile yapmasını kazanıyorsun” diye rûhuma ihtar edildi."
     },
     {
       "type": "paragraph",

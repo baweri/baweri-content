@@ -5,12 +5,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "يَفْعَلُ اللّٰهُ مَا يَشَٓاءُ«وَ»يَحْكُمُ مَا يُر۪يدُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -203,7 +205,8 @@
     {
       "type": "arabic",
       "text": "تَاَمَّلْ سُطُورَ الْكَائِنَاتِ فَاِنَّهَا ❋ مِنَ الْمَلَاِ الْاَعْلٰى اِلَيْكَ رَسَائِلُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "heading",
@@ -372,7 +375,8 @@
     {
       "type": "arabic",
       "text": "وَهٰذِهِ الْمَوْجُودَاتُ الْجَلِيَّةُ مَظَاهِرُ سَيَّالَةٌ وَمَرَايَا جَوَّالَةٌ لِتَجَدُّدِ تَجَلِّيَاتِ اَنْوَارِ ا۪يجَادِهِ سُبْحَانَهُ بِتَبَدُّلِ التَّعَيُّنَاتِ الْاِعْتِبَارِيَّةِ ❋ اَوَّلًا: مَعَ اِسْتِحْفَاظِ الْمَعَانِي الْجَم۪يلَةِ وَالْهُوِيَّاتِ الْمِثَالِيَّةِ ❋ وَثَانِيًا: مَعَ اِنْتَاجِ الْحَقَائِقِ الْغَيْبِيَّةِ وَالنُّسُوجِ اللَّوْحِيَّةِ ❋ وَثَالِثًا: مَعَ نَشْرِ الثَّمَرَاتِ الْاُخْرَوِيَّةِ وَالْمَنَاظِرِ السَّرْمَدِيَّةِ ❋ وَرَابِعًا: مَعَ اِعْلَانِ التَّسْب۪يحَاتِ الرَّبَّانِيَّةِ وَاِظْهَارِ الْمُقْتَضَيَاتِ الْاَسْمَائِيَّةِ ❋ وَخَامِسًا: لِظُهُورِ الشُّؤُنَاتِ السُّبْحَانِيَّةِ وَالْمَشَاهِدِ الْعِلْمِيَّةِ ❋",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -617,7 +621,8 @@
     {
       "type": "arabic",
       "text": "لَٓا اِلٰهَ اِلَّا اللّٰهُ الْمَلِكُ الْحَقُّ الْمُب۪ينُ مُحَمَّدٌ رَسُولُ اللّٰهِ صَادِقُ الْوَعْدِ الْاَم۪ينُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "quote",
@@ -626,32 +631,38 @@
     {
       "type": "arabic",
       "text": "اِنَّ الْبَعْثَ بَعْدَ الْمَوْتِ حَقٌّ وَالْجَنَّةَ حَقٌّ وَالنَّارَ حَقٌّ وَاِنَّ السَّعَادَةَ الْاَبَدِيَّةَ حَقٌّ وَاِنَّ اللّٰهَ رَح۪يمٌ حَك۪يمٌ وَدُودٌ وَاِنَّ الرَّحْمَةَ وَالْحِكْمَةَ وَالْمَحَبَّةَ مُح۪يطَةٌ بِجَم۪يعِ الْاَشْيَاءِ وَشُؤُنَاتِهَا",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَلْحَمْدُ لِلّٰهِ الَّذ۪ي هَدٰينَا لِهٰذَا وَمَا كُنَّا لِنَهْتَدِيَ لَوْلَٓا اَنْ هَدٰينَا اللّٰهُ لَقَدْ جَٓاءَتْ رُسُلُ رَبِّنَا بِالْحَقِّ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "رَبَّنَا لَا تُؤَاخِذْنَٓا اِنْ نَس۪ينَٓا اَوْ اَخْطَأْنَا",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ صَلَاةً تَكُونُ لَكَ رِضَاءً وَلِحَقِّهِ اَدَاءً وَعَلٰى اٰلِهِ وَصَحْبِهِ وَسَلِّمْ اٰم۪ينَ. وَالْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ.",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "سُبْحَانَ مَنْ جَعَلَ حَد۪يقَةَ اَرْضِهِ ، مَشْهَرَ صَنْعَتِهِ ، مَحْشَرَ خِلْقَتِهِ ، مَظْهَرَ قُدْرَتِهِ ، مَدَارَ حِكْمَتِهِ ، مَزْهَرَ رَحْمَتِهِ ، مَزْرَعَ جَنَّتِهِ ، مَمَرَّ الْمَخْلُوقَاتِ ، مَس۪يلَ الْمَوْجُودَاتِ ، مَك۪يلَ الْمَصْنُوعَاتِ ، فَمُزَيَّنُ الْحَيْوَانَاتِ ، مُنَقَّشُ الطُّيُورَاتِ ، مُثَمَّرُ الشَّجَرَاتِ ، مُزَهَّرُ النَّبَاتَاتِ ، مُعْجِزَاتُ عِلْمِهِ خَوَارِقُ صُنْعِهِ ، هَدَايَاءُ جُودِهِ ، بَرَاه۪ينُ لُطْفِهِ ، دَلَائِلُ الْوَحْدَةِ ، لَطَائِفُ الْحِكْمَةِ ، شَوَاهِدُ الرَّحْمَةِ ، تَبَسُّمُ الْاَزْهَارِ مِنْ ز۪ينَةِ الْاَثْمَارِ ، تَسَجُّعُ الْاَطْيَارِ ف۪ي نَسْمَةِ الْاَسْحَارِ ، تَهَزُّجُ الْاَمْطَارِ عَلٰى خُدُودِ الْاَزْهَارِ ، تَزَيُّنُ الْاَزْهَارِ ، تَبَرُّجُ الْاَثْمَارِ ف۪ي هٰذِهِ الْجِنَانِ ، تَرَحُّمُ الْوَالِدَاتِ عَلَى الْاَطْفَالِ الصِّغَارِ ف۪ي كُلِّ الْحَيْوَانَاتِ وَالْاِنْسَانِ ، تَعَرُّفُ وَدُودٍ ، تَوَدُّدُ رَحْمَانٍ ، تَرَحُّمُ حَنَّانٍ تَحَنُّنُ مَنَّانٍ لِلْجِنِّ وَالْاِنْسَانِ وَالرُّوحِ وَالْحَيْوَانِ وَالْمَلَكِ وَالْجَانِّ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "divider"
@@ -667,17 +678,20 @@
     {
       "type": "arabic",
       "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "قُلْ مَا يَعْبَؤُا بِكُمْ رَبّ۪ي لَوْ لَا دُعَٓاؤُكُمْ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -968,12 +982,14 @@
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ مِنَ الْاَزَلِ اِلَى الْاَبَدِ عَدَدَ مَا ف۪ي عِلْمِ اللّٰهِ وَعَلٰى اٰلِهِ وَصَحْبِهِ وَسَلِّمْ سَلِّمْنَا وَسَلِّمْ د۪ينَنَا اٰم۪ينَ وَالْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "divider"
@@ -998,17 +1014,20 @@
     {
       "type": "arabic",
       "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَلَقَدْ رَاٰهُ نَزْلَةً اُخْرٰى ❋ عِنْدَ سِدْرَةِ الْمُنْتَهٰى ❋ عِنْدَهَا جَنَّةُ الْمَأْوٰى ❋ اِذْ يَغْشَى السِّدْرَةَ مَا يَغْشٰى ❋ مَا زَاغَ الْبَصَرُ وَمَا طَغٰى ❋ لَقَدْ رَاٰى مِنْ اٰيَاتِ رَبِّهِ الْكُبْرٰى",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -1273,7 +1292,7 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "$56"
+          "text": "Mâdem şu kâinâtın Hàlık’ı, her nev'de bir ferd-i mümtâz ve mükemmel ve câmi' halkedip, o nev'in medâr-ı fahri ve kemâli yapar; elbette esmâsındaki İsm-i A'zam tecellîsiyle, bütün kâinâta nisbeten mümtâz ve mükemmel bir ferdi halkedecek. Esmâsında bir İsm-i A'zam olduğu gibi, masnûâtında da bir ferd-i ekmel bulunacak ve kâinâta münteşir kemâlâtı o ferdde cem'edip, kendine medâr-ı nazar edecek. O ferd, her hâlde zîhayattan olacaktır. Çünkü envâ'-ı kâinâtın en mükemmeli zîhayattır. Ve her hâlde, zîhayat içinde o ferd, zîşuûrdan olacaktır. Çünkü zîhayatın envâ'ı içinde en mükemmeli zîşuûrdur. Ve herhalde, o ferd-i ferîd, insandan olacaktır. Çünkü zîşuûr içinde hadsiz terakkiyâta müstaid, insandır. Ve insanlar içinde herhalde o ferd, Muhammed Aleyhissalâtü Vesselâm olacaktır. Çünkü, zaman-ı Âdem’den şimdiye kadar hiçbir tarih, O’nun gibi bir ferdi gösteremiyor ve gösteremez. Zîra O Zât, küre-i arzın yarısını ve nev'-i beşerin beşten birisini, saltanat-ı maneviyesi altına alarak, bin üç yüz elli sene kemâl-i haşmetle saltanat-ı maneviyesini devam ettirip, bütün ehl-i kemâle, bütün envâ'-ı hakàikta bir “Üstad-ı Küll” hükmüne geçmiş. Dost ve düşmanın ittifakıyla, ahlâk-ı hasenenin en yüksek derecesine sâhib olmuş. Bidâyet-i emrinde, tek başıyla bütün dünyaya meydân okumuş. Her dakikada yüz milyondan ziyâde insanların vird-i zebânı olan Kur'ân-ı Mu'cizü'l-Beyân’ı göstermiş bir Zât, elbette O ferd-i mümtâzdır. O’ndan başkası olamaz. Bu âlemin hem çekirdeği, hem meyvesi O’dur. "
         },
         {
           "text": "عَلَيْهِ وَعَلٰى اٰلِهِ وَصَحْبِهِ اَلصَّلَاةُ وَالسَّلَامُ بِعَدَدِ اَنْوَاعِ الْكَائِنَاتِ وَمَوْجُودَاتِهَا",
@@ -1297,15 +1316,18 @@
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
       "parts": [
         {
           "text": "اَلْبَاق۪ي هُوَ الْبَاق۪ي",
-          "bold": true,
           "red": true
+        },
+        {
+          "text": "\n"
         },
         {
           "text": "Said Nursî",

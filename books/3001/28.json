@@ -19,12 +19,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَبَشِّرِ الَّذ۪ينَ اٰمَنُو وَعَمِلُوا الصَّالِحَاتِ اَنَّ لَهُمْ جَنَّاتٍ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُ كُلَّمَا رُزِقُوا مِنْهَا مِنْ ثَمَرَةٍ رِزْقًا قَالُوا هٰذَا الَّذ۪ي رُزِقْنَا مِنْ قَبْلُ وَاُتُوا بِه۪ مُتَشَابِهًا وَلَهُمْ ف۪يهَٓا اَزْوَاجٌ مُطَهَّرَةٌ وَهُمْ ف۪يهَا خَالِدُونَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -178,7 +180,7 @@
           "bold": true
         },
         {
-          "text": "$4e"
+          "text": " Bir temsîl ile şu ulvî hakikate şöyle bir işâret ederiz ki: Meselâ; gayet güzel ve şa'şaalı bir bağda, muhteşem bir zât, gayet büyük bir ziyâfet, gayet müzeyyen bir seyrangâh, öyle bir sûrette ihzar etmiş ki; kuvve-i zâikanın hissedecek bütün lezâiz-i mat'ûmâtı câmi', kuvve-i bâsıranın hoşuna gidecek bütün mehâsini şâmil, kuvve-i hayâliyeyi keyiflendirecek bütün garâibi müştemil ve hâkezâ‥ bütün havâss-ı zâhire ve bâtınayı okşayacak ve memnun edecek herşeyi içine koymuştur. Şimdi iki dost var, beraber o ziyâfete giderler. Bir locada, bir sofrada oturuyorlar. Fakat birisinin kuvve-i zâikası pek az olduğundan cüz'î zevk alır. Gözü de az görüyor. Kuvve-i şâmmesi yok. Sanâyi-i garîbeden anlamaz. Hàrika şeyleri bilmez. O nüzhetgâhın, binden ve belki milyondan birisini, kàbiliyeti nisbetinde ancak zevkederek istifade eder. Diğeri ise; bütün zâhirî ve bâtınî duyguları, akıl ve kalb ve his ve latîfeleri, o derece mükemmel ve o mertebe inkişaf etmiştir ki; o seyrangâhtaki bütün incelikleri, güzellikleri ve letâifi ve garâibi, ayrı ayrı hissedip zevkederek, ayrı ayrı lezzet aldığı hâlde o dost ile omuz omuzadır."
         }
       ]
     },
@@ -328,17 +330,20 @@
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "رَبَّنَا لَا تُؤٰاخِذْنَٓا اِنْ نَس۪ينَٓا اَوْ اَخْطَأْنَا",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ صَلِّ عَلٰى حَب۪يبِكَ الَّذ۪ي فَتَحَ اَبْوَابَ الْجَنَّةِ بِحَب۪يبِيَّتِهِ وَبِصَلَاتِهِ وَاَيَّدَتْهُ اُمَّتُهُ عَلٰى فَتْحِهَا بِصَلَوَاتِهِمْ عَلَيْهِ، عَلَيْهِ الصَّلَاةُ وَالسَّلَامُ ❋ اَللّٰهُمَّ ادْخِلْنَا الْجَنَّةَ مَعَ الْاَبْرَارِ بِشَفَاعَةِ حَب۪يبِكَ الْمُخْتَارِ اٰم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "heading",
@@ -365,7 +370,8 @@
     {
       "type": "arabic",
       "text": "رَبَّنَا مَا خَلَقْتَ هٰذَا بَاطِلًا سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ",
-      "red": true
+      "red": true,
+      "center": true
     }
   ],
   "notes": [

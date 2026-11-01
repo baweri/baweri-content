@@ -14,17 +14,20 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ وَالصَّلٰوةُ وَالسَّلَامُ عَلٰى سَيِّدِنَا مُحَمَّدٍ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَعَلٰى اٰلِهِ وَصَحْبِهِ اَجْمَع۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -358,7 +361,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$45"
+      "text": "Ehl-i ilim, ehl-i tasavvuf ve ehl-i mekteb ve fen, Bediüzzaman’ın eserlerinden sâdece istifaza ve istifade ederler. Evet, üç aylık bir tahsili bulunan ve kırk seneden beri Kur'ân-ı Kerîm’den başka bir kitapla iştigâl etmeyen, yüz otuzu Türkçe, on beşi Arapça olan eserlerini te'lif ederken hiçbir kitaba müracaat etmediği, henüz hayatta olan kâtibleri tarafından şehâdet edilen, esâsen kütübhânesi de bulunmayan, yarım ümmî bir Zât; öyle misilsiz bir ilânatla, ulûm-u cedîde de dâhil mütenevvi' ilimlerde, yüksek âlimler ve büyük mürşidlerle, genç yaşında yaptığı münâzaraların hepsinde muvaffak olduğu meydânda bulunan, ittifaklı olan mes'eleleri tasdik ve ihtilâflı olanları tashih eden, kendisi için “Bediüzzaman’ın cevab veremeyeceği bir suâl yoktur.” diye allâmeler tarafından tasdik edilen; ve Avrupa’nın bir kısım idraksiz ve garazkâr feylesoflarının, müteşâbih âyet-i kerîme ve Hadîs-i Şerîflere yaptığı taarruzlarını; o âyet ve hadîslerin birer mu'cize olduğunu eserleriyle isbât ederek i'tirâzlarını kökünden yıkan ve böylece evhâma düşürülen bazı ehl-i ilmi de kurtarıp, İslâmiyet’e olan hücumları akîm bırakan Said Nursî gibi bir müellifin; elbette dâhî bir müfessir-i Kur'ân ve onun ilminin vehbî ve vâsi' olduğuna, eserleri olan Nur Risaleleri’nin bir hayat boyunca okunmaya lâyık hàrika bir şâheser olduğuna şübhe edilemez."
     },
     {
       "type": "paragraph",
@@ -1055,7 +1058,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$46"
+      "text": "Bediüzzaman gibi, yüz otuz parça îmânî eserlerini şiddetli bir istibdâd, tazyîkat ve takyidat altında, gizliden gizliye te'lif edebilmek, hem kuvvetli bir takvâ ve ubûdiyete sâhib olmak ve hem bunlarla beraber, harb cebhesinde de fedâi olarak gönüllü askerleriyle muhârebe etmiş olmak ve harb cebhesinde, avcı hattında dahi, fırsat buldukça Kur'ân’ın en ince nüktelerini ve hàrika i'câzını beyân eden bir Kur'ân tefsiri te'lif etmiş olmak ve aynı zamanda nefis mücâdelesinde de gâlib olup, nefsini de dine hizmetkâr yapmak ve hürriyeti gasbedilerek, ücra bir köye sürgün edilip, tecrid-i mutlak ve tarassudlar ve her türlü azâblar içinde ablukaya alınıp, Engizisyon zulümlerini çok geride bırakan hâkim bir kuvvetin tazyîkatı altında, cânî canavarların pek vahşî işkenceleri içinde, “Sırran tenevveret” sırrıyla, perde altında Risale-i Nur eserleri gibi eserler neşretmek ve böylece cihanın maddî, manevî “Fâtih”i olan Resûl-i Ekrem Aleyhissalâtü Vesselâm’ın Sünnet-i Seniye’sinin bir hizmetkârı olarak, bugün milyonlara bâliğ olan bir câmiayı, inâyet-i İlâhî ile Kur'ân-ı Hakîm’in cadde-i kübrâsında selâmetle ilerletmek ve mü'minlerin ve beşeriyetin sâdece dünyalarını değil, ebedî saâdetlerini te'mine Risale-i Nur gibi bir eserle vesile olmak; bu mezkûr hususiyetlerin manevî şahsında toplanması, Risale-i Nur müellifi Bediüzzaman Said Nursî gibi, tarihte hangi bir zâta daha nasîb olmuştur acaba?‥"
     },
     {
       "type": "paragraph",
@@ -1156,7 +1159,8 @@
     {
       "type": "arabic",
       "text": "وَاٰخِرُ دَعْوٰيهُمْ اَنِ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     }
   ],
   "notes": [

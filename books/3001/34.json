@@ -5,7 +5,8 @@
     {
       "type": "arabic",
       "text": "مِنْ بَيْنِ هِلَالِ الصَّوْمِ وَهِلَالِ الْع۪يدِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -79,7 +80,7 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Risale-i Nur şâkirdlerinden"
+          "text": "Risale-i Nur şâkirdlerinden\n"
         },
         {
           "text": "Sungur, Mehmed Feyzi, Husrev",
@@ -227,17 +228,20 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَالصَّلٰوةُ عَلٰى سَيِّدِ الْمُرْسَل۪ينَ وَعَلٰى اٰلِهِ وَصَحْبِهِ اَجْمَع۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "heading",
@@ -366,7 +370,8 @@
     {
       "type": "arabic",
       "text": "لَا يَعْلَمُ الْغَيْبَ اِلَّا اللّٰهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "divider"
@@ -492,7 +497,8 @@
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا قُدْرَةَ ف۪ينَا رَبَّنَا اَنْتَ الْقَد۪يرُ الْاَزَلِيُّ ذُوالْجَلَالِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "divider"
@@ -504,7 +510,8 @@
     {
       "type": "arabic",
       "text": "مَا خَلْقُكُمْ وَلَا بَعْثُكُمْ اِلَّا كَنَفْسٍ وَاحِدَةٍ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "quote",
@@ -2722,7 +2729,8 @@
     {
       "type": "arabic",
       "text": "اِنَّ الْاِنْسَانَ كَصُورَةِ يٰسٓ كُتِبَتْ ف۪يهَا سُورَةُ يٰسٓفَتَبَارَكَ اللّٰهُ اَحْسَنُ الْخَالِق۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "divider"
@@ -3135,12 +3143,14 @@
     {
       "type": "arabic",
       "text": "اُولَاشْمَازْ دَسْتِ اَدَبِ غَرْبِ هَوَسْبَارِ هَوَاكَارِ دَهَادَارْ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "دَأْبِ اَدَبِ اَبَدْ مُدَّتِ قُرْاٰنِ ضِيَابَارِ شِفَاكَارِ هُدَادَارْ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "quote",
@@ -3387,12 +3397,14 @@
     {
       "type": "arabic",
       "text": "فَتَبَارَكَ اللّٰهُ اَحْسَنُ الْخَالِق۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَاٰخِرُ دَعْوٰينَا اَنِ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "quote",
@@ -3409,7 +3421,8 @@
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ اِهْدِنَا الصِّرَاطَ الْمُسْتَق۪يمَ ❋ صِرَاطَ الَّذ۪ينَ اَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّٓالّ۪ينَ اٰم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "divider"
@@ -3701,7 +3714,8 @@
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ اهْدِنَا الصِّرَاطَ الْمُسْتَق۪يمَ اٰم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "divider"

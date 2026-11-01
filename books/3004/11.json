@@ -44,12 +44,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَبِهِ نَسْتَع۪ينُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "quote",
@@ -117,7 +119,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$b6"
+      "text": "Amma benim ehemmiyetsiz şahsımın kusurları ise, bilmecbûriye, istemeyerek derim ki: Yirmi iki sene müddetinde gurbette haps-i münferid hükmünde, yalnız ve münzevî olarak hayat geçiren‥ ve bu müddet zarfında ihtiyarıyla bir defa çarşıya ve mecma'-ı nâs büyük câmilere gitmeyen‥ ve çok tazyîk ve sıkıntı verildiği hâlde, bütün emsâli menfîlere muhâlif olarak istirahati için bir tek defa hükûmete müracaat etmeyen‥ ve yirmi sene zarfında hiçbir gazeteyi okumayan ve dinlemeyen ve merak etmeyen‥ ve tam iki sene Kastamonu’da ve yedi sene başka menfâlarında bütün yakın ve görüşen dostlarının şehâdetiyle, küre-i arz yüzündeki boğuşmaları ve harbleri ve sulh olmuş ve olmamış ve daha kimler harb ettiklerini bilmeyen ve merak etmeyen ve sormayan‥ ve üç sene yakınında konuşan radyoyu üç defadan başka dinlemeyen‥ ve hayat-ı ebediyeyi imha eden‥ ve hayat-ı dünyeviyeyi dahi elem içinde eleme, azâb içinde azâba çeviren‥ küfr-ü mutlaka karşı gâlibâne Risale-i Nur ile mukàbele ettiğine onun ile îmânlarını kurtaran yüz bin şâhidin şehâdetiyle isbât eden‥ ve Kur'ân’dan tereşşuh eden Risale-i Nur ile ölümü yüz bin adam hakkında i'dâm-ı ebedîden, terhis tezkeresine çeviren bir adama bu derece ilişmek ve me'yûs etmek ve onu ağlatmakla, o masûm yüz binler kardeşlerini ağlatmaya hangi kanun var? Hangi maslahat var? Adâlet nâmına emsâlsiz bir gadr olmaz mı! Ve kanun hesabına, emsâlsiz bir kanunsuzluk değil mi!"
     },
     {
       "type": "paragraph",
@@ -207,7 +209,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$b7"
+      "text": "Yirmi seneden beri bir münzevînin elbette ifâdedeki kusuruna bakılmaz. Risale-i Nur’u müdafaa ettiği için, saded haricine çıktı denilmez. Mâdem, Eskişehir Mahkemesi, mahrem ve gayr-ı mahrem yüz risaleleri dört ay tedkikten sonra yalnız bir-iki risalede hafif bir cezaya temâs edecek bir-iki maddeden başka bulmamış ve yüz yirmi adamdan on beşine altışar ay ceza verdi. Biz dahi bu cezayı çektik. Ve mâdem birkaç sene evvel Risale-i Nur’un bütün eczâları Isparta hükûmetinin eline geçti. Birkaç ay tedkikten sonra, sâhiblerine iâde edilmiş ve mâdem o cezadan sonra, Kastamonu’da sekiz sene zarfında şiddetli taharriyâtta zâbıtayı ve adliyeyi alâkadar edecek bir tereşşuh bulunmamış. Ve mâdem Kastamonu’daki son taharrîde bir kısım risalelerimin, hiç bulunmayacak ve neşredilmeyecek bir tarzda kaç sene evvel odun yığınları altına saklanmış olduğu göründü ve hey'et-i zâbıtaca tahakkuk etti. Ve mâdem, Kastamonu’da polis müdürü ve adliyesi o saklanmış zararsız kitaplarımı bana iâde etmek üzere kat'î söz verdikleri hâlde, ikinci gün birden Isparta’dan tevkîf emri geldiğinden, daha o emânetlerimi almadan sevkedildim. Ve mâdem Denizli ve Ankara Mahkemeleri bizi berâet ve umum risalelerimizi bize iâde ettiler. Elbette ve elbette, bu mezkûr altı hakikate binâen, Denizli Mahkemesi ve müddeiumumîsi gibi, Afyon adliyesi ve müddeiumumîsi benim çok ehemmiyetli bu hukukumu nazar-ı dikkate almaları, vazifeleri muktezâsıdır. Ve hukuk-u umumiyeyi müdafaa eden müddeiumumîden, Risale-i Nur münâsebetiyle ehemmiyetli bir hukuk-u âmme hükmüne geçen bu şahsî hukukumu da müdafaa edeceğine ümîdvârım ve bekliyorum."
     },
     {
       "type": "paragraph",
@@ -252,13 +254,13 @@
           "red": true
         },
         {
-          "text": "$b8"
+          "text": " fermân-ı esâsîsi ile, bir kardeşin hatâsıyla, diğer öz kardeşi mes'ûl olmadığı hâlde, yanlış mânâ verilmemek için, neşrini men'ettiğimiz ve sekiz sene zarfında, bir veya iki defa elime geçen ve yirmi beş seneden daha evvel aslı yazılan ve ehemmiyetli noktalarda îmânı, şübhelerden ve mânâsı anlaşılmayan bir kısım müteşâbih hadîsleri, inkârdan kurtaran bir küçük risalenin bizden uzak bir yerde, bilmediğimiz bir adamda bulunması ile ve yanlış mânâ verilmesiyle ve Kütahya ve Balıkesir tarafında bir dokunaklı mektûb bulunmasıyla bizleri o vakit Ramazan-ı Şerîfte ve şimdi bu dehşetli soğukta pek çok masûm rençber ve esnâfları, hattâ âdi ve eski bir mektûbumuz yanında bulunmasıyla ve arabası beni gezdirmesiyle ve bize bir dostluk münâsebetiyle veya bir kitabımı okumasıyla tevkîf edip, perîşan etmek ve maddeten ve ma'nen onlara ve vatana ve millete lüzumsuz bir evhâm yüzünden, binler lira zarar vermek, hangi adâlet kanunuyladır? Adliyenin, hangi madde-i kanuniyesiyledir? Ayağımızı yanlış atmamak için, o kanunları bilmek taleb ederiz."
         }
       ]
     },
     {
       "type": "paragraph",
-      "text": "$b9"
+      "text": "Evet hem Denizli’de, hem Afyon’da tevkîfimizin bir sebebinin bir hakikati şudur ki: Bir kısım hadîslerin mânâsı ve te'vili bilinmemesinden, “akıl kabûl etmiyor” diye inkâr edenlere karşı avâmın îmânını kurtarmak fikriyle, çok zaman evvel Dâru'l-Hikmet-i İslâmiye’de iken ve daha evvel aslı yazılan Beşinci Şuâ farz-ı muhâl olarak, dünyaya ve siyasete baksa ve bu zamanda da yazılsa, mâdem gizlidir ve taharriyâtta bizde bulunmadı ve gaybî haberleri doğrudur ve îmânî şübheleri izâle eder ve âsâyişe dokunmuyor ve mübâreze etmiyor ve yalnız ihbar eder ve şahısları ta'yin etmiyor ve ilmî bir hakikati, küllî bir sûrette beyân ediyor. Elbette o hakikat-i hadîsiye bu zamanda dahi bir kısım şahıslara mutâbık çıksa ve münâkaşaya sebeb olmamak için mahkemelerin teşhîr ve neşirlerinden evvel bizce tam mahrem tutulsa adâlet cihetinde hiçbir vecihle bir suç teşkil etmez. Hem “Bir şeyi reddetmek ayrıdır ve ilmen kabûl etmemek veya amel etmemek bütün bütün ayrıdır. O risale yakın bir istikbâlde gelecek bir rejimi ilmen kabûl etmiyor.” diye bir suç olduğuna dünyada adliyelerin bir kanunu bulunmasına ihtimal vermiyoruz."
     },
     {
       "type": "paragraph",
@@ -280,7 +282,7 @@
           "bold": true
         },
         {
-          "text": "$ba"
+          "text": " Bir mektûbun yirmi kelimesinde beş kelime kusurlu görülse, o beş kelime sansür edilir. Mütebâkisine izin vermek bir düstur iken, Eskişehir Mahkemesinin dört ay tedkikten sonra, yüz bin kelime içinde zâhirî nazarda zararlı tevehhüm edilen yalnız on beş kelimeden başka bulmamasıyla ve hey'et-i vekile de dört yüz sahifeli Zülfikàr’ın yalnız iki sahifesinde (şimdiki kanuna uygun olmamasından) otuz sene evvel yazılan iki âyetin tefsirinden başka ilişmemesi ve Denizli ve Ankara ehl-i vukûfu on beş sehivden başka ilişmemesiyle ve şimdiye kadar yüz binler adamın ıslahına vesile olmasıyla, vatana ve millete bin büyük menfaati tahakkuk eden Risale-i Nur’a, küçük bir hizmet eden veya kendi îmânını kurtardığı için bir risalesini yazan ve Emirdağı’nda garîb ve ihtiyarlığıma şefkaten bana kardeşlik eden Çalışkanlar gibi rızâ-yı İlâhî için bana hizmet eden bîçâreleri iş mevsiminde ve dehşetli kışta taht-ı tevkîfe almak, hükûmet-i cumhûriyenin hangi prensibiyle kàbil-i tevfik olabilir? Ve hangi kanunu, müsâade etmeğe imkânı var?"
         }
       ]
     },
@@ -351,7 +353,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$bd"
+      "text": "Mâdem, bir şeyi reddetmek başkadır ve onun ile amel etmemek bütün bütün başkadır. Ve her hükûmette şiddetli muhâlifler bulunur ve mecûsî hâkimiyeti altında Müslümanlar ve hükûmet-i İslâmiye-i Ömeriyede Yahudîler ve Hıristiyanlar bulunması ve âsâyişe ve idareye ilişmeyenin hürriyet-i şahsiyesi her hükûmette vardır ve ilişilmez ve hükûmet ele bakar, kalbe bakmaz. Ve mâdem âsâyişe ve idareye ve siyasete ilişmek isteyen herhalde hiç şüphesiz gazetelerle ve dünya hâdisâtı ile alâkadar olacak, tâ kendine yardım eden cereyanları ve vaziyetleri ve hâdisâtı bilsin, tâ yanlış ayağını atmasın. Ve Risale-i Nur ise; şâkirdlerini o derece men'etmiş ki, benim yakın dostlarım biliyorlar ki; yirmi beş senedir, değil gazeteleri okumak, belki sormasını ve merak etmesini ve düşünmesini bana terkettirmiş. Şimdi on senedir, kat'iyyen dünya cereyanlarından ve vaziyetlerinden, Alman’ın mağlûbiyeti ve bolşevikin istilâsından başka hiçbir haber almayacak derecede beni hayat-ı ictimâiyeden çekmiş. Elbette ve elbette, hikmet-i hükûmet ve kanun-u siyaset ve düstur-u adâlet bana ve benim gibi kardeşlerime ilişemez ve ilişen herhalde ya evhâmından, ya garazından veya inâdından ilişir."
     },
     {
       "type": "heading",
@@ -406,7 +408,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$be"
+      "text": "Sonra Sedd-i Zülkarneyn ve ye'cüc ve me'cüc ve dâbbetü'l-arz ve deccâl ve nüzûl-ü İsâ (as) hakkında suâller sormuşlardı. Ben de cevab vermiştim. Hattâ eski risalelerimde onlar kısmen yazılmışlar. Bir zaman sonra Mustafa Kemâl iki defa şifre ile Van Vilâyetinin eski vâlisi ve benim dostum Tahsin Bey’in vâsıtasıyla beni – neşredilen Hutuvât-ı Sitte’ye mükâfâten taltif için – Ankara’ya celb etti, gittim. Şeyh Sinûsî Kürtçe lisânı bilmediğinden, beni onun yerinde üç yüz lira maaşla vilâyât-ı şarkıye vâiz-i umumîsi, hem meb'ûs, hem Diyânet Riyâseti dâiresinde Dâru'l-Hikmet âzâlarıyla beraber, eski vazifem ile memnun etmek ve benim Van’da temelini attığım Medresetü'z-Zehrâ ve Şark Dâru'l-Fünûnuma Sultan Reşâd’ın verdiği, on dokuz bin altın lira – iki yüz meb'ûs içinde yüz altmış üç meb'ûsun imzasıyla – yüz elli bin banknota iblâğ edilerek, kabûl edildiği hâlde; ben Beşinci Şuâ aslının verdiği haberin bir kısmını, orada bir adamda gördüm. Mecburiyetle o çok ehemmiyetli vazifeleri bıraktım. Ve “bu adamla başa çıkılmaz, mukàbele edilmez” diye, dünyayı ve siyaseti ve hayat-ı ictimâiyeyi terk edip yalnız îmânı kurtarmak yolunda vaktimi sarf ettim. Fakat bazı zâlim ve insafsız memurlar, bana dünyaya bakacak iki-üç risaleyi yazdırdılar."
     },
     {
       "type": "paragraph",
@@ -442,7 +444,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$bf"
+      "text": "Eskişehir Mahkemesi, yüzer risaleleri ve mektûbları dört ay tedkikten sonra yalnız yüz yirmi adamdan, on beş adama altışar ay ceza ve bana da, yüz risaleden yalnız bir-iki risalede on beş kelime ile bir sene ceza verebildi. Tarîkatçılık ve cem'iyetçilik ve şapka mes'elelerinde berâet ettirdiler. Biz dahi o cezayı çektik. Ondan sonra Kastamonu’da çok defa taharrîlerde hiçbir ilişiğimi bulmadılar. Ve kaç sene evvel Isparta’da mahrem ve gayr-ı mahrem Risale-i Nur’un bütün eczâları bilâ-istisna hükûmetin eline geçti. Üç ay tedkikten sonra umumu sâhiblerine iâde edildi. Birkaç sene sonra, Denizli ve Ankara Mahkemelerinde bütün risaleler iki sene kaldı. Tamamen bize iâde edildi. Mâdem hakikat budur: Beni ve Risale-i Nur’un şâkirdlerini ittiham eden ve o gibi kanun nâmına kanunsuz ve garazla ve hissiyatla bizi muâheze edenler, elbette bizden evvel, hem Eskişehir Mahkemesini, hem Kastamonu hükûmetini ve zâbıtasını, hem Isparta Adliyesini, hem Denizli Mahkemesini, hem Ankara’nın Ağır Ceza Mahkemesini ittiham edip, onları – varsa – suçumuza tam teşrîk ediyorlar. Çünkü; bir suçumuz olsa idi, bu üç-dört hükûmet yakınında çok zaman tecessüsüyle görmedi veya aldırmadı ve iki mahkeme iki sene inceden inceye bakıp bilmedi veya aldırmadı; bizden ziyâde onlar suçlu olurlar. Hâlbuki; bizde dünyaya karışmak arzusu bulunsaydı, böyle sinek vızıltısı gibi değil, top güllesi gibi ses ve patlak verecekti."
     },
     {
       "type": "paragraph",
@@ -634,7 +636,7 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "$c0"
+          "text": "Mâdem maksadımız îmân ve âhirettir, ehl-i dünya ile mübâreze değil. Ve mâdem o pek cüz'î ve yalnız bir-iki risaleye mahsûs ilişmek kasdî değil, belki maksadımıza yürürken onlara çarpmışız. Elbette bir garaz-ı siyâsî mânâsında olamaz. Ve mâdem imkânât başkadır, vukûât başkadır. Hakkımızda âsâyişe zarar yapmış değil “yapabilir” diye ittiham ise; herkes bir adamı öldürebilir diye ittiham gibi mânâsız bir ittihamdır. Ve mâdem yirmi sene müddetinde yirmi binler adamda ve binler nüshalar ve mektûblarda hem Eskişehir, hem Kastamonu, hem Isparta, hem Denizli şiddetli tedkik ve taharrîlerde hakîki bir suç teşkil edecek maddeleri bulamadılar; Eskişehir Mahkemesi bir şey bulamadığından mecburiyetle bir lastikli kanun maddesinden tek bir küçük risale ile bizi mes'ûl ettiği gibi; bütün dinî dersini vereni dahi mes'ûl eder bir tarzda, yüz adamdan on beş adama altışar ay ceza verebildi. Acaba bizim gibi bir adamın sizden olsa, bir senede yirmi mahrem mektûbları bu tarzda tedkik edilse, onu mes'ûl ve mahcûb edecek yirmi cümle bulunmaz mı? Hâlbuki, bizde yirmi bin adamdan yirmi bin nüsha risale ve mektûblarda hakîki mes'ûl edecek yirmi cümle bulamamalarından gösteriyor ki: "
         },
         {
           "text": "Risale-i Nur’un hedefi doğrudan doğruya âhirettir. Dünya ile alışverişi yoktur.",
@@ -648,7 +650,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$c1"
+      "text": "Denizli Mahkemesi’nin insaflı müddeiumumîsinin başka yerlerin insafsız ve sathî zabıtnâmelerine binâen iddianâmede kaydettiği maddeler gibi Afyon Mahkemesi dahi sorguda gördüğümüz vaziyet delâletiyle, aleyhimizde aynı maddeler ve tarihsiz mektûblar, hem yirmi ve on beş ve on sene zarfındaki muhâberelerden ve kat'î cevabı üçüncü esâsta ve iddiamın ikinci suâlinde bulunan Beşinci Şuâ’da ve yüz otuz risalelerin yalnız dört-beş risalelerinde ve Eskişehir Mahkemesinin tedkikinden geçen ve cezasını çektiren ve af kanunları gören ve Denizli berâetini gören mektûblar ve risalelerde ittihamımıza medâr bazı bahâneler var. Acaba, Otuz bir Mart Hâdisesinde Bâb-ı Seraskerîde Şeyhülislâm ve ulemâyı dinlemeyen sekiz taburu, bir nutuk ile itâate getiren bir adam sekiz sene zarfında – zabıtnâmelere göre – çalışmış, böyle yirmi-otuz adamı kandırabilmiş. Meselâ, koca Kastamonu’da beş adamı iğfal edebilmiş denilebilir mi? İşte Kastamonu’da, Denizli hâdisesinde mahrem ve gayr-ı mahrem bütün evrak ve kitaplarımı odunlar yığını altından çıkarıp, üç ay tedkikten sonra yalnız Feyzi, Emin, Hilmi, Tevfik ve Sâdık’tan başka kimseyi o koca Kastamonu’da bulmadılar. Bu beş zât ise, Lillâh için bana şahsî hizmet münâsebetiyle ve üç buçuk senede Emirdağı’nda üç kardeş ve üç-dört adamı bulup göndermişler. Eğer o sathî zabıtnâmeler gibi yapsa idim, beş-on değil belki beş yüz, belki beş bin ve belki beş yüz bin adamları kandırabilirdim. O zabıtnâmelerde ne kadar yanlışlar bulunduğuna Denizli Mahkemesinde söylediğim gibi, bir-iki nümûneyi beyân ediyorum:"
     },
     {
       "type": "paragraph",
@@ -755,7 +757,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "heading",
@@ -779,7 +782,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$b6"
+      "text": "Kur'ân aleyhinde yazılan, doktor Duzi’nin ve sâir zındıkların o muzır eserlerini okuyanlar, hürriyet-i fikir ve hürriyet-i ilmiye düsturuyla suçlu sayılmadığı hâlde; hakikat-i Kur'âniyeyi ve îmâniyeyi öğrenmeğe gayet muhtaç ve müştâk olanlara, güneş gibi bildiren Risale-i Nur’u okumak ve yazmak bir suç sayılmış. Ve hem, yüz risale içinde yanlış mânâ verilmemek için mahkemelerin teşhîrlerinden evvel mahrem tuttuğumuz iki-üç risalede yalnız birkaç cümlelerini bahâne gösterip ittiham etmiş. Hâlbuki; o risalelerden biri müstesnâ Eskişehir Mahkemesi tedkik etmiş, icâbına bakmış, yalnız bir tek Tesettür Risalesi’nin bir-iki mes'elesine ilişmiş ve müstesnâsının hem istid'amda ve hem i'tirâznâmemde gayet kat'î cevabı verildiği ve “Elimizde nur var, siyaset topuzu yok.” diye Eskişehir Mahkemesinde yirmi vecihle kat'î isbât edildiği ve Denizli Mahkemesi bilâ-istisna bütün risaleleri tedkik etmiş hiçbirisine ilişmediği hâlde, o insafsız müddeîler, o iki-üç risalenin üç-dört cümlelerini bütün Risale-i Nur’a teşmîl edip, hattâ dört yüz sahifeli Zülfikàr’ı iki sahife için müsâdere eder gibi, Risale-i Nur’u okuyan ve yazanı suçlu ve beni de hükûmet ile mübâreze eder diye ittiham etmişler."
     },
     {
       "type": "paragraph",
@@ -787,7 +790,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$b7"
+      "text": "Mâdem keyfiyet böyledir‥ ben de buradaki mahkemeye değil, belki o insafsızlara derim: Ben, sizin bana vereceğiniz en ağır cezanıza da beş para vermem ve hiç ehemmiyeti yok. Çünkü; ben, kabir kapısında, yetmiş beş yaşındayım. Böyle mazlum ve masûm bir-iki sene hayatı, şehâdet mertebesiyle değiştirmek, benim için büyük saâdettir. Risale-i Nur’un binler hüccetleriyle kat'î îmânım var ki; ölüm bizim için bir terhis tezkeresidir. Eğer zâhirî i'dâm da olsa, bizim için bir saat zahmet, ebedî bir saâdetin ve rahmetin anahtarı olur. Fakat, siz ey gizli düşmanlar ve zındıka hesabına adliyeyi şaşırtan ve hükûmeti bizimle sebebsiz meşgul eden insafsızlar! Kat'î biliniz ve titreyiniz ki; siz i'dâm-ı ebedî ile ve ebedî haps-i münferid ile mahkûm oluyorsunuz. İntikamımız sizden pek çok muzâaf bir sûrette alınıyor görüyoruz. Hattâ size acıyoruz. Evet, bu şehri yüz defa mezaristana boşaltan ölüm hakikatinin, elbette hayattan ziyâde bir istediği var. Ve onun i'dâmından kurtulmak çaresi, insanların her mes'elesinin fevkınde en büyük ve en ehemmiyetli ve en lüzumlu bir ihtiyac-ı zarûrîsi ve kat'îsidir. Acaba, bu çareyi kendine bulan Risale-i Nur şâkirdlerini ve o çareyi binler hüccetler ile bulduran Risale-i Nur’u âdi bahâneler ile ittiham edenler ne kadar kendileri hakikat ve adâlet nazarında müttehem oluyor, dîvâneler de anlar."
     },
     {
       "type": "paragraph",
@@ -963,7 +966,7 @@
           "bold": true
         },
         {
-          "text": "$b8"
+          "text": " Bundan otuz sene evvel, Cenâb-ı Hakk’ın inâyetiyle dünyanın muvakkat şân ve şerefinin ve enâniyetli hodfürûşluğunun, şöhret-perestliğinin ne kadar fâidesiz ve mânâsız olduğunu hadsiz şükür olsun ki, Kur'ânın feyziyle anlamış bir adamın o zamandan beri, bütün kuvvetiyle nefs-i emmâresiyle mücâdele edip, mahviyet etmek, benliğini bırakmak, tasannu' ve riyâkârlık yapmamak için, elden geldiği kadar çalıştığına, ona hizmet eden veya arkadaşlık edenler, kat'î bildikleri ve şehâdet ettikleri hâlde ve yirmi seneden beri herkes kendi hakkında hoşlandığı ziyâde hüsn-ü zan ve teveccüh-ü nâs ve şahsını medh ü senâdan ve kendini manevî makam sâhibi olduğunu bilmekten herkese muhâlif olarak bütün kuvvetiyle kaçtığı ve hem hàs kardeşlerinin onun hakkındaki hüsn-ü zanlarını reddedip, o hàlis kardeşlerinin hatırını kırması ve yazdığı cevabî mektûblarında onun hakkındaki medihlerini ve ziyâde hüsn-ü zanlarını kabûl etmemesi ve kendini faziletten mahrum gösterip bütün fazileti Kur'ânın tefsiri olan Risale-i Nur’a ve dolayısıyla Nur şâkirdlerinin şahs-ı manevîsine verip kendini âdi bir hizmetkâr bilmesi kat'î isbât ediyor ki, şahsını beğendirmeğe çalışmadığı ve istemediği ve reddettiği hâlde, onun rızâsı olmadan bazı dostları uzak bir yerden onun hakkında ziyâde hüsn-ü zan edip medhetmeleri, bir makam vermeleri ve Kütahya havâlisinde tanımadığı bir vâizin bazı sözleriyle ve Kütahya’ya hiç mektûb göndermediğim ve benim imzamı taklid ile yazılan ve medâr-ı mes'ûliyet tevehhüm edilen bir mektûb ile ve kimin yazısı bilinmeyen dokunaklı bir kitab Balıkesir’de bulunmasıyla acaba hangi kanun ile medâr-ı mes'ûliyet olur ki, o bîçâre hasta ve çok ihtiyar ve garîbin münzevî odasına büyük bir cinayet işlemiş gibi kilidini kırıp taharrî memurlarını sokmak, hem evrâdından ve levhalarından başka bir bahâne bulamamak; acaba dünyada hiçbir kanun, hiçbir siyaset bu taarruza müsâade eder mi!"
         }
       ]
     },
@@ -1009,7 +1012,7 @@
           "bold": true
         },
         {
-          "text": "$b9"
+          "text": " Yirmi iki sene sıkıntılı sebebsiz bir nefiyden sonra tam serbestiyet verildiği hâlde, binler akraba ve ahbabı bulunan doğduğu memleketine gitmeyerek, gurbeti, kimsesizliği tercih ederek‥ tâ ki, dünyaya ve hayat-ı ictimâiyeye ve siyasete temâs etmesin. Ve çok sevâblı olan câmideki cemâatin hayrını bırakıp odasında yalnız namazını kılıp oturmasını tercih eden, yani halkın hürmetinden çekinmek olan bir hâlet-i rûhiyeyi taşıyan ve yirmi sene hayatının şehâdetiyle ve binler Türk kıymetdâr zâtların tasdikiyle, dindar, müttakì bir Türk’ü, lâkayd çok Kürdlere tercih eden, hattâ mahkemede Hâfız Ali gibi kuvvetli îmânı bulunan bir Türk kardeşini, yüz Kürd’e değiştirmediğini isbât eden ve hürmet ve ihtiram görmemek için zarûret olmadan halklarla görüşmeyen ve câmiye gitmeyen ve kırk seneden beri bütün kuvvetiyle, bütün âsârıyla İslâmiyetin uhuvvetine ve Müslümanların birbirine muhabbetine çalışan ve Türk milleti Kur'ânın bayraktarı ve senâ-yı Kur'âniyeye mazhar olduğu için, o milleti çok seven ve hayatını onlar içinde geçiren bir adam hakkında, sâbık vâli resmî lisân ile ihanet için propaganda yapmak ve dostlarını ürkütmek için: “O Kürd’dür, siz Türk’sünüz, o Şâfiîdir, siz Hanefîsiniz” deyip herkesi ürkütüp ondan çekindirmeğe çalışması ve yirmi senede ve iki mahkemede, tarz-ı kıyafeti değiştirilmeğe mecbur edilmeyen ve şapka yarı askerin başından kalkmasıyla beraber, münzevî bir adamın zorla başına şapka giydirmeğe cebretmeyi hangi maslahat, hangi kanun buna müsâade eder!"
         }
       ]
     },
@@ -1384,7 +1387,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Tecrid-i mutlakta hasta ve perîşanSaid Nursî",
+          "text": "Tecrid-i mutlakta hasta ve perîşan\n"
+        },
+        {
+          "text": "Said Nursî",
           "bold": true
         }
       ]
@@ -1529,7 +1535,7 @@
           "bold": true
         },
         {
-          "text": "$b8"
+          "text": " demesiyle beraber bütün şeyhülislâmlar ve bütün ulemâ-i İslâm cevâzına müsâade etmedikleri hâlde, avâm-ı ehl-i îmân onu giymeğe mecbur olduğu zaman, o büyük allâmelerin adem-i müsâadeleri ile, onlar tehlikede… (Yani: Ya dinini bırakmak, ya isyan etmek vaziyetinde iken) kırk sene evvel Beşinci Şuâ’ın bir fıkrası: “Şapka başa gelecek, secdeye gitme diyecek! Fakat baştaki îmân o şapkayı da secdeye getirecek, inşâallâh müslüman edecek.” demesiyle avâm-ı ehl-i îmânı hem isyan ve ihtilâlden, hem ihtiyarıyla îmânını ve dinini bırakmaktan kurtardığı‥ ve hiçbir kanun münzevîlere böyle şeyleri teklif etmediği‥ ve yirmi senede altı hükûmet beni onu giymeğe mecbur etmediği ve bütün memurlar dâirelerinde ve kadınlar ve çocuklar ve câmidekiler ve ekser köylüler onu giymeğe mecbur olmadıkları ve şimdi resmen askerin başından kalktığı ve örme ve bere çok vilâyetlerde yasak olmadığı hâlde; hem benim, hem kardeşlerimin bir sebeb-i ittihamımız gösterilmiş. Acaba dünyada hiçbir kanun, hiçbir maslahat, hiçbir usûl bu pek mânâsız ittihamı bir suç sayabilir mi?"
         }
       ]
     },
@@ -1601,7 +1607,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$b9"
+      "text": "Acaba, bu bedbahtlar dünyayı ebedî ve herkesi kendileri gibi dini ve îmânı dünyaya âlet ediyor tevehhümüyle dünyadaki ehl-i dalâlete meydân okuyan ve hizmet-i îmâniye yolunda hem dünyevî hem – lüzum olsa – uhrevî hayatlarını fedâ eden ve mahkemelerde da'vâ ettiği gibi, bir tek hakikat-i îmâniyeyi dünya saltanatıyla değiştirmeyen ve siyasetten ve siyâsî mânâsını işmâm eden maddî ve manevî mertebelerden ihlâs sırrı ile bütün kuvvetiyle kaçan ve yirmi sene emsâlsiz işkencelere tahammül edip siyasete – meslek itibariyle – tenezzül etmeyen ve kendini nefsi itibariyle talebelerinden çok aşağı bilen ve onlardan dâima himmet ve duâ bekleyen ve kendi nefsini çok bîçâre ve ehemmiyetsiz i'tikàd eden bir adam hakkında bazı hàlis kardeşleri, Risale-i Nur’dan aldıkları fevkalâde kuvve-i îmâniyeye mukâbil onun tercümânı olan o bîçâreye – tercümânlık münâsebetiyle – Nurların bazı faziletlerini hususî mektûblarında ona isnâd etmeleri ve hiçbir siyaset hâtırlarına gelmeyerek âdete binâen, insanlar sevdiği âdi bir adama da: “Sultanımsın, velîni'metimsin.” demeleri nev'inden yüksek makam vermeleri ve haddinden bin derece ziyâde hüsn-ü zan etmeleri ve eskiden beri üstad ve talebeler mâbeyninde cârî ve i'tirâz edilmeyen makbûl bir âdet ile teşekkür mânâsında pek fazla medh ü senâ etmeleri ve eskiden beri makbûl kitapların âhirlerinde mübâlağa ile medhiyeler ve takrizler yazılmasına binâen, hiçbir cihetle suç sayılabilir mi?"
     },
     {
       "type": "paragraph",
@@ -1704,7 +1710,7 @@
           "bold": true
         },
         {
-          "text": "$b6"
+          "text": " Üç mahkeme cem'iyet noktasında bize kat'î berâet verdiği hâlde yine eski nakarât gibi gizli cem'iyet vehmine bin dereden su toplamak gibi emâreler araştırmış. Hâlbuki siyâsî ve vatan ve millete zararlı olan müteaddid cem'iyetler varken, onlara müsâade ve müsâmahakârâne bakmak ile beraber, bizim gibi binlerle şâhidlerin ve emârelerin şehâdetleriyle ve altı vilâyetin ilişmemeleriyle sâbit olan Nur Talebelerinin ders arkadaşlıklarına ve sırf vatan ve millet ve din menfaatine ve saâdet-i dünyeviye ve uhreviye hesabına ve hariçten ve dâhilden gelen ifsad cereyanlarına karşı mücâhidâne tesânüdlerine gizli cem'iyet nâmını vermek ve yirmi senede yüz binler Risale-i Nur şâkirdlerinin emniyeti ihlâle dair hiçbir vukûâtları kaydedilmediği hâlde, “Dini âlet ederek emniyeti ihlâle halkı teşvik ediyor.” diye makam-ı iddia onları ittiham etmesi, değil nev'-i beşeri, belki zemini de hiddete getirip o ittihamı reddeder. Her ne ise‥ daha fazla söylemeye lüzum görmüyorum. İddianâmeden çok evvel yazılan i'tirâznâme ve tetimmesi ona bir cevabımızdır."
         }
       ]
     },
@@ -1712,7 +1718,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Afyon Ceza Evinde Mevkuf Said Nursî",
+          "text": "Afyon Ceza Evinde Mevkuf \n"
+        },
+        {
+          "text": "Said Nursî",
           "bold": true
         }
       ]
@@ -1723,7 +1732,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -1758,7 +1768,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "MevkufSaid Nursî",
+          "text": "Mevkuf\n"
+        },
+        {
+          "text": "Said Nursî",
           "bold": true
         }
       ]
@@ -1937,7 +1950,7 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "$b6"
+          "text": "Bunu da size kat'iyyen beyân ediyorum: Şahsıma tahkîr ve ihanet ve çürütmek ve işkence, ceza gibi ne gelse; – Risale-i Nur’a ve şâkirdlerine benim yüzümden zarar gelmemek şartıyla, şimdiki mesleğim itibariyle – kabûle karar vermişim. Bunda da âhiretim için bir sevâb var. Ve nefs-i emmârenin şerrinden kurtulmama bir vesiledir diye bir cihette ağlarken memnun oluyorum. Eğer bu bîçâre masûmlar benimle beraber bu mes'elede hapse girmese idiler, mahkemenizde pek şiddetli konuşacaktım. Siz de gördünüz ki, iddianâmeyi yazan, bin dereden su toplamak gibi yirmi-otuz senelik hayatımda – mahrem ve gayr-ı mahrem bütün kitab ve mektûblarımdan – cerbezesiyle ve kısmen yanlış mânâ vermesiyle güyâ umum onlar bu sene yazılmış, hiç mahkemeleri görmemiş, af kanunlarına ve mürûr-u zamana uğramamış gibi onun ile benim şahsiyetimi çürütmek istiyor. Ben kendim, şahsımın çürük olduğunu yüz defa söylediğim ve aleyhimde olanlar her vesile ile yine şahsımı çürüttükleri hâlde, ehl-i siyaseti evhâmlandıracak derecede teveccüh-ü âmmeye karşı fâide vermediğinin sebebi: "
         },
         {
           "text": "Îmânın kuvvetlenmesi için bu zamanda ve bu zeminde gayet şiddetli bir ihtiyac-ı kat'î ile ders-i dinde bazı şahıslar lâzımdır ki, hakikati hiçbir şeye fedâ etmesin, hiçbir şeye âlet etmesin. Nefsine hiçbir hisse vermesin. Tâ ki, îmâna dair dersinden istifade edilsin, kanâat-ı kat'iyye gelsin.",
@@ -2061,7 +2074,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "quote",
@@ -2281,7 +2295,7 @@
           "bold": true
         },
         {
-          "text": "$ba"
+          "text": " Bu yirmi senedir hadsiz muârızlara karşı sarsılmayan ve yüz binler muhtaçların îmânlarını kuvvetlendiren Risale-i Nur’a bir-iki mes'ele için bu tarz tenkidiniz yakışır mı? Hem o müdakkik âlimlere bunu hatırlatıyorum ki; raporlarında, Ahmed Feyzi’nin medhiyesinin başında bir mektûbumu görmelerinden, güyâ o medihleri ben kendime yapmışım gibi tenkid ediyorlar. Hâlbuki, o mektûbum benim şahsımın hakkındaki medihlerini kabûl etmemek ve kaldırmak için idi ki, bir kısmını kaldırdım. Bir kısmını da ta'dil edecektim. Fakat acele edip tam yapmadan o mektûbu bir kardeşime göndermiştim. Onlar dahi o mahrem medhiyenin başına koyup hususî bir zâta gönderdikleri zaman hükûmetin eline geçmiş. Acaba böyle hususî takriz ve sırf ilmî ve bir kanâat-ı vicdâniye ve mahrem arkadaşların mâbeyninde ve sonra tam ta'dil etmek fikriyle bir meşveret tarzında gezmesi, bu şiddetli i'tirâza müstehak olur mu? Hem kırmızı ve siyah cildli iki mecmuacık, arkadaşlara hususî ve tebrik ve teşvik ve taltif için yazılmış bazı hususî mektûblardır. Her nasılsa bir-iki zât, merak edip zâyi' olmasın diye, bir deftere toplamış. Taharrîde zâbıta eline geçmiş. Acaba böyle mektûblardan ahkâm çıkarmak ve suâl ve cevaba medâr etmek ve siyasete temâs ettirmeğe çalışmağa hiç ihtiyaç var mı? Kur'ân’a hücum eden dehşetli ejderhaları görmüyor, bakmıyor, sineklerin ısırmasıyla uğraşıyor gibi olmaz mı?"
         }
       ]
     },
@@ -2304,7 +2318,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "MevkufSaid Nursî",
+          "text": "Mevkuf\n"
+        },
+        {
+          "text": "Said Nursî",
           "bold": true
         }
       ]
@@ -3639,7 +3656,7 @@
           "bold": true
         },
         {
-          "text": "$b6"
+          "text": " Bütün ümmet bin seneden beri telâkki-i bilkabûl ettiği ve Âlem-i İslâm içinde az bir kısım ulemânın başka te'villerle bir derece zaafiyetine hükmettiklerine mukâbil, Cumhûr-u Muhaddisîn ve Ümmet-i Muhammediye (asm) kabûl ettiği; âhirzamanda gelen bazı hâdiseler hakkındaki muhtelif rivâyetleri te'vil, yani mümkün bir ihtimal mânâsıyla bu zamanda vukû'a gelen ve gözle görülen hâdiselere tam mutâbık çıkmasını beyâna, dünyada hiçbir ehl-i ilim yanlış diyemez. Farazâ o hadîslerden birisi mevzu' da olsa; mevzu'un mânâsı hadîs değil, demektir. Yoksa mânâsı yanlıştır, demek değildir ki; darb-ı mesel nev'inde ümmet o rivâyeti kabûl etmiş. Bu nev'i te'vilâta yanlış diyenler, kaç cihette yanlış olduğu gibi, ümmetin telâkkisine ihanet ve hadîsleri inkârdır. Ve “Süfyâna dair hiçbir hadîs yoktur, varsa mevzu'dur.” diyen müddeî hiç hadîs kitaplarını okumadığı, belki Kur'ânın sûrelerinin ne kadar olduğunu bilmediği hâlde, biri bir milyon, diğeri beş yüz bin hadîsi hıfzına alan İmâm-ı Ahmed İbn-i Hanbel ve İmâm-ı Buhârî gibi müçtehidlerin, böyle küllî ve umumî bir tarzda cesâret edemedikleri hâlde, o müddeî, küllî bir sûrette ve umumî bir tarzda; “Süfyân hakkında hiçbir hadîs yoktur, varsa mevzu'dur.” demesiyle haddinden binler defa tecâvüz edip büyük bir hatâyı irtikâb etmiş. Farz-ı muhâl olarak hadîs de olmasa Ümmet-i İslâmiye’de bir hakikat-i ictimâiye ve müteaddid defalar eseri görülmüş vâki ve hak bir hâdise-i istikbâliyedir."
         }
       ]
     },
@@ -4282,7 +4299,7 @@
           "bold": true
         },
         {
-          "text": "$b6"
+          "text": " İddiacı: Eski zamanda Ehl-i Sünnete karşı Hasan Sabbah, Bâtıniyyûn mezhebiyle ve Şeyhü'l-Cebel bir Gulat-ı Şîa tarîkiyle meydâna çıkıp siyâsî sarsıntı vermeleri gibi; Said’i onlara benzetmesi ve ittiham etmesi pek acîb bir yanlıştır. Evet Sünnete muhâlif hareket etmemek ve siyasete karışmamak için yirmi üç sene işkenceli esâreti, hapsi, ihanetleri kabûl eden ve siyasete girmemek için bütün dünyevî rütbelerinden yüzünü çeviren bîçâre Said’i onlara benzetmek öyle soğuk bir hatâdır ki; bugünlerde harâretli ümîdlerimizi kıran o iddianın aynı zamanında gelen kar ve soğuktan daha bâriddir. Hem iddiacı, güyâ dünyada ebedî kalınacak ve herkes her cihetle dünya maksadlarına çalışıyor i'tikàdında bulunur gibi, diyor: Said inkılâb aleyhinde ve emniyeti ihlâl fikriyle mukaddesâtı âlet yapıp halkı fesâda teşvik ediyor diye ittihamı, öyle bir yanlıştır ki; Nurun bütün kudsî hakikatlerinin ve talebelerinin uhrevî alâkaları, onu reddederler. O iddiacı bilsin ki; bir tek hakikat-i îmâniyeyi dünya saltanatıyla değiştirmeyiz. Ve bir tek nükte-i Kur'âniyenin bir paşalık rütbesinden daha ziyâde yanımızda ehemmiyeti var."
         }
       ]
     },
@@ -4373,7 +4390,7 @@
           "bold": true
         },
         {
-          "text": "$b9"
+          "text": " Nurun mahrem parçalarında tesâdüf ihtimali – kanâatimizce – bulunmayan bazı tevâfukât-ı gaybiye ve tetâbukat-ı riyâziye ve ebcediye ve çok İşârât-ı Kur'âniye bil'ittifak hem mânâ, hem riyâzî ve cifrî hesabıyla Risale-i Nur’un makbûliyetine imza basmaları ve İmâm-ı Ali (ra) Celcelûtiye’sinde sarâhate yakın Risale-i Nur’dan haber vermesini ve Gavs-ı A'zam’ın (ks) yine imza basmasını bizler kat'î bir kanâat ile hakkımızda bir inâyet-i Rabbâniye ve bir ikram-ı Sübhânî ve Nurların makbûliyetine bir işâret-i gaybiye ve Kur'ânın bir mu'cize-i maneviyesi olan Risale-i Nur’daki hakàik-ı îmâniyenin bir nev'i kerâmâtı biliyoruz. Biz, hususan ben, gayet derece kuvve-i maneviyeye ve kudsî tesellîye çok muhtaç olduğumuz bir zamanda ihtiyarımızın haricinde bu işârât-ı gaybiyeyi gördük ve tasdik ettik. Fakat bir zaman gizledik. Sonra şahsımın aleyhinde pek şiddetli propaganda ve eşedd-i zulüm ve eşedd-i istibdâd başlamasıyla Nurlara muhtaç ve müştâklar çekinmeğe başlamamak için hàs kardeşlerime gösterdim, onlara çok fâide verdiği için bir derece izhâr ettik."
         }
       ]
     },
@@ -4416,7 +4433,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Afyon Ceza Evinde on bir ay tecrid-i mutlakta azâb çekenSaid Nursî",
+          "text": "Afyon Ceza Evinde on bir ay tecrid-i mutlakta azâb çeken\n"
+        },
+        {
+          "text": "Said Nursî",
           "bold": true
         }
       ]
@@ -4431,7 +4451,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "heading",
@@ -4567,7 +4588,8 @@
     {
       "type": "arabic",
       "text": "اَلْحَمْدُ لِلّٰهِ هٰذَا مِنْ فَضْلِ رَبّ۪ي",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "divider"
@@ -5116,7 +5138,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$cd"
+      "text": "Said en-Nursî imzalı “Tekbiratü'l-Hüccac fî Arafat” başlıklı mektûbda; “Nurun ehemmiyetli bir kısım şâkirdleri pek musırrâne olarak âhirzamanda gelen Âl-i Beyt’in büyük bir mürşidi seni zannediyorlar. Sen de onların fikirlerini musırrâne kabûl etmiyorsun, çekiniyorsun. Bu bir tezâddır. Hallini isteriz.” diye sormaları sebebiyle onlara cevab olmak üzere, bundan sonra gelecek Mehdi-i Resûl’ün temsîl ettiği kudsî cemâatin şahs-ı manevîsinin üç vazifesi olduğu, bunların; îmânı kurtarmak, Hilâfet-i Muhammediye (asm) ünvânıyla Şeâir-i İslâmiyeyi ihyâ etmek ve inkılâbât-ı zamaniye ile çok ahkâm-ı Kur'âniyenin ve Şerîat-ı Muhammediye’nin (asm) kanunlarının bir derece ta'tîle uğramasıyla o zât bu vazife-i uzmâyı yapmağa çalışır. Nur şâkirdleri birinci vazifeyi tamamıyla Risale-i Nur’da gördüklerinden ikinci, üçüncü vazifeleri de, buna nisbeten ikinci, üçüncü derecededir diye Risale-i Nur’un şahs-ı manevîsini haklı olarak bir nev'i mehdi telâkki ediyorlar. Bir kısmı, o şahs-ı manevînin bir mümessili olan bîçâre tercümânını zannettiklerinden bazen o ismi ona da veriyorlar. Hattâ evliyânın bir kısmı, kerâmet-i gaybiyelerinde Risale-i Nur’u aynı o âhirzamanın hidayet edicisi olduğu; bu, tahkîkatla, te'vil ile anlaşılır diyorlar. İki noktada bir iltibas var; te'vil lâzımdır."
     },
     {
       "type": "paragraph",
@@ -5323,7 +5345,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -5355,7 +5378,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$c0"
+      "text": "Hem dininizi inkâr, hem ecdâdınızı dalâletle tahkîr eden ve Peygamberinizi (asm) ve Kur'ânınızın kanunlarını reddedip kabûl etmeyen; yahudî ve nasrânî ve mecûsîlere, hususan şimdi bolşevizm perdesi altındaki anarşist ve mürted ve münâfıklara hürriyet-i vicdân, hürriyet-i fikir bahânesiyle ilişmediğiniz hâlde ve İngiliz gibi Hıristiyanlıkta müteassıb, cebbâr bir hükûmetin dâire-i mülkünde ve hâkimiyetinde, milyonlarla Müslümanlar her vakit Kur'ân dersiyle İngiliz’in bütün bâtıl akîdelerini ve küfrî düsturlarını reddettikleri hâlde onlara mahkemeleriyle ilişmediği ve her hükûmette bulunan muhâlifler alenen fikirlerinin neşrinde, o hükûmetlerin mahkemeleri ilişmediği hâlde, benim kırk senelik hayatımı ve yüz otuz kitabımı ve en mahrem risale ve mektûblarımı, hem Isparta hükûmeti, hem Denizli Mahkemesi, hem Ankara Ceza Mahkemesi, hem Diyânet Riyâseti, hem iki defa belki üç defa mahkeme-i temyiz tam tedkik ettikleri ve onların ellerinde iki-üç sene Risale-i Nur’un mahrem ve gayr-ı mahrem bütün nüshaları kaldığı ve bir küçük cezayı icâb edecek bir tek maddeyi göstermedikleri, hem bu derece zaafiyetim ve mazlumiyetim ve mağlûbiyetim ve ağır şerâit ile beraber iki yüz bin hakîki ve fedâkâr şâkirdlere vatan ve millet ve âsâyiş menfaatinde en kuvvetli ve sağlam ve hakikatli bir rehber olarak kendini gösteren Risale-i Nur’un elinizdeki mecmuaları ve dört yüz sahife müdafaâtımız masûmiyetimizi isbât ettikleri hâlde, hangi kanun ile, hangi vicdân ile, hangi maslahat ile, hangi suç ile bizi ağır ceza ve pek ağır ihanetler ve tecridlerle mahkûm ediyorsunuz? Elbette mahkeme-i kübrâ-yı haşirde sizden sorulacak."
     },
     {
       "type": "heading",
@@ -5437,7 +5460,7 @@
           "bold": true
         },
         {
-          "text": "$c1"
+          "text": " diye kırk-elli meb'ûsun huzurunda söyleyen‥ ve o dehşetli kumandan ona bir nev'i tarziye verip hiddetini geri aldıran‥ ve altı vilâyet zâbıtasınca ve hükûmetçe âsâyişin ihlâline dair bir tek maddesi kaydedilmeyen‥ ve yüz binlerle Nur şâkirdlerinin hiçbir vukûâtı görünmeyen‥ (yalnız bir küçük talebenin, haklı bir müdafaada küçük bir vukûâtından başka) hiçbir şâkirdinden bir cinayet işitilmeyen‥ ve hangi hapse girmiş ise o mahpusları ıslah eden‥ ve Risale-i Nur’dan yüz binler nüsha memlekette intişar etmekle beraber, menfaatten başka hiçbir zararı olmadıklarını yirmi üç senelik hayatının ve üç hükûmet ve mahkemelerin berâetler vermelerinin ve Nurun kıymetini bilen yüz bin şâkirdlerinin kavlen ve fiilen tasdiklerinin şehâdetiyle isbât eden‥ ve münzevî, mücerred, garîb, ihtiyar, fakir ve kendini kabir kapısında gören‥ ve bütün kuvvet ve kanâatiyle fânî şeyleri bırakıp, eski kusurâtına bir keffâret ve hayat-ı bâkiyesine bir medâr arayan‥ ve dünyanın rütbelerine hiç ehemmiyet vermeyen‥ ve şiddet-i şefkatinden masûmlara, ihtiyarlara zarar gelmemek için kendisine zulüm ve tâzib edenlere bedduâ etmeyen bir adam hakkında: “Bu ihtiyar münzevî âsâyişi bozar, emniyeti ihlâl eder ve maksadı dünya entrikalarıdır ve muhâbereleri dünya içindir, öyle ise suçludur” diyenler ve Onu pek ağır şerâit altında mahkûm edenler; elbette yerden göğe kadar suçludurlar. Mahkeme-i kübrâ’da hesabını verecekler!"
         }
       ]
     },
@@ -5470,7 +5493,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$c2"
+      "text": "Üç ay Kastamonu’da polisler ve komiser karakolunda misâfir kaldım. Hiçbir vakit bana demediler: “Şapkayı başına koy.” Ve üç mahkemede şapkayı başıma koymadığım ve başımı mahkemede açmadığım hâlde bana ilişmedikleri ve yirmi üç sene bazı dinsiz zâlimlerin o bahâne ile bana gayr-ı resmî çok sıkıntılı ve ağır bir nev'i ceza çektirdikleri ve çocuklar ve kadınlar ve ekserî köylüler ve dâirelerde memurlar ve bere giyenler şapka giymeğe mecbur olmadıkları ve hiçbir maddî maslahat giymesinde bulunmadığı hâlde, benim gibi bir münzevî, bütün müçtehidlerin ve umum Şeyhülislâmların yasak ettikleri bir serpuşu giymediğim bahânesiyle ve uydurmalar ilâvesiyle yirmi sene cezasını çektiğim ve libâsa ait, mânâsız bir âdetle tekrar beni cezalandırmağa çalışan ve çarşıda, Ramazanda, gündüzde rakı içip namaz kılmayanları hürriyet-i şahsiye var diye, kendine kıyâs edip ilişmediği hâlde, bu derece şiddet ve tekrarla ve ısrarla beni kıyafetim için suçlandırmağa çalışan; elbette ölümün i'dâm-ı ebedîsini ve kabrin dâimî haps-i münferidini gördükten sonra mahkeme-i kübrâ’da ondan bu hatâsı sorulacak."
     },
     {
       "type": "heading",
@@ -5539,7 +5562,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$c3"
+      "text": "Biz ve umum Nur Risaleleri, Denizli ve Ankara ağır cezalarının ve temyiz mahkemelerinin ittifakıyla berâet ettiğimiz ve umum risale ve mektûblarımızı bize iâde ettikleri ve “Temyizin bozma kararında Denizli berâetinde, farazâ bir hatâ dahi olsa, o berâet ve hüküm kat'iyyet kesbetmiş, daha tekrar muhâkeme edilmez” dedikleri hâlde ben Emirdağı’nda üç sene münzevî ve iki-üç terzi çırağı nöbetle bana hizmet ve pek nâdir olarak beş-on dakika bazı dindar zâtlardan başka zarûret olmadan konuşmayan‥ ve tek bir yere Nurlara teşvik için haftada bir tek mektûbdan başka göndermeyen‥ ve kendi müftü kardeşine üç senede üç mektûbdan başka yazmayan‥ ve yirmi-otuz seneden beri devam eden te'lifini bırakan‥ yalnız bütün ehl-i Kur'ân ve îmâna menfaatli yirmi sahifelik iki nükte, biri: Kur'ân’daki tekrarların hikmetini, diğeri: Melekler hakkında bazı mes'elelerden başka hiçbir risale daha te'lif etmeyen‥ yalnız mahkemelerin iâde ettikleri risalelerin büyük mecmualar yapılmasına ve eski harf ile tab'edilen Âyetü'l-Kübrâ’nın beş yüz nüshası mahkeme tarafından bize teslîm edildiğinden ve teksir makinesi resmen yasak olmadığından, Âlem-i İslâmın istifadesi fikriyle kardeşlerime neşr için teksirine izin vererek onların tashihleri ile meşgul olan‥ ve kat'iyyen hiçbir siyasetle alâkadar olmayan‥ ve memleketine gitmek için resmen izin verildiği hâlde, bütün menfîlere muhâlif olarak dünyaya ve siyasete karışmamak için sıkıntılı bir gurbeti kabûl edip memleketine gitmeyen bir adam hakkında, bu üçüncü ittihamnâmedeki asılsız isnâdlar ve yalan bahisler ve yanlış mânâlar ile o adamı suçlu yapmağa çalışanda – şimdilik söylemeyeceğim – dehşetli iki mânâ hükmettiğini, bu yirmi ayda bana karşı muâmelesi isbât ediyor. Ben de derim: Kabir ve sakar yeter, mahkeme-i kübrâ’ya havâle ediyorum."
     },
     {
       "type": "heading",
@@ -5587,7 +5610,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Tecrid-i Mutlakta Mevkuf Said Nursî",
+          "text": "Tecrid-i Mutlakta Mevkuf \n"
+        },
+        {
+          "text": "Said Nursî",
           "bold": true
         }
       ]
@@ -5651,7 +5677,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$b6"
+      "text": "İki Mekteb-i Musîbet Şehâdetnâmesi nâmındaki matbu', eski müdafaâtımı görenlerin tasdikiyle; Otuz bir Mart Hâdisesinde, bir nutuk ile, isyan etmiş sekiz taburu itâate getiren‥ ve bir zaman gazetelerin yazdıkları gibi, İstiklâl Harbinde Hutuvât-ı Sitte nâmında bir makale ile İstanbul’daki efkâr-ı ulemâyı İngiliz aleyhine çevirip, harekât-ı milliye lehinde ehemmiyetli hizmet eden‥ ve Ayasofya’da binler adama nutkunu dinlettiren‥ ve Ankara’daki meclis-i meb'ûsân’ın şiddetli alkışlamasıyla karşılanan‥ ve yüz elli bin banknot – yüz altmış üç meb'ûsun imzasıyla medrese ve dâru'l-fünûnuna – tahsîsatı kabûl ettiren‥ ve reis-i cumhûrun hiddetine karşı dîvân-ı riyâsette kemâl-i metânetle fütûr getirmeyerek mukàbele edip namaza dâvet eden‥ ve Dâru'l-Hikmeti'l-İslâmiye’de hükûmet-i ittihâdiyenin ittifakıyla hikmet-i İslâmiyeyi Avrupa hükemâsına te'sirli bir sûrette kabûl ettirmek vazifesine lâyık görünen‥ ve cebhe-i harpte yazdığı ve şimdi müsâdere edilen İşârâtü'l-İ'câz, o zamanın başkumandanı olan Enver Paşa’ya o derece kıymetdâr görünmüş ki, kimseye yapmadığı bir hürmetle istikbâline koştuğu o yâdigâr-ı harbin hayrına, şerefine hissedar olmak fikriyle, İşârâtü'l-İ'câz’ın tab'ı için kağıdını vererek, müellifinin harpteki mücâhedâtı takdirkârâne yâd edilen bir adam; böyle âdi bir beygir hırsızı veyâhut kız kaçırıcı ve bir yankesici gibi en aşağı bir cinayetle kendini bulaştırıp izzet-i ilmiyesini ve kudsiyet-i hizmetini ve kıymetdâr binler dostlarını rezîl edip sukùt edemez ki, siz onu bir senelik ceza ile mahkûm edip âdi bir keçi, koyun hırsızı gibi muâmele edesiniz… Ve sebebsiz, on sene sıkıntılı bir tarassud ile tâzib ettikten sonra şimdi de bir sene hapis ile beraber bir sene de nezâret altında tutmak sûretiyle, (pâdişahın tahakkümünü kaldıramadığı hâlde) garazkâr bir hafiyenin veya âdi bir polisin tahakkümü altında azâb vermekten ise, i'dâm edilmesini daha evlâ görür. Eğer böyle bir adam dünyaya karışsa idi ve karışmağa arzusu olsa idi ve hizmet-i kudsiyesi müsâade etse idi, Menemen hâdisesinin ve Şeyh Said vâkıasının onar misli olacak bir tarzda karışırdı. Dünyaya işittirecek bir top sadâsı, bir sinek sadâsına inmeyecekti."
     },
     {
       "type": "paragraph",
@@ -5755,12 +5781,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَلَّذ۪ينَ قَالَ لَهُمُ النَّاسُ اِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ فَزَادَهُمْ ا۪يمَانًا وَقَالُوا حَسْبُنَا اللّٰهُ وَنِعْمَ الْوَك۪يلُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "quote",
@@ -5796,7 +5824,7 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "$bb"
+          "text": "Hem siyasete giren, ya muvâfık olur veya muhâlif olur. Eğer muvâfık olsa, mâdem memur ve meb'ûs değilim, o hâlde siyasetçilik bana fuzûlî ve mâlâyanî bir şeydir. Bana ihtiyaç yok ki, beyhûde karışayım. Eğer muhâlif siyasete girsem, ya fikirle veya kuvvetle karışacağım. Eğer fikirle olsa, bana ihtiyaç yok. Çünkü mesâil tavazzuh etmiş, herkes benim gibi bilir. Beyhûde çene çalmak mânâsızdır. Eğer kuvvet ile ve hâdise çıkarmak ile muhâlefet etsem, husûlü meşkûk bir maksad için, binler günaha girmek ihtimali var. Birinin yüzünden çoklar belâya düşer. Hem on ihtimalden bir-iki ihtimale binâen günahlara girmek, masûmları günaha atmak, vicdânım kabûl etmiyor diye Eski Said, sigara ile beraber gazeteleri ve siyaseti ve sohbet-i dünyeviye-i siyâsiyeyi terketti. Buna kat'î şâhid, o vakitten beri sekiz senedir bir tek gazete ne okudum ve ne dinledim. Okuduğumu ve dinlediğimi, biri çıksın söylesin. Hâlbuki sekiz sene evvel, günde belki sekiz gazete Eski Said okuyordu. Hem beş senedir bütün dikkat ile benim hâlime nezâret ediliyor… Siyasetvâri bir tereşşuh gören söylesin. Hâlbuki benim gibi asabî ve "
         },
         {
           "text": "اِنَّمَا الْح۪يلَةُ ف۪ي تَرْكِ الْحِيَلِ",
@@ -5939,7 +5967,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$bc"
+      "text": "Şu senede, işittim ki bir hâdise olmuş. O hâdisenin vukû'undan sonra yalnız icmâlen vukû'unu işittiğim hâlde, o vâkıa ile ciddi alâkadar imişim gibi bir muâmele gördüm. Zâten muhâbere etmiyordum; etsem de pek nâdir olarak bir mes'ele-i îmâniyeyi bir dostuma yazardım. Hattâ dört senede kardeşime bir tek mektûb yazdım. Ve ihtilâttan hem ben kendimi men'ediyordum, hem de ehl-i dünya beni men'ediyordu. Yalnız bir-iki ahbab ile haftada bir defa görüşebiliyordum. Köye gelen misâfirler ise, ayda bir-ikisi, bazı bir-iki dakika bir mes'ele-i âhirete dair benimle görüşüyordu. Bu gurbet hâlimde; garîb, yalnız, kimsesiz, nafaka için çalışmaya, benim gibilere muvâfık olmayan bir köyde, herşeyden, herkesten men'edildim. Hattâ dört sene evvel, harâb olmuş bir câmiyi tamir ettirdim. Memleketimde imâmlık ve vâizlik vesikam elimde olduğundan, o câmide dört senedir (Allah kabûl etsin) imâmlık ettiğim hâlde, şu mübârek geçen Ramazanda mescide gidemedim. Bazen yalnız namazımı kıldım. Cemâatle kılınan namazın yirmi beş sevâbından ve hayrından mahrum kaldım."
     },
     {
       "type": "paragraph",
@@ -6369,7 +6397,8 @@
     {
       "type": "arabic",
       "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "heading",
@@ -6642,8 +6671,10 @@
       "parts": [
         {
           "text": "اَلْبَاق۪ي هُوَ الْبَاق۪ي",
-          "bold": true,
           "red": true
+        },
+        {
+          "text": "\n"
         },
         {
           "text": "Said Nursî",
@@ -6694,7 +6725,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$b9"
+      "text": "Mâdem hakikat budur ve mâdem geçmiş musîbet saatleri elemleriyle beraber ma'dûm ve yok olmuş ve gelecek belâ günleri şimdi ma'dûm ve yoktur. Ve yoktan elem yok ve ma'dûmdan elem gelmez. Meselâ, birkaç gün evvel aç ve susuz olmasından, bir-iki gün sonra aç ve susuz olmak ihtimalinden, bugün onlar niyetiyle mütemâdiyen ekmek yese ve su içse ne derece dîvâneliktir. Aynen öyle de; geçmiş ve gelecek elemli saatleri – ki hiç ve ma'dûm ve yok olmuşlar – şimdi onları düşünüp sabırsızlık göstermek ve kusurlu nefsini bırakıp Allah’tan şekvâ etmek gibi “Of!‥ Of!‥” demek, dîvâneliktir. Eğer sağa sola, yani geçmiş ve geleceğe karşı sabır kuvvetini dağıtmazsa ve hazır saate ve o güne karşı tutsa, tam kâfî gelir, sıkıntı ondan bire iner. Hattâ şekvâ olmasın, ben bu üçüncü Medrese-i Yûsufiye’de birkaç gün zarfında hiç ömrümde görmediğim maddî ve manevî sıkıntılı, hastalıklı musîbetimde, hususan Nurun hizmetinden mahrumiyetimden gelen me'yûsiyet ve kalbî ve rûhî sıkıntılar beni ezdiği sırada, inâyet-i İlâhiye bu mezkûr hakikati gösterdi. Ben de sıkıntılı hastalığımdan, hapsimden râzı oldum. Çünkü, benim gibi kabir kapısında bir bîçâreye gafletle geçebilir bir saati, on saat ibâdet saatleri yapmak büyük bir kârdır diye şükreyledim."
     },
     {
       "type": "heading",
@@ -6714,7 +6745,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -7085,7 +7117,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -7307,7 +7340,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -7347,7 +7381,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -7425,7 +7460,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -7519,7 +7555,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -7569,7 +7606,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -7713,7 +7751,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -7781,7 +7820,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -7988,7 +8028,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "MevkufSaid Nursî",
+          "text": "Mevkuf\n"
+        },
+        {
+          "text": "Said Nursî",
           "bold": true
         }
       ]
@@ -8003,7 +8046,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -8133,7 +8177,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -8365,7 +8410,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -8473,7 +8519,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -8524,7 +8571,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -8714,12 +8762,14 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ اَبَدًا دَائِمًا سَلَّمَكُمُ اللّٰهُ فِي الدَّارَيْنِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -8744,7 +8794,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -8833,12 +8884,14 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَضُرِبَتْ عَلَيْهِمُ الذِّ لَّةُ وَالْمَسْكَنَةُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -8922,17 +8975,20 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ اَبَدًا دَائِمًا",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -9010,12 +9066,14 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -9419,7 +9477,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -9481,7 +9540,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -9523,7 +9583,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -9572,7 +9633,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -9626,7 +9688,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -9729,7 +9792,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -9767,7 +9831,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -9809,7 +9874,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -9859,7 +9925,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -9893,7 +9960,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -9939,7 +10007,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -9985,7 +10054,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -10073,7 +10143,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -10138,7 +10209,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -10200,7 +10272,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -10263,7 +10336,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -10313,7 +10387,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -10564,7 +10639,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -10605,7 +10681,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -10678,7 +10755,7 @@
           "bold": true
         },
         {
-          "text": "$b6"
+          "text": " Dokuz aydan beri temâdî eden pek acîb tecridinizle beraber tesellî ve ünsiyet ihtiyacını tevlîd eden hastalığınız içinde neden bu tâzib oluyor‥ diye siz sevgili Üstadımızın kalb-i mübâreklerine gelen şekvâya bir ihtar olup‥ inâdcı, bahâneci ve insafsız muârızlar karşısında girdiğimiz bu şiddetli imtihanda altun olanlar bakır olanlardan ayrılmak için mehenge vurulmak ve insafsız bir tecrübe ile nefislerin hisseleri olup olmadığı bilinmek için eleklerle elenmek, sırf hak ve hakikat nâmına olan hàlisâne hizmetimize pek çok lüzumu olduğu için kader-i İlâhî’nin ve inâyet-i Rabbâniye’nin bu dehşetli tazyîke verdiği müsâade, hiçbir hile, hiçbir enâniyet, hiçbir garaz, hiçbir dünyevî ve uhrevî menfaat karışmayarak yapılan ve tam hàlis ve hak ve hakikatten gelen ve şimdi en muannid ve vesveseli olanları dahi teslîme mecbur eden ve bir zahmete mukâbil inşâallâh bin kâr bırakan bu hizmetimiz eğer perde altında kalsaydı, çok mânâlar verilmekle beraber avâm-ı ehl-i îmân ile hàvâs kısmı birer bahâne ile tam kanâat etmeyeceklerinden olduğu bildirilmektedir."
         }
       ]
     },
@@ -10749,7 +10826,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -10787,7 +10865,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -10843,7 +10922,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -10926,7 +11006,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "heading",
@@ -11087,7 +11168,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -11156,7 +11238,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -11214,7 +11297,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -11289,7 +11373,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -11316,7 +11401,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "El-Bâkî Hüve'l-Bâkî,çok kusurlu talebenizHusrev",
+          "text": "El-Bâkî Hüve'l-Bâkî,\nçok kusurlu talebeniz\n"
+        },
+        {
+          "text": "Husrev",
           "bold": true
         }
       ]
@@ -11331,7 +11419,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -11439,7 +11528,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -11468,7 +11558,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -11502,7 +11593,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -11567,7 +11659,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -11601,7 +11694,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -11723,7 +11817,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Mevkuf Said Nursî",
+          "text": "Mevkuf \n"
+        },
+        {
+          "text": "Said Nursî",
           "bold": true
         }
       ]
@@ -11834,7 +11931,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Mevkuf Husrev Altınbaşak",
+          "text": "Mevkuf \n"
+        },
+        {
+          "text": "Husrev Altınbaşak",
           "bold": true
         }
       ]
@@ -11911,7 +12011,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Mevkuf Tahiri",
+          "text": "Mevkuf \n"
+        },
+        {
+          "text": "Tahiri",
           "bold": true
         }
       ]
@@ -12314,7 +12417,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Afyon hapsinde mevkufKonyalıZübeyr Gündüzalp",
+          "text": "Afyon hapsinde mevkuf\nKonyalı\n"
+        },
+        {
+          "text": "Zübeyr Gündüzalp",
           "bold": true
         }
       ]
@@ -12366,7 +12472,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$b6"
+      "text": "Talebeliği, hakkımda bir suç sayılan Risale-i Nur ise, bana dinî ve îmânî vazifelerimi öğreten ve İslâmiyetin en yüce ve en mukaddes bir din ve beşerin yegâne medâr-ı saâdeti olduğunu ve Kur'ân ise bütün varlıkların sâhibi, her yerde hâzır, nâzır; zerrelerden yıldızlara, güneşlere kadar bütün mevcûdât idare-i ezeliyesinde bulunan Zât-ı Zülcelâl’in bir emr-i İlâhîsi, ezel ve ebed ve bütün hâdisât ihâta-i nazarında bir eser-i mu'cizânesi ve Kur'ân bütün kitapların fevkınde kırk vecihle mu'cize ve saâdet-i ebediyeyi nev'-i beşere müjdelemesiyle müştâkları ebediyen kendine minnetdâr kılan bir Şems-i Sermedî’nin bir mükâleme-i ezeliyesi ve Resûl-i Ekrem Aleyhissalâtü Vesselâm’ın Hàlık-ı Kâinât tarafından gönderilmiş, bütün hâl ve ahvâliyle bütün insanların en ekmeli, en sâdık ve en yücesi ve kemâlâtça en yükseği ve getirdiği İslâmiyet nuruyla insanlara en büyük müjdeyi ve en kudsî tesellîyi bahşeden ve on dört asrı ve beşerin beşten birisini saltanat-ı maneviyesinde idare eden ve bin üç yüz yıldan beri gelen bütün ümmetin kazandığı sevâbın bir misli O’nun defter-i hasenâtına geçen ve kâinâtın sebeb-i vücûdu, Habîbullâh olduğunu; hem âhiret, Cennet ve Cehennem’in kat'iyyen hak ve muhakkak olduğunu hàrika bürhânlarla ve parlak hüccetlerle isbât eden bir mu'cize-i Kur'ân’dır."
     },
     {
       "type": "paragraph",
@@ -12491,7 +12597,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Muallim Mustafa Sungur",
+          "text": "Muallim \n"
+        },
+        {
+          "text": "Mustafa Sungur",
           "bold": true
         }
       ]
@@ -12539,7 +12648,7 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "$b7"
+          "text": "İşte böyle zehirli fikirlerle aşılanmış ve böyle tehlikeli, muzır dinsizlerin dersleriyle maneviyatı öldürülmek istenmiş ve hattâ o muzır fikirlere kapılarak ve (hâşâ!‥) inanarak etrafına neşretmeğe başlamış bir bîçâre insanın, birdenbire Risale-i Nur gibi Kur'ânın feyzinden fışkıran, îmân ve İslâmiyet hakikatlerini gayet parlak bürhânlar ve hàrika deliller ile isbât eden ve Din-i İslâm’ın dâima insanların saâdet ve selâmetine vesile, sönmez ve söndürülmez bir manevî güneş olduğunu izâh eden eşsiz bir Nur-u Kur'ân’ın birkaç risalesini okumakla bütün o zehirli fikirlerini atıp îmânı elde ederek duyduğu sonsuz sevinç ve bahtiyarlığı te'lif ettiği mübârek Nur Risaleleriyle ona kazandıran müşfik ve vefâkâr ve hakîki kahraman Üstad Bediüzzaman Hazretlerine arz etmesi, eski gaflet ve dalâlet hayatından kurtulup, îmân ve nura kavuştuğunu ve hakîki îmânı kazandıran Risale-i Nur’un bu asrın bütün insanları için bir şems-i hidayet ve vesile-i saâdet ve onun müellifliğiyle tavzif edilen Üstad-ı muhteremin bu pek büyük ve yüce îmânî hizmetiyle onun bu beşeriyete, hususan ehl-i îmâna bir lütf-u İlâhî olduğunu hayranlıkla arzetmesi ve yukarıda da arz edildiği vechile Kur'ân ve İslâmiyet aleyhindeki dehşetli ve kahhâr tecâvüzleriyle bu kahraman İslâm milletinin evlâdlarını dinsizliğe teşvik edip milyonlarla insanların bağlandığı kudsî ve İlâhî İslâmiyet esâslarını yıkmağa ve o milyonlarla insanların ebedî saâdetlerini mahvetmeğe çalışanları “Gizli Süfyân komitesinin yıkıcılığı ve eziciliği” diye vasıflandırarak onlara ve onların bu alçak ve kahhâr ve zâlimâne tahriblerini ve yıkıcılıklarını alkışlayan dîvânelere binler teessüf ve nefretlerle yazıklar olsun demesi ve îmânında şübheye düşmüş eski ders arkadaşlarına, "
         },
         {
           "text": "“Gelin, hepimiz bu hevâî ve nefsî arzulardan vazgeçelim; Hakàik-ı Kur'âniyenin önünde diz çökelim ve bu asrın rehber-i saâdeti olan Nur medresesine koşalım; aylarca ve yıllarca alkışlayıp durduğumuz o yalancı sefillerden ve onların hakikat diye gösterdikleri yalanlardan vazgeçip Bediüzzaman Said Nursî’nin derslerine gönül bağlayıp onu üstad edinelim; zulmetten Nura dönelim.”",
@@ -12552,7 +12661,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$b8"
+      "text": "Acaba Allah’a intisab edip İslâmiyetin en àlî bir din ve fazilet ve saâdet müjdecisi olduğunu ilân etmek bir cürüm müdür?‥ Kur'ân ve İslâmiyet aleyhinde her taraftan yıkıcı ve kahhâr taarruzların başladığı ve Hazret-i Kur'ân’a ve Hazret-i Muhammed Aleyhissalâtü Vesselâm’a iftiralarla O Zâtın çok àlî ve çok kudsî kıymet ve varlıkları çürütülmek istenildiği; buna mukâbil dinsizliği ve ilhâdı ve ahlâksızlığı telkin eden kitapların ve Allah’a âsî ve İslâmiyete hücum eden fânî ve kıymetsiz bedbahtların saygılar ile anıldığı ve bid'akâr ve gayr-ı meşrû hâllerinin alkışlandığı bir zamanda… Hazret-i Kur'ân ve Hazret-i Muhammed Aleyhissalâtü Vesselâm’ın yüceliklerini, hakkâniyet ve kudsiyetlerini, hem Allah’ın varlığını ve bu kâinât bütün mevcûdâtıyla ve bütün a'zâ ve cihâzâtıyla Hàlık’ının vücûb-u vücûduna ve vahdâniyetine şehâdet ettiğini ve insan akıl ve fikir cihetiyle ve esmâ-i İlâhiye’ye en ziyâde âyinedâr bulunmasıyla sâir mahlûkata bir nev'i sultan hükmünde olduğu; insan eğer îmân ve ubûdiyetle Allah’a intisab etse, dalâlet ve sefâhetten ve büyük günahlardan korunsa, mevcûdâtın üstünde a'lâ-yı illiyîne lâyık ve ebedî Cennet ve saâdete mazhar bir muhterem misâfir ve eğer şirk ve isyanla veya gaflet ve dalâletle Hàlık’ına küfretse, o zaman hayvandan daha aşağı ve esfel-i sâfilîne düşerek ebedî Cehennem’e müstehak ve sonsuz azâb ve işkencelere lâyık bir bedbaht olduğunu ve Kur'ânın dâima değişmez ve O’nun hüküm ve emirleri tebeddül etmez ve edilemez bir hak kelâmı ve İslâmiyetin dâima en yüksek bir medeniyette bulunduğunu ve beşeriyetin hakîki ve dâimî saâdeti ancak ve ancak evâmir-i Kur'âniye’ye ittibâ' ve intisabla mümkün olacağını açık ve kat'î olarak izâh ve isbât eden Risale-i Nur’un kudsiyetini ve yüceliğini ve o mu'cize-i Kur'ânın bir Nur-u İlâhî ve bir ihsân-ı Rabbânî olduğunu îmân ve ilân etmek bir cürüm müdür!‥"
     },
     {
       "type": "paragraph",
@@ -12689,7 +12798,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Afyon Ceza Evinde MevkufKastamonuluMehmed Feyzi Pamukçu",
+          "text": "Afyon Ceza Evinde Mevkuf\nKastamonulu\n"
+        },
+        {
+          "text": "Mehmed Feyzi Pamukçu",
           "bold": true
         }
       ]
@@ -12864,7 +12976,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Afyon Ceza Evinde MevkufOrtaklar BucağındanAhmed Feyzi Kul",
+          "text": "Afyon Ceza Evinde Mevkuf\nOrtaklar Bucağından\n"
+        },
+        {
+          "text": "Ahmed Feyzi Kul",
           "bold": true
         }
       ]
@@ -12969,7 +13084,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Afyon Ceza Evinde MevkufEmirdağlı Ceylan Çalışkan",
+          "text": "Afyon Ceza Evinde Mevkuf\nEmirdağlı \n"
+        },
+        {
+          "text": "Ceylan Çalışkan",
           "bold": true
         }
       ]
@@ -13009,7 +13127,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$b6"
+      "text": "Ecdâdımızın, tarihlere şân salıp nâm veren ahlâk ve şerefini pâyimal eden sefâhet ve rezâletin ve ahlâk-ı seyyienin cem'iyet hayatını zehirlediği ve kötü ahlâk sâhiblerini dahi iğrendirecek derecede sokaklara kadar sardığı ve efkâr-ı âmmeyi telâşa düşürdüğü ve her sınıf ailenin ocağı başında dedikodu mevzûu olduğu ve efkâr-ı âmmenin bir dili mâhiyetindeki gazete ve mecmuaların ahlâk zâbıtası haberleri şeklinde ve muhtelif mevzûlardaki tenkidlerine sebeb olan bu elîm ahvâlin pek sür'atle genişlediği ve âdeta umumîleşmek isti'dâdını gösterdiği bir devrede; düştüğüm ahlâksızlık uçurumundan dinî, ahlâkî, ictimâî, edebî dersleriyle, her müslim okuyucusunu kurtardığı gibi beni de kurtaran Risale-i Nur külliyatını okumak ve benim bu eserleri okuduğumu bilen ve işiten vatandaşlarımın tehzîb-i ahlâk etmek için benden musırrâne istemeleri üzerine onlara Risale vermek ve dolayısıyla serserileşmiş ve serserileşmek ve vatan ve millete muzır bir hâle gelmek isti'dâdını gösteren ferdleri bu Risalelerle, bu nurların müessir telkinâtlarıyla kurtarıp beşeriyete fâideli birer insan olmalarına hàdim ve vesile olan ve memleketimizde de sirâyeti ve salgını görülen ve bütün dünyayı titreten kızıl vebâ komünizm tehlikesine karşı dinî ve müessir telkinâtı bakımından manevî bir mücâhid olan Bediüzzaman takdir ve tebcile lâyık, kudsî ve manevî mücâhedesinin nurlu ve müessir silâhı olan ve yirmi senede yirmi bin ve belki çok fazla adamı vatan ve millete fâideli bir hâle sokmağa vesile olan Nur Risalelerini okutmak ne derece şahsım için bir suç mevzûu ve müellif-i muhteremi için sebeb-i itham olabilir? Vicdânınıza soruyorum."
     },
     {
       "type": "paragraph",
@@ -13058,7 +13176,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Afyon Ceza Evinde MevkufSafranbolulu Mustafa Osman",
+          "text": "Afyon Ceza Evinde Mevkuf\nSafranbolulu \n"
+        },
+        {
+          "text": "Mustafa Osman",
           "bold": true
         }
       ]
@@ -13112,7 +13233,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Mevkuf Hıfzı Bayram",
+          "text": "Mevkuf \n"
+        },
+        {
+          "text": "Hıfzı Bayram",
           "bold": true
         }
       ]
@@ -13183,7 +13307,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Afyon Ceza Evinde MevkufEmirdağlıMustafa Acet",
+          "text": "Afyon Ceza Evinde Mevkuf\nEmirdağlı\n"
+        },
+        {
+          "text": "Mustafa Acet",
           "bold": true
         }
       ]
@@ -13259,7 +13386,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Afyon Ceza Evinde MevkufEmirdağlı Halîl Çalışkan",
+          "text": "Afyon Ceza Evinde Mevkuf\nEmirdağlı \n"
+        },
+        {
+          "text": "Halîl Çalışkan",
           "bold": true
         }
       ]
@@ -13317,7 +13447,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Ispartalı Mustafa Gül",
+          "text": "Ispartalı \n"
+        },
+        {
+          "text": "Mustafa Gül",
           "bold": true
         }
       ]
@@ -13392,7 +13525,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Afyon Ceza Evinde Mevkufİnebolulu İbrahim Fakazlı",
+          "text": "Afyon Ceza Evinde Mevkuf\nİnebolulu \n"
+        },
+        {
+          "text": "İbrahim Fakazlı",
           "bold": true
         }
       ]

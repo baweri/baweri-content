@@ -18,12 +18,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اِنَّ الصَّلٰوةَ كَانَتْ عَلٰى الْمُؤْمِن۪ينَ كِتَابًا مَوْقُوتًا",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -307,7 +309,8 @@
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى مَنْ قَالَ: « اَلصَّلٰوةُ عِمَادُ الدّ۪ينِ » وَعَلٰى اٰلِهِ وَصَحْبِهِ اَجْمَع۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "divider"
@@ -328,12 +331,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "رَبِّ اَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاط۪ينِ ❋ وَاَعُوذُ بِكَ رَبِّ اَنْ يَحْضُرُونِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",

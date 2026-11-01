@@ -9,17 +9,20 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -60,7 +63,8 @@
     {
       "type": "arabic",
       "text": "دَادِ حَقْ رَا قَابِلِيَّتْ شَرْطْ نِيسْتْ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -467,12 +471,14 @@
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ اَرِنَا الْحَقَّ حَقًّا وَارْزُقْنَا اِتِّبَاعَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَلِيمُ الْحَكِيمُ",
-      "red": true
+      "red": true,
+      "center": true
     }
   ],
   "notes": [

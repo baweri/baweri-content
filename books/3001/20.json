@@ -18,22 +18,26 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَاِذْ قُلْنَا لِلْمَلٰٓئِكَةِ اسْجُدُوا لِاٰدَمَ فَسَجَدُٓوا اِلَّٓا اِبْل۪يسَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اِنَّ اللّٰهَ يَأْمُرُكُمْ اَنْ تَذْبَحُوا بَقَرَةً",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "ثُمَّ قَسَتْ قُلُوبُكُمْ مِنْ بَعْدِ ذٰلِكَ فَهِيَ كَالْحِجَارَةِ اَوْ اَشَدُّ قَسْوَةً",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -119,7 +123,8 @@
     {
       "type": "arabic",
       "text": "ثُمَّ قَسَتْ قُلُوبُكُمْ مِنْ بَعْدِ ذٰلِكَ فَهِيَ كَالْحِجَارَةِ اَوْ اَشَدُّ قَسْوَةً وَاِنَّ مِنَ الْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ الْاَنْهَارُ وَاِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ مِنْهُ الْمَٓاءُ وَاِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ اللّٰهِ وَمَا اللّٰهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -314,17 +319,20 @@
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ فَهِّمْنَا اَسْرَارَ الْقُرْاٰنِ كَمَا تُحِبُّ وَتَرْضٰى وَوَفِّقْنَا لِخِدْمَتِهِ اٰم۪ينَ بِرَحْمَتِكَ يَا اَرْحَمَ الرَّاحِم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى مَنْ اُنْزِلَ عَلَيْهِ الْقُرْاٰنُ الْحَك۪يمُ وَعَلٰى اٰلِهِ وَصَحْبِهِ اَجْمَع۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "divider"
@@ -349,12 +357,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَلَا رَطْبٍ وَلَا يَابِسٍ اِلَّا ف۪ي كِتَابٍ مُب۪ينٍ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -801,7 +811,7 @@
           "red": true
         },
         {
-          "text": "$4c"
+          "text": " cümleleriyle Hazret-i Dâvud ve Süleyman Aleyhimesselâm’a, kuşlar envâ'ının lisânlarını, hem isti'dâdlarının dillerini, yani hangi işe yaradıklarını, onlara Cenâb-ı Hakk’ın ihsân ettiğini şu cümleler gösteriyorlar. Evet mâdem hakikattir, mâdem rû-yi zemin bir sofra-i Rahmândır, insanın şerefine kurulmuştur; öyle ise, o sofradan istifade eden sâir hayvanat ve tuyûrun çoğu insana musahhar ve hizmetkâr olabilir. Nasıl ki en küçüklerinden bal arısı ve ipek böceğini istihdam edip, ilhâm-ı İlâhî ile azîm bir istifade yolunu açarak ve güvercinleri bazı işlerde istihdam ederek ve papağan misillû kuşları konuşturarak, medeniyet-i beşeriyenin mehâsinine güzel şeyleri ilâve etmiştir; öyle de, başka kuş ve hayvanların isti'dâd dili bilinirse, çok tâifeleri var ki; – karındaşları hayvanat-ı ehliye gibi – birer mühim işte istihdam edilebilirler. Meselâ; çekirge âfetinin istilâsına karşı, çekirgeyi yemeden mahveden sığırcık kuşlarının dili bilinse ve harekâtı tanzim edilse, ne kadar fâideli bir hizmette ücretsiz olarak istihdam edilebilir."
         }
       ]
     },
@@ -1341,22 +1351,26 @@
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ فَهِّمْنَا اَسْرَارَ الْقُرْاٰنِ وَوَفِّقْنَا لِخِدْمَتِهِ ف۪ي كُلِّ اٰنٍ وَزَمَانٍ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "رَبَّنَا لَا تُؤَاخِذْنَٓا اِنْ نَس۪ينَٓا اَوْ اَخْطَأْنَا",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ وَكَرِّمْ عَلٰى سَيِّدِنَا وَمَوْلٰينَا مُحَمَّدٍ عَبْدِكَ وَنَبِيِّكَ وَرَسُولِكَ النَّبِيِّ الْاُمِّيِّ وَعَلٰى اٰلِهِ وَاَصْحَابِهِ وَاَزْوَاجِهِ وَذُرِّيَّاتِهِ وَعَلَى النَّبِيّ۪ينَ وَالْمُرْسَل۪ينَ وَعَلَى الْمَلٰئِكَةِ الْمُقَرَّب۪ينَ وَالْاَوْلِيَاءِ وَالصَّالِح۪ينَ ❋ اَفْضَلَ صَلَاةٍ وَاَزْكٰى سَلَامٍ وَاَنْمٰى بَرَكَاتٍ بِعَدَدِ سُوَرِ الْقُرْاٰنِ وَاٰيَاتِهِ وَحُرُوفِهِ وَكَلِمَاتِهِ وَمَعَان۪يهِ وَاِشَارَاتِهِ وَرُمُوزِهِ وَدَلَالَاتِهِ وَاغْفِرْ لَنَا وَارْحَمْنَا وَالْطُفْ بِنَا يَا اِلٰهَنَا يَا خَالِقَنَا بِكُلِّ صَلَاةٍ مِنْهَا بِرَحْمَتِكَ يَا اَرْحَمَ الرَّاحِم۪ينَ ❋ وَالْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ اٰم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     }
   ],
   "notes": [

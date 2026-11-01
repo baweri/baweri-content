@@ -87,7 +87,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "MevkufSaid Nursî",
+          "text": "Mevkuf\n"
+        },
+        {
+          "text": "Said Nursî",
           "bold": true
         }
       ]
@@ -98,7 +101,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -148,7 +152,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "MevkufSaid Nursî",
+          "text": "Mevkuf\n"
+        },
+        {
+          "text": "Said Nursî",
           "bold": true
         }
       ]
@@ -159,7 +166,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -260,7 +268,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "heading",
@@ -373,7 +382,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "quote",
@@ -435,7 +445,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "MevkufSaid Nursî",
+          "text": "Mevkuf\n"
+        },
+        {
+          "text": "Said Nursî",
           "bold": true
         }
       ]
@@ -450,7 +463,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -488,7 +502,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Mevkuf Said Nursî",
+          "text": "Mevkuf \n"
+        },
+        {
+          "text": "Said Nursî",
           "bold": true
         }
       ]
@@ -499,7 +516,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -530,7 +548,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Mevkuf Said Nursî",
+          "text": "Mevkuf \n"
+        },
+        {
+          "text": "Said Nursî",
           "bold": true
         }
       ]
@@ -541,7 +562,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -611,7 +633,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Mevkuf Said Nursî",
+          "text": "Mevkuf \n"
+        },
+        {
+          "text": "Said Nursî",
           "bold": true
         }
       ]
@@ -622,7 +647,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -723,7 +749,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Mevkuf, haps-i münferitte Said Nursî",
+          "text": "Mevkuf, haps-i münferitte \n"
+        },
+        {
+          "text": "Said Nursî",
           "bold": true
         }
       ]
@@ -747,7 +776,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "heading",
@@ -759,7 +789,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$41"
+      "text": "Acaba mahkeme-i kübrâ’da, bu üç yüz milyar da'vâcıların karşısında sizden sorulsa ki: “Doktor Duzi’nin, baştan nihâyete kadar serâpâ İslâmiyetiniz ve vatanınız ve dininiz aleyhinde ve frenkçe “Tarih-i İslâm” nâmındaki eseri ki, zındıkların kütübhânelerinizdeki eserlerine, kitaplarına ve serbest okumalarına ve o kitapların şâkirdleri, kanununuzca cem'iyet şeklini almalarıyla beraber, dinsizlik veya komünistlik veya anarşistlik veya pek eski ifsad komitecilik veya menfî Turancılık gibi siyasetinize muhâlif cem'iyetlerine ilişmiyordunuz? Neden hiçbir siyasetle alâkaları olmayan ve yalnız îmân ve Kur'ân cadde-i kübrâsında giden ve kendilerini ve vatandaşlarını i'dâm-ı ebedîden ve haps-i münferitten kurtarmak için Kur'ânın hakîki tefsiri olan Risale-i Nur gibi gayet hak ve hakikat bir eseri okuyanlara ve hiçbir siyâsî cem'iyetle münâsebeti olmayan o hàlis dindarların birbiriyle uhrevî dostluk ve uhuvvetlerine cem'iyet nâmı verip ilişmişsiniz. Onları pek acîb bir kanunla mahkûm ettiniz ve etmek istediniz.” dedikleri zaman ne cevab vereceksiniz? Biz de sizlerden soruyoruz."
     },
     {
       "type": "paragraph",
@@ -773,7 +803,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Denizli Hapishânesinde tecrid-i mutlak ve haps-i münferitte mevkufSaid Nursî",
+          "text": "Denizli Hapishânesinde tecrid-i mutlak ve haps-i münferitte mevkuf\n"
+        },
+        {
+          "text": "Said Nursî",
           "bold": true
         }
       ]
@@ -788,7 +821,8 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "heading",
@@ -800,13 +834,16 @@
     },
     {
       "type": "paragraph",
-      "text": "$41"
+      "text": "Mâdem, hayat-ı ictimâiyenin bir temel taşı; ve fıtrat-ı beşeriyenin bir hâcet-i zarûriyesi; ve aile hayatından tâ kabile ve millet ve İslâmiyet ve insaniyet hayatına kadar en lüzumlu ve kuvvetli râbıta; ve her insanın kâinâtta gördüğü ve tek başına mukàbele edemediği medâr-ı zarar ve hayret ve insanî ve İslâmî vazifelerin îfâsına mâni maddî ve manevî esbâbın tehâcümâtına karşı bir nokta-i istinâd ve medâr-ı tesellî olan dostluk ve kardeşâne cemâat ve toplanmak ve samîmâne uhrevî cem'iyet ve uhuvvet, hem siyâsî cebhesi olmadığı hâlde ve bilhassa hem dünya, hem din, hem âhiret saâdetlerine kat'î vesile olarak îmân ve Kur'ân dersinde hàlis bir dostluk ve hakikat yolunda bir arkadaşlık ve vatanına ve milletine zararlı şeylere karşı bir tesânüd taşıyan Risale-i Nur şâkirdlerinin pek çok takdir ve tahsine şâyân ders-i îmânda toplanmalarına, “cem'iyet-i siyâsiye” nâmını verenler, elbette ve herhalde ya gayet fenâ bir sûrette aldanmış veya gayet gaddâr bir anarşisttir ki, hem insaniyete vahşiyâne düşmanlık eder, hem İslâmiyete nemrûdâne adâvet eder, hem hayat-ı ictimâiyeye anarşiliğin en bozuk ve mütereddî tavrıyla husûmet eder ve bu vatana ve millete ve Hâkimiyet-i İslâmiye’ye ve dinî mukaddesâta karşı mürtedâne, mütemerridâne, anûdâne mücâdele eder. Veya ecnebî hesabına bu milletin can damarını kesmeye ve bozmaya çalışan El-hannâs bir zındıktır ki, hükûmeti iğfal ve adliyeyi şaşırtır, tâ o şeytanlara, Fir'avunlara, anarşistlere karşı şimdiye kadar isti'mâl ettiğimiz manevî silâhlarımızı, kardeşlerimize ve vatanımıza çevirsin veya kırdırsın."
     },
     {
       "type": "paragraph",
       "parts": [
         {
-          "text": "Mevkuf Said Nursî",
+          "text": "Mevkuf \n"
+        },
+        {
+          "text": "Said Nursî",
           "bold": true
         }
       ]
@@ -834,7 +871,10 @@
       "type": "paragraph",
       "parts": [
         {
-          "text": "Tecrid-i mutlakta ve haps-i münferitte MevkufSaid Nursî",
+          "text": "Tecrid-i mutlakta ve haps-i münferitte \nMevkuf\n"
+        },
+        {
+          "text": "Said Nursî",
           "bold": true
         }
       ]

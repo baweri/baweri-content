@@ -14,12 +14,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "لَقَدْ خَلَقْنَا الْاِنْسَانَ ف۪ٓي اَحْسَنِ تَقْو۪يمٍ ❋ ثُمَّ رَدَدْنَاهُ اَسْفَلَ سَافِل۪ينَ ❋ اِلَّا الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "heading",
@@ -74,7 +76,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$4c"
+      "text": "Bir vâkıa-i hayâliyede gördüm ki: İki yüksek dağ var, birbirine mukâbil… Üstünde dehşetli bir köprü kurulmuş. Köprünün altında pek derin bir dere… Ben o köprünün üstünde bulunuyorum. Dünyayı da; her tarafı karanlık, kesif bir zulümât istilâ etmişti. Ben sağ tarafıma baktım; nihâyetsiz bir zulümât içinde bir mezar-ı ekber gördüm, yani tahayyül ettim. Sol tarafıma baktım; müdhiş zulümât dalgaları içinde azîm fırtınalar, dağdağalar, dâhiyeler hazırlandığını görüyor gibi oldum. Köprünün altına baktım; gayet derin bir uçurum görüyorum zannettim. Bu müdhiş zulümâta karşı, sönük bir cep fenerim vardı. Onu isti'mâl ettim. Yarım yamalak ışığıyla baktım. Pek müdhiş bir vaziyet bana göründü. Hattâ önümdeki köprünün başında ve etrafında öyle müdhiş ejderhalar, arslanlar, canavarlar göründü ki; “Keşke bu cep fenerim olmasa idi; bu dehşetleri görmese idim.” dedim. O feneri hangi tarafa çevirdim ise, öyle dehşetler aldım. “Eyvâh! Şu fener, başıma belâdır.” dedim. Ondan kızdım; o cep fenerini yere çarptım, kırdım. Güyâ onun kırılması, dünyayı ışıklandıran büyük elektrik lambasının düğmesine dokundum gibi birden o zulümât boşandı. Her taraf o lambanın nuru ile doldu. Herşeyin hakikatini gösterdi."
     },
     {
       "type": "paragraph",
@@ -235,7 +237,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$4d"
+      "text": "Hem insan, nihâyetsiz acziyle nihâyetsiz beliyyâta ma'rûz ve hadsiz a'dânın hücumuna mübtelâ ve nihâyetsiz fakrıyla beraber nihâyetsiz hâcâta giriftâr ve nihâyetsiz metâlibe muhtaç olduğundan; vazife-i asliye-i fıtriyesi, îmândan sonra duâdır. Duâ ise, esâs-ı ubûdiyettir. Nasıl bir çocuk, eli yetişmediği bir merâmını, bir arzusunu elde etmek için; ya ağlar, ya ister. Yani; ya fiilî, ya kavlî lisân-ı acziyle bir duâ eder. Maksûduna muvaffak olur. Öyle de: İnsan, bütün zîhayat âlemi içinde nâzik, nâzenîn, nâzdâr bir çocuk hükmündedir. Rahmânürrahîm’in dergâhında, ya za'f ve acziyle ağlamak veya fakr ve ihtiyacıyla duâ etmek gerektir. Tâ ki, makàsıdı ona musahhar olsun veya teshìrin şükrünü edâ etsin. Yoksa bir sinekten vâveylâ eden ahmak ve haylaz bir çocuk gibi: “Ben kuvvetimle bu kàbil-i teshìr olmayan ve bin derece ondan kuvvetli olan acîb şeyleri teshìr ediyorum. Ve fikir ve tedbirimle kendime itâat ettiriyorum.” deyip küfran-ı ni'mete sapmak, insaniyetin fıtrat-ı asliyesine zıt olduğu gibi, şiddetli bir azâba kendini müstehak eder."
     },
     {
       "type": "heading",
@@ -296,7 +298,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$4e"
+      "text": "Hem, duâ bir ubûdiyettir. Ubûdiyet ise; semerâtı uhreviyedir. Dünyevî maksadlar ise; o nev'i duâ ve ibâdetin vakitleridir. O maksadlar, gayeleri değil. Meselâ: Yağmur namazı ve duâsı bir ibâdettir. Yağmursuzluk, o ibâdetin vaktidir. Yoksa o ibâdet ve o duâ, yağmuru getirmek için değildir. Eğer sırf o niyet ile olsa; o duâ, o ibâdet, hàlis olmadığından kabûle lâyık olmaz. Nasıl ki güneşin gurûbu, akşam namazının vaktidir. Hem güneşin ve ayın tutulmaları, küsûf ve husuf namazları denilen iki ibâdet-i mahsûsanın vakitleridir. Yani: Gece ve gündüzün nurânî âyetlerinin nikâblanmasıyla bir azamet-i İlâhiye’yi ilâna medâr olduğundan, Cenâb-ı Hak, ibâdını o vakitte bir nev'i ibâdete dâvet eder. Yoksa o namaz – açılması ve ne kadar devam etmesi, müneccim hesabıyla muayyen olan – Ay ve Güneş’in husuf ve küsûflarının inkişafları için değildir. Aynı onun gibi; yağmursuzluk dahi, yağmur namazının vaktidir. Ve beliyelerin istilâsı ve muzır şeylerin tasallutu, bazı duâların evkàt-ı mahsûsalarıdır ki; insan o vakitlerde aczini anlar, duâ ile, niyâz ile Kadîr-i Mutlak’ın dergâhına ilticâ eder."
     },
     {
       "type": "paragraph",
@@ -467,7 +469,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$4c"
+      "text": "Meselâ: Küfür; bir fenâlıktır, bir tahribdir, bir adem-i tasdiktir. Fakat o tek seyyie, bütün kâinâtın tahkîrini ve bütün Esmâ-i İlâhiye’nin tezyifini, bütün insaniyetin terzilini tazammun eder. Çünkü: Şu mevcûdâtın àlî bir makamı, ehemmiyetli bir vazifesi vardır. Zîra onlar, mektûbat-ı Rabbâniye ve merâyâ-yı Sübhâniye ve memurîn-i İlâhiye’dirler. Küfür ise, onları âyinedârlık ve vazifedârlık ve mânidârlık makamından düşürüp, abesiyet ve tesâdüfün oyuncağı derekesine ve zevâl ve firâkın tahribiyle çabuk bozulup değişen mevâdd-ı fâniyeye ve ehemmiyetsizlik, kıymetsizlik, hiçlik mertebesine indirdiği gibi, bütün kâinâtta ve mevcûdâtın âyinelerinde nakışları ve cilveleri ve cemâlleri görünen Esmâ-i İlâhiye’yi inkâr ile tezyif eder ve insanlık denilen bütün Esmâ-i Kudsiye-i İlâhiye’nin cilvelerini güzelce ilân eden bir kaside-i manzûme-i hikmet‥ ve bir şecere-i bâkiyenin cihâzâtını câmi' çekirdek-misâl bir mu'cize-i kudret-i bâhire‥ ve emânet-i kübrâyı uhdesine almakla; yer, gök, dağa tefevvuk eden ve melâikeye karşı rüchâniyet kazanan bir sâhib-i mertebe-i hilâfet-i arziyeyi; en zelîl bir hayvan-ı fânî-i zâilden daha zelîl, daha zaîf, daha âciz, daha fakir bir derekeye atar. Ve mânâsız, karmakarışık, çabuk bozulur bir âdi levha derekesine indirir."
     },
     {
       "type": "paragraph",
@@ -983,22 +985,26 @@
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "رَبِّ اشْرَحْ ل۪ي صَدْر۪ي ❋ وَيَسِّرْ ل۪ٓي اَمْر۪ي ❋ وَاحْلُلْ عُقْدَةً مِنْ لِسَان۪ي ❋ يَفْقَهُوا قَوْل۪ي",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَللّٰهُمَّ صَلِّ عَلَى الذَّاتِ الْمُحَمَّدِيَّةِ اللَّط۪يفَةِ الْاَحَدِيَّةِ شَمْسِ سَمَاءِ الْاَسْرَارِ وَمَظْهَرِ الْاَنْوَارِ وَمَرْكَزِ مَدَارِ الْجَلَالِ وَقُطْبِ فَلَكِ الْجَمَالِ ❋ اَللّٰهُمَّ بِسِرِّهِ لَدَيْكَ ❋ وَبِسَيْرِهِ اِلَيْكَ ❋ اٰمِنْ خَوْف۪ي ❋ وَاَقِلْ عُثْرَت۪ي ❋ وَاذْهِبْ حُزْن۪ي وَحِرْص۪ي ❋ وَكُنْ ل۪ي وَخُذْن۪ي اِلَيْكَ مِنّ۪ي ❋ وَارْزُقْنِي الْفَنَاءَ عَنّ۪ي وَلَا تَجْعَلْن۪ي مَفْتُونًا بِنَفْس۪ي ❋ مَحْجُوبًا بِحِسّ۪ي ❋ وَاكْشِفْ ل۪ي عَنْ كُلِّ سِرِّ مَكْتُومٍ ❋ يَا حَيُّ يَا قَيُّومُ ❋ يَا حَيُّ يَا قَيُّومُ ❋ يَا حَيُّ يَا قَيُّومُ ❋ وَارْحَمْن۪ي وَارْحَمْ رُفَقَائ۪ي ❋ وَارْحَمْ اَهْلَ الْا۪يمَانِ وَالْقُرْاٰنِ ❋ اٰم۪ينَ يَا اَرْحَمَ الرَّاحِم۪ينَ وَيَا اَكْرَمَ الْاَكْرَم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَاٰخِرُ دَعْوٰيهُمْ اَنِ الْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     }
   ]
 }

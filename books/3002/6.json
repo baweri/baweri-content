@@ -5,17 +5,20 @@
     {
       "type": "arabic",
       "text": "بِاسْمِهِ سُبْحَانَهُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "سَلَامُ اللّٰهِ وَرَحْمَتُهُ وَبَرَكَاتُهُ عَلَيْكُمَا وَعَلٰى اِخْوَانِكُمَا مَادَامَ الْمَلَوَانِ وَتَعَاقَبَ الْعَصْرَانِ وَمَادَارَ الْقَمَرَانِ وَاسْتَقْبَلَ الْفَرْقَدَانِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -148,12 +151,14 @@
     {
       "type": "arabic",
       "text": "اُو گُفْتْ اَلَسْتُ و تُو گُفْتِى بَلَى شُكْرِ بَلَى چِيسْت كَشِيدَنْ بَلَا",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "سِرِّ بَلَاچِيسْت كِه يَعْنِى مَنَمْ حَلْقَه زَنِ دَرْگَهِ فَقْرُ و فَنَا",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -215,12 +220,14 @@
     {
       "type": "arabic",
       "text": "دَانِى سَمَاعْ چِه بُوَدْ بِى خُودْ شُدَنْ زِهَسْتِى",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَنْدَرْ فَنَاىِ مُطْلَقْ ذَوْقِ بَقَا چَشِيدَنْ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -231,8 +238,10 @@
       "parts": [
         {
           "text": "اَلْبَاق۪ي هُوَ الْبَاق۪ي",
-          "bold": true,
           "red": true
+        },
+        {
+          "text": "\n"
         },
         {
           "text": "Said Nursî",

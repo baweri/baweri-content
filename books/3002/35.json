@@ -23,17 +23,20 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَالصَّلَاةُ وَالسَّلَامُ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى اٰلِهِ وَصَحْبِهِ اَجْمَع۪ينَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -689,7 +692,8 @@
     {
       "type": "arabic",
       "text": "لَا يَلْزَمُ مِنْ لُزُومِ صِدْقِ كُلِّ قَوْلٍ قَوْلُ كُلِّ صِدْقٍ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -1066,7 +1070,8 @@
     {
       "type": "arabic",
       "text": "وَالْجَمَاعَةُ الَّت۪ي ف۪يهَا التَّحَاسُدُ اٰلَةٌ خُلِقَتْ لِتَسْك۪ينِ الْحَرَكَاتِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",

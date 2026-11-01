@@ -5,12 +5,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اِنَّ اللّٰهَ اشْتَرٰى مِنَ الْمُؤْمِن۪ينَ اَنْفُسَهُمْ وَاَمْوَالَهُمْ بِاَنَّ لَهُمُ الْجَنَّةَ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",

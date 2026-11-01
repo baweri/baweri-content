@@ -89,6 +89,8 @@ Each book is split into chapters, so the app only downloads what's being read.
 
 A block has either `text` (plain) or `parts`, for text with italic or bold runs and footnote references: each part is `{ "text", "italic"?, "bold"?, "red"? }` or `{ "note": "<id>" }`, pointing at an entry in the chapter's `notes`.
 
+An `arabic` block with `"center": true` is set in the middle of the line, as the book prints it (the Risale-i Nur's standalone Arabic); others run from the right.
+
 `red` is for what the book itself prints in red, as the Risale-i Nur prints its Arabic: a part with `"red": true`, or an `arabic` block with `"red": true`. Other books leave it out, and their Arabic stays in the text's color.
 
 The app draws everything with its own fonts and colors, so the text carries no formatting beyond italic and bold.

@@ -9,12 +9,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "اَللّٰهُ لَٓا اِلٰهَ اِلَّا هُوَ لَهُ الْاَسْمَٓاءُ الْحُسْنٰى",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -787,7 +789,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$55"
+      "text": "Âlem-i küfrün en kesâfetlisi olan şimâlde tabîiyyûnun fikr-i küfrîsinden süzülen bir cereyan-ı azîmin başına geçecek ve Ulûhiyet’i inkâr edecek bir şahsın şimâl tarafından çıkmasına işâret ve şu işâret içinde bir remz-i hikmet vardır ki; kutb-u şimâlîye yakın dâirede bütün sene, bir gece bir gündüzdür. Altı ayı gece, altı ayı gündüzdür. “Deccâlın bir günü bir senedir.” o dâire yakınında zuhûruna işârettir. “İkinci günü bir aydır.” demekten murad, şimâlden bu tarafa geldikçe bazen olur yazın bir ayında Güneş gurûb etmez. Şu dahi, Deccâl şimâlden çıkıp âlem-i medeniyet tarafına tecâvüzüne işârettir. Günü Deccâla isnâd etmekle şu işârete işâret eder. Daha bu tarafa geldikçe bir haftada Güneş gurûb etmiyor. Daha gele gele, tulû' ve gurûb ortasında üç saat devam ediyor. Ben Rusya’da esârette iken böyle bir yerde bulundum. Bize yakın, bir hafta Güneş gurûb etmeyen bir yer vardı. Seyir için oraya gidiyorlardı. “Deccâlın çıktığı vakit umum dünya işitecek.” olan kaydı, telgraf ve radyo halletmiştir. Kırk günde gezmesini de merkebi olan şimendifer ve tayyare halletmiştir. Eskiden bu iki kaydı muhâl gören mülhidler, şimdi âdi görüyorlar!‥"
     },
     {
       "type": "paragraph",
@@ -1109,7 +1111,7 @@
     },
     {
       "type": "paragraph",
-      "text": "$56"
+      "text": "Meselâ; küre-i arz, ehl-i hikmet nazarıyla bakılsa hakikati şudur ki: Güneş etrafında mutavassıt bir seyyâre gibi hadsiz yıldızlar içinde döner. Yıldızlara nisbeten küçük bir mahlûk. Fakat ehl-i Kur'ân nazarıyla bakıldığı vakit – Onbeşinci Söz’de izâh edildiği gibi – hakikati şöyledir ki: Semere-i âlem olan insan; en câmi', en bedî' ve en âciz, en azîz, en zaîf, en latîf bir mu'cize-i kudret olduğundan, beşik ve meskeni olan zemin, semâya nisbeten maddeten küçüklüğüyle ve hakaretiyle beraber ma'nen ve san'aten bütün kâinâtın kalbi, merkezi‥ bütün mu'cizât-ı san'atının meşheri, sergisi‥ bütün tecelliyât-ı esmâsının mazharı, nokta-i mihrâkıyesi‥ nihâyetsiz fa'âliyet-i Rabbâniye’nin mahşeri, ma'kesi‥ hadsiz hallâkıyet-i İlâhiye’nin hususan nebâtât ve hayvanatın kesretli envâ'-ı sağîresinden cevvâdâne icâdın medârı, çarşısı‥ ve pek geniş âhiret âlemlerindeki masnûâtın küçük mikyâsta nümûnegâhı‥ ve mensûcât-ı ebediyenin sür'atle işleyen tezgâhı‥ ve menâzır-ı sermediyenin çabuk değişen taklidgâhı‥ ve besâtin-i dâimenin tohumcuklarına sür'atle sünbüllenen dar ve muvakkat mezraası ve terbiyegâhı olmuştur."
     },
     {
       "type": "paragraph",
@@ -1137,7 +1139,8 @@
     {
       "type": "arabic",
       "text": "اَلَمْ تَرَ اَنَّ اللّٰهَ يَسْجُدُ لَهُ مَنْ فِي السَّمٰوَاتِ وَمَنْ فِي الْاَرْضِ وَالشَّمْسُ وَالْقَمَرُ وَالنُّجُومُ وَالْجِبَالُ وَالشَّجَرُ وَالدَّوَٓابُّ وَكَث۪يرٌ مِنَ النَّاسِ وَكَث۪يرٌ حَقَّ عَلَيْهِ الْعَذَابُ وَمَنْ يُهِنِ اللّٰهُ فَمَا لَهُ مِنْ مُكْرِمٍ اِنَّ اللّٰهَ يَفْعَلُ مَايَشَٓاءُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",

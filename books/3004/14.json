@@ -5,12 +5,14 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "arabic",
       "text": "وَبِهِ نَسْتَع۪ينُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -1507,7 +1509,8 @@
     {
       "type": "arabic",
       "text": "يُؤْتِي الْحِكْمَةَ مَنْ يَشَٓاءُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "heading",
@@ -1516,7 +1519,8 @@
     {
       "type": "arabic",
       "text": "وَيُعَلِّمُهُمُ الْكِتَابَ وَالْحِكْمَةَ وَيُزَكّ۪يهِمْ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "heading",
@@ -1812,7 +1816,8 @@
     {
       "type": "arabic",
       "text": "يَٓا اَيُّهَا النَّاسُ قَدْ جَٓاءَكُمْ بُرْهَانٌ مِنْ رَبِّكُمْ وَاَنْزَلْنَٓا اِلَيْكُمْ نُورًا مُب۪ينًا",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -2048,7 +2053,8 @@
     {
       "type": "arabic",
       "text": "وَالَّذ۪ينَ اٰمَنُوا مَعَهُ نُورُهُمْ يَسْعٰى بَيْنَ اَيْد۪يهِمْ وَبِاَيْمَانِهِمْ يَقُولُونَ رَبَّنَٓا اَتْمِمْ لَنَا نُورَنَا وَاغْفِرْلَنَا",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
@@ -3457,7 +3463,7 @@
           "red": true
         },
         {
-          "text": "$54"
+          "text": " sayılmak cihetiyle bin üç yüz yirmi dört ederek, Avrupa zâlimleri devlet-i İslâmiyenin nurunu söndürmek niyetiyle müdhiş bir sû-i kasd plânı yaptıkları ve ona karşı Türkiye hamiyet-perverleri, hürriyeti yirmi dörtte ilânıyla o plânı akîm bırakmağa çalıştıkları hâlde, maatteessüf altı-yedi sene sonra, Harb-i Umumî neticesinde yine o sû-i kasd niyetiyle Sevr Muâhedesinde Kur'ânın zararına gayet ağır şerâitle kâfirâne fikirlerini yine icra etmek olan plânlarını akîm bırakmak için Türk milliyet-perverleri cumhûriyeti ilânla mukàbeleye çalıştıkları tarihi olan bin üç yüz yirmidörde, tâ otuz dörde, tâ ellidörde tam tamına tevâfukla, o herc ü merc içinde Kur'ânın nurunu muhâfazaya çalışanlar içinde Resâili'n-Nur müellifi yirmi dörtte ve Resâili'n-Nurun mukaddemâtı otuz dörtte ve Resâili'n-Nurun nurânî cüz'leri ve fedâkâr şâkirdleri elli dörtte mukàbeleye çalışmaları göze çarpıyor. Hattâ hakikat-i hâli bilmeyen bir kısım ehl-i siyaseti telâşa sevkettiler ve bu itfâ sû-i kasdına karşı tenvir vazifesini tam îfâ ettiklerinden bu âyetin mânâ-yı işârîsi cihetinde bir medâr-ı nazarı olduklarına kuvvetli bir emâredir. Şimdi İslâmlar içinde Nur-u Kur'ân’a muhâlif hâletlerin ekserîsi o sû-i kasdların ve Sevr Muâhedesi gibi gaddârâne muâhedelerin vahîm neticeleridir."
         }
       ]
     },
@@ -3783,7 +3789,8 @@
     {
       "type": "arabic",
       "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "divider"
@@ -3795,7 +3802,8 @@
     {
       "type": "arabic",
       "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
-      "red": true
+      "red": true,
+      "center": true
     },
     {
       "type": "paragraph",
