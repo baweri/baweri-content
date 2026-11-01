@@ -1,0 +1,381 @@
+{
+  "n": 4,
+  "title": "Altıncı Şuâ",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Yalnız İki Nükte’dir.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "arabic",
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
+    },
+    {
+      "type": "quote",
+      "text": "Namazdaki teşehhüdde bulunan اَلتَّحِيَّاتُ اَلْمُبَارَكَاتُ اَلصَّلَوَاتُ اَلطَّيِّبَاتُ لِلّٰهِ ilâ âhirihî’nin iki noktasına gelen iki suâle iki cevaptır. Teşehhüdün sâir hakikatlerinin beyânı başka vakte ta'lik edilerek bu Altıncı Şuâ’da yüzer nüktesinden yalnız İki Nüktesi muhtasar bir sûrette beyân edilecek."
+    },
+    {
+      "type": "heading",
+      "text": "Birinci Suâl"
+    },
+    {
+      "type": "paragraph",
+      "text": "Teşehhüdün mübârek kelimâtı, mi'râc gecesinde Cenâb-ı Hak ile Resûlünün bir mükâlemeleri olduğu hâlde, namazda okunmasının hikmeti nedir?"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elcevab:",
+          "bold": true
+        },
+        {
+          "text": " Her mü'minin namazı, onun bir nev'i mi'râcı hükmündedir. Ve o huzura lâyık olan kelimeler ise Mi'râc-ı Ekber-i Muhammed Aleyhissalâtü Vesselâm’da söylenen sözlerdir. Onları zikretmekle, o kudsî sohbet tahattur edilir. O tahatturla o mübârek kelimelerin mânâları cüz'iyetten külliyete çıkar ve o kudsî ve ihâtalı mânâlar tasavvur edilir veya edilebilir. Ve o tasavvur ile kıymeti ve nuru teâlî edip genişlenir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Meselâ: Resûl-i Ekrem Aleyhissalâtü Vesselâm, o gecede Cenâb-ı Hakk’a karşı selâm yerinde "
+        },
+        {
+          "text": "اَلتَّحِيَّاتُ لِلّٰهِ",
+          "red": true
+        },
+        {
+          "text": " demiş. Yani: "
+        },
+        {
+          "text": "“Bütün zîhayatların, hayatlarıyla gösterdikleri tesbihât-ı hayatiye ve sâni'lerine takdim ettikleri fıtrî hediyeler Ey Rabbim, sana mahsûstur. Ben dahi bütün onları tasavvurumla ve îmânımla sana takdim ediyorum.”",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Evet nasıl ki, Resûl-i Ekrem Aleyhissalâtü Vesselâm "
+        },
+        {
+          "text": "اَلتَّحِيَّاتُ",
+          "red": true
+        },
+        {
+          "text": " kelimesiyle bütün zîhayatın ibâdât-ı fıtriyelerini niyet edip takdim ediyor. Öyle de, tahiyyâtın hülâsası olan "
+        },
+        {
+          "text": "اَلْمُبَارَكَاتُ",
+          "red": true
+        },
+        {
+          "text": " kelimesiyle de bütün medâr-ı bereket ve tebrik ve Bârekallâh dediren ve mübârek denilen ve hayatın ve zîhayatın hülâsası olan mahlûklar, hususan tohumların ve çekirdeklerin, dânelerin, yumurtaların fıtrî mübârekiyetlerini ve bereketlerini ve ubûdiyetlerini temsîl ederek, o geniş mânâ ile söylüyor."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Ve mübârekâtın hülâsası olan "
+        },
+        {
+          "text": "اَلصَّلَوَاتُ",
+          "red": true
+        },
+        {
+          "text": " kelimesiyle de zîhayatın hülâsası olan bütün zîrûhun ibâdât-ı mahsûsalarını tasavvur edip Dergâh-ı İlâhî’ye o ihâtalı mânâsıyla arzediyor."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Ve "
+        },
+        {
+          "text": "اَلطَّيِّبَاتُ",
+          "red": true
+        },
+        {
+          "text": " kelimesiyle de, zîrûhun hülâsaları olan kâmil insanların ve melâike-i mukarrebînin, salavâtın hülâsası olan "
+        },
+        {
+          "text": "“tayyibât”",
+          "bold": true
+        },
+        {
+          "text": " ile nurânî ve yüksek ibâdetlerini irâde ederek ma'bûd’una tahsîs ve takdim eder."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Hem nasıl ki, o gecede Cenâb-ı Hak tarafından "
+        },
+        {
+          "text": "اَلسَّلَامُ عَلَيْكَ يَا اَيُّهَا النَّبِيُّ",
+          "red": true
+        },
+        {
+          "text": " demesi, istikbâlde yüzer milyon insanların herbiri, her gün, hiç olmazsa on defa "
+        },
+        {
+          "text": "اَلسَّلَامُ عَلَيْكَ يَا اَيُّهَا النَّبِيُّ",
+          "red": true
+        },
+        {
+          "text": " demelerini âmirâne iş'âr eder ve o selâm-ı İlâhî, o kelimeye geniş bir nur ve yüksek bir mânâ verir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Öyle de, Resûl-i Ekrem Aleyhissalâtü Vesselâm’ın, o selâma mukâbil "
+        },
+        {
+          "text": "اَلسَّلَامُ عَلَيْنَا وَعَلٰى عِبَادِ اللّٰهِ الصَّالِح۪ينَ",
+          "red": true
+        },
+        {
+          "text": " demesi, istikbâlde muazzam ümmeti ve ümmetinin sâlihleri, selâm-ı İlâhîyi temsîl eden İslâmiyete mazhar olmasını ve İslâmiyetin umumî bir şiârı olan mü'minler ortasındaki "
+        },
+        {
+          "text": "اَلسَّلَامُ عَلَيْكَ - وَعَلَيْكَ السَّلَامُ",
+          "red": true
+        },
+        {
+          "text": " umum ümmet demesini râciyâne, dâiyâne Hàlık’ından istediğini ifâde ve ihtar eder."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Ve o sohbette hissedar olan Hazret-i Cebrâil Aleyhisselâm, emr-i İlâhî ile o gece "
+        },
+        {
+          "text": "اَشْهَدُ اَنْ لَٓا اِلٰهَ اِلَّا اللّٰهُ وَاَشْهَدُ اَنَّ مُحَمَّدًا رَسُولُ اللّٰهِ",
+          "red": true
+        },
+        {
+          "text": " demesi, bütün ümmet kıyâmete kadar böyle şehâdet edeceğini ve böyle diyeceklerini mübeşşirâne haber verir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ve bu mükâleme-i kudsiyeyi tahattur ile kelimelerin mânâları parlar, genişlenir."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Bu mezkûr hakikatin inkişafında bana yardım eden garîb bir hâlet-i rûhiyedir:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Bir zaman karanlıklı bir gurbette, karanlık bir gecede, zulmetli bir gaflet içinde, hâl-i hâzırda olan bu koca kâinât hayâlime câmid, rûhsuz, meyyit, boş, hàlî, müdhiş bir cenaze göründü. Geçmiş zaman dahi bütün bütün ölü, boş, meyyit, müdhiş tahayyül edildi. O hadsiz mekân ve o hududsuz zaman, karanlıklı bir vahşetgâh sûretini aldı. Ben o hâletten kurtulmak için namaza ilticâ ettim. Teşehhüdde "
+        },
+        {
+          "text": "اَلتَّحِيَّاتُ",
+          "red": true
+        },
+        {
+          "text": " dediğim zaman birden kâinât canlandı; hayatdâr, nurânî bir şekil aldı, dirildi. Hayy-ı Kayyûm’un parlak bir âyinesi oldu. Bütün hayatdâr eczâsıyla beraber, hayatlarının tahiyelerini ve hedâyâ-yı hayatiyelerini dâimî bir sûrette Zât-ı Hayy-ı Kayyûm’a takdim ettiklerini ilmelyakìn, belki hakkalyakìn ile bildim ve gördüm."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Sonra "
+        },
+        {
+          "text": "اَلسَّلَامُ عَلَيْكَ يَا اَيُّهَا النَّبِيُّ",
+          "red": true
+        },
+        {
+          "text": " dediğim vakit, o hududsuz ve hàlî zaman birden Resûl-i Ekrem Aleyhissalâtü Vesselâm’ın riyâseti altında, zîhayat rûhlar ile vahşetzâr sûretinden ünsiyetli bir seyrangâh sûretine inkılâb etti."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "İkinci Suâl"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Teşehhüd âhirinde: "
+        },
+        {
+          "text": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَعَلٰى اٰلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلٰى اِبْرٰه۪يمَ وَعَلٰى اٰلِ اِبْرٰه۪يمَ",
+          "red": true
+        },
+        {
+          "text": "’deki "
+        },
+        {
+          "text": "teşbih",
+          "bold": true
+        },
+        {
+          "text": ", teşbihlerin kaidesine uygun gelmiyor. Çünkü, Muhammed Aleyhissalâtü Vesselâm, İbrahim Aleyhisselâm’dan daha ziyâde rahmete mazhardır ve daha büyüktür. Bunun sırrı nedir? Hem bu tarzdaki salavâtın teşehhüdde tahsîsinin hikmeti nedir?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Aynı duâ, eski zamandan beri ve bütün namazda tekrar etmeleri… Hâlbuki bir duâ bir defa kabûle mazhar olsa yeter. Milyonlarca duâları makbûl olan zâtlar musırrâne duâ etmesi ve bilhassa o şey va'd-i İlâhîye iktiran etmiş ise… Meselâ "
+        },
+        {
+          "text": "عَسٰٓى اَنْ يَبْعَثَكَ رَبُّكَ مَقَامًا مَحْمُودًا",
+          "red": true
+        },
+        {
+          "text": " Cenâb-ı Hak va'dettiği hâlde, her ezân ve kametten sonra edilen mervî duâda "
+        },
+        {
+          "text": "وَابْعَثْهُ مَقَامًا مَحْمُودًا ࣙ الَّذ۪ي وَعَدْتَهُ",
+          "red": true
+        },
+        {
+          "text": " deniliyor; bütün ümmet o va'di îfâ etmek için duâ ederler. Bunun sırr-ı hikmeti nedir?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elcevab:",
+          "bold": true
+        },
+        {
+          "text": " Bu suâlde üç cihet ve üç suâl var."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Birinci Cihet"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hazret-i İbrahim Aleyhisselâm, gerçi Hazret-i Muhammed Aleyhissalâtü Vesselâm’a yetişmiyor. Fakat O’nun âli, Enbiyâdırlar. Muhammed Aleyhissalâtü Vesselâm’ın âli, evliyâdırlar. Evliyâ ise, Enbiyâya yetişemezler. Âl hakkında olan bu duânın parlak bir sûrette kabûl olduğuna delil şudur ki:"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Üç yüz elli milyon içinde, Âl-i Muhammed Aleyhissalâtü Vesselâm’dan yalnız iki zâtın, yani Hasan (ra) ve Hüseyin’in (ra) neslinden gelen evliyâ – ekser-i mutlak – hakikat mesleklerinin ve tarîkatlarının pîrleri ve mürşidleri onlar olmaları "
+        },
+        {
+          "text": "عُلَمَاءُ اُمَّت۪ي كَاَنْبِيَاءِ بَن۪ي اِسْرَائ۪يلَ",
+          "red": true
+        },
+        {
+          "text": " hadîsinin mazharları olduklarıdır. Başta Cafer-i Sâdık (ra) ve Gavs-ı A'zam (ra) ve Şah-ı Nakşibend (ra) olarak herbiri, ümmetin bir kısm-ı a'zamını tarîk-ı hakikate ve Hakikat-i İslâmiyete irşad edenler, bu âl hakkındaki duânın makbûliyetinin meyveleridirler."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "İkinci Cihet"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu tarzdaki salavâtın namaza tahsîs-i hikmeti ise; meşâhir-i insaniyenin en nurânî, en mükemmeli, en müstakîmi olan Enbiyâ ve evliyânın kafile-i kübrâsının gittikleri ve açtıkları yolda, kendisi dahi o yüzer icmâ ve yüzer tevâtür kuvvetinde bulunan ve şaşırmaları mümkün olmayan o cemâat-i uzmâya, o Sırat-ı Müstakîmde iltihak ve refâkat ettiğini tahattur etmektir. Ve o tahattur ile şübehât-ı şeytaniyeden ve evhâm-ı seyyieden kurtulmaktır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ve bu kafile, bu kâinât sâhibinin dostları ve makbûl masnû'ları ve onların muârızları, O’nun düşmanları ve merdud mahlûkları olduğuna delil ise; zaman-ı Âdem’den beri o kafileye dâima muâvenet-i gaybiye gelmesi ve muârızlarına her vakit musîbet-i semâviye inmesidir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Evet, kavm-i Nuh ve Semûd ve Âd ve Fir'avun ve Nemrud gibi bütün muârızlar, gadab-ı İlâhîyi ve azâbını ihsâs edecek bir tarzda gaybî tokatlar yedikleri gibi; kafile-i kübrânın Nuh Aleyhisselâm, İbrahim Aleyhisselâm, Mûsa Aleyhisselâm, Muhammed Aleyhissalâtü Vesselâm gibi bütün kudsî kahramanları dahi, hàrika ve mu'cizâne ve gaybî bir sûrette mu'cizelere ve ihsânat-ı Rabbâniye’ye mazhar olmuşlar."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Bir tek tokat hiddeti, bir tek ikram muhabbeti gösterdiği hâlde, binler tokat muârızlara ve binler ikram ve muâvenet kafileye gelmesi, bedâhet derecesinde ve gündüz gibi zâhir bir tarzda o kafilenin hakkâniyetine ve Sırat-ı Müstakîmde gittiğine şehâdet ve delâlet eder. Fâtiha’da "
+        },
+        {
+          "text": "صِرَاطَ الَّذ۪ينَ اَنْعَمْتَ عَلَيْهِمْ",
+          "red": true
+        },
+        {
+          "text": " o kafileye ve "
+        },
+        {
+          "text": "غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّٓال۪ينَ",
+          "red": true
+        },
+        {
+          "text": " muârızlarına bakıyor. Burada beyân ettiğimiz nükte ise Fâtiha’nın âhirinde daha zâhirdir."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Üçüncü Cihet"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu kadar tekrar ile kat'î verilecek olan bir şeyin vermesini istemesinin sırr-ı hikmeti şudur:"
+    },
+    {
+      "type": "paragraph",
+      "text": "İstenilen şey meselâ, Makam-ı Mahmûd bir uçtur. Pek büyük ve binler Makam-ı Mahmûd gibi mühim hakikatleri ihtiva eden bir hakikat-i a'zamın bir dalıdır. Ve hilkat-i kâinâtın en büyük neticesinin bir meyvesidir. Ve ucu ve dalı ve o meyveyi duâ ile istemek ise; dolayısıyla o hakikat-i umumiye-i uzmânın tahakkukunu ve vücûd bulmasını ve o şecere-i hilkatin en büyük dalı olan âlem-i bâkînin gelmesini ve tahakkukunu ve kâinâtın en büyük neticesi olan haşir ve kıyâmetin tahakkukunu ve dâr-ı saâdetin açılmasını istemektir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ve o istemekle, dâr-ı saâdetin ve Cennet’in en mühim bir sebeb-i vücûdu olan ubûdiyet-i beşeriyeye ve daavât-ı insaniyeye kendisi dahi iştirâk etmektir. Ve bu kadar hadsiz derecede azîm bir maksad için, bu hadsiz duâlar dahi azdır."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Hem Hazret-i Muhammed Aleyhissalâtü Vesselâm’a "
+        },
+        {
+          "text": "“Makam-ı Mahmûd”",
+          "bold": true
+        },
+        {
+          "text": " verilmesi, umum ümmete şefâat-ı kübrâsına işârettir. Hem O, bütün ümmetinin saâdetiyle alâkadardır. Onun için hadsiz salavât ve rahmet duâlarını bütün ümmetten istemesi ayn-ı hikmettir."
+        }
+      ]
+    },
+    {
+      "type": "arabic",
+      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
+      "red": true
+    }
+  ]
+}

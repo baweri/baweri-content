@@ -1,0 +1,15 @@
+{
+  "n": 8,
+  "title": "Sekizinci Lem'a",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Kerâmet-i Gavsiye Risalesi’dir. Sikke-i Tasdik-ı Gaybî Mecmuası’nda ve Hatt-ı Kur'ân Lem'alar Mecmuası’nda neşredilmiştir.",
+          "italic": true
+        }
+      ]
+    }
+  ]
+}

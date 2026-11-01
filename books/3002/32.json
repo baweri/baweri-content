@@ -1,0 +1,33 @@
+{
+  "n": 32,
+  "title": "Otuzikinci Mektûb (Lemeât)",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Kendi kendine manzûm tarzını alan matbu' ",
+          "italic": true
+        },
+        {
+          "text": "“Lemeât”",
+          "bold": true,
+          "italic": true
+        },
+        {
+          "text": " risalesidir. Aynı zamanda ",
+          "italic": true
+        },
+        {
+          "text": "“Otuzikinci Lem'a”",
+          "bold": true,
+          "italic": true
+        },
+        {
+          "text": " olup, Sözler Mecmuası’nın âhirinde neşredilmiştir.",
+          "italic": true
+        }
+      ]
+    }
+  ]
+}

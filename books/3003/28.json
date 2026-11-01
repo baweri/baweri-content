@@ -1,0 +1,2261 @@
+{
+  "n": 28,
+  "title": "Yirmi Sekizinci Lem'a",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "Eskişehir Hapishanesinde ihtilâttan ve konuşmaktan memnû' olduğum zamanda karşımdaki kardeşlerime tesellî için yazdığım kısacık fıkraların bir kısmıdır."
+    },
+    {
+      "type": "heading",
+      "text": "Birinci Nükte"
+    },
+    {
+      "type": "quote",
+      "text": "Risale-i Nur’dan haber veren İkinci Kerâmet-i Aleviye Risalesi"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "İkinci Nükte"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Hakikatli Bir Tesellî",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "text": "Eskişehir’de tevkîfhânede Risale-i Nur Şâkirdlerine yazılan fıkralardır."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Azîz kardeşlerim,",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sizin için pek çok müteessirdim, elem beni eziyordu. Fakat bana ihtar edildi ki; kader ve kısmetinizde, beraber bu hapishânenin suyunu içmek ve ekmeğini yemek vardı. Bir eser-i rahmet-i İlâhiye ve bir cilve-i inâyet-i Rabbâniye olarak bu suyu ve bu ekmeği beraber yememizin ve içmemizin en kolayı ve en hafifi ve en hayırlısı ve sevâblısı ve Risale-i Nur şâkirdlerinin en menfaatli bir dershâneleri ve en feyizli bir çilehâneleri ve düşmanlarına karşı ne derece ihtiyatlı davranmak lâzım geldiğini ta'lim eden en hassas bir imtihan meydânı ve her birinde ayrı ayrı güzel meziyetleri bulunan bu arkadaşların birbirinin àlî meziyetlerinden ve güzel hasletlerinden ve birbiriyle te'sis ve tecdîd-i uhuvvetlerinden istifade etmek ve ders almak için en nurlu bir dershâne, bir tekke sûretinde gördüğümden, bu vaziyetten değil şekvâ, belki bütün rûhumla şükür ettim. Evet, mesleğimiz şükürdür. Ve herşeyde bir vech-i rahmeti, bir cihet-i ni'meti görmektir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Umumunuzun elemleriyle müteellim kardeşiniz"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Said Nursî",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Üçüncü Nükte"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Sadâkatte nâmdâr, safvet-i kalbde mümtâz Süleyman Rüşdü ile bir muhâvere-i latîfe münâsebetiyle",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Büyük bir âyetin küçük bir nüktesidir.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Şöyle ki:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Güz mevsiminde, sineklerin terhisât zamanına yakın bir vakitte, hodgâm insanlar, cüz'î tâcizleri için sinekleri itlâf etmek üzere hapishânedeki odamızda bir ilâç isti'mâl ettiler. Benim fazla rikkatime dokunmuştu. Odamda çamaşır ipi vardı. Bilâhare, o insanların inâdına, sinekler daha ziyâde çoğaldılar. Akşam vaktinde, o küçücük kuşlar, o ip üstünde gayet muntazam diziliyorlardı. Çamaşırları sermek için Rüşdü’ye dedim: “Bu küçücük kuşlara ilişme; başka yere ser.” O da, kemâl-i ciddiyetle, dedi ki: “Bu ip bize lâzımdır; sinekler başka yerde kendilerine yer bulsun.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Her ne ise… Bu latîfe münâsebetiyle, seher vaktinde, sinek ve karınca gibi kesretli küçük hayvanlardan bahis açıldı. Ona dedim ki:"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Böyle nüshaları çoğalan nev'ilerin ehemmiyetli vazifeleri ve kıymetleri vardır. Evet, bir kitab, kıymeti nisbetinde nüshaları teksir edilir. Demek, sinek cinsi de ehemmiyetli vazifesi ve büyük kıymeti var ki, Fâtır-ı Hakîm, o küçücük kaderî mektûbları ve kudret kelimelerinin nüshalarını çok teksir etmiş. Evet, Kur'ân-ı Hakîm’in:"
+        },
+        {
+          "text": "يَٓا اَيُّهَا النَّاسُ ضُرِبَ مَثَلٌ فَاسْتَمِعُوا لَهُ اِنَّ الَّذ۪ينَ تَدْعُونَ مِنْ دُونِ اللّٰهِ لَنْ يَخْلُقُوا ذُبَابًا وَلَوِاجْتَمَعُوا لَهُ وَاِنْ يَسْلُبْهُمُ الذُّبَابُ شَيْئًا لَا يَسْتَنْقِذُوهُ مِنْهُ ضَعُفَ الطَّالِبُ وَالْمَطْلُوبُ",
+          "red": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "$64"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Evet, Cenâb-ı Hak, nasıl ki deniz yüzünü temizlemek ve her günde milyarlarla vefiyât bulunan hayvanat-ı bahriye cenazelerini "
+        },
+        {
+          "note": "1"
+        },
+        {
+          "text": " toplamak ve deniz yüzünü cenazelerle âlûde, müstekreh manzaradan kurtarmak için, sıhhiye memurları nev'inden gayet muntazam âkilü'l-lahm bir kısım hayvanatı halk etmiş. Eğer o bahriye sıhhiye memurları gayet muntazam vazifelerini îfâ etmeseydiler, deniz yüzü ayna gibi parlamayacaktı. Belki hazîn ve elîm bir bulanıklık gösterecekti."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem her günde milyarlarla yabânî hayvanlar ve kuşların cenazelerini toplamakla rû-yi zemini o taaffünâttan temizlemek ve zîhayatları o elîm, hazîn manzaralardan kurtarmak için, nezâfet ve sıhhiye memurları hükmünde olan kartallar misilli, kerâmetkârâne, gizli ve uzak, beş-altı saat mesâfeden bir sevk-i Rabbânî ile o cenazenin yerini hisseden, giden ve kaldıran âkilü'l-lahm kuşları ve vahşî hayvanları halk etmiş. Eğer bu berriye sıhhiyeleri gayet mükemmel, intizam-perver ve vazifedâr olmasa idiler, zemin yüzü ağlanacak bir şekil alacaktı."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Evet, âkilü'l-lahm hayvanların helâl rızıkları, vefât etmiş hayvanların etleridir. Hayatta olan hayvanların etleri onlara haramdır. Eğer yeseler, "
+        },
+        {
+          "text": "حَتّٰى يَقْتَصُّ الْجَمَّاءُ مِنَ الْقَرْنَاءِ",
+          "red": true
+        },
+        {
+          "text": "ceza görürler (ev kemâ kàl). Yani, “Boynuzsuz olan hayvanın kısâsı kıyâmette boynuzludan alınır.” diye ifâde-i hadîsiye gösteriyor ki: Gerçi cesedleri fenâ bulur; fakat ervâhları bâkî kalan hayvanat mâbeyninde dahi, onlara münâsib bir tarzda, dâr-ı bekàda mücâzât ve mükâfâtları vardır. Ona binâen, canavarlara sağ hayvanların etleri haramdır, denilebilir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem küçücük hayvanların cenazelerini ve ni'metin küçücük parçalarını ve tanelerini toplamak vazifesiyle karıncaları nezâfet memurları olarak, hem ni'met-i İlâhiye’nin küçücük parçalarını teleften ve çiğnemekten ve hakaretten ve abesiyetten sıyânet etmekle ve küçücük hayvanatın cenazelerini toplamakla, sıhhiye memurları gibi tavzif olunmuşlar."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Aynen onlardan daha mühim, sinekleri dahi, insanın gözüne görünmeyen, hastalıkların mikroplarını ve madde-i semmiyeyi temizlemekle, sinekler muvazzaftırlar. Değil mikropların nâkileleri, bil'akis, muzır mikropları mass, yani, emmek ve yemekle o mikropları imha, o madde-i semmiyeyi istihâleye uğratırlar, çok sârî hastalıkların önünü alırlar. Hem sıhhiye neferleri, hem tanzîfât memurları, hem kimyager olduklarına ve geniş bir hikmete mazhar bulunduklarına delil ise, onların gayet kesretidir. Çünkü kıymetdâr, menfaatdâr şeyler teksir edilir. "
+        },
+        {
+          "note": "2"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ey hodgâm insan! Sineklerin binler hikmet-i hayatiyesinden başka, sana ait bu küçücük faydasına bak, sinek düşmanlığını bırak: Çünkü, gurbette, kimsesiz, yalnızlıkta sana ünsiyet verdiği gibi, gaflete dalıp fikrini dağıtmaktan seni îkaz eder. Ve latîf vaziyeti ve abdest alması gibi yüzünü, gözünü temizlemesiyle, sana abdest ve namaz, hareket ve nezâfet gibi vazife-i insaniyeti ihtar eder ve ders veren sineği görüyorsun."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem sineğin bir sınıfı olan arılar, ni'metlerin en tatlısı, en latîfi olan balı sana yedirdikleri gibi, Kur'ân-ı Mu'cizü'l-Beyân’da, vahy-i Rabbânîye mazhariyetle serfirâz olduğundan, onları sevmek lâzım gelirken, sinek düşmanlığı, belki insana dâima muâvenete dostâne koşan ve her belâsını çeken o hayvanata düşmanlığı gadirdir, haksızlıktır. Muzırların yalnız zararlarını def' için mücâdele olabilir. Meselâ koyunları kurtların tecâvüzünden korumak için onlara mukàbele edilir. Acaba harâret zamanında vücûdun idaresinden fazla olan kanın çoğalması ve bulaşık ve bazı mevâdd-ı muzırrayı hâmil evridede cereyan eden mülevves kana musallat, belki memur olan sivrisinek ve pireler fıtrî haccâmlar olmasınlar mı? Muhtemel…"
+    },
+    {
+      "type": "arabic",
+      "text": "سُبْحَانَ مَنْ تَحَيَّرَ ف۪ي صُنْعِهِ الْعُقُولُ",
+      "red": true
+    },
+    {
+      "type": "paragraph",
+      "text": "Nefsimle mücâdele ettiğim bir zamanda, nefsim kendinde gördüğü ni'met-i İlâhiye’yi kendi malı tevehhüm ederek gurura, iftihara, temeddühe başladı. Ben ona dedim ki: “Bu mülk senin değil, emânettir.” O vakit nefis gurur ve iftiharı bıraktı, fakat tenbelliğe başladı. “Benim malım olmayana ne bakayım? Zâyi' olsun, bana ne?” dedi. Birden gördüm: Bir sinek, elime kondu, emânetullâh olan gözünü, yüzünü, kanatlarını güzelce temizlemeye başladı. Bir neferin mîrî silâhını, elbisesini güzelce temizlediği gibi, sinek de temizliyordu. Nefsime dedim: “Bak.” Baktı, tam ders aldı. Sinek ise, mağrûr ve tenbel nefsime hoca ve muallim oldu."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Sinek pisliği, tıb cihetiyle zararı yok bir maddedir ki, bazen tatlı bir şurubdur. Fakat sinek, yediği binler muhtelif muzır maddelerin ve mikropların ve semlerin menşe'i olmakla, sinekler küçücük istihâle ve tasfiye makineleri hükmüne geçmeleri Hikmet-i Rabbâniye’den uzak değildir, belki şe'nindendir. Evet, arıdan başka sineklerin bazı tâifeleri var ki, "
+        },
+        {
+          "note": "3"
+        },
+        {
+          "text": " muhtelif ve müteaffin maddeleri yerler, mütemâdiyen pislik yerine katre katre şurub damlatırlar. O semli, müteaffin maddeleri ağaçların yapraklarına yağan kudret helvası gibi tatlı, şifâlı bir şuruba tebdil ederek, bir istihâle makinesi olduklarını isbât ederler. Bu küçücük ferdlerin ne kadar büyük bir milleti, bir tâifesi olduğunu göze gösterirler. “Küçüklüğümüze bakma. Tâifemizin azametine bak, ‘Sübhânallâh’ de.” diye lisân-ı hâl ile söylerler."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Dördüncü Nükte"
+    },
+    {
+      "type": "arabic",
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
+    },
+    {
+      "type": "quote",
+      "text": "وَاَنْزَلْنَا الْحَد۪يدَ ف۪يهِ بَأْسٌ شَد۪يدٌ وَمَنَافِعُ لِلنَّاسِâyetine dair gayet ehemmiyet kesb etmiş. Mühim ve mütefennin bir adam bu suâl ile bazı hocaları ilzam ettiği bir suâle muhtasar bir cevaptır."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Suâl:",
+          "bold": true
+        },
+        {
+          "text": " Deniliyor ki: “Demir yerden çıkıyor; yukarıdan inmiyor ki "
+        },
+        {
+          "text": "اَنْزَلْنَا",
+          "red": true
+        },
+        {
+          "text": " denilsin. Neden "
+        },
+        {
+          "text": "اَخْرَجْنَا",
+          "red": true
+        },
+        {
+          "text": " dememiş; zâhiren muvâfık görülmeyen "
+        },
+        {
+          "text": "اَنْزَلْنَا",
+          "red": true
+        },
+        {
+          "text": " demiş?”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elcevab:",
+          "bold": true
+        },
+        {
+          "text": " Kur'ân-ı Mu'cizü'l-Beyân, "
+        },
+        {
+          "text": "اَنْزَلْنَا",
+          "red": true
+        },
+        {
+          "text": " kelimesiyle, demirdeki azîm ve çok ehemmiyetli ni'met cihetini ihtar etmek için "
+        },
+        {
+          "text": "اَنْزَلْنَا",
+          "red": true
+        },
+        {
+          "text": " demiş. Çünkü yalnız demirin zâtını nazara vermiyor ki, “ihrac” desin. Belki demirdeki ni'met-i azîmeyi ve nev'-i beşerin demire ne derece muhtaç olduğunu ihtar içindir. Ni'met ciheti ise aşağıdan yukarıya çıkmıyor, belki rahmet hazinesinden geliyor. Rahmet hazinesi elbette àlî, yukarı ve ma'nen yüksek mertebededir. Elbette ni'met yukarıdan aşağıyadır ve muhtaç olan beşerin mertebesi aşağıdadır. Elbette in'âm, ihtiyacın mâfevkindedir. Onun için, ni'metin hazine-i rahmetten beşerin ihtiyacına imdâd için gelmesinin hak tâbiri, "
+        },
+        {
+          "text": "اَنْزَلْنَا",
+          "red": true
+        },
+        {
+          "text": "’dır, “ihrac” değildir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Hem tedrîcî ihrâcat beşerin eliyle olduğu için, “ihrac” kelimesi ihsân cihetini nazar-ı gaflete hissettirmez. Evet, demirin maddesi murad olunsa, mekân-ı maddî itibariyle ihraçtır. Fakat demirin sıfatı ve burada mânâ-yı maksûdu olan “ni'met” ise, manevîdir. Bu mânâ-yı maddî, mekâna bakmıyor, belki manevî mertebeye bakar. Rahmân’ın hadsiz mertebe-i ulviyetinin bir tecellîsi olan hazine-i rahmetten gelen ni'met, elbette en yüksek makamdan en aşağı mertebeye gönderiliyor. Hak tâbiri "
+        },
+        {
+          "text": "اَنْزَلْنَا",
+          "red": true
+        },
+        {
+          "text": "’dır."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu tâbirle nev'-i beşere ihtar eder ki, demir en büyük bir ni'met-i İlâhiye’dir."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Evet, nev'-i beşerin bütün san'atlarının mâdeni ve terakkiyâtının menba'ı ve kuvvetinin medârı demirdir. İşte bu azîm ni'meti ihtar için, makam-ı imtinan ve in'âmda, kemâl-i haşmetle "
+        },
+        {
+          "text": "وَاَنْزَلْنَا الْحَد۪يدَ ف۪يهِ بَأْسٌ شَد۪يدٌ وَمَنَافِعُ لِلنَّاسِ",
+          "red": true
+        },
+        {
+          "text": " fermân ediyor. Nasıl ki Hazret-i Dâvud’a en mühim bir mu'cize olarak "
+        },
+        {
+          "text": "وَاَلَنَّا لَهُ الْحَد۪يدَ",
+          "red": true
+        },
+        {
+          "text": "fermân ediyor. Yani, büyük bir peygambere büyük bir mu'cize ve büyük bir ni'met olarak demiri yumuşatmasını gösteriyor."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Sâniyen:",
+          "bold": true
+        },
+        {
+          "text": " “Yukarı”, “aşağı” nisbîdir. Küre-i arzın merkezine göre yukarı ve aşağı oluyor. Hattâ bize nisbeten aşağı olan bir şey, Amerika kıt'asına nazaran yukarı oluyor. Demek, merkezden sath-ı arz tarafına gelen maddeler, sath-ı arzda olanlara göre vaziyeti değişir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Kur'ân-ı Mu'cizü'l-Beyân i'câz lisânı ile ifâde ediyor ki: Demirin o kadar çok menâfi'i, o kadar geniş fevâidi vardır ki, insanın hânesi olan küre-i arzın mahzeninden çıkarılacak âdi bir madde değildir. Ve rastgele hâcâtta isti'mâl edilmiş fıtrî bir mâden değildir. Belki Hàlık-ı Kâinâtın tarafından rahmet hazinesinde ve kâinâtın büyük tezgâhından ihzar edilmiş bir ni'met olarak, “Rabbü's-Semâvâti ve'l-Ard” ünvân-ı haşmetiyle de küre-i arz sekenesinin hâcâtına medâr olmak için demiri inzâl etmiş, indirmiş diye, demirdeki umumî menfaati ifâde için, güyâ demirin gökten gelen rahmet, harâret ve ziyâ gibi öyle şümûllü faydaları var ki, kâinât tezgâhından gönderiliyor, küre-i arzın dar anbarından değil. Belki kâinât sarayındaki büyük hazine-i rahmetten ihzar edilerek gönderilip, küre-i arzın anbarında yerleştirilmiş; o anbardan asırların ihtiyacına nisbeten parça parça ihrac ediliyor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Kur'ân-ı Azîmü'ş-Şân, bu küçük anbardaki parça parça çıkarılan demiri, yalnız “sarf etmek” mânâsını ifâde etmek istemiyor. Belki Hazine-i Kübrâdan o ni'met-i azîmeyi küre-i arz ile beraber indirdiğini ifâde etmek için; yani, bu küre-i arz hânesine en lâzım şey demirdir ki, Hàlık-ı Zülcelâl, güyâ küre-i arzı güneşten ayırıp insanlar için indirdiği zaman, demiri de beraber inzâl etmiş ve ekser ihtiyac-ı beşer onunla te'min edilmiştir. Kur'ân-ı Hakîm, “Bu demirle işlerinizi görünüz ve onu çıkarmaya çalışarak istifade ediniz.” diye, mu'cizâne fermân ediyor."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Bu âyette hem def'-i a'dâya, hem celb-i menâfi'e medâr iki ni'met beyân ediyor. Nüzûl-ü Kur'ân’dan evvel demirle ehemmiyetli menâfi'-i beşeriye te'min edildiği görülmüş. Fakat istikbâlde demirin gayet hàrika ve muhayyirü'l-ukùl bir sûrette, denizde, havada ve karada gezerek küre-i arzı musahhar edip, mevt-âlûd bir hàrika kuvveti gösterdiğini ifâde için, "
+        },
+        {
+          "text": "ف۪يهِ بَأْسٌ شَد۪يدٌ",
+          "red": true
+        },
+        {
+          "text": " kelimesiyle, ihbar-ı gaybî nev'inden bir lem'a-i i'câz gösteriyor."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Beşinci Nükte"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Geçmiş nükteden bahsederken hüdhüd-ü Süleyman’dan bahis açıldı. Israrcı ve suâlci bir kardeşimiz: "
+        },
+        {
+          "note": "4"
+        },
+        {
+          "text": " “Hüdhüdün, Cenâb-ı Hakk’ı tavsifte"
+        },
+        {
+          "text": "يُخْرِجُ الْخَبْءَ فِي السَّمَاوَاتِ وَالْاَرْضَ",
+          "red": true
+        },
+        {
+          "text": " diyerek mühim makamda, mühim evsâf-ı İlâhiye içinde, nisbeten hafif bu vasfın zikrine sebeb nedir?”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elcevab:",
+          "bold": true
+        },
+        {
+          "text": " Belîğ bir kelâmın bir meziyeti şudur ki, söyleyenin ziyâde meşgul olduğu san'atını, meşgalesini ihsâs etsin. Hüdhüd-ü Süleymânî ise, suyu az olan sahrâ-yı Cezîretü'l-Arabda gizli su yerlerini ferâsetle, kerâmetvâri keşfeden bedevî ârifleri gibi, hayvan ve tuyûrun ârifi olarak ve Hazret-i Süleyman Aleyhisselâm’a küngânlık eden ve su buldurup çıkarttıran mübârek ve vazifedâr bir kuş olmakla, kendi san'atının mikyâsçığıyla Cenâb-ı Hakk’ın semâvât ve arzdaki mahfiyâtı çıkarmakla ma'bûdiyetini ve mescûdiyetini isbât ettiğini, kendi san'atçığıyla bilip ifâde ediyor."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Evet, hüdhüd pek güzel görmüş. Çünkü, toprak altındaki had ve hesaba gelmeyen tohumların, çekirdeklerin, mâdenlerin muktezâ-yı fıtrîsi, aşağıdan yukarıya çıkmak değildir. Çünkü ecsâm-ı sakîle ihtiyarsız, rûhsuz olduğu için, kendi yukarıya çıkamaz; yukarıdan kendi kendine aşağıya düşebilir. Aşağıdan, hususan toprak sıkleti altında gizlenen bir cisim, câmid omuzundaki ağır yükü silkip çıkmak, kat'iyyen kendi kendine olamaz. Demek bir kudret-i hàrika ile çıkarılıyor."
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte, hüdhüd, berâhin-i ma'bûdiyet ve mescûdiyetin en gizlisini ve en mühimmini kendi ârifliğiyle bilmiş, bulmuş; Kur'ân-ı Hakîm onun hakkındaki ifâdesine bir i'câz vermiştir."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Altıncı Nükte"
+    },
+    {
+      "type": "arabic",
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
+    },
+    {
+      "type": "arabic",
+      "text": "قُلْ لَوْ كَانَ الْبَحْرُ مِدَادًا لِكَلِمَاتِ رَبّ۪ي لَنَفِدَ الْبَحْرُ قَبْلَ اَنْ تَنْفَدَ كَلِمَاتُ رَبّ۪ي وَلَوْ جِئْنَا بِمِثْلِه۪ مَدَدًا",
+      "red": true
+    },
+    {
+      "type": "quote",
+      "text": "Şu âyet-i azîme çok büyük ve çok àlî ve çok geniş bir denizdir. Onun cevherlerini beyân etmek için koca bir cild kitab yazmak lâzım gelir. Onun o kıymetdâr cevâhirini başka zamana ta'likan, şimdilik yalnız birkaç gün evvel tahattur-u hakàik noktasında, benim için ehemmiyetli bir zaman olan namaz tesbihâtında, uzaktan uzağa fikrin nazarına ilişen bir nüktenin şuâı göründü. O zamanda kaydedemedik; gittikçe tebâüd ediyordu. Bütün bütün kaybolmadan evvel o nüktenin bir cilvesini avlamak için, etrafında dâirevâri birkaç kelime söyleyeceğiz."
+    },
+    {
+      "type": "heading",
+      "text": "BİRİNCİ KELİME"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kelâm-ı Ezelî, ilim, kudret gibi bir sıfat-ı İlâhiye olduğu cihetle, gayr-ı mütenâhîdir. Nihâyetsiz olan bir şeye denizler mürekkeb olsa, elbette bitiremez."
+    },
+    {
+      "type": "heading",
+      "text": "İKİNCİ KELİME"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bir zâtın vücûdunu ihsâs eden en zâhir, en kuvvetli eser, tekellümüdür. Bir zâtın kelâmını işitmek, bin delil kadar vücûdunu, belki şühûd derecesinde, isbât ettiği nokta-i nazarda, bu âyet-i kerîme mânâ-yı işârîsiyle diyor ki: “Rabb-i Zülcelâl’in vücûdunu gösteren kelâm-ı İlâhînin adedini, denizler mürekkeb olsa, ağaçlar kalem olsa, yazsalar, bitiremezler. Yani, bir zâtın böyle bir kelâmı, vücûduna şühûd derecesinde delâlet ettiğine bedel; Zât-ı Ehad-i Samede, kelâmın mütekellime delâleti ve ihsâsı gibi had ve hesaba gelmeyen hadsizdir ki, umum denizlerin suyu mürekkeb olsa, yazmasına kifâyet etmez.” demektir."
+    },
+    {
+      "type": "heading",
+      "text": "ÜÇÜNCÜ KELİME"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kur'ân-ı Mu'cizü'l-Beyân hakàik-ı îmâniyeyi umum tabakàt-ı beşere ders verdiği için, tesbit ve tahkîk ve iknâ etmek hikmetiyle, bir hakikati zâhiren tekrar ettiği için, ehl-i ilim ve ehl-i kitab bulunan o zaman ulemâ-i Yehûd, Peygamber-i Zîşan Aleyhissalâtü Vesselâm’ın ümmîliğine ve kıllet-i ilmine gayet haksız bir taarruz ettiklerine ma'nen bir cevaptır. Şöyle ki:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Âyet-i kerîme der: “Tahkîk ve iknâ gibi pek çok hikmetler için ayrı ayrı faydalar nokta-i nazarında çok müteaddid neticeleri bulunan bir hakikati, umumun, bilhassa avâmın kalbinde yerleştirmek için, erkân-ı îmâniye gibi herbir mes'elesi bin mesâil kıymetinde ve binler hakàikı tazammun eden mes'eleleri ayrı ayrı, mu'cizâne tarzlarda tekrarını, hasr-ı kelâmî ve kusur-u zihnî ve sermâyenin noksaniyetinden değildir. Belki hadsiz, nihâyetsiz hazine-i ezeliye-i kelâm-ı İlâhîden alınan ve âlem-i gayb hesabına âlem-i şehâdete müteveccih olup, cin, ins, rûh, melekle konuşan ve her ferdin kulağında tanîn-endâz olan Kur'ân’ın menba'ı bulunan Kelâm-ı Ezelî’nin kelimâtını saymak için denizler mürekkeb olsa, zîşuûrlar kâtib, nebâtâtlar kalem, belki zerrâtlar kalem ucu olsalar, yine bitiremezler. Çünkü bunlar mütenâhî, o ise nihâyetsizdir.”"
+    },
+    {
+      "type": "heading",
+      "text": "DÖRDÜNCÜ KELİME"
+    },
+    {
+      "type": "paragraph",
+      "text": "$69"
+    },
+    {
+      "type": "paragraph",
+      "text": "Evet, bitiremezler. Çünkü Cenâb-ı Hak beşerin zayıf, rûhsuz kelâmının adedini havada milyonlar kadar teksir etse, elbette arz ve semâvâtın Pâdişah-ı Bî-misâlinin arz ve semâvâta bakan ve arz ve semâvâtta umum zîşuûrlara hitâb eden kelâmının herbir kelimesi zerrât-ı havâiye adedince kelimeler olur."
+    },
+    {
+      "type": "heading",
+      "text": "BEŞİNCİ KELİME"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İki Harftir.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Birinci Harf:",
+          "bold": true
+        },
+        {
+          "text": " Nasıl ki sıfat-ı Kelâmın kelimeleri var. Öyle de, Kudretin de mücessem kelimeleri var; İlmin de hikmetli kaderî kelimeleri var ki, bütün mevcûdâttır. Hususan zîhayatlar, hususan küçük mahlûklar, herbiri birer kelime-i Rabbâniyedir ki Mütekellim-i Ezelî’ye, kelâmdan daha kuvvetli bir sûrette işâret eder. Ve onların adedini, denizler mürekkeb olsa bitiremezler, demek olduğu mânâsına dahi şu âyet-i kerîme remzen bakıyor."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İkinci Harf:",
+          "bold": true
+        },
+        {
+          "text": " Bütün melâikelere ve insanlara, hattâ hayvanlara gelen umum ilhâmlar, bir nev'i kelâm-ı İlâhîdir. Bu kelâmın kelimâtı elbette gayr-ı mütenâhîdir. Saltanat-ı Mutlakanın nihâyetsiz cünûdunun mütemâdiyen aldıkları ilhâm ve o emr-i İlâhiye’nin kelimâtı ne derece çok ve nihâyetsiz olduğunu âyet bize haber veriyor demektir."
+        }
+      ]
+    },
+    {
+      "type": "arabic",
+      "text": "وَالْعِلْمُ عِنْدَ اللّٰهِلَا يَعْلَمُ الْغَيْبَ اِلَّا اللّٰهُ",
+      "red": true
+    },
+    {
+      "type": "heading",
+      "text": "Yedinci Nükte"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Azîz kardeşim!",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Vahdetü'l-Vücûda dair bir parça izâhat istiyorsunuz. Bu mes'eleye dair Otuzbirinci Mektûb’un bir lem'asında, Hazret-i Muhyiddin’in bu mes'eledeki fikrine karşı gayet kuvvetli ve izâhlı bir cevab vardır. Şimdilik bu kadar deriz ki:"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Bu mes'ele-i vahdetü'l-vücûdu şimdiki insanlara telkin etmek, ciddi zarar verir. Nasıl ki; teşbihât ve temsîller, hàvâssın elinden avâmın eline ve ilmin elinden cehlin eline girse, hakikat telâkki edilir. "
+        },
+        {
+          "note": "5"
+        },
+        {
+          "text": " Öyle de; vahdetü'l-vücûd mes'elesi gibi hakàik-ı ulviye, ehl-i gaflet ve esbâb içine dalan avâmlara girse, tabiat telâkki edilir ve üç mühim zarar verir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Birincisi:",
+          "bold": true
+        },
+        {
+          "text": " Vahdetü'l-Vücûdun meşrebi, Cenâb-ı Hak hesabına kâinâtı âdeta inkâr etmek iken; avâma girdikçe, gâfil avâmlara, hususan maddiyûn fikirleriyle âlûde olan fikirlere girdikçe, kâinât ve maddiyât hesabına Ulûhiyeti inkâr yoluna gider."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İkincisi:",
+          "bold": true
+        },
+        {
+          "text": " Vahdetü'l-Vücûd meşrebi, mâsivâ-yı İlâhî’nin Rubûbiyetini o derece şiddetle reddeder ki, mâsivâyı inkâr ve ikiliği ref'ediyor. Değil nüfûs-u emmârenin, belki herbir şeyin müstakil vücûdunu görmemek iken; bu zamanda fikr-i tabiatın istilâsıyla ve gurur ve enâniyetin nefs-i emmâreyi şişirmesiyle ve âhireti ve Hàlık’ı bir derece unutmak cihetiyle bazı nüfûs-u emmâre küçük birer fir'avun, âdeta nefsini ma'bûd ittihàz etmek isti'dâdında bulunan insanlara Vahdetü'l-Vücûdu telkin etmek, nefs-i emmâreyi – El-iyâzü Billâh – öyle şımartır ki, ele avuca sığmaz."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Üçüncüsü:",
+          "bold": true
+        },
+        {
+          "text": "$65"
+        }
+      ]
+    },
+    {
+      "type": "arabic",
+      "text": "قُلِ اللّٰهُ ثُمَّ ذَرْهُمْ ف۪ي خَوْضِهِمْ يَلْعَبُونَمَا لِلتُّرَابِ وَلِرَبِّ الْاَرْبَابِ",
+      "red": true
+    },
+    {
+      "type": "arabic",
+      "text": "سُبْحَانَ مَنْ تَقَدَّسَ عَنِ الْاَشْبَاهِ ذَاتُهُ وَتَنَزَّهَتْ عَنْ مُشَابَهَةِ الْاَمْثَالِ صِفَاتُهُ وَشَهِدَ عَلٰى رُبُوبِيَّتِهِ اٰيَاتُهُ جَلَّ جَلَالُهُ وَلَٓا اِلٰهَ اِلَّا هُوَ",
+      "red": true
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Said Nursî",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Bir Suâle Cevab"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mustafa Sabri ile Mûsa Bekûf’un efkârlarını muvâzene etmek için vaktim müsâid değildir. Yalnız bu kadar derim ki: “Birisi ifrat etmiş, diğeri tefrit ediyor.” Mustafa Sabri gerçi müdafaâtında Mûsa Bekûf’a nisbeten haklıdır; fakat Muhyiddin gibi, ulûm-u İslâmiyenin bir mu'cizesi bulunan bir zâtı tezyifte haksızdır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Evet, Muhyiddin, kendisi hâdî ve makbûldür. Fakat her kitabında mühdî ve mürşid olamıyor. Hakàikta çok defa mîzansız gittiğinden, kavâid-i Ehl-i Sünnete muhâlefet ediyor. Ve bazı kelâmları, zâhirî dalâlet ifâde ediyor. Fakat kendisi dalâletten müberrâdır. Bazen kelâm küfür görünür; fakat sâhibi kâfir olamaz. Mustafa Sabri bu noktaları nazara almamış; kavâid-i Ehl-i Sünnete taassub cihetiyle bazı noktalarda tefrit etmiş."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Mûsa Bekûf ise, ziyâde teceddüde tarafdâr ve asrîliğe mümâşâtkâr efkârıyla çok yanlış gidiyor. Bazı hakàik-ı İslâmiyeyi yanlış te'viller ile tahrif ediyor. Ebu'l-Alâ-i Maarrî gibi merdud bir adamı muhakkìkînlerin fevkınde tuttuğundan ve kendi efkârına uygun gelen Muhyiddin’in Ehl-i Sünnete muhâlefet eden mes'elelerine ziyâde tarafdârlığından, ziyâde ifrat ediyor. "
+        },
+        {
+          "text": "قَالَ مُحْيِ الدّ۪ينِ: تُحْرَمُ مُطَالَعَةُ كُتُبِنَا عَلٰى مَنْ لَيْسَ مِنَّا",
+          "red": true
+        },
+        {
+          "text": " Yani; “Bizden olmayan ve makamımızı bilmeyen, kitaplarımızı okumasın; zarar görür.” Evet, bu zamanda Muhyiddin’in kitapları, hususan vahdetü'l-vücûda dair mes'elelerini okumak zararlıdır."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Said Nursî",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Sekizinci Nükte"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "“Bu da Güzeldir”",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "اَلْفُ اَلْفِ صَلَاةٍ وَاَلْفُ اَلْفِ سَلَامٍ عَلَيْكَ يَارَسُولَ اللّٰهِ",
+          "red": true
+        },
+        {
+          "text": " cümlesi namaz tesbihâtında okunurken, inkişaf eden latîf bir nükteyi uzaktan uzağa gördüm. Tamamını tutamadım; fakat işâret nev'inden bir-iki cümlesini söyleyeceğim."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Gördüm ki; gece âlemi, dünyanın yeni açılmış bir menzili gibidir. Yatsı namazında o âleme girdim. Hayâlin fevkalâde inbisatından ve mâhiyet-i insaniyenin bütün dünya ile alâkadarlığından, koca dünyayı, o gecede bir menzil gibi gördüm. Zîhayatlar ve insanlar o derece küçüldüler, görünmeyecek derecede küçüldüler. Yalnız o menzili şenlendiren ve ünsiyetlendiren ve nurlandıran tek Şahsiyet-i Maneviye-i Muhammediye’yi (asm) hayâlen müşâhede ettim. Bir adam yeni bir menzile girdiği zaman menzildeki zâtlara selâm ettiği gibi, “Binler selâm "
+        },
+        {
+          "note": "6"
+        },
+        {
+          "text": " sana, yâ Resûlallâh!” demeye bir arzuyu içimde coşar buldum. Güyâ bütün ins ve cinnin adedince selâm ediyorum. Yani; sana tecdîd-i bîat edip, memuriyetini kabûl ve getirdiğin kanunlarına itâat ve evâmirine teslîm ve taarruzumuzdan selâmet bulacağını selâm ile ifâde edip, benim dünyamın eczâları ve zîşuûr mahlûkları olan umum cin ve insi konuşturup, herbirerlerinin nâmına bir selâmı, mezkûr mânâlarla takdim ettim."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem o getirdiği nur ve hediye ile benim bu dünyamı tenvir ettiği gibi, herkesin bu dünyadaki dünyalarını tenvir ediyor, ni'metlendiriyor diye o hediyesine şâkirâne bir mukàbele nev'inden, “Binler salavât sana insin!” dedim. Yani; “Senin bu iyiliğine karşı biz mukàbele edemiyoruz. Belki Hàlık’ımızın hazine-i rahmetinden gelen ve semâvât ehlinin adedince rahmetler sana gelmesini niyâz ile şükrânımızı izhâr ediyoruz” mânâsını hayâlen hissettim."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "O Zât-ı Ahmediye (asm) ubûdiyeti cihetiyle, halktan Hakk’a teveccühü hasebiyle, rahmet mânâsındaki salâtı ister. Risaleti cihetiyle, Hak’tan halka elçiliği haysiyetiyle selâm ister. Nasıl ki, cin ve ins adedince selâma lâyık ve cin ve ins adedince umumî tecdîd-i bîatı takdim ediyoruz. Öyle de; semâvât ehli adedince, hazine-i rahmetten, herbirinin nâmına bir salâta lâyıktır. Çünkü getirdiği nur ile herbir şeyin kemâli görünür ve herbir mevcûdun kıymeti tezâhür eder ve herbir mahlûkun vazife-i Rabbâniye’si müşâhede olunur ve herbir masnû'daki makàsıd-ı İlâhiye tecellî eder. Onun için, herbir şey, lisân-ı hâl ile olduğu gibi, lisân-ı kàli de olsaydı, “Essalâtü vesselâmü aleyke yâ Resûlallâh!” diyecekleri kat'î olduğundan, biz umum onların nâmına, "
+        },
+        {
+          "text": "اَلْفُ اَلْفِ صَلَاةٍ وَاَلْفُ اَلْفِ سَلَامٍ عَلَيْكَ يَا رَسُولَ اللّٰهِ بِعَدَدِ الْجِنِّ وَالْاِنْسِ وَبِعَدَدِ الْمَلَكِ وَالنُّجُومِ",
+          "red": true
+        },
+        {
+          "text": " ma'nen deriz."
+        }
+      ]
+    },
+    {
+      "type": "arabic",
+      "text": "فَيَكْف۪يكَ اَنَّ اللّٰهَ صَلّٰى بِنَفْسِهِ ❋ وَاَمْلَاكَهُ صَلَّتْ عَلَيْهِ وَسَلَّمَتْ",
+      "red": true
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Said Nursî",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Dokuzuncu Nükte"
+    },
+    {
+      "type": "arabic",
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
+    },
+    {
+      "type": "arabic",
+      "text": "اَوْ هُمْ قَٓائِلُونَ",
+      "red": true
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Re'fet, "
+        },
+        {
+          "text": "اَوْ هُمْ قَٓائِلُونَ",
+          "red": true
+        },
+        {
+          "text": " âyet-i celîlesindeki "
+        },
+        {
+          "text": "قَٓائِلُونَ",
+          "red": true
+        },
+        {
+          "text": " kelimesinin mânâsını merak edip sorması münâsebetiyle ve hapiste sabah namazından sonra sâirler gibi yatmasından gelen rehàvet dolayısıyla, elmas gibi kalemini atâlete uğratmamak için yazılmıştır."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Uyku üç nev'idir:"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Birincisi:",
+          "bold": true
+        },
+        {
+          "text": " Gaylûledir ki, fecirden sonra, tâ vakt-i kerâhet bitinceye kadardır. Bu uyku, rızkın noksaniyetine ve bereketsizliğine hadîsçe sebebiyet verdiği için, hilâf-ı sünnettir. Çünkü rızık için sa'y etmenin mukaddemâtını ihzar etmenin en münâsib zamanı, serinlik vaktidir. Bu vakit geçtikten sonra bir rehàvet ârız olur. O günkü sa'ye ve dolayısıyla da rızka zarar verdiği gibi, bereketsizliğe de sebebiyet verdiği, çok tecrübelerle sâbit olmuştur."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İkincisi:",
+          "bold": true
+        },
+        {
+          "text": " Feylûledir ki, ikindi namazından sonra, mağribe kadardır. Bu uyku ömrün noksaniyetine, yani, uykudan gelen sersemlik cihetiyle, o günkü ömrü nevm-âlûd, yarı uyku, kısacık bir şekil aldığından, maddî bir noksaniyet gösterdiği gibi; manevî cihetiyle de o gün hayatının maddî ve manevî neticesi ekseriyâ ikindiden sonra tezâhür ettiğinden, o vakti uyku ile geçirmek, o neticeyi görmemek hükmüne geçtiğinden, güyâ o günü yaşamamış gibi oluyor."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Üçüncüsü:",
+          "bold": true
+        },
+        {
+          "text": " Kaylûledir ki, bu uyku Sünnet-i Seniye’dir. Duhâ vaktinden, öğleden biraz sonraya kadardır. Bu uyku, gece kıyâmına sebebiyet verdiği için sünnet olmakla beraber, Cezîretü'l-Arab’da, vaktü'z-zuhr denilen şiddet-i harâret zamanında bir ta'tîl-i eşgâl, âdet-i kavmiye ve muhîtiye olduğundan, o Sünnet-i Seniye’yi daha ziyâde kuvvetlendirmiştir. Bu uyku hem ömrü, hem rızkı tezyîde medârdır. Çünkü yarım saat kaylûle, iki saat gece uykusuna muâdil gelir. Demek, ömrüne her gün bir buçuk saat ilâve ediyor. Rızık için çalışmak müddetine, yine bir buçuk saati ölümün kardeşi olan uykunun elinden kurtarıp yaşatıyor ve çalışmak zamanına ilâve ediyor."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Said Nursî",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Onuncu Nükte"
+    },
+    {
+      "type": "arabic",
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
+    },
+    {
+      "type": "paragraph",
+      "text": "Nev'-i beşerin ağlanacak gülmelerine, endişe-i istikbâl ve âkıbetbînlik adesesiyle, gayet şa'şaalı bir gece bayramında, hapishâne penceresinden bakarken, nazar-ı hayâlime inkişaf eden bir vaziyeti beyân ediyorum. Sinemada, eski zamanda mezaristanda yatanların vaziyet-i hayatiyeleri göründüğü gibi, yakın bir istikbâlde mezaristan ehli olanların müteharrik cenazelerini görmüş gibi oldum. O gülenlere ağladım. Birden bir tevahhuş, bir acımak hissi geldi. Aklıma döndüm, hakikatten sordum: “Bu hayâl nedir?” Hakikat dedi ki:"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elli sene sonra, bu kemâl-i neş'e ile gülen ve eğlenen zavallılardan elliden beşi, beli bükülmüş, yetmiş yaşlı ihtiyarlar gibi; kırk beşi, mezaristanda çürümüş bulunacaklar. O güzel sîmâlar, o neş'eli gülmeler, zıtlarına inkılâb etmiş olacaklar. "
+        },
+        {
+          "text": "كُلُّ اٰتٍ قَر۪يبٌ",
+          "red": true
+        },
+        {
+          "text": " kaidesiyle, mâdem yakında gelecek şeylerin gelmiş gibi görülmesi bir derece hakikattir; elbette gördüğün hayâl değildir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Mâdem dünyanın gafletkârâne gülmeleri, böyle ağlanacak acı hâllerin perdesidir ve muvakkat ve zevâle ma'rûzdur. Elbette bîçâre insanların ebed-perest kalbini ve aşk-ı bekàya meftûn olan rûhunu güldürecek, sevindirecek, meşrû dâiresinde ve müteşekkirâne, huzurkârâne, gafletsiz, masûmâne eğlencelerdir ve sevâb cihetiyle bâkî kalan sevinçlerdir. Bunun içindir ki, bayramlarda gaflet istilâ edip gayr-ı meşrû dâireye sapmamak için, rivâyetlerde, zikrullâha ve şükre çok azîm terğîbât vardır. Tâ ki, bayramlarda o sevinç ve sürûr ni'metlerini şükre çevirip, o ni'meti idâme ve ziyâdeleştirsin. Çünkü şükür, ni'meti ziyâdeleştirir, gafleti kaçırır."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Said Nursî",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "On Birinci Nükte"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Bir Düstur",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Risale-i Nur talebeleri, Risale-i Nur’un dâiresi haricinde nur aramamalı ve aramaz. Eğer ararsa, Risale-i Nur’un penceresinden ışık veren manevî güneşe bedel bir lambayı bulur, belki güneşi kaybeder."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem Risale-i Nur’un dâiresindeki hàlis, pek kuvvetli ve her ferdine çok rûhları kazandıran ve Sahâbenin sırr-ı veraset-i Nübüvvetle meşreb-i uhuvvetkârânesini gösteren “meşreb-i hıllet ve meslek-i uhuvvet” ise, hariç dâirelerde o pedere ve o mürşide üç cihetle zarar vermek sûretiyle, bir pederi aramaya ihtiyaç bırakmaz; bir tek peder yerine, pek çok ağabeyi buldurur. Elbette büyük kardeşlerin müteaddid şefkatleri, bir pederin şefkatini hiçe indirir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dâireye girmeden evvel bulduğu şeyhi, her ferd o şeyhini, mürşidini, dâirede dahi muhâfaza edebilir. Fakat şeyhi olmayan, dâireye girdikten sonra, ancak dâire içinde mürşid arayabilir. Hem Risaletü'n-Nurun velâyet-i kübrâ olan sırr-ı veraset-i Nübüvvet feyzini veren ders-i hakàik dâiresindeki ilm-i hakikat dahi dâire haricindeki tarîkatlara ihtiyaç bırakmaz. Meğer tarîkatı yanlış anlayıp, güzel rüyalar, hayâller, nur ve zevklere mübtelâ ve âhiret faziletinden ayrı olan dünyevî ve hevesî zevkleri arzulayan ve merciiyet makamını isteyen nefis-perestler ola…"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu dünya dâru'l-hizmettir; – külfet ve meşakkat ile ücret ölçülür – dârü'l-mükâfât değil. Onun içindir ki, ehl-i hakikat keşif ve kerâmetlerdeki ezvâk ve envâra ehemmiyet vermiyorlar. Belki bazen kaçıyorlar, setrini istiyorlar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem Risale-i Nur’un dâiresi çok geniştir; şâkirdleri pek çoktur. Harice kaçanları aramaz, ehemmiyet vermez, belki daha içine almaz. Her insanda bir kalb var. Bir kalb ise, hem dâirede, hem hariçte olamaz."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem hariçteki irşada hevesli zâtlar, Risale-i Nur’un şâkirdleriyle meşgul olmamalı. Çünkü üç cihetle zarar görmeleri muhtemeldir. Takvâ dâiresindeki talebeler irşada muhtaç olmadıkları gibi, hariçte kesretli namazsızlar var. Onları bırakıp bunlarla meşgul olmak irşad değildir. Eğer bu şâkirdleri severse, evvelâ dâire içine girsin, o şâkirdlere peder değil, belki kardeş olsun – fazileti ziyâde ise – ağabeyleri olsun."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem bu hâdisede göründü ki, Risale-i Nur’a intisabın çok ehemmiyeti var ve çok pahalı düştü. Ve buna bu fiyatı veren ve o yolda bütün Âlem-i İslâm nâmına dinsizliğe karşı mücâhede vaziyetini alan aklı başında bir adam, o elmas gibi mesleği terk edip başka mesleklere giremez."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Said",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "On İkinci Nükte"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Azîz kardeşlerim",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Gücenmemek şartıyla bu defa takdirkârâne değil, belki tenkidkârâne iki küçük mes'eleyi beyân edeceğim:"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Birincisi:",
+          "bold": true
+        },
+        {
+          "text": " Ben, sizleri ve Risale-i Nur’u müdafaa için çok da'vâlarda bulundum. O da'vâlardaki şâhidlerimin birinci sınıfı sizlerdiniz. Hâlbuki, inkârınızla hem beni şâhidsiz bıraktınız, hem de hakkımdaki ittihamı takviye ettiniz. Çünkü, sizin kaçmanız ve inkârınız, “Demek bir şey var ki, bunlar yanaşmıyorlar” diye fikir verdi. Hem ben sizlerin nasıl tebrienize çalıştım, sizden çoluk çocukları olmayan kısmı beni yalnız bırakmamak için merdâne yanaşmak lâzımdı. Fakat, iş işten geçti, yeniden yanaşmağa lüzum yok."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İkinci Mes'ele:",
+          "bold": true
+        },
+        {
+          "text": "$64"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu tenkid – hâşâ – sizin umumunuza ve ekserînize ait değil, yalnız bir, iki, üç zâtın kusurlarına da değil, kalblerinin fazla safvetinden ve tarîkata ziyâde heveslerindendir. Hem Isparta’nın en zaîf damarı, sebeb-i ittihamımız olan tarîkatı en kuvvetli sebeb göstermeleri, zannederim bu mânâsız tarîkat hevesi sebebiyet vermiştir. Burada bu tevkîfimizin en kuvvetli sebebi, bu bazı sâfdillerin hevesinden ve benimle de münâsebetleri tarîkat süsü verdiğinden tahmin ederim. Pek çok ricâ ederim benim bu tenkidimden gücenmeyiniz."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Said Nursî",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "On Üçüncü Nükte"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Kardeşlerim,",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Risale-i Nur’u müdafaa ve muhâfazasında herkes, hattâ ben de çekilsem, beş kardeşimizin çekilmemeleri gerektir. Bu arkadaşlarımız: Hüseyin Usta, Halîl İbrahim, Re'fet Bey, Husrev ve Hakkı Efendi’lerdir. Üç evvelkilerin ihtiyarsız ihtiyatsızlığı; diğer ikisinin zâhirî düşmanlarının şahsî garazları yüzünden Risale-i Nur’a karşı çok fazla zarar yapılmak istenilmesine göre, Risale-i Nur ehemmiyetli bir sûrette iştihâr ve intişar etmesi gibi bir ni'met-i uzmâyı netice vermeseydi, bu kadar mağdûr ve masûm Risale-i Nur şâkirdlerinin teellümâtına sebebiyet verdiklerinden dolayı bu kardeşlerimizin rûhları pek çok sıkılacaktı."
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte herkesten ziyâde bu beş kardeşimizin ihtiyat edip yek-vücûd bulunmaları lâzımdır."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Said Nursî",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "On Dördüncü Nükte"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Kardeşlerim,",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Kalbime ihtar edildi ki; nasıl ki, Mesnevî-i Şerîf, şems-i Kur'ân’dan tezâhür eden yedi hakikatten bir hakikatin aynası olmuş, kudsî bir şerâfet almış; Mevlevîlerden başka daha çok ehl-i kalbin lâyemût bir mürşidi olmuş. Öyle de, Risale-i Nur şems-i Kur'âniyenin ziyâsındaki elvân-ı seb'ayı ve o güneşteki renk renk, çeşit çeşit yedi nuru birden aynasında temessül ettirdiğinden – inşâallâh – yedi cihetle şerîf ve kudsî ve yedi Mesnevî kadar ehl-i hakikate bâkî bir rehber ve bir mürşid olacak."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "On Beşinci Nükte"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Kardeşlerim,",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "$64"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Said Nursî",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "On Altıncı Nükte"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Kardeşlerimden ricâ ederim ki:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sıkıntı veya rûh darlığından veya titizlikten veya nefis ve şeytanın desîselerine kapılmaktan veya şuûrsuzluktan arkadaşlardan sudûr eden fenâ ve çirkin sözleriyle birbirine küsmesinler ve “Haysiyetime dokundu.” demesinler. Ben o fenâ sözleri kendime alıyorum. Damarınıza dokunmasın, bin haysiyetim olsa kardeşlerimin mâbeynindeki muhabbete ve samîmiyete fedâ ederim."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Said Nursî",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "On Yedinci Nükte"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Kardeşlerim,",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Maatteessüf başımıza gelen şefkat tokatını, iki-üç gündür, kat'î bir kanâatle anladım. Hattâ, ehl-i isyan hakkında gelen bir âyetin çok işârâtından bir işâreti bize bakıyor gibi fehmettim. O da şudur:"
+    },
+    {
+      "type": "arabic",
+      "text": "فَلَمَّا نَسُوا مَا ذُكِّرُوا بِه۪ … اَخَذْنَاهُمْ",
+      "red": true
+    },
+    {
+      "type": "paragraph",
+      "text": "yani: “Onlara ihtar ettiğimiz ders ve nasihati unuttukları ve amel etmedikleri vakit, onları tutup musîbet altına aldık.”"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Evet, en âhirde sırr-ı ihlâsa dair bir risale bize yazdırıldı. Elhak, gayet àlî ve nurânî bir düstur-u uhuvvet idi. Ve on binler kuvvetle ancak mukàbele edilir hâdiselere, musîbetlere karşı, o sırr-ı ihlâs ile on adamla mukâvemet ettirilebilir bir düstur-u kudsî idi. Fakat, maatteessüf başta ben, biz o ihtar-ı manevî ile amel edemedik. Bu âyetin mânâ-yı işârîsiyle: "
+        },
+        {
+          "text": "اَخَذْنَاهُمْ",
+          "red": true
+        },
+        {
+          "text": " cifrî tarihiyle bin üç yüz elli iki eder. Aynı tarihiyle tutturulduk. Bir kısmımız şefkat tokadına giriftâr olduk. Bir kısmımız hakkında tokat değil, belki tokada ma'rûz olan kardeşlerimize medâr-ı tesellî ve kendilerine medâr-ı sevâb ve istifade olmak için bu musîbetin içine alındı."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Evet, ihtilâttan men' olunduğum için üç aydan beri yeniden üç gündür ben, kardeşlerimin dâhilî ahvâline de muttali' oldum. Hiç hâtır ve hayâlime gelmez en hàlis zannettiğim kardeşlerimde sırr-ı ihlâsa münâfî hareket vukû'a gelmişti. Ondan anladım ki: "
+        },
+        {
+          "text": "فَلَمَّا نَسُوا مَا ذُكِّرُوا بِه۪ … اَخَذْنَاهُمْ",
+          "red": true
+        },
+        {
+          "text": " âyetinin uzaktan uzağa bir mânâ-yı işârîsi bize de bakıyor. Ehl-i dalâlet için nâzil olan bu âyet onlara azâbdır. Fakat bizim için terbiye-i nüfûs ve keffâretü'z-zünûb ve tezyîd-i derecât için şefkat tokadıdır. Biz elimizdeki kıymetdâr ni'met-i İlâhiye’yi tam takdir etmediğimizden, tokat yediğimize bir delil şudur ki: En kudsî bir mücâhede-i maneviyeyi tazammun eden ve sırr-ı veraset-i Nübüvvetle velâyet-i kübrânın feyzine mazhar ve sahâbenin sırr-ı meşrebine medâr olan Risale-i Nur ile hizmet-i kudsiye-i Kur'âniyemize kanâat etmeyip, menfaati şimdilik bize pek az ve bu vaziyetimize mühim zararı muhtemel tarîkat hevesinin birkaç defa şiddetle ihtarımla önü alınmasıdır. Yoksa, hem vahdetimizi bozacaktı, hem dört elifin tesânüdüyle bin yüz on birden dört kıymetine tenzîl eden teşettüt-ü efkâr ve bu gayet ağır hâdiseye karşı kuvvetimizi hiçe indiren tenâfür-ü kulûba uğrayacaktı."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Gülistan sâhibi Şeyh Sa'dî-i Şirâzî naklediyor, der: “Ben bir ehl-i kalbi tekyede, seyr ü sülûk ile meşgul iken görmüştüm. Birkaç gün sonra onu talebeler içinde, medresede gördüm. Ne için o feyizli tekkeyi terkedip, bu medreseye geldin, dedim. O da dedi ki: Orada herkes kendi nefsini – eğer muvaffak olursa – kurtarabilir. Burada ise bu âlîhimmet şahıslar kendileriyle beraber çoklarını kurtarmaya çalışıyorlar. Ulüvv-ü cenâb, ulüvv-ü himmet bunlardadır. Fazilet ve himmet bunlardadır. Onun için buraya geldim.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Şeyh Sa'dî bu vâkıayı, kısaca hülâsasını Gülistan’ında yazmıştır."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Acaba, talebelerin, "
+        },
+        {
+          "text": "نَصَرَ ، نَصَرَا ، نَصَرُوا ، نَصَرَتْ",
+          "red": true
+        },
+        {
+          "text": " gibi sarf ve nahvin küçücük mes'eleleri tekkelerdeki virdlere râcih gelirse, Risale-i Nur’un: "
+        },
+        {
+          "text": "اٰمَنْتُ بِاللّٰهِ وَمَلٰٓئِكَتِه۪ وَكُتُبِه۪ وَرُسُلِه۪ وَبِالْيَوْمِ الْاٰخِرِ",
+          "red": true
+        },
+        {
+          "text": "’deki hakàik-ı kudsiye-i îmâniyeyi en kat'î ve vâzıh bir sûrette ders verip, en muannid zındıkları ve en mütemerrid feylesofları susturup ders verirken, onu bırakıp, yâhut sekteye uğratıp, veyâhut kanâat etmeyip, tarîkat hevesiyle Risale-i Nur’dan izin almayarak kapanmış hangâhlara girmek, ne derece yanlış olduğunu ve bizim bu şefkat tokadına ne derece istihkak kesbettiğimizi gösteriyor."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Said Nursî",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Tenbih"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İki küçük hikâye",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Birincisi"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bundan on beş sene evvel Rusya’nın şimâlinde esir olduğum zaman doksan esir zâbitlerimizle beraber büyük bir fabrika koğuşunda bulunuyorduk. Sıkıntı ve rûh darlığından çok münâkaşalar, gürültüler oluyordu. Umumun bana karşı ziyâde hürmetleri olduğundan teskin ediyordum. Sonra, sükûneti muhâfaza için dört-beş zâbiti ta'yin ettim. Ve dedim; “Hangi köşede bir gürültü işittiniz, hemen yetişiniz. Hangi taraf haksız ise ona yardım ediniz.” Hakikaten bu tedbir ile gürültünün önü alındı. Benden soruldu: “Ne için haksıza yardım ediniz, diyorsun?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cevaben, o zaman demiştim ki: “Haksız insafsızdır. Bir dirhem menfaatini kırk dirhem istirahat-i umumiye için bırakmaz. Haklı adam ise insaflı olur. Bir dirhem hakkını, sükûnet-i umumiyedeki kırk dirhem arkadaşının menfaatine fedâ eder, bırakır. Gürültü kalkar, sükûnet iâde edilir. Bu koğuştaki doksan zât istirahat eder. Eğer, haklıya muâvenet edilse, gürültü daha ziyâdeleşecek. Bu nev' hayat-ı ictimâiyede, menfaat-i umumiyenin ehemmiyeti nazara alınır.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte ey kardeşlerim! Bu hayatın, bu ictimâ'ımızda, “Bu kardeşim bana haksızlık etti.” diye “Küstüm.” demeyiniz. Bu pek hatâdır. O arkadaşın sana bir dirhem zarar vermiş ise, sen küsmekle kırk dirhem bizlere zarar veriyorsun. Belki kırk lira Risale-i Nur’a zarar vermek muhtemeldir. Fakat Lillâhi'l-Hamd pek haklı ve kuvvetli müdafaâtımız, arkadaşların mükerrer isticvâba gitmelerinin önünü aldığından, fesâdın önü alındı. Yoksa, birbirinden küsmüş kardeşler, bir sinek kanadı kadar küçük bir çöpün göze girmesi gibi veyâhut bir kıvılcımın baruta düşmesi gibi, az bir garazla büyük bir zarar verebilirdi."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "İkinci Hikâye"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bir vakit ihtiyar bir kadının sekiz oğlu varmış. Herbirisine mevcûd sekiz ekmekten birer ekmek verdi, kendine kalmadı. Sonra, herbirisi ekmeğinin yarısını ona verdi. Onun ekmeği dört oldu; ötekiler yarıya indi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Kardeşlerim, ben de kırkınızın herbirinin musîbet hissesinin manevî eleminin yarısını kendimde hissediyorum. Kendi şahsıma ait elemi, aldırmıyorum. Bir gün fazla muztar bulundum, “Acaba hatâmın cezası mıdır çekiyorum.” diye geçmiş hâleti tedkik ettim. Gördüm ki, bu musîbeti kaynatmaya ve tahrîk etmeye hiçbir cihette müdâhalem olmadığını ve bil'akis kaçmak için mümkün tedbirleri isti'mâl ediyordum. Demek, bu bir kazâ-yı İlâhîdir. Ve bil'iltizam bir seneden beri müfsidlerin tarafından aleyhimize ihzar ediliyordu. Kaçınmak kàbil değildi. Alâ külli hâl başımıza geçirecek idiler. Cenâb-ı Hakk’a yüz bin şükür ki, musîbeti yüzden bire indirdi."
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte bu hakikate binâen “Senin yüzünden bu belâyı çektik.” diye minnet etmeyiniz. Belki beni helâl ediniz. Ve bana duâ ediniz. Hem birbirinizi tenkid etmeyiniz. Demeyiniz ki: “Sen böyle yapmasaydın, böyle olmayacaktı.” Meselâ, bir kardeşimiz iki üç imza sâhibini söylemesiyle, müfsidlerin pek çok zâtları belâya atmak için düşündükleri plânı küçültüp, çoklarını kurtarmış. Değil zarar, belki büyük menfaat olmuş. Çok masûmların bu belâdan kurtulmasına bir vesile oldu."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Said Nursî",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "On Sekizinci Nükte"
+    },
+    {
+      "type": "heading",
+      "text": "Eskişehir Hapishânesinde Yazılmış Bir Parça"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Eskişehir Hapishânesinde Yazılmış Bir Parça",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Kardeşlerim!",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Müteaddid defa Risale-i Nur’un şâkirdlerini lâyık oldukları tarzda müdafaa etmişim. İnşâallâh mahkemede bağırarak derim. Hem Risale-i Nur’u, hem şâkirdlerinin kıymetlerini dünyaya işittireceğim. Yalnız size bunu ihtar ederim ki: “Bu müdafaamdaki kıymeti muhâfaza etmenin şartı, bu hâdisedeki ağız yanmasıyla Risale-i Nur’dan küsmemek ve üstadından darılmamak ve kardeşlerinden – sıkıntıdan gelen bahânelerle – nefret etmemek ve birbirine kusur bulmamak ve isnâd etmemektir.” Yalnız tahattur edersiniz ki, Risale-i Kader’de isbât etmişiz ki: “Başa gelen zulümlerde iki cihet var ve iki hüküm vardır: Biri insanın, biri kader-i İlâhî’nin. Aynı hâdisede insan zulmeder, fakat kader âdildir, adâlet eder. Bu mes'elemizde, insanın zulmünden ziyâde, kaderin adâleti ve Hikmet-i İlâhiye’nin sırrını düşünmeliyiz.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Evet, kader, Risale-i Nur talebelerini bu meclise çağırdı. Ve mücâhede-i maneviye inkişaf etmesinin hikmeti; onları, bu hakikaten çok sıkıntılı olan Medrese-i Yûsufiye’ye sevk etti. İnsan zulmü ve bahânesi bir vesile oldu. Onun için sakınınız; birbirinize; “Böyle yapmasaydın ben tevkîf olmazdım.” demeyiniz."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Said Nursî",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Mahkeme Müdafaâtının bir Parçası"
+    },
+    {
+      "type": "quote",
+      "text": "Bu Parça mahkeme müdafaâtının bir parçasıdır, her nasılsa buraya girmiş, çıkarılmamış, kalmış."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mahkemenin reisi ve âzâlarından ehemmiyetli bir hakkımı taleb ederim. Şöyle ki:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu mes'elede yalnız şahsım medâr-ı bahs değil ki, siz beni tebrie etmekle ve hakikat-i hâle muttali' olmanızla halledilmiş olsun. Çünkü, ehl-i ilim ve ehl-i takvânın şahs-ı manevîsi, bu mes'elede, nazar-ı millette itham altına girdiği ve hükûmete dahi ehl-i takvâ ve ilme karşı bir emniyetsizlik geldiği ve ehl-i takvâ ve ehl-i ilim, tehlikeli ve zararlı teşebbüslerden nasıl sakınacağını bilmesi lâzım olduğu için; benim müdafaâtımın kendim kaleme aldığım bu son kısmını, herhalde yeni hurûfla, matbaa vâsıtasıyla intişarını isterim. Tâ ki ehl-i takvâ ve ehl-i ilim, entrikalara kapılmayıp; zararlı ve tehlikeli teşebbüslere yanaşmasınlar ve şahs-ı manevîsi nazar-ı millette ittihamdan kurtulsun. Ve hükûmet dahi, ehl-i ilim hakkında emniyet etsin ve bu anlaşılmazlık ortadan kalksın. Ve hükûmete ve millete ve vatana çok zararlı düşen bu gibi hâdiseler ve anlaşılmamazlıklar daha tekrar etmesin."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Said Nursî",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "On Dokuzuncu Nükte"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Suâl:",
+          "bold": true
+        },
+        {
+          "text": " Kısa bir zamandaki küfre mukâbil, hadsiz bir zaman Cehennem’de hapis nasıl adâlet olur?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elcevab:",
+          "bold": true
+        },
+        {
+          "text": " Sene üç yüz altmış beş gün hesabıyla, bir dakikada katl, yedi milyon sekiz yüz seksen dört bin dakika hapis iktizası kanun-u adâlet iken; bir dakika küfür, bin katl hükmünde olduğundan, yirmi sene ömrünü küfürle geçiren ve küfür ile ölen bir adam, kanun-u adâletle, elli yedi trilyon iki yüz bir milyar iki yüz milyon sene, beşerin kanun-u adâletiyle hapse müstehak olur. Elbette "
+        },
+        {
+          "text": "خَالِد۪ينَ ف۪يهَا اَبَدًا",
+          "red": true
+        },
+        {
+          "text": " adâlet-i İlâhî ile vech-i muvâfakati bundan anlaşılıyor."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Birbirinden gayet uzak iki adedin sırr-ı münâsebeti şudur ki: Katl ve küfür, tahrib ve tecâvüz olduğu için, gayra te'sirât yapar. Bir dakikada katl, lâakal, zâhirî âdete göre, on beş sene maktûlün hayatını selb eder; onun yerine hapse girer. Bir dakika küfür, binbir Esmâ-i İlâhî’yi inkâr ve nukùşlarını tezyif ve kâinâtın hukukuna tecâvüz ve kemâlâtını inkâr ve hadsiz delâil-i Vahdâniyet’i tekzîb ve şehâdetlerini reddetmek olduğundan, kâfiri, binler seneden ziyâde esfel-i sâfilîne atar, "
+        },
+        {
+          "text": "خَالِد۪ينَ",
+          "red": true
+        },
+        {
+          "text": "’de hapseder."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Said Nursî",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Yirminci Nükte"
+    },
+    {
+      "type": "arabic",
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
+    },
+    {
+      "type": "arabic",
+      "text": "اِنَّمَٓا اَمْرُهُٓ اِذَٓا اَرَادَ شَيْئًا اَنْ يَقُولَ لَهُ كُنْ فَيَكُونُ",
+      "red": true
+    },
+    {
+      "type": "paragraph",
+      "text": "Âyet-i kerîmenin işâretiyle, emir ile icâd oluyor. Ve Kudret hazineleri kâf-nun’dadır. Bu sırr-ı dakîkin vücûh-u kesîresinden birkaç vechi, Risalelerde zikredilmiştir. Burada, hurûf-u Kur'ân’ın, hususan sûrelerin başlarındaki mukattaât-ı hurûfun hâsiyetlerine ve fezâillerine ve te'sirât-ı maddiyelerine dair vürûd eden hadîsleri, şu asrın nazar-ı maddîsine takrib etmek için, maddî bir misâl üzerinde o sırrın tefhimine çalışacağız. Şöyle ki:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Zât-ı Zülcelâl olan Sâhib-i Arş-ı A'zamın, manevî bir merkez-i âlem ve kalb ve kıble-i kâinât hükmünde olan küre-i arzdaki mahlûkatın tedbirine medâr dört arş-ı İlâhîsi var:"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Biri",
+          "bold": true
+        },
+        {
+          "text": ", hıfz ve hayat arşıdır ki, topraktır. İsm-i Hafîz’in ve Muhyînin mazharıdır."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İkinci arş",
+          "bold": true
+        },
+        {
+          "text": ", fazl ve rahmet arşıdır ki, su unsurudur."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Üçüncüsü",
+          "bold": true
+        },
+        {
+          "text": ", ilim ve hikmet arşıdır ki, unsur-u nurdur."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Dördüncüsü",
+          "bold": true
+        },
+        {
+          "text": ", Emir ve irâdenin arşıdır ki, unsur-u havadır."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Basit topraktan, hadsiz hâcât-ı hayvaniye ve insaniyeye medâr olan maâdin ve hadsiz muhtelif nebâtâtın basit bir unsurdan, kemâl-i intizam ile, vahdetten hadsiz kesret, basitten nihâyetsiz muhtelif envâ', sâde bir sayfada hadsiz muntazam nukùş gözümüzle gördüğümüz gibi; suyun, hususan hayvanat nutfelerinin su gibi basit bir madde iken hadsiz mu'cizât-ı san'atın muhtelif zîhayatlarda o su ile tezâhürü gösteriyor ki: Bu iki arş misilli, nur ve hava dahi, besâtetleriyle beraber, Nakkàş-ı Ezelî’nin ve Alîm-i Zülcelâl’in kalem-i ilim ve emir ve irâdesine, evvelki iki arş gibi, acâib-i mûcizâtının mazharlarıdırlar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nur unsurunu şimdilik bırakıp, mes'elemiz münâsebetiyle, küre-i arza göre emir ve irâde arşı olan unsur-u havanın içinde emir ve irâdenin acâibini ve garâibini örten perdenin bir derece keşfine çalışacağız. Şöyle ki:"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Biz nasıl ki ağzımızdaki hava ile hurûfât ve kelimâtı ekiyoruz, birden sünbülleniyorlar. Yani, havada, âdeta zamansız bir ânda, bir kelime bir habbe olup haric-i havada sünbüllenir; küçük büyük hadsiz aynı kelimeyi câmi bir havayı sünbül veriyor. Unsur-u havâiyeye bakıyoruz ki: O derece "
+        },
+        {
+          "text": "emr-i “kün feyekûn”",
+          "bold": true
+        },
+        {
+          "text": "e mutî' ve musahhar ve emirberdir ki, güyâ herbir zerresi bir nefer gibi, muntazam bir ordunun her dakika emrini bekler; zamansız, en uzak zerreden, emr-i kün’den cilveger olan bir irâdenin imtisalini, itâatini gösterir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Meselâ, âhize ve nâkile radyo makineleri vâsıtasıyla, havanın hangi yerinde olursa olsun, bir nutk-u beşerî bütün küre-i arzın her tarafından – radyo âhizeleri bulunmak şartıyla – zamansız, aynı nutuk, aynı ânda, herbir yerde işitilmesi, "
+        },
+        {
+          "text": "emr-i “kün feyekûn”",
+          "bold": true
+        },
+        {
+          "text": "ün cilvesine ne derece kemâl-i imtisal ile herbir zerre-i havâiyede itâat ettiğini gösterdiği gibi; havada sebatsız vücûdları bulunan hurûfâtın, kudsiyet keyfiyetiyle, bu sırr-ı imtisale göre, çok te'sirât-ı hariciyeye ve hâsiyât-ı maddiyeye mazhar olabilirler. Âdeta, maneviyatı maddiyâta inkılâb ve gaybı şehâdete tahavvül ettirir bir hâsiyet onlarda görünüyor."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İşte bunun gibi, hadsiz emârelerle gösteriyor ki, mevcûdât-ı havâiye olan hurûfun, hususan hurûf-u kudsiyenin ve Kur'âniyenin, hususan evâil-i sûredeki şifre-i İlâhiye’nin hurûfâtı, muntazam ve nihâyetsiz hassas ve zamansız emirleri dinler ve yapar gibi göründüğünden, elbette zerrât-ı havâiyede kudsiyet noktasında "
+        },
+        {
+          "text": "emr-i “kün feyekûn”",
+          "bold": true
+        },
+        {
+          "text": "ün cilvesine ve İrâde-i Ezeliye’nin tecellîsine mazhar hurûfâtın maddî hàssalarını ve hàrika ve mervî faziletlerini teslîm ettirir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte bu sırra binâendir ki, Kur'ân-ı Mu'cizü'l-Beyân’da bazen kudret eserini, sıfat-ı irâde ve sıfat-ı Kelâmdan gelir gibi tâbiratı, gayet derecede sür'at-i icâd ve gayet derecede inkıyad-ı eşya ve musahhariyet-i mevcûdâttan başka, ayn-ı emir, kudret gibi hükmediyor demektir. Yani, emr-i tekvînden gelen hurûfât, maddî kuvvet hükmünde vücûd-u eşyada hükmeder. Ve emr-i tekvînî, âdeta, ayn-ı kudret, ayn-ı irâde olarak tezâhür eder."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Evet, emir ve irâdenin bu gayet hafî ve vücûd-u maddîleri gayet gizli ve havayı âdeta nîm-manevî, nîm-maddî nev'indeki mevcûdâtta, emr-i tekvînî, ayn-ı kudret gibi âsârı görünüyor; belki ayn-ı kudret olur. Âdeta maneviyat ile maddiyâtın mâbeyninde berzahî olan mevcûdâta nazar-ı dikkati celb etmek için, Kur'ân-ı Mu'cizü'l-Beyân’ın "
+        },
+        {
+          "text": "اِنَّمَٓا اَمْرُهُٓ اِذَٓا اَرَادَ شَيْئًا اَنْ يَقُولَ لَهُ كُنْ فَيَكُونُ",
+          "red": true
+        },
+        {
+          "text": "fermân ediyor."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İşte, evâil-i sûredeki "
+        },
+        {
+          "text": "حٰمٓطٰسٓالٓمٓ",
+          "red": true
+        },
+        {
+          "text": " gibi hurûf-u kudsiye-i şifre-i İlâhiye hava zerrâtı içinde, zamansız münâsebât-ı dakika-i hafiye tellerini ihtizâza getirecek birer düğüm ve birer düğme harfi olduklarını ve ferşten Arşa manevî telsiz telefon muhâberât-ı kudsiyeyi îfâ etmeleri, o şifre-i kudsiye-i İlâhiye’nin şe'nindendir ve vazifesidir ve gayet ma'kuldür."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Evet, havanın herbir zerresi ve bütün zerrâtı, telsiz, telefon, telgraflar gibi aktâr-ı âlemde münteşir o zerreler emirleri imtisal ettiklerini ve elektrik ve seyyâlât-ı latîfeye âhize ve nâkilelik vazifesi gibi sâir vezâif-i havâiyeden başka bir vazifesini bir hads-i kat'î ile, belki müşâhede ile ben kendim bâdem çiçeklerinde gördüm. Ağaçların rû-yi zeminde muntazam bir ordu hükmünde, hava-i nesîmînin dokunmasıyla, bir ânda aynı emri o âhizeler hükmündeki zerrelerden aldığı vaziyet-i meşhûdesi bana iki kere iki dört eder derecesinde kat'î bir kanâat vermiş."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Demek havanın rû-yi zeminde çevik ve çalâk bir hizmetkâr olması ve rû-yi zemindeki Rahmân-ı Rahîm’in misâfirlerine hizmet ettiği gibi; o Rahmân’ın emirlerini tebliğ etmek için bütün zerrâtı telsiz telefonun âhizeleri gibi emirber nefer hükmünde evâmir-i kudsiyeyi nebâtâta ve hayvanata tebliğ eder. Nefeslere yelpaze, nüfûsa nefes, yani, âb-ı hayat olan kanı tasfiye ve nâr-ı hayatı olan harâret-i garîziyeyi iş'âl vazifesini yaptıktan sonra, çıkıp, ağızda hurûfâtın teşekkülüne medâr olduğu gibi; pek çok muntazam vazifeleri "
+        },
+        {
+          "text": "emr-i “kün feyekûn”",
+          "bold": true
+        },
+        {
+          "text": " ile icra eder."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte, havanın bu hâsiyetine binâendir ki, mevcûdât-ı havâiye olan hurûfât, kudsiyet kesb ettikçe, yani, âhizelik vaziyetini aldıkça, yani, Kur'ân hurûfâtı olduğundan âhizelik vaziyetini aldığı ve düğmeler hükmüne geçtiği ve sûrelerin başlarındaki hurûfât daha ziyâde o münâsebât-ı hafiyenin uçlarının merkezî ukdeleri, düğümleri ve hassas düğmeleri hükmünde olduğundan, vücûd-u havâîleri bu hâsiyete mâlik olduğu gibi, vücûd-u zihnîleri dahi, hattâ vücûd-u nakşiyeleri de bu hâsiyetten hàssaları ve hisseleri var. Demek o harflerin okumasıyla ve yazmasıyla, maddî ilâç gibi şifâ ve başka maksadlar hâsıl olabilir."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Said Nursî",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Yirmi Birinci Nükte"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Mânidâr Bir Tevâfuk-u Latîfe",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Risale-i Nur şâkirdlerini itham ettikleri ve cezalarını istedikleri yüz altmışüçüncü maddesine, Risale-i Nur müellifinin medresesine yüz elli bin lira verilmesine dair lâyihanın, iki yüz meb'ûstan yüz altmış üç meb'ûsun adedine tevâfuk edip, ma'nen o tevâfuk diyor ki: Hükûmet-i Cumhûriyenin yüz altmış üç meb'ûsun takdirkârâne imzaları, 163’üncü madde-i kanuniyenin hükmünü, onun hakkında ibtal ediyor."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Hem yine mânidâr tevâfukât-ı latîfedendir ki, Risale-i Nur’un yüz yirmi sekiz parçası, yüz on beş parça kitab ediyor. Risale-i Nur’un şâkirdlerinin ve müellifinin mebde'-i tevkîfi olan 27 Nisan 1935 tarihi ile mahkemenin karar ve hüküm tarihi olan 19 Ağustos 1935 tarihi olmasına nazaran, yüz on beş gün olup, Risale-i Nur kitapları adedine tevâfuk etmekle beraber, istintak edilen, yüz on beş suçlu gösterilen eşhâsın da adedine tam tamına tevâfuk ettiği gibi, gösteriyor ki; Risale-i Nur müellifinin ve şâkirdlerinin başına gelen musîbet, bir dest-i inâyetle tanzim ediliyor. "
+        },
+        {
+          "note": "7"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Yirmi İkinci Nükte"
+    },
+    {
+      "type": "quote",
+      "text": "Bu parça çok kıymetlidir. Tâ İkinci Nükteye kadar herkese faydası var."
+    },
+    {
+      "type": "quote",
+      "text": "Eskişehir Hapishânesinde, sû-i ahlâktan değil, belki sıkıntıdan gelen nâhoş bazı hâller münâsebetiyle, ahlâka dair bir nükte ile, meşhûr bir âyetin mestûr kalmış bir nüktesine dairdir."
+    },
+    {
+      "type": "heading",
+      "text": "Birinci Nükte"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cenâb-ı Hak kemâl-i kereminden ve merhametinden ve adâletinden, iyilik içinde muaccel bir mükâfât ve fenâlıklar içinde muaccel bir mücâzât derc etmiştir. Hasenâtın içinde, âhiretin sevâbını andıracak manevî lezzetler, seyyiâtın içinde, âhiretin azâbını ihsâs edecek manevî cezalar derc etmiştir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meselâ, mü'minler mâbeyninde muhabbet, ehl-i îmân için güzel bir hasenedir. O hasene içinde, âhiretin maddî sevâbını andıracak manevî bir lezzet, bir zevk, bir inşirah-ı kalb derc edilmiştir. Herkes kalbine müracaat etse bu zevki hisseder."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meselâ, mü'minler mâbeyninde husûmet ve adâvet bir seyyiedir. O seyyie içinde, kalb ve rûhu sıkıntılarla boğacak bir azâb-ı vicdânîyi, âlîcenâb rûhlara hissettirir. Ben kendim, belki yüz defadan fazla tecrübe etmişim ki, bir mü'min kardeşe adâvetim vaktinde, o adâvetten öyle bir azâb çekiyordum; şübhe bırakmıyordu ki, bu seyyieme muaccel bir cezadır, çektiriliyor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meselâ, hürmete lâyık zâtlara hürmet ve merhamete lâyık olanlara merhamet ve hizmet, bir hasenedir, bir iyiliktir. Bu iyilikte sevâb-ı uhrevîyi ihsâs eder derecede öyle bir zevk, lezzet vardır ki, hayatını fedâ etmek derecesine o hürmeti, o merhameti ileri getirir. Vâlidenin çocuğa merhametindeki şefkat vâsıtasıyla kazandığı zevk ve mükâfât için hayatını o merhamet yolunda fedâ etmek dereceye gider. Yavrusunu kurtarmak için arslana saldıran bir tavuk, hayvanat milletinde bu hakikate bir misâldir. Demek, merhamet ve hürmette muaccel bir mükâfât var; âlîhimmet ve âlîcenâb insanlar onları hisseder ki, kahramanâne bir vaziyet alıyorlar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem, meselâ, hırs ve isrâfta öyle bir ceza var ki, şekvâlı, meraklı, manevî ve kalbî bir ceza insanı sersem eder. Ve hased ve kıskançlıkta öyle bir muaccel ceza var ki, o hased, hased edeni yakar. Hem tevekkül ve kanâatte öyle bir mükâfât var ki, o lezzetli muaccel sevâb, fakr ve hâcâtın belâsını ve elemini izâle eder."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem, meselâ, gurur ve kibirde öyle bir ağır bir yük var ki, mağrûr adam herkesten hürmet ister; ve istemek sebebiyle istiskàl gördüğünden, dâima azâb çeker. Evet, hürmet verilir, istenilmez."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem, meselâ, tevâzu'da ve terk-i enâniyette öyle lezzetli bir mükâfât var ki, ağır bir yükten ve kendini soğuk beğendirmekten kurtarır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem, meselâ, sû-i zan ve sû-i te'vilde, bu dünyada muaccel bir ceza var. “Men dakka dukka” kaidesiyle, sû-i zan eden, sû-i zanna ma'rûz olur. Mü'min kardeşinin harekâtını sû-i te'vil edenlerin harekâtı, yakın bir zamanda sû-i te'vile uğrar, cezasını çeker."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ve hâkezâ, bütün ahlâk-ı hasene ve seyyie bu mukayeseye göre ölçülmeli. Ben Rahmet-i İlâhiye’den ümîd ederim ki, Risale-i Nur’dan bu zamanda tezâhür eden manevî i'câz-ı Kur'ânî’yi zevk eden zâtlar, bu manevî ezvâkı hissederler; sû-i ahlâka mübtelâ olmayacaklar, inşâallâh."
+    },
+    {
+      "type": "heading",
+      "text": "İkinci Nükte"
+    },
+    {
+      "type": "arabic",
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
+    },
+    {
+      "type": "arabic",
+      "text": "وَمَا خَلَقْتُ الْجِنَّ وَالْاِنْسَ اِلَّا لِيَعْبُدُونِ ❋ مَٓا اُر۪يدُ مِنْهُمْ مِنْ رِزْقٍ وَمَٓا اُر۪يدُ اَنْ يُطْعِمُونِ ❋ اِنَّ اللّٰهَ هُوَ الرَّزَّاقُ ذُو الْقُوَّةِ الْمَت۪ينُ",
+      "red": true
+    },
+    {
+      "type": "paragraph",
+      "text": "Şu âyet-i kerîmenin zâhir mânâsı, çok tefsirlerin beyânına göre yüksek ifâde-i i'câz-ı Kur'ânî’yi göstermediğinden, çok zaman zihnime ilişiyordu. Kur'ân’ın feyzinden gelen gayet güzel ve yüksek mânâlarından üç vechini icmâlen beyân edeceğiz."
+    },
+    {
+      "type": "heading",
+      "text": "Birincisi"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Cenâb-ı Hak, Resûlüne ait olabilecek bazı hâlleri, Resûlünü tekrîm ve teşrîf noktasında bazen Kendine isnâd eder. İşte, burada da; "
+        },
+        {
+          "text": "“Resûlüm size vazife-i Risalet ve tebliğ-i ubûdiyet hizmetine mukâbil, sizden bir ecir ve ücret ve mükâfât, bir it'âm istemez”",
+          "bold": true
+        },
+        {
+          "text": " mânâsında, "
+        },
+        {
+          "text": "“Ben sizi ibâdet için halk etmişim; Bana rızık vermek ve it'âm etmek için değil”",
+          "bold": true
+        },
+        {
+          "text": " meâlindeki âyet, Resûl-i Ekrem Aleyhissalâtü Vesselâm’a ait it'âm ve irzâkı murad etmek gerektir. Yoksa, gayet bedîhî bir ma'lûmu i'lâm kabîlinden olur; i'câz-ı Kur'ân’ın belâğatına uygun gelmez."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "İkinci Vecih"
+    },
+    {
+      "type": "paragraph",
+      "text": "İnsan rızka çok mübtelâ olduğu için, rızka çalışmak bahânesi ubûdiyete mâni tevehhüm edip kendine bir özür bulmamak için, âyet-i kerîme diyor ki: “Siz ubûdiyet için halk olunmuşsunuz. Netice-i hilkatiniz ubûdiyettir. Rızka çalışmak, emr-i İlâhî noktasında bir nev'i ubûdiyettir. Benim mahlûkatım ve rızıklarını derûhde ettiğim nefisleriniz ve iyâliniz ve hayvanatınızın rızkını tedârik etmek, âdeta Bana ait rızık ve it'âmı ihzar etmek için yaratılmamışsınız. Çünkü Rezzâk Benim. Sizin müteallikàtınız olan ibâdımın rızkını Ben veriyorum. Siz bunu bahâne edip ubûdiyeti terk etmeyiniz.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eğer bu mânâ olmazsa, Cenâb-ı Hakk’a rızık vermek ve it'âm etmek muhâliyeti bedîhî ve ma'lûm olduğundan, i'lâm-ı ma'lûm kabîlinden olur. İlm-i belâğatta bir kaide-i mukarreredir ki; bir kelâmın mânâsı ma'lûm ve bedîhî ise, o mânâ murad değil, onun bir lâzımı, bir tâbii muraddır. Meselâ; sen birisine desen, “Sen hâfızsın”; o, ma'lûmu i'lâm kabîlinden olur. Demek maksûd mânâsı budur ki: “Ben senin hâfız olduğunu biliyorum.” Bildiğimi bilmediği için ona bildiriyorum."
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte, bu kaideye binâen, âyet, Cenâb-ı Hakk’a rızık vermeyi ve it'âm etmeyi nefyetmekten kinâye olan mânâ şudur: “Bana ait olup ve rızıklarını taahhüd ettiğim mahlûkatıma rızık yetiştirmek için halk olunmamışsınız. Belki asıl vazifeniz ubûdiyettir. Evâmirime göre rızka çabalamak da bir nev'i ibâdettir.”"
+    },
+    {
+      "type": "heading",
+      "text": "Üçüncü Vecih"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Sûre-i İhlâs’ta, nasıl ki, "
+        },
+        {
+          "text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+          "red": true
+        },
+        {
+          "text": " zâhir mânâsı ma'lûm ve bedîhî olduğundan, o mânânın bir lâzımı muraddır. Yani; “Vâlide ve veledi bulunanlar ilâh olamazlar.” mânâsında ve Hazret-i İsâ (as) ve Üzeyr (as) ve melâike ve nücûmların ve gayr-ı hak ma'bûdların ulûhiyetlerini nefyetmek kasdıyla, “ezelî ve ebedî” mânâsında, Cenâb-ı Hakk’ın "
+        },
+        {
+          "text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+          "red": true
+        },
+        {
+          "text": " – gayet bedîhî ve ma'lûm – hükmettiği gibi; aynen onun gibi, bu misâlimizde de “Rızık ve it'âm kàbiliyeti olan eşya, ilâh ve ma'bûd olamazlar.” mânâsında, “Ma'bûd’unuz olan Rezzâk-ı Zülcelâl, sizden Kendine rızık istemez ve siz O’nu it'âm için yaratılmamışsınız.” meâlindeki; “Rızka muhtaç ve it'âm edilen mevcûdât, ma'bûdiyete lâyık değiller‥” demektir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Said Nursî",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Yirmi Üçüncü Nükte"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Tarafgirâne ve Risale-i Nur’a Rakìbâne Söylenen Sözlere Mukâbildir.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "text": "Ger medhetmekse tefâhurla kendinizi maksadın,"
+    },
+    {
+      "type": "quote",
+      "text": "Risale-i Nur’un en sönük yıldızının peykisiniz."
+    },
+    {
+      "type": "quote",
+      "text": "Zinhâr seyyâre zannetme kardeşim, Risale-i Nur’un,"
+    },
+    {
+      "type": "quote",
+      "text": "Arz değil, âfitâb dahi peykidir onun."
+    },
+    {
+      "type": "quote",
+      "text": "Pek yakında parlayacaktır âlemde Risale-i Nur,"
+    },
+    {
+      "type": "quote",
+      "text": "Sönmez, belki gizlenir, zîra nurun alâ nur."
+    },
+    {
+      "type": "quote",
+      "text": "Bir nur ki, bahr-i hakikat ve mahz-ı hidayettir o,"
+    },
+    {
+      "type": "quote",
+      "text": "مَنْ اَصْحَابُ الصِّرَاطِ السَّوِيِّ وَمَنِ اهْتَدٰى’yı oku."
+    },
+    {
+      "type": "quote",
+      "text": "Haktan olmaz şikâyet, belki maksad hikâyet."
+    },
+    {
+      "type": "quote",
+      "text": "Şer'in üzere giderken Hakka ma'lûm,"
+    },
+    {
+      "type": "quote",
+      "text": "Risale-i Nur’a ki, eylemiştim hem de hizmet…"
+    },
+    {
+      "type": "quote",
+      "text": "Risale-i Nur ki, Aliyyü'l-Murtazâ ve Gavs-ı A'zam,"
+    },
+    {
+      "type": "quote",
+      "text": "Celcelûtiye’de ve bazı kasâidde etmişler işâret."
+    },
+    {
+      "type": "quote",
+      "text": "Risale-i Nur ki, urvetü'l-vüskà, lenfisâm,"
+    },
+    {
+      "type": "quote",
+      "text": "Temessük etmiştim, zîra hem hidayet ve ayn-ı hakikat."
+    },
+    {
+      "type": "quote",
+      "text": "Koydular bizleri ki, orada durmuştu Yûsuf Aleyhisselâm,"
+    },
+    {
+      "type": "quote",
+      "text": "Hem de beraberimizde idi Hazret-i Üstad."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Halîl İbrahim",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Yirmi Dördüncü Nükte"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Zekâi’nin Rüyası",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu sabah rüyamda, İstanbul’un Tophâne sâhiline benzer, sâf ve berrak bir deniz kenarındayım. Kuşluk zamanında olduğunu zannettiğim güneşin ziyâsı, o deryâ-yı azîmin üzerinde hoş parıltılar husûle getiriyor… Ben deryâya müteveccihim. Denizin orta ve cenûbu tarafından yüze yüze sâhile gelen bir genç, omuzundaki bir sabanı sâhile çıkardı. Orada bütün kardeşlerimize (tahliyeden sonra) istikbâl edilmekteler iken, sâhil boyunu takiben, garbdan dolu dizgin iki atlı geliyor. “Üstad geliyor” dediler. Bu izdiham yarıldı. Hiç durmaksızın, bu mühib yağız atlı ve esmer çehreli iki zât, şarka doğru uzaklaştılar. Ben o deryâya dalmak üzere iken uyandım."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Zekâi",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Yirmi Beşinci Nükte"
+    },
+    {
+      "type": "quote",
+      "text": "Bu Lem'anın başında, İmâm-ı Ali (ra) Risale-i Nur’a işâret ettiğinden, bir kardeşimiz heyecanlı bir iştiyakla Risale-i Nur’a “Elmas, Cevher, Nur” ismini takıp tekrar ederek yazmıştı. Bu Lem'anın âhirinde derci münâsib görüldü."
+    },
+    {
+      "type": "paragraph",
+      "text": "Takvâ dâiresinde bulunan talebe deli de olsa, acaba Risale-i Nur’un ve kıymetli elmasın nurundan ayrılabilir mi? Öyle tahmin ederim ki, Risale-i Nur’un, bu âciz talebeniz kadar kerâmetini, faziletini, lezzetini yiyen, tatlı meyvesinden koparan nâdirdir. Hem bu kadar âcizliğimle beraber, Risale-i Nur’a hizmet edemediğim hâlde göstermiş olduğunuz teveccühe medyûn-u şükrânım. Binâenaleyh, Risale-i Nur’dan bendeniz değil, hiçbir talebeniz o mübârek elmastan ve lezzetten ayrılamaz."
+    },
+    {
+      "type": "paragraph",
+      "text": "Affınıza mağrûren, Risale-i Nur’un bu defaki taharriyâtında iki kerâmeti meydâna aynen çıkmıştır. Hapishâne içerisinde polis, jandarma ve gardiyanlar müdhiş arama yaparken, o esnâda hiç kimse görmeden yedi-sekiz yaşında, hemşiremin mahdumu, mekteb çantasının içerisine Risale-i Nur’un nüshalarını koyarak alıp gitmiştir. Arama, bendenizin odasında idi. Çocuk odaya geldi; odada telâş görünce, odanın bir tarafında ayrıca duran Risale-i Nurları çantasına koydu ve içerideki memurların hiçbirisi farkına varmadı, çocuğa da bir şey demediler. Fedâkâr çocuk doğruca vâlidesine gidiyor, “Dayımın dâima bize okuduğu Risale-i Nurları getirdim. Bunları alacaklarmış. Ben onların haberi olmadan, onlar başka mektûb, kitab karıştırırlarken aldım, çantama koydum. Bunları iyice bir yere koyunuz, muhâfaza ediniz. Ben bunların okunmasını çok seviyorum. Dayım bize bunları okuyordu. O okurken ben başka bir hâlet kesb ediyordum.” diye vâlidesine söylüyor ve mektebine avdet ediyor. Bu sâyede Elmas, Cevher, Nurlar ele geçmemiş oluyor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu kerâmet değil de nedir? Kur'ânî bir mu'cize değildir de nedir? Acaba bu fazilet, acaba bu lezzet, acaba bu Elmas, Cevher hangi te'lifâtta vardır ki, bu Elmas, Cevher, Nurlar şimdiye kadar hangi zâtın ağzından dökülmüştür? Ben de, hapis değil, bu Elmas, Cevher, Nurlar için, her ân, her dakika, her fedâkârlığı memnuniyetle kabûl ederim. Benden sonra bu Elmas, Cevher, Nurlar yoluna evlâdım Emin de bütün hayatını sarf etmeye hazırdır."
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte bu Elmas, Cevher, Nur’un ikinci kerâmetini isbât ile, üç yaşından sekiz yaşına kadar akrabalarım ve evlâdım, bu Elmas, Cevher, Nurlar için fedâkârâne ve bu yolda hayatlarını hiç düşünmeden fedâ edeceklerini isbât ederim. Çünkü bu Elmas, Cevher, Nur’u okurken, hepsi başıma toplandı. Onları sevdim ve birer çay verdim; bu Elmas, Cevher, Nur’u okumaya devam ettim. Hepsi birden, “Bu nedir? Bu yazı nasıl yazıdır?” sordular. Ben de dedim: “Bu Elmas, Cevher, Nur’dur” diye bunlara okumaya başladım."
+    },
+    {
+      "type": "paragraph",
+      "text": "Onuncu Söz’ü okurken saatler geçmiş. Çocuklar, merakından, anlayamadıkları zaman hemen bendenize soruyorlardı. Ben de bu Elmas, Cevher, Nur’u onların anlayabileceği şekilde izâh ederken, çocukların renkleri, renk renk oluyordu ve güzelleşiyordu. Bendeniz de çocukların yüzüne baktıkça, hepsinde ayrı ayrı nurlu Said görüyordum. Suâllerinde “Nur hangisi, Cevher hangisi ve Elmas hangisi?” diye sorduklarında, “Evet, Nur, bunu okumaktır. Bak, sizde bir güzellik meydâna geldi.” Onlar da birbirinin yüzüne baktılar ve tasdik ettiler. “Ya Elmas nedir?” “Bu Sözler’i yazmaktır. O zaman, yani, yazdığınız zaman sizin yazılarınız elmas gibi kıymetli olur.” Tasdik ettiler. “Ya Cevher nedir?” “İşte o da, bu kitaptan aldığınız îmândır.” Hepsi birden şehâdet getirdiler. Bu sohbette üç-dört saat geçmiş; bendeniz farkına varmadım. “İşte, Elmas, Cevher, Nur budur!” dedim. Tasdik ettiler. Hepsi birden bana bakıyorlardı ve “Bunu kim yazdı?” diyorlardı."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Âciz talebenizŞefîk",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Yirmi Altıncı Nükte"
+    },
+    {
+      "type": "arabic",
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "واَنْزَلَ لَكُمْ مِنَ الْاَنْعَامِ ثَمَانِيَةَ اَزْوَاجٍ يَخْلُقُكُمْ ف۪ي بُطُونِ اُمَّهَاتِكُمْ خَلْقًا مِنْ بَعْدِ خَلْقٍ ف۪ي ظُلُمَاتٍ ثَلٰثٍ",
+          "red": true
+        },
+        {
+          "text": "âyeti, "
+        },
+        {
+          "text": "وَاَنْزَلْنَا الْحَد۪يدَ",
+          "red": true
+        },
+        {
+          "text": " âyetinde beyân ettiğimiz nüktenin aynını tazammun edip, hem onu te'yid ediyor, hem onunla teeyyüd ediyor."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Evet, Kur'ân-ı Mu'cizü'l-Beyân Sûre-i Zümer’de "
+        },
+        {
+          "text": "وَخَلَقَ لَكُمْ مِنَ الْاَنْعَامِ ثَمَانِيَةَ اَزْوَاجٍ",
+          "red": true
+        },
+        {
+          "text": " demeyip, "
+        },
+        {
+          "text": "وَاَنْزَلَ لَكُمْ مِنَ الْاَنْعَامِ ثَمَانِيَةَ اَزْوَاجٍ",
+          "red": true
+        },
+        {
+          "text": " demesiyle ifâde ediyor ki: “Sekiz nev'i hayvanat-ı mübârekeyi size hazine-i rahmetinden, güyâ Cennet’ten ni'met olarak indirilmiş, gönderilmiş.” Çünkü o mübârek hayvanlar, bütün cihetleriyle, bütün beşere ni'met olduğundan, saçından bedevîlere seyyâr hâneler, elbiseler, etinden güzel yemekler, sütünden güzel, lezîz taamlar ve derilerinden pabuçlar ve sâire, hattâ gübreleri mezrûatın erzâkı ve insanların mahrûkàtı hükmünde olup, güyâ o mübârek hayvanlar, tecessüm etmiş ayn-ı ni'met ve rahmettirler."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Onun içindir ki, yağmura “rahmet” nâmı verildiği gibi, bu mübârek hayvanlara da “en'âm” nâmı verilmiş. Güyâ nasıl ki rahmet tecessüm etmiş, yağmur olmuş; öyle de ni'met dahi tecessüm etmiş, keçi, koyun, öküz ile manda ve deve şekillerini almış. Çendan cismânî maddeleri yerde halk olunuyor; fakat ni'metiyet sıfatı ve rahmetiyet mânâsı, maddesine tamamıyla galebe ettiğinden, "
+        },
+        {
+          "text": "اَنْزَلَ",
+          "red": true
+        },
+        {
+          "text": " tâbiriyle, doğrudan doğruya bu mübârek hayvanları hazine-i rahmetin birer hediyesi olarak, Hàlık-ı Rahîm, yüksek mertebe-i rahmetinden ve manevî, àlî Cennet’inden yeryüzüne indirmiş."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Evet, nasıl ki bazen beş paralık bir maddede beş liralık bir san'at derc edilir. O zaman o şeyin maddesi nazara alınmıyor; san'at noktasında kıymet veriliyor: sineğin küçücük maddesi ve içindeki pek büyük san'at-ı Rabbâniye gibi. Bazen beş liralık bir maddede beş kuruşluk bir san'at bulunur; o vakit hüküm maddenindir."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Aynen onun gibi, bazen cismânî bir maddede o kadar ni'met ve rahmet mânâsı bulunur ki, yüz defa maddesinden ziyâde ehemmiyetli oluyor. Âdeta cismânî maddesi gizlenir; hüküm, ni'metiyet cihetine bakar. İşte, demirin pek azîm menâfi'i ve çok semereleri, onun maddî maddesini gizlediği gibi, mezkûr mübârek hayvanların dahi her cüz'ünde ni'met bulunması, onların cismânî maddelerini güyâ ni'mete kalb ettirmiş. Onun içindir ki, cismânî maddelerinin hükmü nazara alınmadan, manevî sıfatları nazara alınmış, "
+        },
+        {
+          "text": "وَاَنْزَلْنَا ، وَاَنْزَلَ",
+          "red": true
+        },
+        {
+          "text": "tâbir edilmiştir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Evet, "
+        },
+        {
+          "text": "وَاَنْزَلْنَا ، وَاَنْزَلَ",
+          "red": true
+        },
+        {
+          "text": " hakikat itibariyle sâbık nükteyi ifâde ettikleri gibi, belâğat noktasında da ehemmiyetli bir mânâyı mu'cizâne ifâde ediyorlar. Şöyle ki:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Demir gayet sert fıtratıyla ve gizliliği ve derinliğiyle beraber, her yerde hazır bulunmak ve hamur gibi yumuşatmak hâsiyetini ihsân ettiğinden, herkes, her yerde, her işte kolayca elde etmesini ifâde etmek için, "
+        },
+        {
+          "text": "وَاَنْزَلْنَا الْحَد۪يدَ",
+          "red": true
+        },
+        {
+          "text": " tâbiriyle, güyâ fıtrî ve semâvî ni'metler gibi, demir âletlerini yukarı bir tezgâhtan indirip beşerin ellerine verilmiş gibi kolaylıkla elde ediliyor."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Hem hayvanat cinsinden, sivrisinekten tut, tâ yılan, akrep, kurt, arslana kadar insanlara zararlı vaziyetleriyle beraber, hayvanatın mühimlerinden olan koca manda ve öküz ve deve gibi büyük mahlûkat gayet derece musahhar, mutî'; hattâ zayıf bir çocuğa da yularını verip itâat etmek mânâsını ifâde için, "
+        },
+        {
+          "text": "واَنْزَلَ لَكُمْ مِنَ الْاَنْعَامِ ثَمَانِيَةَ",
+          "red": true
+        },
+        {
+          "text": " tâbiriyle, güyâ bu mübârek hayvanlar dünya hayvanları değil ki, içinde tevahhuş ve zarar bulunsun. Belki manevî bir Cennet’in hayvanları gibi menfaatdâr, zararsızdırlar. Yukarıdan, yani, rahmet hazinesinden indirilmiştir, diye ifâde ediyor."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Muhtemeldir ki, bazı müfessirlerin bu hayvanlar hakkında “Cennet’ten indirilmiştir.” dedikleri, bu mânâdan ileri gelmiştir. Zahrında "
+        },
+        {
+          "note": "8"
+        },
+        {
+          "text": " Kur'ân-ı Hakîm’in bir harfi için bir sahife yazılsa, uzun olmuş denilmemeli. Çünkü Kelâmullâh’tır. Onun için "
+        },
+        {
+          "text": "اَنْزَلْنَا",
+          "red": true
+        },
+        {
+          "text": " tâbiri için iki üç sayfa yazılmakla isrâf edilmiş olmaz. Bazen Kur'ân’ın bir harfi, bir hazine-i maneviyenin anahtarı olur."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Yirmi Yedinci Nükte"
+    },
+    {
+      "type": "arabic",
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
+    },
+    {
+      "type": "arabic",
+      "text": "اِنَّ النَّفْسَ لَاَمَّارَةٌ بِالسُّٓوءِ",
+      "red": true
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Meâli: "
+        },
+        {
+          "note": "9"
+        },
+        {
+          "text": " “Nefis dâima kötü şeylere sevk eder” âyetinin, hem de "
+        },
+        {
+          "text": "اَعْدٰى عَدُوِّكَ نَفْسُكَ الَّت۪ي بَيْنَ جَنْبَيْكَ",
+          "red": true
+        },
+        {
+          "text": " mânâ-yı şerîfi: “Senin en zararlı düşmanın, nefsindir” hadîsinin bir nüktesidir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Tezkiyesiz nefs-i emmâresi bulunmak şartıyla, kendi nefsini beğenen ve seven adam başkasını sevmez. Eğer zâhirî sevse de samîmî sevemez; belki ondaki menfaatini ve lezzetini sever. Dâima kendini beğendirmeğe ve sevdirmeğe çalışır. Ve kusuru nefsine almaz; belki avukat gibi kendini müdafaa ve tebrie eyler. Mübâlağalarla, belki yalanlarla nefsini medih ve tenzîh ederek, âdeta takdis eder ve derecesine göre, "
+        },
+        {
+          "text": "مَنِ اتَّخَذَ اِلٰهَهُ هَوٰيهُ",
+          "red": true
+        },
+        {
+          "text": " âyetinin bir tokadını yer."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Temeddühü ve sevdirmesi ise, aksü'l-amel ile istiskàli celb eder, soğuk düşürtür. Hem amel-i uhrevîde ihlâsı kaybeder, riyâyı karıştırır. Âkıbeti görmeyen ve neticeleri düşünmeyen ve lezzet-i hâzıraya mübtelâ olan hisse ve hevâ-yı nefse mağlûb olup, yolunu şaşırmış hissin fetvâsıyla, bir saat lezzet için bir sene hapiste yatar. Bir dakika gurur veya intikam yüzünden on sene ceza görür. Âdeta, ders aldığı Amme cüz'ünü bir tek şekerlemeye satan hevâî bir çocuk gibi; elmas kıymetinde bulunan hasenâtını, hissini okşamak ve hevâsını memnun etmek ve hevesini tatmin etmek için, ehemmiyetsiz cam parçaları hükmündeki lezzetlere, enâniyetlere vesile edip, kârlı işlerde hasâret eder."
+    },
+    {
+      "type": "arabic",
+      "text": "اَللّٰهُمَّ احْفَظْنَا مِنْ شَرِّ النَّفْسِ وَالشَّيْطَانِ وَمِنْ شَرِّ الْجِنِّ وَالْاِنْسَانِ",
+      "red": true
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Yirmisekizinci Lem'anın Yirmisekizinci Nüktesi"
+    },
+    {
+      "type": "arabic",
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "لَا يَسَّمَّعُونَ اِلَى الْمَلَاِ الْاَعْلٰى وَيُقْذَفُونَ مِنْ كُلِّ جَانِبٍ ❋ دُحُورًا وَلَهُمْ عَذَابٌ وَاصِبٌ ❋ اِلَّا مَنْ خَطِفَ الْخَطْفَةَ فَاَتْبَعَهُ شِهَابٌ ثَاقِبٌوَلَقَدْ زَيَّنَّا السَّمَٓاءَ الدُّنْيَا بِمَصَاب۪يحَ وَجَعَلْنَاهَا رُجُومًا لِلشَّيَاط۪ينِ",
+          "red": true
+        },
+        {
+          "text": " gibi âyetlerin mühim bir nüktesi, ehl-i dalâletin bir tenkidi münâsebetiyle beyân edilecek. Şöyle ki:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Cin ve şeytanın câsusları, semâvât haberlerine kulak hırsızlığı yapıp, gaybî haberleri getirerek, kâhinler ve maddiyûnlar ve bazı ispirtizmacılar gibi, gâibden haber verenlere haber vermelerini, nüzûl-ü vahyin bidâyetinde, vahye bir şübhe getirmemek için onların o dâimî câsusluğu o zaman daha ziyâde şehablarla recm ve men' edildiğine dair olan mezkûr âyetler münâsebetiyle, gayet mühim üç başlı bir suâle muhtasar bir cevaptır."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Suâl:",
+          "bold": true
+        },
+        {
+          "text": " Şu gibi âyetlerden anlaşılıyor ki; cüz'î ve bazen şahsî bir hâdise-i gaybiyeyi haber almak için, gayet uzak bir mesâfe olan semâvât memleketine câsus şeytanların sokulması ve o çok geniş memleketin her tarafında o cüz'î hâdisenin bahsi varmış gibi, hangi şeytan olsa, hangi yere sokulsa, yarım yamalak o haberi işitecek, getirecek diye bir mânâyı, akıl ve hikmet kabûl etmiyor."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem, nass-ı âyetle, semâvâtın üstünde bulunan Cennet’in meyvelerini bazı ehl-i risalet ve ehl-i kerâmet, yakın bir yerden alır gibi alıyormuş, bazen yakından Cennet’i temâşâ ediyormuş diye, nihâyet uzaklık, nihâyet yakınlık içinde bir mes'eledir ki, bu asrın aklına sığmaz."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem cüz'î bir şahsın cüz'î bir ahvâli, küllî ve geniş olan semâvât memleketindeki mele-i a'lânın medâr-ı bahsi olması, gayet hakîmâne olan tedvîr-i kâinâtın hikmetine muvâfık gelmiyor. Hâlbuki bu üç mes'ele de hakàik-ı İslâmiyeden sayılıyor."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elcevab:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Evvelâ:",
+          "bold": true
+        },
+        {
+          "text": " Onbeşinci Söz nâmındaki bir risalede, “Yedi Basamak” nâmında, yedi kat'î mukaddime ile, "
+        },
+        {
+          "text": "وَلَقَدْ زَيَّنَّا السَّمَٓاءَ الدُّنْيَا بِمَصَاب۪يحَ وَجَعَلْنَاهَا رُجُومًا لِلشَّيَاط۪ينِ",
+          "red": true
+        },
+        {
+          "text": " âyetinin ifâde ettiği, yıldızlarla, şeytan câsuslarının semâvâttan ref' ve tardı, öyle bir sûrette isbât edilmiş ki, en muannid maddiyûnu dahi iknâ eder, susturur ve kabûl ettirir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Sâniyen:",
+          "bold": true
+        },
+        {
+          "text": " Bu uzak zannedilen o üç Hakikat-i İslâmiye’yi kısa zihinlere yakınlaştırmak için bir temsîl ile işâret edeceğiz. Meselâ; bir hükûmetin dâire-i askeriyesi memleketin şark’ında ve dâire-i adliyesi garbında ve dâire-i maârifi şimâlinde ve dâire-i ilmiyesi cenûbunda ve dâire-i mülkiyesi ortasında bulunsa; telsiz, telefon, telgrafla, gayet muntazam bir sûrette, her dâire alâkadar olduğu vaziyetleri görse, haber alsa; âdeta umum o memleket, adliye dâiresi olduğu hâlde, askerî dâiresidir ve mülkiye dâiresi olduğu gibi, ilmiye dâiresi oluyor."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem meselâ, müteaddid devletler ve ayrı ayrı pâyitahtları bulunan hükûmetlerin, bazen oluyor ki, müstemlekât cihetiyle veya imtiyazât haysiyetiyle veya ticâretler münâsebetiyle bir tek memlekette ayrı ayrı hâkimiyetlikleri bulunur. Raiyet ve millet bir olduğu hâlde, herbir hükûmet, kendi imtiyazı cihetiyle, o raiyetle münâsebetdârdır. Birbirinden çok uzak o hükûmetlerin muâmelâtı birbirine temâs ediyor, her hânede birbirine yakınlaşıyor ve her adamda iştirâkleri oluyor. Cüz'î mes'eleleri, temâs noktalarındaki cüz'î bir dâirede görülür. Yoksa, her cüz'î bir mes'ele, dâire-i külliyeden alınmıyor. Fakat o cüz'î mes'elelerden bahsedildiği zaman, doğrudan doğruya dâire-i külliyenin kanunuyla olduğu cihetiyle, dâire-i külliyeden alınıyor gibi ve o dâirede medâr-ı bahsolunmuş bir mes'ele şekli verilir tarzda ifâde edilir."
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte bu iki temsîl gibi, semâvât memleketi, pâyitaht ve merkez itibariyle gayet uzak olduğu hâlde, arz memleketinde insanların kalblerine uzanmış manevî telefonları olduğu gibi; semâvât âlemi, yalnız âlem-i cismânîye bakmıyor, belki âlem-i ervâhı ve âlem-i melekûtu tazammun ettiğinden, bir cihette perde altında âlem-i şehâdeti ihâta etmiştir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem âlem-i bâkîden ve dâr-ı bekàdan olan Cennet dahi, hadsiz uzaklığıyla beraber, yine o dâire-i tasarrufâtı, perde-i şehâdet altında, her tarafta nurânî bir sûrette uzanmış, yayılmış. Sâni'-i Hakîm-i Zülcelâl’in hikmetiyle, kudretiyle, nasıl ki insanın başında yerleştirdiği duygularının merkezleri ayrı ayrı olduğu hâlde, herbiri umum o vücûda, o cisme hükmediyor ve dâire-i tasarrufuna alabiliyor. Öyle de; bu insan-ı ekber olan kâinât dahi, mütedâhil ve birbiri içinde bulunan dâireler gibi, binler âlemleri ihtiva ediyor. Onlarda cereyan eden ahvâlin ve hâdiselerin küllî ve cüz'iyeti ve hususiyeti ve azameti cihetiyle medâr-ı nazar olur, yani o cüz'ler, cüz'î ve yakın yerlerde ve küllî ve azametliler, küllî ve büyük makamlarda görülür."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fakat bazen cüz'î ve hususî bir hâdise, büyük bir âlemi istilâ eder. Hangi köşede dinlenilse, o hâdise işitilir. Ve bazen de büyük tahşidât, düşmanın kuvvetine karşı değil, belki izhâr-ı haşmet için yapılır. Meselâ; hâdise-i Muhammediye (asm) ve vahy-i Kur'ân’ın hâdise-i kudsiyesi, umum semâvât memleketinde, hattâ o memleketin her köşesinde en mühim bir hâdise olduğundan, doğrudan doğruya çok uzak ve çok yüksek olan koca semâvâtın burçlarına nöbetdarlar dizilip, yıldızlardan mancınıkları atarak câsus şeytanları tard ve def' ediyorlar vaziyetinde göstermek ve ifâde etmekle, vahy-i Kur'ânî’nin derece-i haşmetini ve şa'şaa-i saltanatını ve hiçbir cihette şübhe girmeyen derece-i hakkâniyetini ilâna bir işâret-i Rabbâniye olarak, o vakitte ve o asırda daha ziyâde yıldızlar düşürülüyormuş ve atılıyormuş. Kur'ân-ı Mu'cizü'l-Beyân dahi, o ilân-ı tekvîniyeyi tercüme edip ilân ediyor ve işâret-i semâviyeye işâret eder."
+    },
+    {
+      "type": "paragraph",
+      "text": "$64"
+    },
+    {
+      "type": "paragraph",
+      "text": "Amma Cennet’in uzaklığıyla beraber âlem-i bekàdan olduğu hâlde en yakın yerlerde görülmesi ve bazen ondan meyve alınması ise, evvelki iki temsîl sırrıyla anlaşıldığı gibi, bu âlem-i fânî ve âlem-i şehâdet ise, âlem-i gayba ve dâr-ı bekàya bir perdedir. Cennet’in merkez-i kübrâsı uzakta olmakla beraber, âlem-i misâl aynası vâsıtasıyla her tarafta görünmesi mümkün olduğu gibi, hakkalyakìn derecesindeki îmânlar vâsıtasıyla, Cennet’in bu âlem-i fânîde – temsîlde hatâ olmasın – bir nev'i müstemlekeleri ve dâireleri bulunabilir. Ve kalb telefonuyla, yüksek rûhlar ile muhâbereleri olabilir, hediyeleri gelebilir."
+    },
+    {
+      "type": "paragraph",
+      "text": "$65"
+    },
+    {
+      "type": "arabic",
+      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
+      "red": true
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Said Nursî",
+          "bold": true
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "text": "Evet, bir balık, binler yumurta, binler yavru ve bazen bir milyon yumurtadan ibaret olan havyardan çıkan tevellüdât-ı semekiyeye nisbeten vefiyâtları bulunacak – tâ ki muvâzene-i bahriye muhâfaza edilebilsin. – Rahîmiyet-i İlâhiye’nin latîf cilvelerindendir ki, vâlide balıkların yavrularıyla nisbetsiz bir tefâvüt-ü cismîde bulunduklarından, yavrulara vâlideleri kumandanlık edemiyorlar. Sokuldukları yere giremedikleri için, Hakîm ve Rahîm, yavrular içinde onlara küçük bir kumandan çıkarıp, vâlidelik vazifesini o küçük kumandancıklara gördürür‥"
+    },
+    {
+      "id": "2",
+      "text": "Bir sineğin kanadı ve vücûdu ne kadar hàrika bir san'at-ı Rabbâniye olduğuna latîfâne bir işâret olarak, meşhûr Yûnus Emre’nin bu fıkrası ne güzel bildirir:\nBir sineğin kanadını kırk kağnıya yüklettim\nKırkı da çekemedi, kaldı şöyle yazılı"
+    },
+    {
+      "id": "3",
+      "text": "Evet, sineğin küçücük bir tâifesini baharın âhirinde, bâdem ve zerdali ağaçlarının dallarında, siyah bir kütle hâlinde halk olunup, dala yapışık olup kalırlar. Mütemâdiyen, pislik yerine damlacıklar onlardan akıyor. O katreler bal gibi, sâir sinekler etrafına toplanırlar, emerler. Diğer bir başka tâifesi de nebâtâtın çiçeklerinin ve incir gibi bir kısım ağaçların telkîhinde istihdam olunuyorlar. Sinek tâifelerinden yıldızlı, mumlu, ışıklı olan yıldız böceğin şâyân-ı temâşâ olduğu gibi, sinek tâifelerinden yaldızlı, altın gibi parlak kısmı da şâyân-ı dikkattir. Mızraklı sinekle, eşkıyâları hükmünde olan yabânî arıları da unutmamalıyız. Eğer Hàlık-ı Rahmân onların dizginini çekmeseydi, bu mızraklı tâifeler, pireler gibi insanlara hücum etseydiler, Nemrud’u öldürdükleri gibi, nev'-i insanı da hırpalayacak idiler; وَاِنْ يَسْلُبْهُمُ الذُّبَابُ شَيْئًا لَا يَسْتَنْقِذُوهُâyetinin mânâ-yı işârîsini tefsir ederdi. İşte, bunlar gibi yüz nâmdâr hâsiyetli tâifeleri bulunan sinek cinsinin büyük bir ehemmiyeti vardır ki, mezkûr azîm âyet onu mevzû yapmış; يَٓا اَيُّهَا النَّاسُ ضُرِبَ مَثَلٌ … (ilâ âhir) demiş."
+    },
+    {
+      "id": "4",
+      "text": "Suâl etmekte çalışkan, yazmakta tenbellik eden Re'fet’tir."
+    },
+    {
+      "id": "5",
+      "text": "Nasıl ki; iki melâike (teşbihin sırrı münâsebetiyle Sevr ve Hût tesmiye edilen), avâmca koca bir öküz ve koca bir balık telâkki edilmiştir."
+    },
+    {
+      "id": "6",
+      "text": "Zât-ı Ahmediye’ye gelen rahmet, umum ümmetin ebedî zamandaki ihtiyacâtına bakıyor. Onun için, gayr-ı mütenâhî salât, yerindedir. Acaba, dünya gibi koca, büyük ve gafletle karanlıklı, vahşetli ve hàlî bir hâneye birisi girse, ne kadar tedehhüş, tevahhuş, telâş eder. Ve birden o hâneyi tenvir ederek enîs, mûnis, habîb, mahbûb bir Yâver-i Ekrem, sadırda görünüp o hânenin Mâlik-i Rahîm-i Kerîm’ini, o hânenin her eşyasıyla ta'rif edip tanıttırsa; ne kadar sevinç, ünsiyet, sürûr, ışık, ferâh verdiğini kıyâs ediniz. Zât-ı Risalet’teki salavâtın kıymetini ve lezzetini takdir ediniz!"
+    },
+    {
+      "id": "7",
+      "text": "Cây-i dikkattir ki; Risale-i Nur şâkirdlerinin tevkîflerinin bir kısmı 25 Nisan 1935 tarihinde başlamış olup, kararnâmede suçlu gösterilen yüz on yedi kimse ise de, ikisinin ismi mükerrer olmasına nazaran, bu sûretle şâkirdlerin adedi yüz on yedi adedine o kısmın tevkîfinden hüküm tarihine kadar yüz on yedi gün olmakla tevâfuk edip, evvelki tevâfukâta bir letâfet daha katmıştır."
+    },
+    {
+      "id": "8",
+      "text": "Bazı müfessirler, “Mebde'leri semâvâttan gelmişler” demelerinden muradları şudur ki: Bu en'âm denilen hayvanatın bekàları rızık iledir ve rızıkları ottur; onların rızkı da yağmurdur. Yağmur ki, âb-ı hayattır ve rahmettir; ve rızık da semâvâttan gelir. وَفِي السَّمَٓاءِ رِزْقُكُمْ âyeti buna işâret eder. Mâdem o hayvanların devam eden müteceddid vücûdları semâvâttan gelen yağmur içindedir; semâdan indirilmiş mânâsını ifâde eden اَنْزَلَ tâbiri yerindedir."
+    },
+    {
+      "id": "9",
+      "text": "Bu parçanın da herkese faydası var."
+    }
+  ]
+}

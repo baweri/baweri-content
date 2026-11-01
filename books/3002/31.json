@@ -1,0 +1,24 @@
+{
+  "n": 31,
+  "title": "Otuzbirinci Mektûb (Lem'alar)",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Otuz bir ",
+          "italic": true
+        },
+        {
+          "text": "“Lem'a”",
+          "bold": true,
+          "italic": true
+        },
+        {
+          "text": "dır.",
+          "italic": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "n": 5,
+  "title": "Beşinci Mektûb",
+  "blocks": [
+    {
+      "type": "arabic",
+      "text": "بِاسْمِهِ سُبْحَانَهُ",
+      "red": true
+    },
+    {
+      "type": "arabic",
+      "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
+      "red": true
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Silsile-i Nakşî’nin kahramanı ve bir güneşi olan İmâm-ı Rabbânî (ra) Mektûbat’ında demiş ki: "
+        },
+        {
+          "text": "“Hakàik-ı îmâniyeden bir mes'elenin inkişafını, binler ezvâk ve mevâcid ve kerâmâta tercih ederim.”",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Hem demiş ki: "
+        },
+        {
+          "text": "“Bütün tarîklerin nokta-i müntehâsı, hakàik-ı îmâniyenin vuzûh ve inkişafıdır.”",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Hem demiş ki: "
+        },
+        {
+          "text": "“Velâyet üç kısımdır: Biri velâyet-i suğrâ – ki, meşhûr velâyettir – biri velâyet-i vustâ, biri velâyet-i kübrâdır. Velâyet-i kübrâ ise; veraset-i Nübüvvet yoluyla, tasavvuf berzahına girmeden, doğrudan doğruya hakikate yol açmaktır.”",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Hem demiş ki: "
+        },
+        {
+          "text": "“Tarîk-ı Nakşî’de iki kanat ile sülûk edilir.”",
+          "bold": true
+        },
+        {
+          "text": " Yani: “Hakàik-ı îmâniyeye sağlam bir sûrette i'tikàd etmek ve ferâiz-i diniyeyi imtisal etmekle olur. Bu iki cenâhta kusur varsa, o yolda gidilmez.” Öyle ise tarîk-ı Nakşî’nin üç perdesi var:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Birisi ve En Birincisi ve En Büyüğü:",
+          "bold": true
+        },
+        {
+          "text": " Doğrudan doğruya hakàik-ı îmâniyeye hizmettir ki, İmâm-ı Rabbânî de (ra) âhir zamanında ona sülûk etmiştir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İkincisi:",
+          "bold": true
+        },
+        {
+          "text": " Ferâiz-i diniyeye ve Sünnet-i Seniye’ye tarîkat perdesi altında hizmettir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Üçüncüsü:",
+          "bold": true
+        },
+        {
+          "text": " Tasavvuf yoluyla emrâz-ı kalbiyenin izâlesine çalışmak, kalb ayağıyla sülûk etmektir. Birincisi farz, ikincisi vâcib, bu üçüncüsü ise sünnet hükmündedir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Mâdem hakikat böyledir; ben tahmin ediyorum ki: "
+        },
+        {
+          "text": "Eğer Şeyh Abdülkadir-i Geylânî (ra) ve Şah-ı Nakşibend (ra) ve İmâm-ı Rabbânî (ra) gibi zâtlar bu zamanda olsaydılar, bütün himmetlerini, hakàik-ı îmâniyenin ve akàid-i İslâmiyenin takviyesine sarfedeceklerdi. Çünkü saâdet-i ebediyenin medârı onlardır. Onlarda kusur edilse, şekàvet-i ebediyeye sebebiyet verir. Îmânsız Cennet’e gidemez, fakat tasavvufsuz Cennet’e giden pek çoktur. Ekmeksiz insan yaşayamaz, fakat meyvesiz yaşayabilir. Tasavvuf meyvedir, hakàik-ı İslâmiye gıdâdır.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Eskiden kırk günden tut, tâ kırk seneye kadar bir seyr ü sülûk ile bazı hakàik-ı îmâniyeye ancak çıkılabilirdi. Şimdi ise Cenâb-ı Hakk’ın rahmetiyle, kırk dakikada o hakàika çıkılacak bir yol bulunsa, o yola karşı lâkayd kalmak, elbette kâr-ı akıl değil…",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İşte, otuz üç aded Sözler, böyle Kur'ânî bir yolu açtığını, dikkatle okuyanlar hükmediyorlar. Mâdem hakikat budur; "
+        },
+        {
+          "text": "esrâr-ı Kur'âniye’ye ait yazılan Sözler, şu zamanın yaralarına en münâsib bir ilâç, bir merhem ve zulümâtın tehâcümâtına ma'rûz hey'et-i İslâmiyeye en nâfi' bir nur ve dalâlet vâdilerinde hayrete düşenler için en doğru bir rehber olduğu i'tikàdındayım.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Bilirsiniz ki; eğer dalâlet cehâletten gelse izâlesi kolaydır. Fakat dalâlet, fenden ve ilimden gelse, izâlesi müşküldür. Eski zamanda ikinci kısım, binde bir bulunuyordu. Bulunanlardan ancak binden biri irşad ile yola gelebilirdi. Çünkü, öyleler kendilerini beğeniyorlar; hem bilmiyorlar, hem kendilerini bilir zannediyorlar. Cenâb-ı Hak şu zamanda, i'câz-ı Kur'ân’ın manevî lemeâtından olan ma'lûm Sözler’i, şu dalâlet zındıkasına bir tiryâk hâsiyetini vermiş tasavvurundayım.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "اَلْبَاق۪ي هُوَ الْبَاق۪ي",
+          "bold": true,
+          "red": true
+        },
+        {
+          "text": "Said Nursî",
+          "bold": true
+        }
+      ]
+    }
+  ]
+}

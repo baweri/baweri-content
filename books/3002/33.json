@@ -1,0 +1,33 @@
+{
+  "n": 33,
+  "title": "Otuzüçüncü Mektûb (Otuzüçüncü Söz)",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Mârifet-i İlâhiye’ye pencereler açan ",
+          "italic": true
+        },
+        {
+          "text": "“Otuz üç Pencereli Risale”",
+          "bold": true,
+          "italic": true
+        },
+        {
+          "text": " olup, bir cihette ",
+          "italic": true
+        },
+        {
+          "text": "“Otuzüçüncü Söz”",
+          "bold": true,
+          "italic": true
+        },
+        {
+          "text": " olduğundan Sözler Mecmuası’nda neşredilmiş, buraya dercedilmemiştir.",
+          "italic": true
+        }
+      ]
+    }
+  ]
+}

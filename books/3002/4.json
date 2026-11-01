@@ -1,0 +1,220 @@
+{
+  "n": 4,
+  "title": "Dördüncü Mektûb (Yıldıznâme)",
+  "blocks": [
+    {
+      "type": "arabic",
+      "text": "بِاسْمِهِ سُبْحَانَهُ",
+      "red": true
+    },
+    {
+      "type": "arabic",
+      "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
+      "red": true
+    },
+    {
+      "type": "arabic",
+      "text": "سَلَامُ اللّٰهِ وَرَحْمَتُهُ وَبَرَكَاتُهُ عَلَيْكُمْ وَعَلٰى اِخْوَانِكُمْ لَاسِيَّمَا… الخ",
+      "red": true
+    },
+    {
+      "type": "paragraph",
+      "text": "Azîz kardeşlerim!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ben şimdi Çam Dağı’nda, yüksek bir tepede, büyük bir çam ağacının tepesinde, bir menzilde bulunuyorum. İnsten tevahhuş ve vuhuşa ünsiyet ettim. İnsanlarla sohbet arzu ettiğim vakit, hayâlen sizleri yanımda bulur, bir hasbihâl ederim; sizinle mütesellî olurum. Bir mâni olmazsa, bir-iki ay burada yalnız kalmak arzusundayım. Barla’ya dönsem, arzunuz vechile sizden ziyâde müştâk olduğum şifâhî bir musâhabe çaresini arayacağız. Şimdi bu çam ağacında hâtıra gelen iki-üç hâtırayı yazıyorum:"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Birincisi:",
+          "bold": true
+        },
+        {
+          "text": " Bir parça mahrem bir sırdır; fakat senden sır saklanmaz. Şöyle ki:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Ehl-i hakikatin bir kısmı nasıl ki, İsm-i Vedûd’a mazhardırlar ve a'zamî bir mertebede o ismin cilveleriyle, mevcûdâtın pencereleriyle Vâcibü'l-Vücûd’a bakıyorlar‥ öyle de; şu hiç-ender hiç olan kardeşinize, yalnız Hizmet-i Kur'ân’a istihdamı hengâmında ve o hazine-i bînihâyenin dellâlı olduğu bir vakitte, İsm-i Rahîm ve İsm-i Hakîm mazhariyetine medâr bir vaziyet verilmiş. Bütün Sözler, o mazhariyetin cilveleridir. İnşâallâh o Sözler, "
+        },
+        {
+          "text": "وَمَنْ يُؤْتَ الْحِكْمَةَ فَقَدْ اُوتِيَ خَيْرًا كَث۪يرًا",
+          "red": true
+        },
+        {
+          "text": " sırrına mazhardırlar."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İkincisi:",
+          "bold": true
+        },
+        {
+          "text": " Tarîk-ı Nakşî hakkında denilen:“Der tarîk-ı Nakşibendî lâzım âmed çâr-terk;Terk-i dünya, terk-i ukbâ, terk-i hestî, terk-i terk”olan fıkra-i ra'nâ birden hâtıra geldi. O hâtıra ile beraber, birden şu fıkra tulû' etti:"
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "text": "“Der tarîk-ı acz-mendî lâzım âmed çâr-çîz;"
+    },
+    {
+      "type": "quote",
+      "text": "Fakr-ı mutlak, acz-i mutlak, şükr-ü mutlak, şevk-i mutlak ey azîz!”"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Sonra senin yazdığın; “Bak kitab-ı kâinâtın safha-i rengînine‥ ilâ âhir.” olan rengîn ve zengin şiir hâtırıma geldi. O şiir ile semânın yüzündeki yıldızlara baktım. “Keşke şâir olsaydım, bunu tekmîl etseydim” dedim. Hâlbuki şiir ve nazma isti'dâdım yokken yine başladım, fakat nazm ve şiir yapamadım; nasıl hutûr etti ise, öyle yazdım. Benim vârisim olan sen, istersen nazma çevir, tanzim et. "
+        },
+        {
+          "text": "İşte birden hâtıra gelen şu:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "text": "Dinle de yıldızları, şu hutbe-i şîrînine"
+    },
+    {
+      "type": "quote",
+      "text": "Nâme-i nûrîni Hikmet, bak ne takrîr eylemiş."
+    },
+    {
+      "type": "quote",
+      "text": "Hep beraber nutka gelmiş, hak lisânıyla derler:"
+    },
+    {
+      "type": "quote",
+      "text": "“Bir Kadîr-i Zülcelâl’in haşmet-i sultanına‥"
+    },
+    {
+      "type": "quote",
+      "text": "Biz birer bürhân-ı nur-efşânız, vücûb-u Sâni'a"
+    },
+    {
+      "type": "quote",
+      "text": "Hem Vahdete, hem Kudrete şâhidleriz biz…"
+    },
+    {
+      "type": "quote",
+      "text": "Şu zeminin yüzünü yaldızlayan"
+    },
+    {
+      "type": "quote",
+      "text": "Nâzenîn mu'cizâtı çün melek seyranına."
+    },
+    {
+      "type": "quote",
+      "text": "Bu semânın arza bakan, Cennet’e dikkat eden"
+    },
+    {
+      "type": "quote",
+      "text": "Binler müdakkik gözleriz biz."
+    },
+    {
+      "type": "quote",
+      "text": "Tûbâ-i hilkatten semâvât şıkkına"
+    },
+    {
+      "type": "quote",
+      "text": "Hep Kehkeşân ağsânına‥"
+    },
+    {
+      "type": "quote",
+      "text": "Bir Cemîl-i Zülcelâl’in dest-i hikmetiyle takılmış,"
+    },
+    {
+      "type": "quote",
+      "text": "Pek güzel meyveleriz biz."
+    },
+    {
+      "type": "quote",
+      "text": "Şu semâvât ehline, birer mescid-i seyyâr,"
+    },
+    {
+      "type": "quote",
+      "text": "Birer hâne-i devvâr, birer ulvî âşiyâne,"
+    },
+    {
+      "type": "quote",
+      "text": "Birer misbâh-ı nevvâr, birer gemi-i cebbâr,"
+    },
+    {
+      "type": "quote",
+      "text": "Birer tayyareyiz biz…"
+    },
+    {
+      "type": "quote",
+      "text": "Bir Kadîr-i Zülkemâl’in, bir Hakîm-i Zülcelâl’in;"
+    },
+    {
+      "type": "quote",
+      "text": "Birer mu'cize-i Kudret, birer hàrika-i san'at-ı hàlıkane,"
+    },
+    {
+      "type": "quote",
+      "text": "Birer nâdire-i Hikmet, birer dâhiye-i hilkat,"
+    },
+    {
+      "type": "quote",
+      "text": "Birer nur âlemiyiz biz…"
+    },
+    {
+      "type": "quote",
+      "text": "Böyle yüz bin dil ile, yüz bin bürhân gösteririz,"
+    },
+    {
+      "type": "quote",
+      "text": "İşittiririz insan olan insana."
+    },
+    {
+      "type": "quote",
+      "text": "Kör olası dinsiz gözü, görmez oldu yüzümüzü,"
+    },
+    {
+      "type": "quote",
+      "text": "Hem işitmez sözümüzü, hak söyleyen âyetleriz biz…"
+    },
+    {
+      "type": "quote",
+      "text": "Sikkemiz bir, tuğrâmız bir, Rabbimize musahharız, müsebbihiz abîdâne,"
+    },
+    {
+      "type": "quote",
+      "text": "Zikrederiz, Kehkeşânın halka-i ezkârına mensûb birer meczûblarız biz!‥”"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "اَلْبَاق۪ي هُوَ الْبَاق۪ي",
+          "bold": true,
+          "red": true
+        },
+        {
+          "text": "Said Nursî",
+          "bold": true
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "text": "Yani, Cennet çiçeklerinin fidanlık ve mezraacığı olan zeminin yüzünde hadsiz mu'cizât-ı kudret teşhîr edildiğinden, semâvât âlemindeki melâikeler, o mu'cizâtı ve o hàrikaları temâşâ ettikleri gibi; ecrâm-ı semâviyenin gözleri hükmünde olan yıldızlar dahi, güyâ melâikeler gibi, zemin yüzündeki nâzenîn masnûâtı gördükçe, Cennet âlemine bakıyorlar ve o muvakkat hàrikaları bâkî bir sûrette Cennet’te dahi temâşâ ediyorlar gibi, bir zemine, bir Cennet’e bakıyorlar; yani o iki âleme nezâretleri var demektir."
+    }
+  ]
+}

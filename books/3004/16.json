@@ -1,0 +1,590 @@
+{
+  "n": 16,
+  "title": "Yirmidokuzuncu Lem'adan İkinci Bâb",
+  "blocks": [
+    {
+      "type": "arabic",
+      "text": "بِاسْمِهِ سُبْحَانَهُ",
+      "red": true
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Bu İkinci Bâb, ",
+          "italic": true
+        },
+        {
+          "text": "“Elhamdülillâh”",
+          "bold": true,
+          "italic": true
+        },
+        {
+          "text": " hakkındadır.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "quote",
+      "text": "İkinci Bâb ile tâbir edilen şu risalecikte “Elhamdülillâh” cümlesini insanlara dedirten îmânın sonsuz fâide ve nurlarından, yalnız dokuz tane beyân edilecektir."
+    },
+    {
+      "type": "arabic",
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
+    },
+    {
+      "type": "heading",
+      "text": "Birinci Nokta"
+    },
+    {
+      "type": "paragraph",
+      "text": "Evvelâ iki şey ihtar edilecektir."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "1.",
+          "bold": true
+        },
+        {
+          "text": " Felsefe; herşeyi çirkin, korkunç gösteren siyah bir gözlüktür. "
+        },
+        {
+          "text": "Îmân ise, herşeyi güzel, ünsiyetli gösteren şeffâf, berrak, nurânî bir gözlüktür.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "2.",
+          "bold": true
+        },
+        {
+          "text": " Bütün mahlûkatla alâkadar ve herşeyle bir nev'i alışverişi olan ve kendisini abluka eden şeyler ile lafzan ve ma'nen görüşmek, konuşmak, komşuluk etmeye hilkaten mecbur olan insanın, sağ, sol, ön, arka, alt, üst olmak üzere altı ciheti vardır."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İnsan mezkûr iki gözlüğü gözüne takmakla, mezkûr cihetlerde bulunan mahlûkatı, ahvâli görebilir.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Sağ Cihet"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu cihetten maksad, geçmiş zamandır. Binâenaleyh felsefe gözlüğü ile sağ cihete bakıldığı zaman, mâzi ülkesinin kıyâmeti kopmuş, altı üstüne çevrilmiş, karanlıklı, korkunç büyük bir mezaristanı andıran bir şekilde görünecektir. Ve bu görünüşte insan pek büyük bir dehşete, vahşete, me'yûsiyete ma'rûz kaldığında şübhe yoktur."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Fakat îmân gözlüğü ile o cihete bakıldığı zaman, hakikaten o ülkenin altı üstüne çevrilmiş bir şekilde görünürse de, fakat can telefi yoktur. Mürettebâtı, sâkinleri daha güzel, nurânî bir âleme nakledilmiş oldukları anlaşılıyor. Ve o kabirler, çukurlar da, nurânî bir âleme girmek için kazılan yeraltı tünelleri şeklinde telâkki edilecektir. Demek îmânın insanlara verdiği sürûr, ferâhlık, itmi'nân, inşirah, binlerce "
+        },
+        {
+          "text": "“Elhamdülillâh”",
+          "bold": true
+        },
+        {
+          "text": " dedirten bir ni'mettir."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Sol Cihet"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yani, gelecek zamana, felsefe gözlüğü ile bakıldığı zaman; bizleri çürütecek, yılan ve akreplere yedirip imha edecek, zulümâtlı, korkunç, büyük bir kabir şeklinde görünecektir."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Fakat îmân gözlüğü ile bakılırsa Cenâb-ı Hakk’ın, Hàlık, Rahmân, Rahîm’in insanlara ihzar ettiği çeşit çeşit nefîs, lezîz me'külât ve meşrûbâta zarf olan bir mâide ve bir sofra-i Rahmânî şeklinde görünecektir. Ve binlerce "
+        },
+        {
+          "text": "“Elhamdülillâh”",
+          "bold": true
+        },
+        {
+          "text": " okutturarak tekrar ettirecektir."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Üst Cihet"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yani, semâvât cihetine felsefe ile bakan bir adam, şu sonsuz boşlukta, milyarlarca yıldız ve kürelerin at koşusu gibi veya askerî bir manevra gibi yaptıkları pek sür'atli ve muhtelif hareketlerinden büyük bir dehşete, vahşete, korkuya ma'rûz kalacaktır."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Fakat îmânlı bir adam baktığı vakit o garîb, acîb manevranın bir kumandanın emri ile nezâreti altında yapıldığı gibi; semâvât âlemini tezyîn eden ve o yıldızların bize de ziyâdâr kandiller şeklinde olduklarını görecek ve o atlar koşusunda korku, dehşet değil, ünsiyet ve muhabbet edecektir. Âlem-i semâvâtı şöylece tasvir eden îmân ni'metine elbette binlerce "
+        },
+        {
+          "text": "“Elhamdülillâh”",
+          "bold": true
+        },
+        {
+          "text": " söylemek azdır."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Alt Cihet"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yani, arz âlemine felsefe gözü ile bakan insan; küre-i arzı başıboş, yularsız şemsin etrafında serseri gezen bir hayvan gibi veya tahtası kırık kaptansız bir kayık gibi görür ve dehşete, telâşa düşer."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Fakat îmân ile bakarsa, arzın Rahmânî bir sefîne olup, Allah’ın kumandası altında bütün me'külât, meşrûbât, melbûsatı ile beraber, nev'-i beşeri tenezzüh için şemsin etrafında gezdiren bir sefîne şeklinde görür. Ve îmândan neş'et eden şu büyük ni'mete büyük büyük "
+        },
+        {
+          "text": "“Elhamdülillâh”",
+          "bold": true
+        },
+        {
+          "text": "ları söylemeğe başlar."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Ön Cihet"
+    },
+    {
+      "type": "paragraph",
+      "text": "Felsefeci bir adam bu cihete bakarsa görür ki: Bütün canlı mahlûkat – insan olsun, hayvan olsun – kafile be-kafile büyük bir sür'atle o cihete gidip kaybolurlar. Yani, ademe gider, yok olurlar. Kendisinin de o yolun yolcusu olduğunu bildiğinden, teessüründen çıldıracak bir hâle gelir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fakat îmân nazarıyla bakan bir mü'min, insanların o cihete gidişleri, seyahatleri adem âlemine değil, göçebeler gibi bir yayladan bir yaylaya bir intikaldir. Ve fânî menzilden bâkî menzile, hizmet çiftliğinden ücret dâiresine, zahmetler memleketinden rahmetler memleketine göç etmek olup, adem âlemine gitmek değil diye bu ciheti memnuniyetle karşılar."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Fakat yol esnâsında ölüm, kabir gibi görünen meşakkatler netice itibariyle saâdetlerdir. Çünkü, "
+        },
+        {
+          "text": "nurânî âlemlere giden yol kabirden geçer ve en büyük saâdetler büyük ve acı felâketlerin neticesidir.",
+          "bold": true
+        },
+        {
+          "text": " Meselâ; Hazret-i Yûsuf, Mısır azîzliği gibi bir saâdete, ancak kardeşleri tarafından atıldığı kuyu ve Zeliha’nın iftirası üzerine konulduğu hapis yolu ile nâil olmuştur. Ve kezâ, rahm-ı mâderden dünyaya gelen çocuk, ma'hud tünelde çektiği sıkıcı, ezici zahmet neticesinde dünya saâdetine nâil oluyor."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Arka Cihet"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yani geride gelenlere felsefe nazarı ile bakılsa; “Yâhû bunlar nereden nereye gidiyorlar ve ne için dünya memleketine gelmişlerdir?” diye edilen suâle bir cevab alınamadığından – tabîi – hayret ve tereddüd azâbı içinde kalınır."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Fakat nur-u îmân gözlüğü ile bakarsa, insanların kâinât sergisinde teşhîr edilen garîb, acîb kudretin mu'cizelerini görmek ve mütâlaa etmek için Sultan-ı Ezelî tarafından gönderilmiş mütâlaacı olduklarını anlar. Ve bunlar o mu'cizenin derece-i kıymet ve azametine ve Sultan-ı Ezelî’nin azametine derece-i delâletlerine kesb-i vukûf ettikleri nisbetinde derece ve numara aldıktan sonra yine Sultan-ı Ezelî’nin memleketine dönüp gideceklerini anlar ve bu anlayış ni'metini kendisine îrâs eden îmân ni'metine "
+        },
+        {
+          "text": "“Elhamdülillâh”",
+          "bold": true
+        },
+        {
+          "text": " diyecektir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Mezkûr zulmetleri izâle eden îmân ni'metine "
+        },
+        {
+          "text": "“Elhamdülillâh”",
+          "bold": true
+        },
+        {
+          "text": " diye edilen hamd dahi bir ni'met olduğundan, ona da bir hamd lâzımdır. Bu ikinci hamd’e de üçüncü bir hamd, üçüncüye dördüncü hamd lâzım. "
+        },
+        {
+          "text": "وَهَلُمَّ جَرًّا",
+          "red": true
+        },
+        {
+          "text": " Demek bir hamd-i vâhidden doğan hamdlerden ibaret gayr-ı mütenâhî bir silsile-i hamdiye husûle geliyor."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "İkinci Nokta"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Cihât-ı sitteyi tenvir eden îmân ni'metine de "
+        },
+        {
+          "text": "“Elhamdülillâh”",
+          "bold": true
+        },
+        {
+          "text": " demesi lâzımdır. Çünkü, îmân cihât-ı sittenin zulümâtını izâle etmekle def'-i belâ kabîlinden büyük bir ni'met sayıldığı gibi – tabîi – o cihât-ı sitteyi tenvir ettiği cihetle de celbü'l-menâfi' kabîlinden ikinci bir ni'met sayılır. Binâenaleyh "
+        },
+        {
+          "text": "insan fıtrî bir medeniyete sâhib olduğundan cihât-ı sittede bulunan mahlûkatla alâkadar olur ve îmân ni'meti ile de cihât-ı sitteden istifade edebilmesi imkânı vardır.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Binâenaleyh "
+        },
+        {
+          "text": "فَاَيْنَمَا تُوَلُّوا فَثَمَّ وَجْهُ اللّٰهِ",
+          "red": true
+        },
+        {
+          "text": " âyet-i kerîmesinin sırrı ile cihât-ı sitteden herhangi bir cihette olursa insan tenevvür eder. Hattâ "
+        },
+        {
+          "text": "mü'min olan bir insanın dünyanın kuruluşundan sonuna kadar uzanan manevî bir ömrü vardır. Ve insanın bu manevî ömrü, ezelden ebede uzanan bir hayat nurundan medet ve yardım alır.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Ve kezâ cihât-ı sitteyi tenvir eden îmân sâyesinde insanın şu dar zaman ve mekânı geniş ve rahat bir âleme inkılâb eder. Bu büyük âlem bir insanın hânesi gibi olur ve mâzi, müstakbel zamanları, insanın rûhuna, kalbine bir zaman-ı hâl hükmünde olur. Aralarında uzaklık kalkıyor.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Üçüncü Nokta"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Îmânın istinâd ve istimdâd noktalarını hâvî olmasından "
+        },
+        {
+          "text": "“Elhamdülillâh”",
+          "bold": true
+        },
+        {
+          "text": " demesi iktiza eder."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Evet, nev'-i beşer, aczi ve düşmanların kesreti dolayısıyla dayanacak bir nokta-i istinâda muhtaçtır ki, düşmanlarını def' için o noktaya ilticâ etsin. Ve kezâ, kesret-i hâcât ve şiddet-i fakr dolayısıyla da istimdâd edecek bir nokta-i istimdâda muhtaçtır ki, onun yardımı ile ihtiyaçlarını def'etsin."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Ey insan! Senin nokta-i istinâdın ancak ve ancak Allah’a olan îmândır. Rûhuna, vicdânına nokta-i istimdâd ise ancak âhirete olan îmândır.",
+          "bold": true
+        },
+        {
+          "text": " Binâenaleyh bu her iki noktadan haberi olmayan bir insanın kalbi, rûhu tevahhuş eder; vicdânı dâima muazzeb olur. Lâkin birinci noktaya istinâd ve ikincisinden de istimdâd eden adam kalben ve rûhen pek çok zevk ve lezzetleri, ünsiyetleri hisseder ki; hem mütesellî, hem vicdânı mutmain olur."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Dördüncü Nokta"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Îmân nuru, lezâiz-i meşrûanın zevâle başladıkları zaman hâsıl olan elemleri, emsâlinin vücûd ve gelmekte olduklarını göstermekle izâle eder. Ve kezâ, ni'metlerin devam edip tenâkus etmemesini, ni'metlerin menba'ını göstermekle te'min eder.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Ve kezâ, firâk ve ayrılmaların elemlerini teceddüd-ü emsâlinin lezzetini göstermekle izâle eder. Yani zevâl düşüncesi ile bir lezzette çok elemler olur ki, îmân o elemleri teceddüd-ü emsâli ile ihtar ve izâle eder.",
+          "bold": true
+        },
+        {
+          "text": " Maahazâ lezzetlerin teceddüdünde de başka lezzetler vardır. Evet, bir semerenin şeceresi olmasa, o semerede münhasır kalan lezzet, onun yemesi ile zâil olur ve zevâli de mûcib-i teessür olur. Fakat o semerenin şeceresi mâruf ise, o semerenin zevâlinden elem hâsıl olmuyor, çünkü yerine gelen var. Ve aynı zamanda, teceddüd hadd-i zâtında bir lezzettir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Ve kezâ rûh-u beşeri en ziyâde sıkan, ayrılmalardan neş'et eden elemlerdir. "
+        },
+        {
+          "text": "Nur-u îmân o elemleri teceddüd-ü emsâl ve tahaddüs-ü visâl ümîdi ile izâle eder.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Beşinci Nokta"
+    },
+    {
+      "type": "paragraph",
+      "text": "İnsan şu mevcûdâtta kendisine düşman ve ecnebî tevehhüm ettiği veya ölüler, yetîmler gibi hayatsız, perîşan vehmettiği şeyleri nur-u îmân; ahbab ve kardeş sıfatı ile gösterir ve hayatdâr tesbih-hân (tesbih eden) şeklinde irâe eder."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yani gafletle bakan adam âlemin mevcûdâtını düşman gibi muzır telâkki ederek tevahhuş eder. Ve eşyayı ecnebîler gibi görür. Çünkü, dalâlet nazarında mâzi ve istikbâl zamanlarındaki eşya arasında uhuvvet, kardeşlik râbıtası ve bağlanış yoktur. Ancak zaman-ı hâlde eşya arasında küçük, cüz'î bir alâka olur. Binâenaleyh ehl-i dalâletin yekdiğerine olan uhuvvetleri binler senelik uzun bir zamanda bir dakika kadardır."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Ve kezâ, îmân nazarında bütün ecrâmı, hayatdâr ve birbirine ünsiyetli olduklarını görüyor. Ve herbir cirmin lisân-ı hâli ile Hàlık’ına tesbihât yapmakta olduğunu gösteriyor. "
+        },
+        {
+          "text": "İşte bu itibarla bütün ecrâmın kendilerine göre bir nev'i hayat ve rûhları vardır. Binâenaleyh îmânın şu görüşüne nazaran o ecrâmda dehşet, vahşet yoktur. Ünsiyet ve muhabbet vardır.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Dalâlet nazarı, matlûblarını tahsil etmekten âciz olan insanların sâhibsiz, hâmîsiz olduklarını telâkki eder ve hüzün, keder, aczlerinden dolayı ağlayan yetîmler gibi zanneder."
+    },
+    {
+      "type": "paragraph",
+      "text": "Îmân nazarı ise, canlı mahlûkata, ağlar yetîmler gibi değil, ancak mükellef memur, muvazzaf zâkir ve tesbih-hân ibâd sıfatı ile bakar."
+    },
+    {
+      "type": "heading",
+      "text": "Altıncı Nokta"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Nur-u îmân, dünya ve âhiret âlemlerini çeşit çeşit ni'metlere mazhar iki sofra ile tasvir eder ki, mü'min olan kimse îmân eli ile ve zâhirî, bâtınî duyguları ile ve manevî, rûhî olan letâifi ile o sofralardan istifade ediyor.",
+          "bold": true
+        },
+        {
+          "text": " Dalâlet nazarında ise, zevi'l-hayatın dâire-i istifadesi küçülür, maddî lezzetlere münhasırdır."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Îmân nazarında, semâvât ve arzı ihâta eden bir dâire kadar tevessü' eder. Evet, bir mü'min, güneşi kendi hânesinin damında asılmış bir lüküs; kameri bir idare lambası addedebilir. Bu itibarla şems, kamer kendisine bir ni'met olur. Binâenaleyh mü'min olan zâtın dâire-i istifadesi semâvâttan daha geniş olur. Evet Kur'ân-ı Mu'cizü'l-Beyân "
+        },
+        {
+          "text": "وَسَخَّرَ لَكُمُ الشَّمْسَ وَالْقَمَرَوَسَخَّرَ لَكُمُ …… مَا فِي الْبَرِّ وَالْبَحْرِ",
+          "red": true
+        },
+        {
+          "text": "âyetlerin belâğatı ile îmândan neş'et eden şu hàrika ihsânlara, in'âmlara işâret ediyor."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Yedinci Nokta"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Nur-u îmân ile bilinir ki: Allah’ın varlığı bütün ni'metlerin fevkınde öyle büyük bir ni'mettir ki; sonsuz ni'metlerin envâ'ını, nihâyetsiz ihsânların cinslerini, sayısız atiyyelerin sınıflarını hâvî bir menba', bir kaynaktır. Binâenaleyh, zerrât-ı âlemin adedince îmân ni'metlerine hamd ü senâ etmek bir borçtur. Risale-i Nur’un eczâsında bir kısmına işâretler yapılmıştır. Maahazâ îmân-ı Billâh’tan bahseden Risale-i Nur’un cüz'leri, bu ni'metten perdeyi kaldırarak gösteriyor. "
+        },
+        {
+          "text": "“Elhamdülillâh”",
+          "bold": true
+        },
+        {
+          "text": " lâm-ı istiğrakla işâret ettiği umum hamdler ile hamdedilmesi lâzım olan ni'metlerden birisi de, Rahmâniyet ni'metidir. Evet Rahmâniyet, zevi'l-hayattan rahmete mazhar olanların sayısınca ni'metleri tazammun etmiştir. Çünkü; bilhassa insan, herbir zîhayatla alâkadardır. Bu itibarla insan her zîhayatın saâdeti ile saîdleşir ve elemleri ile müteessir olur. Öyle ise herhangi bir ferdde bulunan bir ni'met, arkadaşlarına da bir ni'mettir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ve kezâ vâlidelerin şefkatleri ile ni'metlenen çocukların sayısınca ni'metleri tazammun edip ona göre hamdlere, senâlara kesb-i istihkak edenlerden birisi de Rahîmiyettir. Evet annesiz aç bir çocuğun ağlamasından müteessir ve acıyan bir vicdân sâhibi, elbette vâlidelerin çocuklarına olan şefkatlerinden zevk alır, memnun ve mahzûz olur. İşte bu gibi zevkler birer ni'mettir, hamd ve şükürler ister."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Ve kezâ kâinâtta mündemic hikmetlerin bütün envâ' u efrâdı adedince hamd ve şükürleri iktiza edenlerden birisi de Hakîmiyettir. Zîra "
+        },
+        {
+          "text": "insanın nefsi, Rahmâniyetin cilveleri ile, kalbi de Rahîmiyetin tecelliyâtı ile ni'metlendikleri gibi; insanın aklı da Hakîmiyetin letâifi ile zevk alır, telezzüz eder.",
+          "bold": true
+        },
+        {
+          "text": " İşte bu itibarla ağız dolusu ile "
+        },
+        {
+          "text": "“Elhamdülillâh”",
+          "bold": true
+        },
+        {
+          "text": " söylemekle hamd ü senâları istilzam eder."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Ve kezâ, Esmâ-i Hüsnâ’dan "
+        },
+        {
+          "text": "“Vâris”",
+          "bold": true
+        },
+        {
+          "text": " isminin tecelliyâtı adedince ve babalar gibi usûlün zevâlinden sonra bâkî kalan fürûâtın sayısınca ve âlem-i âhiretin mevcûdâtı adedince ve uhrevî mükâfâtları almağa medâr olmak üzere hıfzedilen beşerin amelleri sayısınca, sadâsı ile şu fezâyı dolduracak kadar büyük bir "
+        },
+        {
+          "text": "“Elhamdülillâh”",
+          "bold": true
+        },
+        {
+          "text": " ile hamd edilecek hafîziyet ni'metidir. Çünkü: "
+        },
+        {
+          "text": "Ni'metin devamı, ni'metin zâtından daha kıymetlidir. Lezzetin bekàsı, lezzetten daha lezîzdir. Cennet’te devam, Cennet’in fevkındedir ve hâkezâ…",
+          "bold": true
+        },
+        {
+          "text": " Binâenaleyh Cenâb-ı Hakk’ın hafîziyeti, tazammun ettiği ni'metler, bütün kâinâtta mevcûd, bütün ni'metlerden daha çok ve daha üstündedir. Bu itibarla dünya dolusu ile bir "
+        },
+        {
+          "text": "“Elhamdülillâh”",
+          "bold": true
+        },
+        {
+          "text": " ister."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Şu zikredilen dört isme bâkî kalan Esmâ-i Hüsnâ’yı kıyâs et ki, herbir isminde sonsuz ni'metler bulunduğu için sonsuz hamdleri, şükürleri istilzam eder."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Ve kezâ, bütün ni'met hazinelerini açmak salâhiyetinde olan, ni'met-i îmâna vesile olan Hazret-i Muhammed Aleyhissalâtü Vesselâm dahi öyle bir ni'mettir ki: Nev'-i beşer ilelebed O Zâtı (asm) medh ü senâ etmeye borçludur.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Ve kezâ maddî ve manevî bütün ni'metlerin envâ'ına fihriste ve kaynak olan İslâmiyet ve Kur'ân ni'meti de gayr-ı mütenâhî hamdleri bil'istihkak istilzam eder.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Sekizinci Nokta"
+    },
+    {
+      "type": "paragraph",
+      "text": "Öyle bir Allah’a hamdolsun ki, kâinât ile tâbir edilen şu Kitab-ı Kebîr ve onun tefsiri olan Kur'ân-ı Azîmü'ş-Şân’ın beyânına göre bütün bâbları ile fasılları, ve bütün sahifeleri ile satırları, ve bütün kelimâtı ile harfleri; O Zât-ı Akdes’e – sıfât-ı cemâliye ve kemâliyesini izhâr ile – hamd ü senâhandır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Şöyle ki: O Kitab-ı Kebîrin herbir nakşı, küçük olsun büyük olsun (karınca kaderince) Vâhid ve Samed olan nakkàşının evsâf-ı celâliyesini izhâr ile hamd ü senâlar eder."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ve kezâ, o kitabın herbir yazısı Rahmân ve Rahîm olan kâtibinin evsâf-ı cemâlini göstermekle senâhan oluyor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ve kezâ, o kitabın bütün yazıları, noktaları, nakışları, Esmâ-i Hüsnâ’nın tecelliyât ve cilvelerine ma'kes ve mazhar olmak ciheti ile O Zât-ı Akdes’i takdis, tahmîd, temcid ile senâhandır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ve kezâ o kitabın herbir nazmı, kasidesi; Kadîr, Alîm olan nâzımını takdis ile tahmîd eyler…"
+    },
+    {
+      "type": "heading",
+      "text": "Dokuzuncu Nokta"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "…………………………"
+        },
+        {
+          "note": "1"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Said Nursî",
+          "bold": true
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "text": "Bu gibi şifrelerin anahtarı bende yoktur ki açayım. Maahazâ oruçlu bir kafa, ne o şifreleri açabilir ve ne o darbları yapabilir. Kusura bakmayınız, bu kadarı da, ancak müellifinin manevî yardımı ile ve Leyle-i Kadr’in bereketi ile ve Mevlâna’nın komşuluğundan istifade ile yapabildim…\nMütercim Abdülmecîd Nursî"
+    }
+  ]
+}

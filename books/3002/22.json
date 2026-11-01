@@ -1,0 +1,1137 @@
+{
+  "n": 22,
+  "title": "Yirmiikinci Mektûb",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "بِاسْمِهِ"
+    },
+    {
+      "type": "arabic",
+      "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
+      "red": true
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Şu mektûb iki mebhastır. Birinci Mebhas, ehl-i îmânı uhuvvete ve muhabbete dâvet eder.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Birinci Mebhas"
+    },
+    {
+      "type": "arabic",
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
+    },
+    {
+      "type": "arabic",
+      "text": "اِنَّمَا الْمُؤْمِنُونَ اِخْوَةٌ فَاَصْلِحُوا بَيْنَ اَخَوَيْكُمْ",
+      "red": true
+    },
+    {
+      "type": "arabic",
+      "text": "اِدْفَعْ بِالَّت۪ي هِيَ اَحْسَنُ فَاِذَا الَّذ۪ي بَيْنَكَ وَبَيْنَهُ عَدَاوَةٌ كَاَنَّهُ وَلِيٌّ حَم۪يمٌوَالْكَاظِم۪ينَ الْغَيْظَ وَالْعَاف۪ينَ عَنِ النَّاسِ وَاللّٰهُ يُحِبُّ الْمُحْسِن۪ينَ",
+      "red": true
+    },
+    {
+      "type": "paragraph",
+      "text": "Mü'minlerde nifâk ve şikàk, kin ve adâvete sebebiyet veren tarafgirlik ve inâd ve hased; hakikatçe ve hikmetçe ve insaniyet-i kübrâ olan İslâmiyetçe ve hayat-ı şahsiyece ve hayat-ı ictimâiyece ve hayat-ı maneviyece çirkin ve merduttur, muzır ve zulümdür ve hayat-ı beşeriye için zehirdir. Şu hakikatin gayet çok vücûhundan altı vechini beyân ederiz."
+    },
+    {
+      "type": "heading",
+      "text": "Birinci Vecih"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hakikat nazarında zulümdür."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ey mü'mine kin ve adâvet besleyen insafsız adam! Nasıl ki, sen bir gemide veya bir hânede bulunsan; seninle beraber dokuz masûm ile bir cânî var. O gemiyi gark ve o hâneyi ihrâk etmeye çalışan bir adamın ne derece zulmettiğini bilirsin. Ve zâlimliğini, semâvâta işittirecek derecede bağıracaksın. Hattâ, bir tek masûm, dokuz cânî olsa, yine o gemi hiçbir kanun-u adâletle batırılmaz."
+    },
+    {
+      "type": "paragraph",
+      "text": "Aynen öyle de: Sen, bir hâne-i Rabbâniye ve bir sefîne-i İlâhiye olan bir mü'minin vücûdunda îmân ve İslâmiyet ve komşuluk gibi, dokuz değil, belki yirmi sıfât-ı masûme varken; sana muzır olan ve hoşuna gitmeyen bir cânî sıfatı yüzünden ona kin ve adâvet bağlamakla, o hâne-i maneviye-i vücûdun ma'nen gark ve ihrâkına, tahrib ve batmasına teşebbüs veya arzu etmen, onun gibi şeni' ve gaddâr bir zulümdür."
+    },
+    {
+      "type": "heading",
+      "text": "İkinci Vecih"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem, hikmet nazarında dahi zulümdür."
+    },
+    {
+      "type": "paragraph",
+      "text": "Zîra, ma'lûmdur ki; adâvet ve muhabbet, nur ve zulmet gibi zıttırlar. İkisi, mânâ-yı hakîkisinde olarak beraber cem' olamazlar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eğer muhabbet, kendi esbâbının rüchâniyetine göre bir kalbde hakîki bulunsa; o vakit adâvet mecâzî olur, acımak sûretine inkılâb eder. Evet, mü'min, kardeşini sever ve sevmeli. Fakat fenâlığı için yalnız acır. Tahakkümle değil, belki lütûfla, ıslahına çalışır. Onun için, nass-ı hadîs ile; “Üç günden fazla mü'min mü'mine küsüp kat'-ı mükâleme etmeyecek.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eğer esbâb-ı adâvet galebe çalıp, adâvet, hakikatiyle bir kalbde bulunsa; o vakit muhabbet mecâzî olur, tasannu' ve temelluk sûretine girer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ey insafsız adam! Şimdi bak ki, mü'min kardeşine kin ve adâvet ne kadar zulümdür. Çünkü, nasıl ki sen, âdi küçük taşları, Kâbe’den daha ehemmiyetli ve Cebel-i Uhud’dan daha büyük desen, çirkin bir akılsızlık edersin. Aynen öyle de; Kâbe hürmetinde olan îmân ve Cebel-i Uhud azametinde olan İslâmiyet gibi çok evsâf-ı İslâmiye muhabbeti ve ittifakı istediği hâlde, mü'mine karşı adâvete sebebiyet veren ve âdi taşlar hükmünde olan bazı kusurâtı îmân ve İslâmiyete tercih etmek, o derece insafsızlık ve akılsızlık ve pek büyük bir zulüm olduğunu, aklın varsa anlarsın!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Evet, tevhid-i îmânî, elbette tevhid-i kulûbu ister. Ve vahdet-i i'tikàd dahi, vahdet-i ictimâiyeyi iktiza eder. Evet, inkâr edemezsin ki; sen bir adamla beraber bir taburda bulunmakla, o adama karşı dostâne bir râbıta anlarsın ve bir kumandanın emri altında beraber bulunduğunuzdan arkadaşâne bir alâka telâkki edersin. Ve bir memlekette beraber bulunmakla uhuvvetkârâne bir münâsebet hissedersin. Hâlbuki, îmânın verdiği nur ve şuûr ile ve sana gösterdiği ve bildirdiği Esmâ-i İlâhiye adedince vahdet alâkaları ve ittifak râbıtaları ve uhuvvet münâsebetleri var."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meselâ: Her ikinizin; Hàlık’ınız bir, Mâlik’iniz bir, Ma'bûd’unuz bir, Râzık’ınız bir‥ bir, bir, bine kadar bir, bir… Hem Peygamberiniz bir, dininiz bir, kıbleniz bir‥ bir, bir, yüze kadar bir, bir… Sonra köyünüz bir, devletiniz bir, memleketiniz bir‥ ona kadar bir, bir…"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu kadar bir birler vahdet ve tevhidi, vifâk ve ittifakı, muhabbet ve uhuvveti iktiza ettiği ve kâinâtı ve küreleri birbirine bağlayacak manevî zincirler bulundukları hâlde; şikàk ve nifâka, kin ve adâvete sebebiyet veren örümcek ağı gibi ehemmiyetsiz ve sebatsız şeyleri tercih edip mü'mine karşı hakîki adâvet etmek ve kin bağlamak; ne kadar o râbıta-i vahdete bir hürmetsizlik ve o esbâb-ı muhabbete karşı bir istihfaf ve o münâsebât-ı uhuvvete karşı ne derece bir zulüm ve i'tisaf olduğunu, kalbin ölmemiş ise, aklın sönmemiş ise anlarsın."
+    },
+    {
+      "type": "heading",
+      "text": "Üçüncü Vecih"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Adâlet-i mahzâyı ifâde eden "
+        },
+        {
+          "text": "وَلَا تَزِرُ وَازِرَةٌ وِزْرَ اُخْرٰى",
+          "red": true
+        },
+        {
+          "text": " sırrına göre, bir mü'minde bulunan cânî bir sıfat yüzünden sâir masûm sıfatlarını mahkûm etmek hükmünde olan adâvet ve kin bağlamak, ne derece hadsiz bir zulüm olduğunu ve bâhusus bir mü'minin fenâ bir sıfatından darılıp, küsüp, o mü'minin akrabasına adâvetini teşmîl etmek, "
+        },
+        {
+          "text": "اِنَّ الْاِنْسَانَ لَظَلُومٌ",
+          "red": true
+        },
+        {
+          "text": " sîga-i mübâlağa ile, gayet azîm bir zulüm ettiğini, hakikat ve şerîat ve hikmet-i İslâmiye sana ihtar ettiği hâlde, nasıl kendini haklı bulursun, “Benim hakkım var” dersin?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Hakikat nazarında sebeb-i adâvet ve şer olan fenâlıklar, şer ve toprak gibi kesiftir; başkasına sirâyet ve in'ikâs etmemek gerektir. Başkası ondan ders alıp şer işlese, o başka mes'eledir. Muhabbetin esbâbı olan iyilikler, muhabbet gibi nurdur; sirâyet ve in'ikâs etmek, şe'nidir. Ve ondandır ki; "
+        },
+        {
+          "text": "“Dostun dostu dosttur”",
+          "bold": true
+        },
+        {
+          "text": " sözü, durûb-u emsâl sırasına geçmiştir. Hem onun içindir ki; "
+        },
+        {
+          "text": "“Bir göz hatırı için çok gözler sevilir”",
+          "bold": true
+        },
+        {
+          "text": " sözü umumun lisânında gezer."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte, ey insafsız adam! Hakikat böyle gördüğü hâlde, sevmediğin bir adamın sevimli, masûm bir kardeşine ve taallukatına adâvet etmek ne kadar hilâf-ı hakikat olduğunu, hakikat-bîn isen anlarsın."
+    },
+    {
+      "type": "heading",
+      "text": "Dördüncü Vecih"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hayat-ı şahsiye nazarında dahi zulümdür. Şu dördüncü vechin esâsı olarak birkaç düsturu dinle:"
+    },
+    {
+      "type": "heading",
+      "text": "Birincisi"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Sen, mesleğini ve efkârını hak bildiğin vakit, "
+        },
+        {
+          "text": "“Mesleğim haktır veya daha güzeldir”",
+          "bold": true
+        },
+        {
+          "text": " demeye hakkın var. Fakat "
+        },
+        {
+          "text": "“Yalnız hak benim mesleğimdir”",
+          "bold": true
+        },
+        {
+          "text": " demeye hakkın yoktur. "
+        },
+        {
+          "text": "وَعَيْنُ الرِّضَا عَنْ كُلِّ عَيْبٍ كَل۪يلَةٌ وَلٰكِنَّ عَيْنَ السُّخْطِ تُبْدِي الْمَسَاوِيَا",
+          "red": true
+        },
+        {
+          "text": " sırrınca, insafsız nazarın ve düşkün fikrin hakem olamaz. Başkasının mesleğini butlân ile mahkûm edemez."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "İkinci Düstur"
+    },
+    {
+      "type": "paragraph",
+      "text": "Senin üzerine haktır ki, her söylediğin hak olsun. Fakat her hakkı söylemeye senin hakkın yoktur. Her dediğin doğru olmalı; fakat her doğruyu demek doğru değildir. Zîra, senin gibi niyeti hàlis olmayan bir adam, nasihati bazen damara dokundurur; aksü'l-amel yapar."
+    },
+    {
+      "type": "heading",
+      "text": "Üçüncü Düstur"
+    },
+    {
+      "type": "paragraph",
+      "text": "Adâvet etmek istersen, kalbindeki adâvete adâvet et, onun ref'ine çalış. Hem, en ziyâde sana zarar veren nefs-i emmârene ve hevâ-yı nefsine adâvet et, ıslahına çalış. O muzır nefsin hatırı için mü'minlere adâvet etme. Eğer düşmanlık etmek istersen, kâfirler, zındıklar çoktur; onlara adâvet et. Evet nasıl ki, muhabbet sıfatı muhabbete lâyıktır; öyle de, adâvet hasleti, herşeyden evvel kendisi adâvete lâyıktır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eğer hasmını mağlûb etmek istersen, fenâlığına karşı iyilikle mukàbele et. Çünkü eğer fenâlıkla mukàbele edersen, husûmet tezâyüd eder. Zâhiren mağlûb bile olsa, kalben kin bağlar, adâveti idâme eder."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Eğer iyilikle mukàbele etsen nedâmet eder, sana dost olur. "
+        },
+        {
+          "text": "اِذَا اَنْتَ اَكْرَمْتَ الْكَر۪يمَ مَلَكْتَهُ ❋ وَاِنْ اَنْتَ اَكْرَمْتَ اللَّئ۪يمَ تَمَرَّدًا",
+          "red": true
+        },
+        {
+          "text": " hükmünce; mü'minin şe'ni, kerîm olmaktır. Senin ikramınla sana musahhar olur. Zâhiren leîm bile olsa, îmân cihetinde kerîmdir. Evet, fenâ bir adama "
+        },
+        {
+          "text": "“İyisin, iyisin”",
+          "bold": true
+        },
+        {
+          "text": " desen iyileşmesi ve iyi adama "
+        },
+        {
+          "text": "“Fenâsın, fenâsın”",
+          "bold": true
+        },
+        {
+          "text": " desen fenâlaşması çok vukû' bulur. Öyle ise, "
+        },
+        {
+          "text": "وَاِذَا مَرُّوا بِاللَّغْوِ مَرُّوا كِرَامًاوَاِنْ تَعْفُوا وَتَصْفَحُوا وَتَغْفِرُوا فَاِنَّ اللّٰهَ غَفُورٌ رَح۪يمٌ",
+          "red": true
+        },
+        {
+          "text": " gibi desâtir-i kudsiye-i Kur'âniye’ye kulak ver; saâdet ve selâmet ondadır."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Dördüncü Düstur"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ehl-i kin ve adâvet hem nefsine, hem mü'min kardeşine, hem Rahmet-i İlâhiye’ye zulmeder, tecâvüz eder. Çünkü, kin ve adâvet ile nefsini bir azâb-ı elîmde bırakır. Hasmına gelen ni'metlerden azâbı ve korkusundan gelen elemi nefsine çektirir, nefsine zulmeder. Eğer adâvet hasedden gelse, o bütün bütün azâbdır. Çünkü, hased evvelâ hâsidi ezer, mahveder, yandırır. Mahsûd hakkında zararı ya azdır veya yoktur."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Hasedin çaresi:",
+          "bold": true
+        },
+        {
+          "text": " Hâsid adam, hased ettiği şeylerin âkıbetini düşünsün; tâ anlasın ki, rakìbinde olan dünyevî hüsün ve kuvvet ve mertebe ve servet fânîdir, muvakkattir. Fâidesi az, zahmeti çoktur. Eğer uhrevî meziyetler ise, zâten onlarda hased olamaz. Eğer onlarda dahi hased yapsa; ya kendisi riyâkârdır, âhiret malını dünyada mahvetmek ister. Veyâhut mahsûdu riyâkâr zanneder, haksızlık eder, zulmeder."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem ona gelen musîbetlerden memnun ve ni'metlerden mahzûn olup, kader ve Rahmet-i İlâhiye’ye, onun hakkında ettiği iyiliklerden küsüyor. Âdeta Kaderi tenkid ve Rahmete i'tirâz ediyor. Kaderi tenkid eden, başını örse vurur, kırar. Rahmete i'tirâz eden, rahmetten mahrum kalır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Acaba, bir gün adâvete değmeyen bir şeye, bir sene kin ve adâvetle mukàbele etmeyi hangi insaf kabûl eder; bozulmamış hangi vicdâna sığar? Hâlbuki, mü'min kardeşinden sana gelen bir fenâlığı, bütün bütün ona verip onu mahkûm edemezsin. Çünkü:"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Evvelâ:",
+          "bold": true
+        },
+        {
+          "text": " Kaderin onda bir hissesi var. Onu çıkarıp o Kader ve Kazâ hissesine karşı rızâ ile mukàbele etmek gerektir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Sâniyen:",
+          "bold": true
+        },
+        {
+          "text": " Nefis ve şeytanın hissesini de ayırıp, o adama adâvet değil, belki nefsine mağlûb olduğundan acımak ve nedâmet edeceğini beklemek."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Sâlisen:",
+          "bold": true
+        },
+        {
+          "text": " Sen kendi nefsinde görmediğin veya görmek istemediğin kusurunu gör, bir hisse de ona ver."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sonra bâkî kalan küçük bir hisseye karşı, en selâmetli ve en çabuk hasmını mağlûb edecek afv ve safh ile ve ulüvv-ü cenâblıkla mukàbele etsen, zulümden ve zarardan kurtulursun."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yoksa, sarhoş ve dîvâne olan ve şişeleri ve buz parçalarını elmas fiatıyla alan cevherci bir Yahudî gibi, beş paraya değmeyen fânî, zâil, muvakkat, ehemmiyetsiz umûr-u dünyeviyeye; güyâ ebedî dünyada durup ebedî beraber kalacak gibi şedîd bir hırs ile ve dâimî bir kin ile, mütemâdiyen bir adâvetle mukàbele etmek, sîga-i mübâlağa ile, bir zalûmiyettir veya bir sarhoşluktur. Ve bir nev'i dîvâneliktir."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İşte, hayat-ı şahsiyece bu derece muzır olan adâvete ve fikr-i intikama – eğer şahsını seversen – yol verme ki, kalbine girsin. Eğer kalbine girmiş ise, onun sözünü dinleme. Bak, hakikat-bîn olan Hâfız-ı Şirâzî’yi dinle: "
+        },
+        {
+          "text": "دُنْيَا نَه مَتَاعِيسْتِى كِه اَرْزَدْ بَنِزَاعِى",
+          "red": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Yani, “Dünya öyle bir metâ' değil ki, bir nizâ'a değsin.” Çünkü, fânî ve geçici olduğundan, kıymetsizdir. Koca dünya böyle ise, dünyanın cüz'î işleri ne kadar ehemmiyetsiz olduğunu anlarsın! Hem demiş:"
+    },
+    {
+      "type": "quote",
+      "text": "اۤسَايِشِ دُو گِيتِى تَفْسِيرِ اِينْ دُو حَرْفَسْتْ"
+    },
+    {
+      "type": "quote",
+      "text": "بَادُوسِتَانْ مُرُوَّتْ بَادُشْمَنَانْ مُدَارَا"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Yani, "
+        },
+        {
+          "text": "“İki cihanın rahat ve selâmetini iki harf tefsir eder, kazandırır: Dostlarına karşı mürüvvetkârâne muâşeret ve düşmanlarına sulhkârâne muâmele etmektir.”",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Eğer dersen:",
+          "bold": true
+        },
+        {
+          "text": " “İhtiyar benim elimde değil; fıtratımda adâvet var. Hem, damarıma dokundurmuşlar, vazgeçemiyorum.”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elcevab:",
+          "bold": true
+        },
+        {
+          "text": " Sû-i hulk ve fenâ haslet eseri gösterilmezse ve gıybet gibi şeylerle ve muktezâsıyla amel edilmezse, kusurunu da anlasa, zarar vermez. Mâdem ihtiyar senin elinde değil, vazgeçemiyorsun. Senin, manevî bir nedâmet, gizli bir tevbe ve zımnî bir istiğfar hükmünde olan kusurunu bilmen ve o haslette haksız olduğunu anlaman, onun şerrinden seni kurtarır. Zâten bu mektûbun bu mebhasını yazdık, tâ bu manevî istiğfarı te'min etsin; haksızlığı hak bilmesin, haklı hasmını haksızlıkla teşhîr etmesin."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Cây-i dikkat bir hâdise:",
+          "bold": true
+        },
+        {
+          "text": " Bir zaman, bu garazkârâne tarafgirlik neticesi olarak gördüm ki; mütedeyyin bir ehl-i ilim, fikr-i siyâsîsine muhâlif bir âlim-i sâlihi, tekfir derecesinde tezyif etti. Ve kendi fikrinde olan bir münâfığı, hürmetkârâne medhetti. İşte, siyasetin bu fenâ neticelerinden ürktüm, "
+        },
+        {
+          "text": "اَعُوذُ بِاللّٰهِ مِنَ الشَّيْطَانِ وَالسِّيَاسَةِ",
+          "red": true
+        },
+        {
+          "text": " dedim. O zamandan beri hayat-ı siyâsiyeden çekildim."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Beşinci Vecih"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hayat-ı ictimâiyece, inâd ve tarafgirlik gayet muzır olduğunu beyân eder."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Eğer denilse:",
+          "bold": true
+        },
+        {
+          "text": " “Hadîste, "
+        },
+        {
+          "text": "اِخْتِلَافُ اُمَّت۪ي رَحْمَةٌ",
+          "red": true
+        },
+        {
+          "text": " denilmiş. İhtilâf ise tarafgirliği iktiza ediyor. Hem tarafgirlik marazı, mazlum avâmı, zâlim hàvâssın şerrinden kurtarıyor. Çünkü, bir kasabanın ve bir köyün hàvâssı ittifak etseler, mazlum avâmı ezerler. Tarafgirlik olsa, mazlum bir tarafa ilticâ eder, kendisini kurtarır. Hem, tesâdüm-ü efkârdan ve tehâlüf-ü ukùlden, hakikat tamamıyla tezâhür eder.”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elcevab:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Birinci suâle deriz ki:",
+          "bold": true
+        },
+        {
+          "text": " Hadîsteki ihtilâf ise, müsbet ihtilâftır. Yani, herbiri kendi mesleğinin tamir ve revâcına sa'y eder. Başkasının tahrib ve ibtaline değil, belki tekmîl ve ıslahına çalışır. Amma menfî ihtilâf ise – ki garazkârâne, adâvetkârâne, birbirinin tahribine çalışmaktır – hadîsin nazarında merduttur. Çünkü, birbiriyle boğuşanlar, müsbet hareket edemezler."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İkinci suâle deriz ki:",
+          "bold": true
+        },
+        {
+          "text": " Tarafgirlik eğer hak nâmına olsa, haklılara melce' olabilir. Fakat şimdiki gibi garazkârâne, nefis hesabına olan tarafgirlik haksızlara melce'dir ki, onlara nokta-i istinâd teşkil eder. Çünkü, garazkârâne tarafgirlik eden bir adama şeytan gelse, onun fikrine yardım edip tarafdârlık gösterse, o adam o şeytana rahmet okuyacak. Eğer mukâbil tarafa melek gibi bir adam gelse, ona – hâşâ! – lânet okuyacak derecede bir haksızlık gösterecek."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Üçüncü suâle deriz ki:",
+          "bold": true
+        },
+        {
+          "text": " Hak nâmına, hakikat hesabına olan tesâdüm-ü efkâr ise, maksadda ve esâsta ittifak ile beraber, vesâilde ihtilâf eder. Hakikatin her köşesini izhâr edip hakka ve hakikate hizmet eder. Fakat, tarafgirâne ve garazkârâne, fir'avunlaşmış nefs-i emmâre hesabına hodfürûşluk, şöhret-perverâne bir tarzdaki tesâdüm-ü efkârdan bârika-i hakikat değil, belki fitne ateşleri çıkıyor. Çünkü, maksadda ittifak lâzım gelirken, öylelerin efkârının küre-i arzda dahi nokta-i telâkîsi bulunmaz. Hak nâmına olmadığı için, nihâyetsiz müfritâne gider. Kàbil-i iltiyâm olmayan inşikaklara sebebiyet verir. Hâl-i âlem buna şâhiddir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elhâsıl:",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "اَلْحُبُّ لِلّٰهِ ❋ وَالْبُغْضُ فِي اللّٰهِ ❋ وَالْحُكْمُ لِلّٰهِ",
+          "red": true
+        },
+        {
+          "text": " olan desâtir-i àliye düstur-u harekât olmazsa, nifâk ve şikàk meydân alır. Evet, "
+        },
+        {
+          "text": "اَلْبُغْضُ فِي اللّٰهِ ❋ وَالْحُكْمُ لِلّٰهِ",
+          "red": true
+        },
+        {
+          "text": " demezse, o düsturları nazara almazsa, adâlet etmek isterken zulmeder."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Cây-i ibret bir hâdise: Bir vakit, İmâm-ı Ali (ra) bir kâfiri yere atmış. Kılıncını çekip keseceği zaman, o kâfir ona tükürmüş. O, kâfiri bırakmış, kesmemiş. O kâfir ona demiş ki: “Neden beni kesmedin?” Dedi: “Seni Allah için kesecektim. Fakat bana tükürdün, hiddete geldim. Nefsimin hissesi karıştığı için ihlâsım zedelendi. Onun için seni kesmedim.” O kâfir ona dedi: “Beni çabuk kesmen için seni hiddete getirmekti. Mâdem dininiz bu derece sâfî ve hàlistir; o din haktır” dedi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem medâr-ı dikkat bir vâkıa: Bir zaman bir hâkim, bir hırsızın elini kestiği vakit eser-i hiddet gösterdiği için, ona dikkat eden âdil âmiri onu o vazifeden azletmiş. Çünkü, şerîat nâmına, kanun-u İlâhî hesabına kesse idi, nefsi ona acıyacak idi. Ve kalbi hiddet etmeyip, fakat merhamet de etmeyecek bir tarzda kesecekti. Demek, nefsine o hükümden bir hisse çıkardığı için, adâletle iş görmemiştir."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Cây-i teessüf bir hâlet-i ictimâiye ve kalb-i İslâmı ağlatacak müdhiş bir maraz-ı hayat-ı ictimâî:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "“Haricî düşmanların zuhûr ve tehâcümünde dâhilî adâvetleri unutmak ve bırakmak” olan bir maslahat-ı ictimâiyeyi en bedevî kavimler dahi takdir edip yaptıkları hâlde, şu Cemâat-i İslâmiye’ye hizmet da'vâ edenlere ne olmuş ki; birbiri arkasında tehâcüm vaziyetini alan hadsiz düşmanlar varken cüz'î adâvetleri unutmayıp, düşmanların hücumuna zemin hazır ediyorlar? Şu hâl bir sukùttur, bir vahşettir, hayat-ı ictimâiye-i İslâmiye’ye bir hıyânettir."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Medâr-ı ibret bir hikâye:",
+          "bold": true
+        },
+        {
+          "text": " Bedevî aşîretlerinden Hasenân aşîretinin birbirine düşman iki kabilesi varmış. Birbirinden belki elli adamdan fazla öldürdükleri hâlde, Sipkan veya Hayderan aşîreti gibi bir kabile karşılarına çıktığı vakit; o iki düşman tâife, eski adâveti unutup, omuz omuza verip, o haricî aşîreti def' edinceye kadar dâhilî adâveti hâtırlarına getirmezlerdi."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte, ey mü'minler! Ehl-i îmân aşîretine karşı tecâvüz vaziyetini almış ne kadar aşîret hükmünde düşmanlar olduğunu bilir misiniz? Birbiri içindeki dâireler gibi, yüz dâireden fazla vardır. Herbirisine karşı, tesânüd ederek el ele verip müdafaa vaziyeti almaya mecbur iken; onların hücumunu teshîl etmek, onların harîm-i İslâma girmeleri için kapıları açmak hükmünde olan garazkârâne tarafgirlik ve adâvetkârâne inâd, hiçbir cihetle ehl-i îmâna yakışır mı?"
+    },
+    {
+      "type": "paragraph",
+      "text": "O düşman dâireler, ehl-i dalâlet ve ilhâddan tut, tâ ehl-i küfrün âlemine, tâ dünyanın ehvâl ve mesâibine kadar, birbiri içinde size karşı zararlı bir vaziyet alan, birbiri arkasında size hiddet ve hırs ile bakan, belki yetmiş nev'i düşmanlar var. Bütün bunlara karşı kuvvetli silâhın ve siperin ve kalen, uhuvvet-i İslâmiye’dir. Bu kal'a-i İslâmiyeyi küçük adâvetlerle ve bahânelerle sarsmak ne kadar hilâf-ı vicdân ve ne kadar hilâf-ı maslahat-ı İslâmiye olduğunu bil, ayıl!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ehâdîs-i şerîfede gelmiş ki: Âhirzamanın Süfyân ve Deccâl gibi nifâk ve zındıka başına geçecek eşhâs-ı müdhişe-i muzırraları, İslâmın ve beşerin hırs ve şikàkından istifade ederek, az bir kuvvetle nev'-i beşeri herc ü merc eder ve koca Âlem-i İslâmı esâret altına alır."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Ey ehl-i îmân! Zillet içinde esâret altına girmemek isterseniz, aklınızı başınıza alınız! İhtilâfınızdan istifade eden zâlimlere karşı "
+        },
+        {
+          "text": "اِنَّمَا الْمُؤْمِنُونَ اِخْوَةٌ",
+          "red": true
+        },
+        {
+          "text": " kal'a-i kudsiyesi içine giriniz, tahassun ediniz. Yoksa, ne hayatınızı muhâfaza ve ne de hukukunuzu müdafaa edebilirsiniz. Ma'lûmdur ki, iki kahraman birbiriyle boğuşurken, bir çocuk ikisini de döğebilir. Bir mîzanda iki dağ birbirine karşı muvâzenede bulunsa, bir küçük taş, muvâzenelerini bozup onlarla oynayabilir; birini yukarı, birini aşağı indirir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İşte, ey ehl-i îmân, ihtiraslarınızdan ve husûmetkârâne tarafgirliklerinizden kuvvetiniz hiçe iner; az bir kuvvetle ezilebilirsiniz. Hayat-ı ictimâiyenizle alâkanız varsa, "
+        },
+        {
+          "text": "اَلْمُؤْمِنُ لِلْمُؤْمِنِ كَالْبُنْيَانِ الْمَرْصُوصِ يَشُدُّ بَعْضُهُ بَعْضًا",
+          "red": true
+        },
+        {
+          "text": "düstur-u àliyeyi düstur-u hayat yapınız; sefâlet-i dünyeviyeden ve şekàvet-i uhreviyeden kurtulunuz!"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Altıncı Vecih"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hayat-ı maneviye ve sıhhat-i ubûdiyet, adâvet ve inâd ile sarsılır. Çünkü vâsıta-i halâs ve vesile-i necât olan ihlâs, zâyi' olur. Zîra, tarafgir bir muannid, kendi a'mâl-i hayriyesinde hasmına tefevvuk ister. Hàlisen livechillâh amele pek de muvaffak olamaz. Hem, hüküm ve muâmelâtında tarafgirini tercih eder, adâlet edemez. İşte, ef'âl ve a'mâl-i hayriyenin esâsları olan ihlâs ve adâlet, husûmet ve adâvetle kaybolur. Şu Altıncı Vecih çok uzundur. Fakat kàbiliyet-i makam kısa olduğundan kısa kesiyoruz."
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "İkinci Mebhas"
+    },
+    {
+      "type": "arabic",
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
+    },
+    {
+      "type": "arabic",
+      "text": "اِنَّ اللّٰهَ هُوَ الرَّزَّاقُ ذُو الْقُوَّةِ الْمَت۪ينُوَكَاَيِّنْ مِنْ دَٓابَّةٍ لَا تَحْمِلُ رِزْقَهَا اَللّٰهُ يَرْزُقُهَا وَاِيَّاكُمْ وَهُوَ السَّم۪يعُ الْعَل۪يمُ",
+      "red": true
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Ey ehl-i îmân! Sâbıkan, adâvet ne kadar zararlı olduğunu anladın. Hem anla ki; adâvet kadar hayat-ı İslâmiye’ye en müdhiş bir maraz-ı muzır dahi "
+        },
+        {
+          "text": "hırstır.",
+          "bold": true
+        },
+        {
+          "text": " Hırs, sebeb-i haybettir ve illet ve zillettir; ve mahrumiyet ve sefâleti getirir. Evet, her milletten ziyâde hırs ile dünyaya saldıran Yahudî milletinin zillet ve sefâleti, bu hükme bir şâhid-i kàtı'dır."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Evet hırs, zîhayat âleminde en geniş bir dâireden tut, tâ en cüz'î bir ferde kadar sû-i te'sirini gösterir. Tevekkülvâri taleb-i rızk ise, bil'akis, medâr-ı rahattır ve her yerde hüsn-ü te'sirini gösterir."
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte, bir nev'i zîhayat ve rızka muhtaç olan meyvedâr ağaçlar ve nebâtlar, tevekkülvâri, kanâatkârâne yerlerinde durup hırs göstermediklerinden, rızıkları onlara koşup geliyor. Hayvanlardan pek fazla evlâd besliyorlar. Hayvanat ise, hırs ile rızıkları peşinde koştukları için, pek çok zahmet ve noksaniyet ile rızıklarını elde edebiliyorlar."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Hem hayvanat dâiresi içinde za'f ve acz lisân-ı hâliyle tevekkül eden yavruların, meşrû ve mükemmel ve latîf rızıkları hazine-i Rahmetten verilmesi ve hırs ile rızıklarına saldıran canavarların gayr-ı meşrû ve pek çok zahmet ile kazandıkları nâhoş rızıkları gösteriyor ki: "
+        },
+        {
+          "text": "Hırs, sebeb-i mahrumiyettir; tevekkül ve kanâat ise, vesile-i Rahmettir.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem dâire-i insaniye içinde her milletten ziyâde hırs ile dünyaya yapışan ve aşk ile hayat-ı dünyeviyeye bağlanan Yahudî milleti pek çok zahmet ile kazandığı, kendine fâidesi az, yalnız hazinedarlık ettiği gayr-ı meşrû bir servet-i ribâiye ile bütün milletlerden yedikleri sille-i zillet ve sefâlet, katl ve ihanet gösteriyor ki; hırs, mâden-i zillet ve hasârettir."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Hem harîs bir insan her vakit hasârete düştüğüne dair o kadar vâkıalar var ki; "
+        },
+        {
+          "text": "اَلْحَر۪يصُ خَائِبٌ خَاسِرٌ",
+          "red": true
+        },
+        {
+          "text": " darb-ı mesel hükmüne geçmiş, umumun nazarında bir hakikat-i âmme olarak kabûl edilmiştir. Mâdem öyledir; eğer malı çok seversen, hırs ile değil, belki kanâat ile malı taleb et, tâ çok gelsin."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ehl-i kanâat ile ehl-i hırs, iki şahsa benzer ki, büyük bir zâtın dîvânhânesine giriyorlar. Birisi kalbinden der: “Beni yalnız kabûl etsin; dışarıdaki soğuktan kurtulsam bana kâfîdir. En aşağıdaki iskemleyi de bana verseler lütûftur.” İkinci adam, güyâ bir hakkı varmış gibi ve herkes ona hürmet etmeye mecbur imiş gibi, mağrûrâne der ki: “Bana en yukarı iskemleyi vermeli.” O hırs ile girer, gözünü yukarı mevkilere diker, onlara gitmek ister. Fakat dîvânhâne sâhibi onu geri döndürüp aşağı oturtur. Ona teşekkür lâzımken, teşekküre bedel, kalbinden kızıyor. Teşekkür değil, bil'akis, hâne sâhibini tenkid ediyor. Hâne sâhibi de ondan istiskàl ediyor. Birinci adam mütevâziâne giriyor, en aşağıdaki iskemleye oturmak istiyor. Onun o kanâati, dîvânhâne sâhibinin hoşuna gidiyor. “Daha yukarı iskemleye buyurun” der. O da gittikçe teşekkürâtını ziyâdeleştirir, memnuniyeti tezâyüd eder."
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte, dünya bir dîvânhâne-i Rahmân’dır. Zemin yüzü bir sofra-i rahmettir. Derecât-ı erzâk ve merâtib-i ni'met dahi, iskemleler hükmündedir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem en cüz'î işlerde de herkes hırsın sû-i te'sirini hissedebilir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meselâ, iki dilenci bir şey istedikleri vakit, hırs ile ilhâh eden dilenciden istiskàl edip vermemek, diğer sâkin dilenciye merhamet edip vermek, herkes kalbinde hisseder."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem, meselâ, gecede uykun kaçmış; sen yatmak istesen, lâkayd kalsan, uykun gelebilir. Eğer hırs ile uyku istesen, “Aman yatayım, aman yatayım” dersen, bütün bütün uykunu kaçırırsın."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem, meselâ, mühim bir netice için birisini hırs ile beklersin; “Aman gelmedi, aman gelmedi” deyip en nihâyet hırs senin sabrını tüketip kalkar gidersin; bir dakika sonra o adam gelir, fakat beklediğin o mühim netice bozulur."
+    },
+    {
+      "type": "paragraph",
+      "text": "Şu hâdisâtın sırrı şudur ki: Nasıl ki, bir ekmeğin vücûdu tarla, harman, değirmen, fırına terettüb eder; öyle de, tertib-i eşyada bir teennî-i hikmet vardır. Hırs sebebiyle teennî ile hareket etmediği için, o tertibli eşyadaki manevî basamakları mürâat etmez. Ya atlar düşer, veyâhut bir basamağı noksan bırakır, maksada çıkamaz."
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte, ey derd-i maîşetle sersem olmuş ve hırs-ı dünya ile sarhoş olmuş kardeşler! Hırs bu kadar muzır ve belâlı bir şey olduğu hâlde, nasıl hırs yolunda her zilleti irtikâb ve haram-helâl demeyip her malı kabûl ve hayat-ı uhreviyeye lâzım çok şeyleri fedâ ediyorsunuz; hattâ, erkân-ı İslâmiye’nin mühim bir rüknü olan zekâtı, hırs yolunda terk ediyorsunuz? Hâlbuki zekât, her şahıs için sebeb-i bereket ve dâfi-i beliyyâttır. Zekâtı vermeyenin herhalde elinden zekât kadar bir mal çıkacak; ya lüzumsuz yerlere verecektir, ya bir musîbet gelip alacaktır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hakikatli bir rüya-yı hayâliyede, Birinci Harb-i Umumî’nin beşinci senesinde bir acîb rüyada, benden soruldu:"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "“Müslümanlara gelen bu açlık, bu zâyiât-ı maliye ve meşakkat-i bedeniye nedendir?”",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Rüyada demiştim:"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "“Cenâb-ı Hak, bir kısım maldan onda bir "
+        },
+        {
+          "note": "1"
+        },
+        {
+          "text": " veya bir kısım maldan kırkta bir, "
+        },
+        {
+          "note": "2"
+        },
+        {
+          "text": " kendi verdiği malından birisini bizden istedi; tâ bize fukaraların duâlarını kazandırsın ve kin ve hasedlerini men'etsin. Biz hırsımız için tama'kârlık edip vermedik. Cenâb-ı Hak, müterâkim zekâtını (kırkta otuz, onda sekizini) aldı."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem her senede, yalnız bir ayda yetmiş hikmetli bir açlık bizden istedi. Biz nefsimize acıdık, muvakkat ve lezzetli bir açlığı çekmedik. Cenâb-ı Hak ceza olarak yetmiş cihetle belâlı bir nev'i orucu beş sene cebren bize tutturdu."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem yirmi dört saatte bir tek saati, hoş ve ulvî, nurânî ve fâideli bir nev'i ta'limât-ı Rabbâniye’yi bizden istedi. Biz tenbellik edip, o namazı ve niyâzı yerine getirmedik. O tek saati diğer saatlere katarak zâyi' ettik. Cenâb-ı Hak, onun keffâreti olarak, beş sene ta'lim ve ta'limât ve koşturmakla bize bir nev'i namaz kıldırdı” demiştim. Sonra ayıldım, düşündüm, anladım ki, o rüya-yı hayâliyede pek mühim bir hakikat vardır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yirmibeşinci Söz’de, medeniyetle hükm-ü Kur'ân’ı muvâzene bahsinde isbât ve beyân edildiği üzere; beşerin hayat-ı ictimâîsinde bütün ahlâksızlığın ve bütün ihtilâlâtın menşe'i iki kelimedir:"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Birisi:",
+          "bold": true
+        },
+        {
+          "text": " “Ben tok olduktan sonra başkası açlıktan ölse bana ne!”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İkincisi:",
+          "bold": true
+        },
+        {
+          "text": " “Sen çalış, ben yiyeyim.”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu iki kelimeyi de idâme eden, cereyan-ı ribâ ve terk-i zekâttır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu iki müdhiş maraz-ı ictimâîyi tedâvi edecek tek çare, zekâtın bir düstur-u umumî sûretinde icrası ile vücûb-u zekât ve hurmet-i ribâdır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem değil yalnız eşhâsta ve hususî cemâatlerde, belki umum nev'-i beşerin saâdet-i hayatı için en mühim bir rükün, belki devam-ı hayat-ı insaniye için en mühim bir direk, zekâttır. Çünkü beşerde, hàvâs ve avâm, iki tabaka var. Hàvâstan avâma merhamet ve ihsân; ve avâmdan hàvâssa karşı hürmet ve itâati te'min edecek, zekâttır. Yoksa, yukarıdan avâmın başına zulüm ve tahakküm iner; avâmdan zenginlere karşı kin ve isyan çıkar. İki tabaka-i beşer dâimî bir mücâdele-i maneviyede, bir keşmekeş-i ihtilâfta bulunur. Gele gele, tâ Rusya’da olduğu gibi, sa'y ve sermâye mücâdelesi sûretinde boğuşmaya başlar."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Ey ehl-i kerem ve vicdân! Ve ey ehl-i sehàvet ve ihsân!",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "İhsânlar zekât nâmına olmazsa, üç zararı var. Bazen de fâidesiz gider. Çünkü, Allah nâmına vermediğin için ma'nen minnet ediyorsun, bîçâre fakiri minnet esâreti altında bırakıyorsun. Hem makbûl olan duâsından mahrum kalıyorsun; hem hakikaten Cenâb-ı Hakk’ın malını ibâdına vermek için bir tevzîat memuru olduğun hâlde, kendini sâhib-i mal zannedip bir küfran-ı ni'met ediyorsun."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eğer zekât nâmına versen, Cenâb-ı Hak nâmına verdiğin için bir sevâb kazanıyorsun, bir şükrân-ı ni'met gösteriyorsun. O muhtaç adam dahi, sana tabasbus etmeye mecbur olmadığı için, izzet-i nefsi kırılmaz ve duâsı senin hakkında makbûl olur."
+    },
+    {
+      "type": "paragraph",
+      "text": "Evet, zekât kadar, belki daha ziyâde nâfile ve ihsân yâhut sâir sûretlerde verip, riyâ ve şöhret gibi, minnet ve tezlil gibi zararları kazanmak nerede? Zekât nâmına o iyilikleri yapıp, hem farzı edâ etmek, hem sevâbı, hem ihlâsı, hem makbûl bir duâyı kazanmak nerede?"
+    },
+    {
+      "type": "arabic",
+      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
+      "red": true
+    },
+    {
+      "type": "arabic",
+      "text": "اَللّٰهُمَّ صَلِّ وَسَلِّمْ عَلٰى سَيِّدِنَا مُحَمَّدٍ الَّذ۪ي قَالَ اَلْمُؤْمِنُ لِلْمُؤْمِنِ كَالْبُنْيَانِ الْمَرْصُوصِ يَشُدُّ بَعْضُهُ بَعْضًا وَقَالَ اَلْقَنَاعَةُ كَنْزٌ لَا يَفْنٰى وَعَلٰى اٰلِهِ وَصَحْبِهِ اَجْمَع۪ينَ اٰم۪ينَ وَالْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ",
+      "red": true
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Hâtime"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Gıybet hakkındadır",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "بِاسْمِهِ"
+    },
+    {
+      "type": "arabic",
+      "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
+      "red": true
+    },
+    {
+      "type": "paragraph",
+      "text": "Yirmibeşinci Söz’ün Birinci Şu'lesinin Birinci Şuâının Beşinci Noktasının makam-ı zemm ve zecrin misâllerinden olan bir tek âyetin, mu'cizâne altı tarzda gıybetten tenfîr etmesi; Kur'ân’ın nazarında gıybet ne kadar şeni' bir şey olduğunu tamamıyla gösterdiğinden, başka beyâna ihtiyaç bırakmamış. Evet, Kur'ân’ın beyânından sonra beyân olamaz; ihtiyaç da yoktur."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İşte, "
+        },
+        {
+          "text": "اَيُحِبُّ اَحَدُكُمْ اَنْ يَأْكُلَ لَحْمَ اَخ۪يهِ مَيْتًا",
+          "red": true
+        },
+        {
+          "text": " âyetinde altı derece zemmi zemmeder, gıybetten altı mertebe şiddetle zecreder. Şu âyet bilfiil gıybet edenlere müteveccih olduğu vakit, mânâsı gelecek tarzda oluyor. Şöyle ki:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ma'lûmdur, âyetin başındaki hemze, sormak (âyâ) mânâsındadır. O sormak mânâsı, su gibi, âyetin bütün kelimelerine girer. Her kelimede bir hükm-ü zımnî var."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İşte, birincisi, hemze ile der:",
+          "bold": true
+        },
+        {
+          "text": " “Âyâ, suâl ve cevab mahalli olan aklınız yok mu ki, bu derece çirkin bir şeyi anlamıyor?”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İkincisi,",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "«يُحِبُّ»",
+          "red": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "lafzıyla der:",
+          "bold": true
+        },
+        {
+          "text": " “Âyâ, sevmek ve nefret etmek mahalli olan kalbiniz bozulmuş mu ki, en menfûr bir işi sever?”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Üçüncüsü,",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "اَحَدُكُمْ",
+          "red": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "kelimesiyle der:",
+          "bold": true
+        },
+        {
+          "text": " “Cemâatten hayatını alan hayat-ı ictimâiye ve medeniyetiniz ne olmuş ki, böyle hayatınızı zehirleyen bir ameli kabûl eder?”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Dördüncüsü,",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "اَنْ يَأْكُلَ لَحْمَ",
+          "red": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "kelâmıyla der:",
+          "bold": true
+        },
+        {
+          "text": " “İnsaniyetiniz ne olmuş ki, böyle canavarcasına, arkadaşınızı diş ile parçalamayı yapıyorsunuz?”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Beşincisi,",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "اَخ۪يهِ",
+          "red": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "kelimesiyle der:",
+          "bold": true
+        },
+        {
+          "text": " “Hiç rikkat-i cinsiyeniz, hiç sıla-i rahminiz yok mu ki, böyle çok cihetlerle kardeşiniz olan bir mazlumun şahs-ı manevîsini insafsızca dişliyorsunuz? Ve hiç aklınız yok mu ki, kendi a'zânızı kendi dişinizle dîvâne gibi ısırıyorsunuz?”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Altıncısı,",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "مَيْتًا",
+          "red": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "kelâmıyla der:",
+          "bold": true
+        },
+        {
+          "text": " “Vicdânınız nerede? Fıtratınız bozulmuş mu ki, en muhterem bir hâlde bir kardeşinize karşı, etini yemek gibi en müstekreh bir işi yapıyorsunuz?”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Demek, şu âyetin ifâdesiyle ve kelimelerin ayrı ayrı delâletiyle; "
+        },
+        {
+          "text": "zemm ve gıybet, aklen ve kalben ve insaniyeten ve vicdânen ve fıtraten ve milliyeten mezmûmdur.",
+          "bold": true
+        },
+        {
+          "text": " İşte bak, nasıl şu âyet, îcâzkârâne altı mertebe zemmi zemmetmekle, i'câzkârâne altı derece o cürümden zecreder."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Gıybet, ehl-i adâvet ve hased ve inâdın en çok isti'mâl ettikleri alçak bir silâhtır. İzzet-i nefis sâhibi, bu pis silâha tenezzül edip isti'mâl etmez. Nasıl meşhûr bir zât demiş: "
+        },
+        {
+          "text": "اُكَبِّرُ نَفْس۪ي عَنْ جَزَاءٍ بِغِيْبَةٍ ❋ فَكُلُّ اِغْتِيَابٍ جَهْدُ مَنْ لَا لَهُ جَهْدٌ",
+          "red": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Yani, "
+        },
+        {
+          "text": "“Düşmanıma gıybetle ceza vermekten nefsimi yüksek tutuyorum ve tenezzül etmiyorum. Çünkü gıybet, zaîf ve zelîl ve aşağıların silâhıdır.”",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Gıybet odur ki; gıybet edilen adam hazır olsa idi ve işitse idi, kerâhet edip darılacaktı. Eğer doğru dese, zâten gıybettir. Eğer yalan dese, hem gıybet, hem iftiradır; iki katlı, çirkin bir günahtır.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Gıybet, mahsûs birkaç maddede câiz olabilir:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Birisi:",
+          "bold": true
+        },
+        {
+          "text": " Şekvâ sûretinde bir vazifedâr adama der; tâ yardım edip o münkeri, o kabahati ondan izâle etsin ve hakkını ondan alsın."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Birisi de:",
+          "bold": true
+        },
+        {
+          "text": " Bir adam onunla teşrîk-i mesâî etmek ister. Senin ile meşveret eder. Sen de, sırf maslahat için, garazsız olarak, meşveretin hakkını edâ etmek için desen: “Onun ile teşrîk-i mesâî etme. Çünkü zarar göreceksin.”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Birisi de:",
+          "bold": true
+        },
+        {
+          "text": " Maksadı tahkîr ve teşhîr değil, belki maksadı, ta'rif ve tanıttırmak için dese: “O topal ve serseri adam filân yere gitti.”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Birisi de:",
+          "bold": true
+        },
+        {
+          "text": " O gıybet edilen adam fâsık-ı mütecâhirdir. Yani, fenâlıktan sıkılmıyor, belki işlediği seyyiâtla iftihar ediyor; zulmü ile telezzüz ediyor; sıkılmayarak, âşikâre bir sûrette işliyor."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte, bu mahsûs maddelerde, garazsız ve sırf hak ve maslahat için gıybet câiz olabilir. Yoksa, gıybet, nasıl ateş odunu yer bitirir; gıybet dahi a'mâl-i sâlihayı yer bitirir."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Eğer gıybet etti veyâhut isteyerek dinledi; o vakit "
+        },
+        {
+          "text": "اَللّٰهُمَّ اغْفِرْلَنَا وَلِمَنِ اغْتَبْنَاهُ",
+          "red": true
+        },
+        {
+          "text": " demeli; sonra gıybet edilen adama ne vakit rast gelse, “Beni helâl et” demeli."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "اَلْبَاق۪ي هُوَ الْبَاق۪ي",
+          "bold": true,
+          "red": true
+        },
+        {
+          "text": "Said Nursî",
+          "bold": true
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "text": "Yani her sene taze verdiği buğday gibi mallardan onda bir."
+    },
+    {
+      "id": "2",
+      "text": "Yani eskiden verdiği kırktan ki; her senede gâliben ve lâakal ribh-i ticârî ve nesl-i hayvanî cihetiyle o kırktan taze olarak on aded verir."
+    }
+  ]
+}

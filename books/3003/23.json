@@ -1,0 +1,827 @@
+{
+  "n": 23,
+  "title": "Yirmiüçüncü Lem'a Tabiat Risalesi",
+  "blocks": [
+    {
+      "type": "quote",
+      "text": "Onyedinci Lem'anın Onaltıncı Notası iken, ehemmiyetine binâen, Yirmiüçüncü Lem'a olmuştur. Tabiattan gelen fikr-i küfrîyi dirilmeyecek bir sûrette öldürüyor; küfrün temel taşını zîr ü zeber ediyor."
+    },
+    {
+      "type": "quote",
+      "text": "İhtar: Şu Notada, tabîiyyûnun münkir kısmının gittikleri yolun iç yüzü ne kadar akıldan uzak ve ne kadar çirkin ve ne derece hurâfe olduğu, lâakal doksan muhâli tazammun eden dokuz muhâl ile beyân edilmiş. Sâir risalelerde o muhâller kısmen izâh edildiğinden, burada gayet muhtasar olmak haysiyetiyle, bazı basamaklar tayyedilmiştir. Onun için, birdenbire, “Bu kadar zâhir ve âşikâre bir hurâfeyi nasıl bu meşhûr âkıl feylesoflar kabûl etmişler, o yolda gidiyorlar?” hâtıra geliyor."
+    },
+    {
+      "type": "quote",
+      "text": "Evet, onlar mesleklerinin içyüzünü görememişler. Hem, hakikat-i meslekleri ve mesleklerinin lâzımı ve muktezâsı odur ki, yazılmış herbir muhâlin ucunda beyân edilen o çirkin ve müstekreh ve gayr-ı ma'kul  hülâsa-i mezhebleri; mesleklerinin lâzımı ve zarûrî muktezâsı olduğunu gayet bedîhî ve kat'î bürhânlarla, şübhesi olanlara tafsîlen beyân ve isbât etmeye hazırım."
+    },
+    {
+      "type": "arabic",
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
+    },
+    {
+      "type": "arabic",
+      "text": "قَالَتْ رُسُلُهُمْ اَفِي اللّٰهِ شَكٌّ فَاطِرِ السَّمٰوَاتِ وَالْاَرْضِ",
+      "red": true
+    },
+    {
+      "type": "paragraph",
+      "text": "Şu âyet-i kerîme, istifhâm-ı inkârî ile, “Cenâb-ı Hak hakkında şek olmaz ve olmamalı” demekle, Vücûd ve Vahdâniyet-i İlâhiye bedâhet derecesinde olduğunu gösteriyor."
+    },
+    {
+      "type": "quote",
+      "text": "Şu sırrı izâhtan evvel bir ihtar:$4d"
+    },
+    {
+      "type": "heading",
+      "text": "Mukaddime"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ey insan! Bil ki, insanların ağzından çıkan ve dinsizliği işmâm eden dehşetli kelimeler var; ehl-i îmân bilmeyerek isti'mâl ediyorlar. Mühimlerinden üç tanesini beyân edeceğiz."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Birincisi:",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "“Evcedethü'l-esbâb”",
+          "bold": true
+        },
+        {
+          "text": " yani; “Esbâb bu şeyi icâd ediyor.”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İkincisi:",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "“Teşekkele binefsihî”",
+          "bold": true
+        },
+        {
+          "text": " yani; “Kendi kendine teşekkül ediyor, oluyor, bitiyor.”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Üçüncüsü:",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "“İktezathu't-tabiat”",
+          "bold": true
+        },
+        {
+          "text": " yani; “Tabîidir; tabiat iktiza edip icâd ediyor.”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Evet, mâdem mevcûdât var ve inkâr edilmez. Hem, her mevcûd san'atlı ve hikmetli vücûda geliyor. Hem, mâdem kadîm değil, yeniden oluyor. Herhalde, ey mülhid; bu mevcûdu, meselâ bu hayvanı, ya diyeceksin ki; esbâb-ı âlem onu icâd ediyor, yani esbâbın ictimâ'ında o mevcûd vücûd buluyor; veyâhut o kendi kendine teşekkül ediyor; veyâhut, tabiat muktezâsı olarak, tabiatın te'siriyle vücûda geliyor; veyâhut bir Kadîr-i Zülcelâl’in kudretiyle icâd edilir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mâdem aklen bu dört yoldan başka yol yoktur. Evvelki üç yol muhâl, battal, mümteni', gayr-ı kàbil oldukları kat'î isbât edilse; bizzarûre ve bilbedâhe, dördüncü yol olan tarîk-ı Vahdâniyet şeksiz, şüphesiz sâbit olur."
+    },
+    {
+      "type": "heading",
+      "text": "Muhâl Birinci Yol: “Evcedethü'l-esbâb”"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Amma Birinci Yol",
+          "bold": true
+        },
+        {
+          "text": " ki; esbâb-ı âlemin ictimâ'ıyla teşkil-i eşya ve vücûd-u mahlûkattır. Pek çok muhâlâtından yalnız üç tanesini zikrediyoruz."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Birincisi"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bir eczâhânede, gayet muhtelif maddelerle dolu, yüzer kavanoz şişeler bulunuyor. O edviyelerden, zîhayat bir mâcun istenildi. Hem hayatdâr, hàrika bir tiryâk, onlardan yapılmak icâb etti. Geldik, o eczâhânede, o zîhayat mâcunun ve hayatdâr tiryâkın çoklukla efrâdını gördük. O mâcunlardan herbirisini tedkik ettik. Görüyoruz ki; o kavanoz şişelerden herbirisinden, bir mîzan-ı mahsûs ile, bir-iki dirhem bundan, üç-dört dirhem ötekinden, altı-yedi dirhem başkasından ve hâkezâ‥ muhtelif mikdarlarda eczâlar alınmış. Eğer birinden, bir dirhem ya noksan veya fazla alınsa, o mâcun zîhayat olamaz, hâsiyetini gösteremez. Hem o hayatdâr tiryâkı da tedkik ettik. Herbir kavanozdan bir mîzan-ı mahsûs ile bir madde alınmış ki, zerre mikdarı noksan veya ziyâde olsa, tiryâk hàssasını kaybeder. O kavanozlar elliden ziyâde iken, herbirisinden ayrı bir mîzan ile alınmış gibi, ayrı ayrı mikdarda eczâları alınmış."
+    },
+    {
+      "type": "paragraph",
+      "text": "Acaba hiçbir cihette imkân ve ihtimal var mı ki; o şişelerden alınan muhtelif mikdarlar, şişelerin garîb bir tesâdüf veya fırtınalı bir havanın çarpmasıyla devrilmesinden, herbirisinden alınan mikdar kadar, yalnız o mikdar aksın, beraber gitsinler ve toplanıp o mâcunu teşkil etsinler? Acaba bundan daha hurâfe, muhâl, bâtıl bir şey var mı? Eşek muzâaf bir eşekliğe girse, sonra insan olsa, “Bu fikri kabûl etmem” diye kaçacaktır."
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte bu misâl gibi; herbir zîhayat, elbette zîhayat bir mâcundur. Ve herbir nebât, hayatdâr bir tiryâk gibidir ki; çok müteaddid eczâlardan, çok muhtelif maddelerden, gayet hassas bir ölçü ile alınan maddelerden terkîb edilmiştir. Eğer esbâba, anâsıra isnâd edilse ve “Esbâb icâd etti” denilse; aynen eczâhânedeki mâcunun, şişelerin devrilmesinden vücûd bulması gibi, yüz derece akıldan uzak, muhâl ve bâtıldır."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elhâsıl:",
+          "bold": true
+        },
+        {
+          "text": " Şu eczâhâne-i kübrâ-yı âlemde, Hakîm-i Ezelî’nin mîzan-ı kazâ ve kaderiyle alınan mevâdd-ı hayatiye, hadsiz bir hikmet ve nihâyetsiz bir ilim ve herşeye şâmil bir irâde ile vücûd bulabilir. “Kör, sağır, hududsuz, sel gibi akan küllî anâsır ve tabâyi ve esbâbın işidir” diyen bedbaht; “O tiryâk-ı acîb, kendi kendine, şişelerin devrilmesinden çıkıp olmuştur” diyen dîvâne bir hezeyancı, sarhoş bulunan bir ahmaktan daha ziyâde ahmaktır. Evet, o küfür; ahmakàne, sarhoşâne, dîvânece bir hezeyandır."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "İkinci Muhâl"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eğer herşey, Vâhid-i Ehad olan Kadîr-i Zülcelâl’e verilmezse, belki esbâba isnâd edilse, lâzım gelir ki; âlemin pek çok anâsır ve esbâbı, herbir zîhayatın vücûdunda müdâhalesi bulunsun. Hâlbuki, sinek gibi bir küçük mahlûkun vücûdunda, kemâl-i intizam ile, gayet hassas bir mîzan ve tamam bir ittifak ile, muhtelif ve birbirine zıt, mübâyin esbâbın ictimâ'ı o kadar zâhir bir muhâldir ki, sinek kanadı kadar şuûru bulunan, “Bu muhâldir, olamaz” diyecektir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Evet, bir sineğin küçücük cismi, kâinâtın ekser anâsır ve esbâbı ile alâkadardır; belki bir hülâsasıdır. Eğer Kadîr-i Ezelî’ye verilmezse, o esbâb-ı maddiye, onun vücûdu yanında bizzat hazır bulunmak lâzım; belki onun küçücük cismine girmek gerektir. Belki, cisminin küçük bir nümûnesi olan, gözündeki bir hücresine girmeleri icâb ediyor. Çünkü; sebeb maddî ise, müsebbebin yanında ve içinde bulunması lâzım geliyor. Şu hâlde, iki sineğin iğne ucu gibi parmakları yerleşmeyen o hücrecikte, erkân-ı âlem ve anâsır ve tabâyiin, maddeten içinde bulunup, usta gibi içinde çalıştıklarını kabûl etmek lâzım geliyor."
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte, Sofestâinin en eblehleri dahi böyle bir meslekten utanıyorlar."
+    },
+    {
+      "type": "heading",
+      "text": "Üçüncü Muhâl"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "اَلْوَاحِدُ لَا يَصْدُرُ اِلَّا عَنِ الْوَاحِدِ",
+          "red": true
+        },
+        {
+          "text": " kaide-i mukarreresiyle; “Bir mevcûdun vahdeti varsa, elbette bir vâhidden, bir elden sudûr edebilir.” Hususan o mevcûd, gayet mükemmel bir intizam ve hassas bir mîzan içinde ve câmi' bir hayata mazhar ise, bilbedâhe, sebeb-i ihtilâf ve keşmekeş olan müteaddid ellerden çıkmadığını, belki gayet kadîr, hakîm olan bir tek elden çıktığını gösterdiği hâlde; hadsiz ve câmid ve câhil, mütecâviz, şuûrsuz, karmakarışıklık içinde, kör, sağır esbâb-ı tabîiyenin karmakarışık ellerine – hadsiz imkânât yolları içinde ve ictimâ' ve ihtilât ile o esbâbın körlüğü, sağırlığı ziyâdeleştiği hâlde – o muntazam ve mevzûn ve vâhid bir mevcûdu onlara isnâd etmek, yüz muhâli birden kabûl etmek gibi akıldan uzaktır."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Haydi bu muhâlden kat'-ı nazar, esbâb-ı maddiyenin elbette te'sirleri, mübâşeretle ve temâsla olur. Hâlbuki o esbâb-ı tabîiyenin temâsları, zîhayat mevcûdların zâhirleriyledir. Hâlbuki görüyoruz ki; o esbâb-ı maddiyenin elleri yetişmediği ve temâs edemedikleri o zîhayatın bâtını, on defa zâhirinden daha muntazam, daha latîf, san'atça daha mükemmeldir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esbâb-ı maddiyenin elleri ve âletleriyle hiçbir cihetle yerleşemedikleri, belki tam zâhirine de temâs edemedikleri küçücük zîhayat, küçücük hayvancıklar, en büyük mahlûklardan daha ziyâde san'atça acîb, hilkatçe bedî' bir sûrette oldukları hâlde; o câmid, câhil, kaba, uzak, büyük ve birbirine zıt olan sağır, kör esbâba isnâd etmek, yüz derece kör, bin derece sağır olmakla olur!"
+    },
+    {
+      "type": "heading",
+      "text": "Muhâl İkinci Yol: “Teşekkele binefsihî”"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Amma İkinci Mes'ele:",
+          "bold": true
+        },
+        {
+          "text": " “Teşekkele binefsihî”dir. Yani; “Kendi kendine teşekkül ediyor.” İşte bu cümlenin dahi çok muhâlâtı var; çok cihetle bâtıldır, muhâldir. Nümûne için, muhâlâtından üç tanesini beyân ederiz."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Birincisi"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ey muannid münkir! Senin enâniyetin seni o kadar ahmaklaştırmış ki, yüz muhâli birden kabûl etmeyi, bir derece hükmediyorsun. Çünkü sen mevcûdsun. Ve basit bir madde ve câmid ve tağayyürsüz değilsin. Belki, dâima teceddüdde olarak, gayet muntazam bir makine ve hàrika ve dâima tahavvülde bir saray gibisin. Senin vücûdunda her vakit zerreler çalışıyorlar. Senin vücûdun kâinâtla, hususan rızık münâsebetiyle, hususan bekà-i nev'î itibariyle alâkadar ve alışverişi vardır. Senin vücûdunda çalışan zerreler, o münâsebâtı bozmamak ve o alâkadarlığı kırmamak için dikkat ediyorlar, öylece ihtiyatla ayaklarını atıyorlar. Güyâ bütün kâinâta bakıyorlar, senin münâsebâtını kâinâtta görüp öyle vaziyet alıyorlar. Sen zâhirî ve bâtınî duygularınla, o zerrelerin o hàrika vaziyetine göre istifade edersin."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eğer sen vücûdundaki zerreleri, Kadîr-i Ezelî’nin kanunuyla hareket eden küçücük memurları veya bir ordusu veya kalem-i Kaderin uçları – herbir zerre bir kalem ucu – veya kalem-i Kudretin noktaları – herbir zerre bir nokta – olduğunu kabûl etmezsen; o vakit senin gözünde çalışan herbir zerreye öyle bir göz lâzım ki, senin mecmû-u cesedinin her tarafını görmekle beraber, münâsebetdâr olduğun bütün kâinâtı dahi görecek bir gözü ve bütün senin mâzi ve müstakbel ve nesil ve aslın ve anâsırının menba'larını ve rızkının mâdenlerini bilecek, tanıyacak, yüz dâhî kadar bir akıl vermek lâzım geliyor. Senin gibi bu mes'elelerde zerre kadar aklı olmayanın bir zerresine bin Eflâtun kadar bir ilim ve şuûr vermek, bin derece dîvânece bir hurâfeciliktir!"
+    },
+    {
+      "type": "heading",
+      "text": "İkinci Muhâl"
+    },
+    {
+      "type": "paragraph",
+      "text": "Senin vücûdun bin kubbeli hàrika bir saraya benzer ki; her kubbesinde taşlar, direksiz birbirine baş başa verip muallakta durdurulmuş. Belki senin vücûdun, bin defa bu saraydan daha acîbdir. Çünkü; o saray-ı vücûdun, dâima, kemâl-i intizamla tazelenmektedir. Gayet hàrika olan rûh, kalb ve manevî letâiften kat'-ı nazar, yalnız cesedindeki herbir a'zâ, bir kubbeli menzil hükmündedir. Zerreler, o kubbedeki taşlar gibi birbirleriyle kemâl-i muvâzene ve intizam ile baş başa verip, hàrika bir bina, fevkalâde bir san'at, göz ve dil gibi acîb birer mu'cize-i kudret gösteriyorlar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eğer bu zerreler, şu âlemin ustasının emrine tâbi birer memur olmasalar, o vakit herbir zerre, umum o ceseddeki zerrelere; Hem hâkim-i mutlak‥ Hem herbirisine mahkûm-u mutlak‥ Hem herbirisine misil‥ Hem hâkimiyet noktasında zıt‥ Hem yalnız Vâcibü'l-Vücûd’a mahsûs olan ekser sıfâtın masdarı, menba'ı‥ Hem gayet mukayyed‥ Hem gayet mutlak bir sûrette olmakla beraber, sırr-ı vahdetle yalnız bir Vâhid-i Ehad’in eseri olabilen gayet muntazam bir masnû'-u vâhidi, o hadsiz zerrâta isnâd etmek; zerre kadar şuûru olan, bunun pek zâhir bir muhâl, belki yüz muhâl olduğunu derk eder."
+    },
+    {
+      "type": "heading",
+      "text": "Üçüncü Muhâl"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eğer senin vücûdun, Vâhid-i Ehad olan Kadîr-i Ezelî’nin kalemiyle mektûb olmazsa ve tabiata, esbâba mensûb matbu' ise, o vakit senin vücûdundaki bir hüceyre-i bedenden tut, birbiri içinde dâireler misillû, binler mürekkebler adedince tabiat kalıplarının bulunması lâzım gelir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Çünkü; meselâ bu elimizdeki kitab eğer mektûb olsa, bir tek kalem, kâtibinin ilmine istinâd edip, bütün onları yazar. Eğer o, mektûb olmazsa ve onun kalemine verilmezse, “Kendi kendine olmuş” denilse veya tabiata verilse, o vakit matbu' kitab gibi herbir harfi için ayrı bir demir kalem lâzımdır ki, tab' edilsin. Nasıl ki, matbaada hurûfât adedince demir harfler bulunur, sonra o harfler vücûd bulur; o vakit bir tek kaleme bedel, o hurûfât adedince kalemler bulunması lâzım gelir. Belki o hurûfât içinde – bazen olduğu gibi – küçük kalem ile bir büyük harfte bir sahife ince hatla yazılmış ise, binler kalem bir tek harf için lâzım geliyor. Belki, birbirinin içine girip muntazam bir vaziyetle, senin cesedin gibi bir şekil alıyorsa, o vakit herbir dâirede, herbir cüz' için, o mürekkebât adedince kalıplar lâzım geliyor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Haydi, yüz muhâl içinde bulunan bu tarzı mümkün desen dahi, bu muntazam san'atlı demir harfleri ve mükemmel kalıpları ve kalemleri yapmak için, yine bir tek kaleme verilmezse; o kalemler, o kalıplar, o demir harflerin yapılması için, onların adedlerince yine kalemler, kalıplar ve harfler lâzım. Çünkü onlar da yapılmışlar ve onlar da muntazam san'atlıdırlar. Ve hâkezâ, müteselsilen gittikçe gidecek…"
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte sen de anla! Bu öyle bir fikirdir ki, senin zerrâtın adedince muhâlât ve hurâfeler, içinde bulunuyor. Ey muannid muattıl! Sen de utan, bu dalâletten vazgeç!"
+    },
+    {
+      "type": "heading",
+      "text": "Muhâl Üçüncü Yol: “İktezathu't-tabiat”"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Üçüncü Kelime",
+          "bold": true
+        },
+        {
+          "text": " “İktezathu't-tabiat” yani; “Tabiat iktiza ediyor, tabiat yapıyor.” İşte bu hükmün çok muhâlâtı var. Nümûne için üçünü zikrediyoruz."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Birincisi"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eğer mevcûdâtta, hususan zîhayatta görünen, basîrâne, hakîmâne olan san'at ve icâd, Şems-i Ezelî’nin kalem-i kader ve kudretine verilmezse; belki kör, sağır, düşüncesiz olan tabiata ve kuvvete isnâd edilse, lâzım gelir ki; tabiat, icâd için herşeyde hadsiz manevî makine ve matbaaları bulundursun; veyâhut herşeyde, kâinâtı halk ve idare edecek bir kudret ve hikmet dercetsin."
+    },
+    {
+      "type": "paragraph",
+      "text": "Çünkü; nasıl şemsin cilveleri ve akisleri, zemin yüzündeki zerrecik cam parçalarında ve katrelerde görünüyor. Eğer o misâlî ve aksî güneşçikler semâdaki tek güneşe isnâd edilmese, lâzım gelir ki; bir kibrit başı yerleşmeyen bir zerrecik cam parçasında tabîi, fıtrî ve güneşin hâsiyetlerine mâlik, zâhiren küçük, ma'nen çok derin bir güneşin haricî vücûdunu kabûl ederek, zerrât-ı zücâciye adedince tabîi güneşleri kabûl etmek lâzım geldiği gibi:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aynen bu misâl gibi, mevcûdât ve zîhayat doğrudan doğruya Şems-i Ezelî’nin cilve-i esmâsına verilmezse, herbir mevcûdda, hususan herbir zîhayatta, hadsiz bir kudret ve irâde ve nihâyetsiz bir ilim ve hikmet taşıyacak bir tabiatı, bir kuvveti, âdeta bir ilâhı, içinde kabûl etmek lâzım gelir. Bu tarz-ı fikir ise, kâinâttaki muhâlâtın en bâtılı, en hurâfesidir. Hàlık-ı Kâinât’ın san'atını mevhûm, ehemmiyetsiz, şuûrsuz bir tabiata veren insan, elbette yüz defa hayvandan daha hayvan, daha şuûrsuz olduğunu gösterir."
+    },
+    {
+      "type": "heading",
+      "text": "İkinci Muhâl"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eğer gayet intizamlı, mîzanlı, san'atlı, hikmetli şu mevcûdât, nihâyetsiz kadîr, hakîm bir Zâta verilmezse, belki tabiata isnâd edilse, lâzım gelir ki; tabiat, herbir parça toprakta, Avrupa’nın umum matbaaları ve fabrikaları adedince makineleri, matbaaları bulundursun; tâ, o parça toprak, menşe' ve tezgâh olduğu hadsiz çiçekler ve meyvelerin yetişmelerine ve teşkillerine medâr olabilsin."
+    },
+    {
+      "type": "paragraph",
+      "text": "Çünkü; çiçekler için saksılık vazifesini gören bir kâse toprak; içine tohumları nöbetle atılan umum çiçeklerin birbirinden çok ayrı olan şekil ve hey'etlerini teşkil ve tasvir edebilir bir kàbiliyeti, bilfiil görülüyor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eğer Kadîr-i Zülcelâl’e verilmezse; o vakit, o kâsedeki toprakta, herbir çiçek için manevî, ayrı, tabîi bir makinesi bulunmazsa, bu hâl vücûda gelemez. Çünkü tohumlar ise, nutfeler ve yumurtalar gibi, maddeleri birdir. Yani; müvellidü'l-mâ, müvellidü'l-humuza, karbon, azotun intizamsız, şekilsiz, hamur gibi halîtasından ibaret olmakla beraber; hava, su, harâret, ziyâ dahi, herbiri basit ve şuûrsuz ve herşeye karşı sel gibi bir tarzda gittiğinden, o hadsiz çiçeklerin teşkilleri ayrı ayrı ve gayet muntazam ve san'atlı olarak o topraktan çıkması, bilbedâhe ve bizzarûre iktiza ediyor ki, o kâsede bulunan toprakta, ma'nen Avrupa kadar, manevî ve küçük mikyâsta matbaaları ve fabrikaları bulunsun. Tâ ki, bu kadar hayatdâr kumaşları ve binler ayrı ayrı nakışlı mensûcâtları dokuyabilsin."
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte, tabîiyyûnların fikr-i küfrîleri ne derece dâire-i akıldan hariç saptığını kıyâs et. Ve tabiatı mûcid zanneden insan sûretindeki ahmak sarhoşlar “mütefennin ve akıllıyız” diye da'vâ ettikleri hâlde, akıl ve fenden ne kadar uzak düştüklerini ve mümteni' ve hiçbir cihetle mümkün olmayan bir hurâfeyi kendilerine meslek ittihàz ettiklerini gör, gül ve tükür!"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Eğer desen:",
+          "bold": true
+        },
+        {
+          "text": " Mevcûdât tabiata isnâd edilse böyle acîb muhâller olur, imtina' derecesinde müşkülât olur. Acaba Zât-ı Ehad ve Samed’e verildiği vakit, o müşkülât nasıl kalkıyor? Ve o suûbetli imtina', o sühûletli vücûba nasıl inkılâb eder?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elcevab:",
+          "bold": true
+        },
+        {
+          "text": " Birinci Muhâlde, nasıl ki güneşin cilve-i in'ikâsı kemâl-i sühûletle, külfetsiz, en küçük zerrecik camdan tut, tâ en büyük bir denizin yüzüne kadar feyzini ve te'sirini misâlî güneşçiklerle gayet kolaylıkla gösterdikleri hâlde; eğer güneşten nisbeti kesilse, o vakit herbir zerrecikte tabîi ve bizzat bir güneşin haricî vücûdu, imtina' derecesinde bir suûbetle olabilmesi kabûl edilmek lâzım gelir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Öyle de; herbir mevcûd, doğrudan doğruya Zât-ı Ehad ve Samed’e verilse, vücûb derecesinde bir sühûlet, bir kolaylık ile ve bir intisab ve cilve ile, herbir mevcûda lâzım herbir şey ona yetiştirilebilir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eğer o intisab kesilse ve o memuriyet başıbozukluğa dönse ve herbir mevcûd kendi başına ve tabiata bırakılsa, o vakit imtina' derecesinde yüz bin müşkülât ve suûbetle, sinek gibi bir zîhayatın, kâinâtın küçük bir fihristesi olan gayet hàrika makine-i vücûdunu icâd eden, içindeki kör tabiatın, kâinâtı halk ve idare edecek bir kudret ve hikmet sâhibi olduğunu farz etmek lâzım gelir. Bu ise bir muhâl değil, belki binler muhâldir."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elhâsıl;",
+          "bold": true
+        },
+        {
+          "text": " nasıl ki, Zât-ı Vâcibü'l-Vücûd’un şerîk ve nazîri mümteni' ve muhâldir; öyle de, Rubûbiyetinde ve icâd-ı eşyada başkalarının müdâhalesi, şerîk-i zâtî gibi mümteni' ve muhâldir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Amma İkinci Muhâldeki müşkülât ise:",
+          "bold": true
+        },
+        {
+          "text": " Müteaddid risalelerde isbât edildiği gibi, eğer bütün eşya Vâhid-i Ehad’e verilse, bütün eşya bir tek şey gibi sühûletli ve kolay olur. Eğer esbâba ve tabiata verilse, bir tek şey umum eşya kadar müşkülâtlı olduğu, müteaddid ve kat'î bürhânlarla isbât edilmiş. Bir bürhânın hülâsası şudur ki:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Nasıl ki; bir adam, bir pâdişaha askerlik veya memuriyet cihetiyle intisab etse, o memur ve o asker, o intisab kuvvetiyle, yüz bin defa kuvvet-i şahsiyesinden fazla işlere medâr olabilir. Ve pâdişahı nâmına, bazen bir şahı esir eder. Çünkü gördüğü işlerin ve yaptığı eserlerin cihâzâtını ve kuvvetini kendi taşımıyor ve taşımaya mecbur olmuyor. O intisab münâsebetiyle, pâdişahın hazineleri ve arkasındaki nokta-i istinâdı olan ordu, o kuvveti, o cihâzâtı taşıyor. Demek gördüğü işler, şâhâne olarak bir pâdişahın işi gibi ve gösterdiği eserler bir ordu eseri misillû hàrika olabilir."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Nasıl ki; karınca, o memuriyet cihetiyle Fir'avun’un sarayını harâb ediyor. Sinek o intisab ile Nemrud’u gebertiyor. Ve o intisab ile, buğday dânesi gibi bir çam çekirdeği, koca çam ağacının bütün cihâzâtını yetiştiriyor. "
+        },
+        {
+          "note": "2"
+        },
+        {
+          "text": " Eğer o intisab kesilse, o memuriyetten terhis edilse, yapacağı işlerin cihâzâtını ve kuvvetini belinde ve bileğinde taşımağa mecburdur. O vakit, o küçücük bileğindeki kuvvet mikdarınca ve belindeki cephane adedince iş görebilir. Evvelki vaziyette gayet kolaylıkla gördüğü işleri bu vaziyette ondan istenilse, elbette bileğinde bir ordu kuvvetini ve belinde bir pâdişahın cihâzât-ı harbiye fabrikasını yüklemek lâzım gelir ki, güldürmek için acîb hurâfeleri ve masalları hikâye eden maskaralar dahi bu hayâlden utanıyorlar!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elhâsıl:",
+          "bold": true
+        },
+        {
+          "text": " Vâcibü'l-Vücûd’a her mevcûdu vermek, vücûb derecesinde bir sühûleti var. Ve tabiata icâd cihetinde vermek, imtina' derecesinde müşkül ve haric-i dâire-i akliyedir."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Üçüncü Muhâl"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu muhâli izâh edecek, bazı risalelerde beyân edilen iki misâl:"
+    },
+    {
+      "type": "heading",
+      "text": "Birinci Misâl"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bütün âsâr-ı medeniyetle tekmîl ve tezyîn edilmiş, hàlî bir sahrâda kurulmuş, yapılmış bir saraya gayet vahşî bir adam girmiş, içine bakmış. Binlerle muntazam san'atlı eşyayı görmüş. Vahşetinden, ahmaklığından, “Hariçten kimse müdâhale etmeyip, o saray içinde o eşyadan birisi o sarayı müştemilâtıyla beraber yapmıştır” diye taharrîye başlıyor. Hangi şeye bakıyor, o vahşetli aklı dahi kàbil görmüyor ki, o şey bunları yapsın."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sonra, o sarayın teşkilât programını ve mevcûdât fihristesini ve idare kanunları içinde yazılı olan bir defteri görür. Çendan, elsiz ve gözsüz ve çekiçsiz olan o defter dahi, sâir içindeki şeyler gibi, hiçbir kàbiliyeti yoktur ki, o sarayı teşkil ve tezyîn etsin. Fakat muztar kalarak, bilmecbûriye, eşya-yı âhere nisbeten, kavânîn-i ilmiyenin bir ünvânı olmak cihetiyle, o sarayın mecmûuna bu defteri münâsebetdâr gördüğünden, “İşte bu defterdir ki; o sarayı teşkil, tanzim ve tezyîn edip bu eşyayı yapmış, takmış, yerleştirmiş” diyerek, vahşetini ahmakların, sarhoşların hezeyanına çevirmiş."
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte, aynen bu misâl gibi; hadsiz derecede misâldeki saraydan daha muntazam, daha mükemmel ve bütün etrafı mu'cizâne hikmetle dolu şu saray-ı âlemin içine, inkâr-ı Ulûhiyet’e giden “tabîiyyûn” fikrini taşıyan vahşî bir insan girer. Dâire-i mümkinât haricinde olan Zât-ı Vâcibü'l-Vücûd’un eser-i san'atı olduğunu düşünmeyerek ve O’ndan i'râz ederek, dâire-i mümkinât içinde, kader-i İlâhî’nin yazar bozar bir levhası hükmünde ve kudret-i İlâhiye’nin kavânîn-i icraatına tebeddül ve tağayyür eden bir defteri olabilen ve pek yanlış ve hatâ olarak “tabiat” nâmı verilen bir mecmua-i kavânîn-i âdât-ı İlâhiye ve bir fihriste-i san'at-ı Rabbâniye’yi görür. Ve der ki:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Mâdem bu eşya bir sebeb ister; hiçbir şeyin bu defter gibi münâsebeti görünmüyor. Çendan hiçbir cihetle akıl kabûl etmez ki; gözsüz, şuûrsuz, kudretsiz bu defter, Rubûbiyet-i Mutlakanın işi olan ve hadsiz bir kudreti iktiza eden icâdı yapamaz. Fakat mâdem Sâni'-i Kadîm’i kabûl etmiyorum; öyle ise, en münâsibi, ‘Bu defter bunu yapmış ve yapar’ diyeceğim” der. Biz de deriz:"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Ey ahmaku'l-humakàdan tahammuk etmiş sarhoş ahmak!",
+          "bold": true
+        },
+        {
+          "text": " Başını tabiat bataklığından çıkar, arkana bak! Zerrâttan seyyârâta kadar bütün mevcûdât, ayrı ayrı lisânlarla şehâdet ettikleri ve parmaklarıyla işâret ettikleri bir Sâni'-i Zülcelâl’i gör. Ve o sarayı yapan ve o defterde sarayın programını yazan Nakkàş-ı Ezelî’nin cilvesini gör, fermânına bak, Kur'ânını dinle, o hezeyanlardan kurtul!"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "İkinci Misâl"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gayet vahşî bir adam, muhteşem bir kışla dâiresine girer. Gayet muntazam bir ordunun umumî, beraber ta'limlerini, muntazam hareketlerini görür. Bir neferin hareketiyle bir tabur, bir alay, bir fırka kalkar, oturur, gider; bir ateş emriyle ateş ettiklerini müşâhede eder. Onun kaba, vahşî aklı, bir kumandanın, devletin nizâmâtıyla ve kanun-u pâdişahî ile o kumandanın emrini, kumandasını anlamayıp inkâr ettiğinden, o askerlerin iplerle birbiriyle bağlı olduklarını tahayyül eder. O hayâlî ip ne kadar hàrikalı bir ip olduğunu düşünür, hayrette kalır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sonra gider, Ayasofya gibi gayet muazzam bir câmiye, Cuma gününde dâhil olur. O cemâat-i Müslimînin, bir adamın sesiyle kalkar, eğilir, secde ederek oturduklarını müşâhede eder. Manevî ve semâvî kanunların mecmûundan ibaret olan Şerîatı ve Şerîat sâhibinin emirlerinden gelen manevî düsturlarını anlamadığından, o cemâatin maddî iplerle bağlandığını ve o acîb ipler onları esir edip oynattığını tahayyül ederek, en vahşî, insan sûretindeki canavar hayvanları dahi güldürecek derecede maskaralı bir fikirle çıkar, gider."
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte, aynı bu misâl gibi; Sultan-ı Ezel ve Ebed’in hadsiz cünûdunun muhteşem bir kışlası olan şu âleme ve O Ma'bûd-u Ezelî’nin muntazam bir mescidi olan şu kâinâta, mahz-ı vahşet olan inkârlı fikr-i tabiatı taşıyan bir münkir giriyor. O Sultan-ı Ezelî’nin hikmetinden gelen nizâmât-ı kâinâtın manevî kanunlarını birer maddî madde tasavvur ederek ve Saltanat-ı Rubûbiyet’in kavânîn-i itibariyesi ve O Ma'bûd-u Ezelî’nin Şerîat-ı Fıtriye-i Kübrâsının, manevî ve yalnız vücûd-u ilmîsi bulunan ahkâmlarını ve düsturlarını, birer mevcûd-u haricî ve maddî birer madde tahayyül ederek, kudret-i İlâhiye’nin yerine, o ilim ve kelâmdan gelen ve yalnız vücûd-u ilmîsi bulunan o kanunları ikame etmek ve ellerine icâd vermek, sonra da onlara “tabiat” nâmını takmak ve yalnız bir cilve-i kudret-i Rabbâniye olan kuvveti, bir zîkudret ve müstakil bir kadîr telâkki etmek, misâldeki vahşîden bin defa aşağı bir vahşettir!"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elhâsıl; tabîiyyûnların, mevhûm ve hakikatsiz, tabiat dedikleri şey, olsa olsa ve hakikat-i hariciye sâhibi ise, ancak bir san'at olabilir, sâni' olamaz. Bir nakıştır, nakkàş olamaz. Ahkâmdır, hâkim olamaz. Bir şerîat-ı fıtriyedir, şâri' olamaz. Mahlûk bir perde-i izzettir, hàlık olamaz. Münfail bir fıtrattır, fâtır bir fâil olamaz. Kanundur, kudret değildir, kàdir olamaz. Mistardır, masdar olamaz.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elhâsıl:",
+          "bold": true
+        },
+        {
+          "text": " Mâdem mevcûdât var. Mâdem “Onaltıncı Nota”nın başında denildiği gibi, mevcûdun vücûduna, taksim-i aklî ile, dört yoldan başka yol tahayyül edilmez. O dört cihetten üçünün – herbirinin üç zâhir muhâller ile – butlânı kat'î bir sûrette isbât edildi. Elbette, bizzarûre ve bilbedâhe, dördüncü yol olan Vahdet yolu, kat'î bir sûrette isbât olunuyor. O dördüncü yol ise; baştaki "
+        },
+        {
+          "text": "اَفِي اللّٰهِ شَكٌّ فَاطِرِ السَّمٰوَاتِ وَالْاَرْضِ",
+          "red": true
+        },
+        {
+          "text": " âyeti şeksiz ve şüphesiz, bedâhet derecesinde, Zât-ı Vâcibü'l-Vücûd’un ulûhiyetini ve herşey doğrudan doğruya dest-i kudretinden çıktığını ve semâvât ve arz kabza-i tasarrufunda bulunduğunu gösteriyor."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ey esbâb-perest ve tabiata tapan bîçâre adam! Mâdem herşeyin tabiatı, herşey gibi mahlûktur; çünkü san'atlıdır ve yeni oluyor. Hem her müsebbeb gibi, zâhirî sebebi dahi masnû'dur. Ve mâdem herşeyin vücûdu pek çok cihâzât ve âletlere muhtaçtır. O hâlde, o tabiatı icâd eden ve o sebebi halk eden bir Kadîr-i Mutlak var. Ve O Kadîr-i Mutlak’ın ne ihtiyacı var ki, âciz vesâiti Rubûbiyetine ve icâdına teşrîk etsin? Hâşâ! Belki doğrudan doğruya, müsebbebi sebeb ile beraber halk ederek, cilve-i esmâsını ve hikmetini göstermek için, bir tertib ve tanzim ile zâhirî bir sebebiyet, bir mukàrenet vermekle, eşyadaki zâhirî kusurlara, merhametsizliklere ve noksaniyetlere merci' olmak için, esbâb ve tabiatı dest-i kudretine perde etmiş; izzetini o sûretle muhâfaza etmiş."
+    },
+    {
+      "type": "paragraph",
+      "text": "Acaba bir saatçi, saatin çarklarını yapsın, sonra saati çarklarla tertib edip tanzim etsin, daha mı kolaydır? Yoksa hàrika bir makineyi o çarklar içinde yapsın, sonra saatin yapılmasını o makinenin câmid ellerine versin, tâ saati yapsın, daha mı kolaydır? Acaba imkân haricinde değil midir? Haydi, o insafsız aklınla sen söyle, sen hâkim ol!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Veyâhut bir kâtib; mürekkeb, kalem, kağıdı getirdi. Onunla kendi bizzat o kitabı yazsa daha mı kolaydır? Yoksa o kağıt, mürekkeb, kalem içinde, o kitaptan daha san'atlı, daha zahmetli, yalnız o tek kitaba mahsûs olarak bir yazı makinesi icâd etsin, sonra o şuûrsuz makineye “Haydi sen yaz” desin de kendi karışmasın, daha mı kolaydır? Acaba yüz defa yazıdan daha müşkül değil midir?"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Eğer desen:",
+          "bold": true
+        },
+        {
+          "text": " Evet, bir kitabı yazan makinenin icâdı o kitaptan yüz defa daha müşküldür. Fakat o makine, aynı kitabın birçok nüshalarını yazmasına vâsıta olmak cihetiyle, belki bir kolaylık var."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elcevab:",
+          "bold": true
+        },
+        {
+          "text": " Nakkàş-ı Ezelî, hadsiz kudretiyle, nihâyetsiz cilve-i esmâsını her vakit tazelendirmekle, ayrı ayrı şekilde göstermek için, eşyadaki teşahhusları ve hususî sîmâları öyle bir sûrette halk etmiştir ki; hiçbir mektûb-u Samedânî ve hiçbir kitab-ı Rabbânî, diğer kitapların aynı aynına olamıyor. Alâ külli hâl, ayrı mânâları ifâde etmek için, ayrı bir sîmâsı bulunacak."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Eğer gözün varsa, insanın sîmâsına bak, gör ki; zaman-ı Âdem’den şimdiye kadar, belki ebede kadar, bu küçük sîmâda, a'zâ-yı esâsîde ittifak ile beraber, herbir sîmâ, umum sîmâlara nisbeten, herbirisine karşı birer alâmet-i fârikası var olduğu kat'iyyen sâbittir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bunun için, herbir sîmâ ayrı bir kitaptır. Yalnız san'atın tanzimi için ayrı bir yazı takımı ve ayrı bir tertib ve te'lif ister. Ve maddelerini hem getirmek, hem yerleştirmek ve hem de vücûda lâzım olan herşeyi dercetmek için, bütün bütün başka bir tezgâh ister."
+    },
+    {
+      "type": "paragraph",
+      "text": "Haydi, farz-ı muhâl olarak, tabiata bir matbaa nazarıyla baktık. Fakat bir matbaaya ait olan tanzim ve basmak, yani, muayyen intizamını kalıba sokmaktan başka, o tanzimin icâdından, icâdları yüz derece daha müşkül bir zîhayatın cismindeki maddeleri aktâr-ı âlemden mîzan-ı mahsûsla ve hàs bir intizamla icâd etmek ve getirmek ve matbaa eline vermek için, yine o matbaayı icâd eden Kadîr-i Mutlak’ın kudret ve irâdesine muhtaçtır. Demek bu matbaalık ihtimali ve farzı, bütün bütün mânâsız bir hurâfedir."
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte bu saat ve kitab misâlleri gibi; Sâni'-i Zülcelâl, Kadîr-i Külli Şey, esbâbı halk etmiş, müsebbebâtı da halk ediyor. Hikmetiyle, müsebbebâtı esbâba bağlıyor. Kâinâtın harekâtının tanzimine dair kavânîn-i âdetullâhtan ibaret olan Şerîat-ı Fıtriye-i Kübrâ-yı İlâhiye’nin bir cilvesini ve eşyadaki o cilvesine yalnız bir âyine ve bir ma'kes olan tabiat-ı eşyayı, irâdesiyle ta'yin etmiştir. Ve o tabiatın vücûd-u haricîye mazhar olan vechini, kudretiyle icâd etmiş ve eşyayı o tabiat üzerinde halk etmiş, birbirine mezc etmiş. Acaba gayet derecede ma'kul ve hadsiz bürhânların neticesi olan bu hakikatin kabûlü mü daha kolaydır? Acaba vücûb derecesinde lâzım değil midir? Yoksa câmid, şuûrsuz, mahlûk, masnû', basit olan o sebeb ve tabiat dediğiniz maddelere, herbir şeyin vücûduna lâzım hadsiz cihâzât ve âlâtı verip hakîmâne, basîrâne olan işleri kendi kendilerine yaptırmak mı daha kolaydır? Acaba imtina' derecesinde, imkân haricinde değil midir? Senin o insafsız aklının insafına havâle ediyoruz."
+    },
+    {
+      "type": "paragraph",
+      "text": "Münkir ve tabiat-perest diyor ki: Mâdem beni insafa dâvet ediyorsun. Ben de diyorum ki: Şimdiye kadar yanlış gittiğimiz yol hem yüz derece muhâl, hem gayet zararlı ve nihâyet derecede çirkin bir meslek olduğunu itiraf ediyorum. Sâbık tahkîkatınızdan, zerre mikdar şuûru bulunan anlayacak ki; esbâba, tabiata icâd vermek mümteni'dir, muhâldir. Ve herşeyi doğrudan doğruya Vâcibü'l-Vücûd’a vermek vâcibdir, zarûrîdir. “Elhamdülillâhi ale'l-îmân” deyip îmân ediyorum."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yalnız bir şübhem var: Cenâb-ı Hakk’ın Hàlık olduğunu kabûl ediyorum. Fakat bazı cüz'î esbâbın ehemmiyetsiz şeylerde icâda müdâhaleleri ve bir parça medh ü senâ kazanmaları, Saltanat-ı Rubûbiyet’ine ne zarar verir? Saltanatına noksaniyet gelir mi?"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elcevab:",
+          "bold": true
+        },
+        {
+          "text": " Bazı Risalelerde gayet kat'î isbât ettiğimiz gibi; hâkimiyetin şe'ni, müdâhaleyi reddetmektir. Hattâ en ednâ bir hâkim, bir memur; dâire-i hâkimiyetinde oğlunun müdâhalesini kabûl etmiyor. Hattâ hâkimiyetine müdâhale tevehhümüyle, bazı dindar pâdişahlar, Halife oldukları hâlde, masûm evlâdlarını katletmeleri, bu “redd-i müdâhale kanunu”nun hâkimiyette ne kadar esâslı hükmettiğini gösteriyor. Bir nahiyede iki müdürden tut, tâ bir memlekette iki pâdişaha kadar, hâkimiyetteki istiklâliyetin iktiza ettiği “Men'-i iştirâk kanunu” tarih-i beşerde çok acîb herc ü merc ile kuvvetini göstermiş."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Acaba, âciz ve muâvenete muhtaç insanlardaki âmiriyet ve hâkimiyetin bir gölgesi, bu derece müdâhaleyi reddetmeyi ve başkasının müdâhalesini men' etmeyi ve hâkimiyetinde iştirâk kabûl etmemeyi ve makamında istiklâliyetini nihâyet taassubla muhâfazaya çalışmayı gör; sonra hâkimiyet-i mutlaka, Rubûbiyet derecesinde‥ ve âmiriyet-i mutlaka, Ulûhiyet derecesinde‥ ve istiklâliyet-i mutlaka, Ehadiyet derecesinde‥ ve istiğnâ-yı mutlak, Kàdiriyet-i mutlaka derecesinde bir Zât-ı Zülcelâl’de, bu redd-i müdâhale ve men'-i iştirâk ve tard-ı şerîk, ne derece o hâkimiyetin zarûrî bir lâzımı ve vâcib bir muktezâsı olduğunu kıyâs edebilirsen et."
+    },
+    {
+      "type": "paragraph",
+      "text": "Amma ikinci şık şübhen ki: Bazı esbâb, bazı cüz'iyâtın bazı ubûdiyetlerine merci' olsa, O Ma'bûd-u Mutlak olan Zât-ı Vâcibü'l-Vücûd’a müteveccih zerrâttan seyyârâta kadar mahlûkatın ubûdiyetlerinden ne noksan gelir?"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elcevab:",
+          "bold": true
+        },
+        {
+          "text": "$4e"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "O diyor: “Elhamdülillâh bu iki şübhem hallolmakla beraber; vahdâniyet-i İlâhiye’ye dair ve Ma'bûd-u Bilhak O olduğuna ve O’ndan başkaları ibâdete lâyık olmadığına o kadar parlak ve kuvvetli iki delil gösterdin ki; onları inkâr etmek, güneşi ve gündüzü inkâr etmek gibi bir mükâberedir.”"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "heading",
+      "text": "Hâtime"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tabiat fikr-i küfrîsini terk eden ve îmâna gelen zât diyor ki: Elhamdülillâh, benim şübhelerim kalmadı. Yalnız merakımı mûcib olan birkaç suâlim var."
+    },
+    {
+      "type": "heading",
+      "text": "Birinci Suâl"
+    },
+    {
+      "type": "paragraph",
+      "text": "Çok tenbellerden ve târikü's-salâtlardan işitiyoruz. Diyorlar ki: “Cenâb-ı Hakk’ın bizim ibâdetimize ne ihtiyacı var ki, Kur'ân’da çok şiddet ve ısrar ile, ibâdeti terk edeni zecredip Cehennem gibi dehşetli bir ceza ile tehdid ediyor? Îtidâlli ve istikametli ve adâletli olan ifâde-i Kur'âniye’ye nasıl yakışıyor ki, ehemmiyetsiz bir cüz'î hatâya karşı nihâyet şiddeti gösteriyor?”"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elcevab:",
+          "bold": true
+        },
+        {
+          "text": " Evet, Cenâb-ı Hak senin ibâdetine, belki hiçbir şeye muhtaç değil. Fakat sen ibâdete muhtaçsın, ma'nen hastasın. İbâdet ise, manevî yaralarına tiryâklar hükmünde olduğunu çok risalelerde isbât etmişiz. Acaba bir hasta, o hastalık hakkında, şefkatli bir hekimin ona nâfi' ilâçları içirmek hususunda ettiği ısrara mukâbil, hekime dese: “Senin ne ihtiyacın var, bana böyle ısrar ediyorsun?” Ne kadar mânâsız olduğunu anlarsın."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Amma Kur'ânın, terk-i ibâdet hakkında şiddetli tehdidâtı ve dehşetli cezaları ise: Nasıl ki; bir pâdişah, raiyetinin hukukunu muhâfaza etmek için, âdi bir adamın, raiyetinin hukukuna zarar veren bir hatâsına göre, şiddetli cezaya çarpar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Öyle de; ibâdeti ve namazı terk eden adam, Sultan-ı Ezel ve Ebed’in raiyeti hükmünde olan mevcûdâtın hukukuna ehemmiyetli bir tecâvüz ve manevî bir zulüm eder. Çünkü; mevcûdâtın kemâlleri, Sâni'a müteveccih yüzlerinde tesbih ve ibâdet ile tezâhür eder. İbâdeti terk eden, mevcûdâtın ibâdetini görmez ve göremez. Belki de inkâr eder. O vakit, ibâdet ve tesbih noktasında yüksek makamda bulunan ve herbiri birer mektûb-u Samedânî ve birer âyine-i esmâ-i Rabbâniye olan mevcûdâtı àlî makamlarından tenzîl ettiğinden ve ehemmiyetsiz, vazifesiz, câmid, perîşan bir vaziyette telâkki ettiğinden; mevcûdâtı tahkîr eder, kemâlâtını inkâr ve tecâvüz eder."
+    },
+    {
+      "type": "paragraph",
+      "text": "Evet, herkes kâinâtı kendi aynasıyla görür. Cenâb-ı Hak, insanı kâinât için bir mikyâs, bir mîzan sûretinde yaratmıştır. Her insan için, bu âlemden hususî bir âlem vermiş; o âlemin rengini, o insanın i'tikàd-ı kalbîsine göre gösteriyor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meselâ; gayet me'yûs ve mâtemli olarak ağlayan bir insan, mevcûdâtı ağlar ve me'yûs sûretinde görür. Gayet sürûrlu ve neş'eli, müjdeli ve kemâl-i neş'esinden gülen bir adam, kâinâtı, neş'eli, güler gördüğü gibi; mütefekkirâne ve ciddi bir sûrette ibâdet ve tesbih eden adam, mevcûdâtın hakikaten mevcûd ve muhakkak olan ibâdet ve tesbihâtlarını bir derece keşfeder ve görür. Gafletle veya inkârla ibâdeti terk eden adam, mevcûdâtı, hakikat-i kemâlâtına tamamıyla zıt ve muhâlif ve hatâ bir sûrette tevehhüm eder ve ma'nen onların hukukuna tecâvüz eder."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem o târikü's-salât, kendi kendine mâlik olmadığı için, kendi mâlikinin bir abdi olan kendi nefsine zulmeder. Onun mâliki, o abdinin hakkını onun nefs-i emmâresinden almak için, dehşetli tehdid eder. Hem netice-i hilkati ve gaye-i fıtratı olan ibâdeti terk ettiğinden, Hikmet-i İlâhiye ve Meşîet-i Rabbâniye’ye karşı bir tecâvüz hükmüne geçer. Onun için cezaya çarpılır."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elhâsıl:",
+          "bold": true
+        },
+        {
+          "text": " İbâdeti terk eden hem kendi nefsine zulmeder – nefis ise Cenâb-ı Hakk’ın abdi ve memlûküdür – hem kâinâtın hukuk-u kemâlâtına karşı bir tecâvüz, bir zulümdür. Evet, nasıl ki küfür, mevcûdâta karşı bir tahkîrdir; terk-i ibâdet dahi, kâinâtın kemâlâtını bir inkârdır. Hem Hikmet-i İlâhiye’ye karşı bir tecâvüz olduğundan, dehşetli tehdide, şiddetli cezaya müstehak olur."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte bu istihkakı ve mezkûr hakikati ifâde etmek için, Kur'ân-ı Mu'cizü'l-Beyân, mu'cizâne bir sûrette o şiddetli tarz-ı ifâdeyi ihtiyar ederek, tam tamına hakikat-i belâğat olan, mutâbık-ı muktezâ-yı hâle mutâbakat ediyor."
+    },
+    {
+      "type": "heading",
+      "text": "İkinci Suâl"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tabiattan vazgeçen ve îmâna gelen zât diyor ki:"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Her mevcûd, her cihette, her işinde ve herşeyinde ve her şe'ninde Meşîet-i İlâhiye’ye ve Kudret-i Rabbâniye’ye tâbi olması, çok azîm bir hakikattir. Azameti cihetinde dar zihinlerimize sıkışmıyor. Hâlbuki gözümüzle gördüğümüz bu nihâyet derecede mebzûliyet, hem hilkat ve icâd-ı eşyadaki hadsiz sühûlet, hem sâbık bürhânlarınızla tahakkuk eden, Vahdet yolundaki icâd-ı eşyada nihâyet derecede kolaylık ve sühûlet, hem nass-ı Kur'ân ile beyân edilen, "
+        },
+        {
+          "text": "مَا خَلْقُكُمْ وَلَا بَعْثُكُمْ اِلَّا كَنَفْسٍ وَاحِدَةٍوَمَٓا اَمْرُ السَّاعَةِ اِلَّا كَلَمْحِ الْبَصَرِ اَوْ هُوَ اَقْرَبُ",
+          "red": true
+        },
+        {
+          "text": " gibi âyetlerin sarâhaten gösterdikleri nihâyet derecede kolaylık, o hakikat-i azîmeyi, en makbûl ve en ma'kul bir mes'ele olduğunu gösteriyorlar. Bu kolaylığın sırrı ve hikmeti nedir?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elcevab:",
+          "bold": true
+        },
+        {
+          "text": " Yirminci Mektûb’un Onuncu Kelimesi olan "
+        },
+        {
+          "text": "وَهُوَ عَلٰى كُلِّ شَىْءٍ قَد۪يرٌ",
+          "red": true
+        },
+        {
+          "text": " beyânında, o sır gayet vâzıh ve kat'î ve mukni' bir tarzda beyân edilmiş. Hususan o mektûbun zeylinde daha ziyâde vuzûh ile isbât edilmiş ki; bütün mevcûdât, Sâni'-i Vâhid’e isnâd edildiği vakit, bir tek mevcûd hükmünde kolaylaşır. Eğer Vâhid-i Ehad’e verilmezse, bir tek mahlûkun icâdı bütün mevcûdât kadar müşkülleşir. Ve bir çekirdek, bir ağaç kadar suûbetli olur."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Eğer Sâni'-i Hakîki’sine verilse, kâinât bir ağaç gibi ve ağaç bir çekirdek gibi ve Cennet bir bahar gibi ve bahar bir çiçek gibi kolaylaşır, sühûlet peydâ eder. Ve bilmüşâhede görünen hadsiz mebzûliyet ve ucuzluğun ve her nev'in sühûletle kesret-i efrâdı bulunmasının ve kesret-i sühûlet ve sür'atle muntazam, san'atlı, kıymetli mevcûdâtın kolayca vücûda gelmesinin sırlarına medâr olan ve hikmetlerini gösteren yüzer delillerinden ve başka risalelerde tafsîlen beyân edilen bir-ikisine muhtasar bir işâret ederiz."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Meselâ;",
+          "bold": true
+        },
+        {
+          "text": " nasıl ki yüz nefer bir zâbitin idaresine verilse, bir neferin yüz zâbitin idarelerine verilmesinden yüz derece daha kolay olduğu gibi; bir ordunun techizât-ı askeriyesi bir merkez, bir kanun, bir fabrika ve bir pâdişahın emrine verildiği vakit, âdeta kemiyeten bir neferin techizâtı kadar kolaylaştığı gibi; bir neferin techizât-ı askeriyesi müteaddid merkezlere, müteaddid fabrikalara, müteaddid kumandanlara havâlesi de, âdeta bir ordunun techizâtı kadar kemiyeten müşkülâtlı oluyor. Çünkü; bir tek neferin techizâtı için, bütün orduya lâzım olan fabrikaların bulunması gerektir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem bir ağacın, sırr-ı vahdet cihetiyle, bir kökte, bir merkezde, bir kanun ile mevâdd-ı hayatiyesi verildiğinden, binler meyve veren o ağaç, bir meyve kadar sühûletli olduğu bilmüşâhede görünür. Eğer vahdetten kesrete gidilse, herbir meyveye lâzım mevâdd-ı hayatiye başka yerden verilse, herbir meyve bir ağaç kadar müşkülât peydâ eder. Belki ağacın bir enmûzeci ve fihristesi olan bir tek çekirdek dahi, o ağaç kadar suûbetli olur. Çünkü bir ağacın hayatına lâzım olan bütün mevâdd-ı hayatiye, bir tek çekirdek için de lâzım oluyor."
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte bu misâller gibi yüzler misâller var, gösteriyorlar ki; Vahdette nihâyet derecede sühûletle vücûda gelen binler mevcûd, şirkte ve kesrette bir tek mevcûddan daha ziyâde kolay olur."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sâir risalelerde bu hakikat iki kere iki dört eder derecede isbât edildiğinden, onlara havâle edip, burada yalnız bu sühûlet ve kolaylığın, ilim ve kader-i İlâhî ve kudret-i Rabbâniye nokta-i nazarında gayet mühim bir sırrını beyân edeceğiz. Şöyle ki:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sen bir mevcûdsun. Eğer Kadîr-i Ezelî’ye kendini versen, bir kibrit çakar gibi, hiçten, yoktan, bir emirle, hadsiz kudretiyle, seni bir ânda halk eder. Eğer sen kendini O’na vermezsen, belki esbâb-ı maddiyeye ve tabiata isnâd etsen, o vakit sen kâinâtın muntazam bir hülâsası, meyvesi ve küçük bir fihristesi ve listesi olduğundan; seni yapmak için kâinâtı ve anâsırı ince elek ile eleyip hassas ölçülerle aktâr-ı âlemden senin vücûdundaki maddeleri toplamak lâzım gelir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Çünkü esbâb-ı maddiye yalnız terkîb eder, toplar. Kendilerinde bulunmayanı hiçten, yoktan yapamadıkları, bütün ehl-i akıl yanında musaddaktır. Öyle ise; küçük bir zîhayatın cismini aktâr-ı âlemden toplamaya mecbur olurlar."
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte Vahdette ve Tevhidde ne kadar kolaylık ve şirkte ve dalâlette ne kadar müşkülât var olduğunu anla."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İkincisi:",
+          "bold": true
+        },
+        {
+          "text": " İlim noktasında hadsiz bir sühûlet vardır. Şöyle ki:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Kader, ilmin bir nev'idir ki, herşeyin manevî ve mahsûs kalıbı hükmünde bir mikdar ta'yin eder. Ve o mikdar-ı kaderî, o şeyin vücûduna bir plân, bir model hükmüne geçer. Kudret icâd ettiği vakit, gayet sühûletle, o kaderî mikdar üstünde icâd eder."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eğer o şey muhît ve hadsiz ve ezelî bir ilmin sâhibi olan Kadîr-i Zülcelâl’e verilmezse, sâbıkan geçtiği gibi, binler müşkülât değil, belki yüz muhâlât ortaya düşer. Çünkü o mikdar-ı kaderî ve mikdar-ı ilmî olmazsa, binler haricî ve maddî kalıplar, küçücük bir hayvanın cesedinde isti'mâl edilmek lâzım gelir."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İşte Vahdette nihâyetsiz kolaylık ve dalâlette ve şirkte hadsiz müşkülâtın bir sırrını anla; "
+        },
+        {
+          "text": "وَمَٓا اَمْرُ السَّاعَةِ اِلَّا كَلَمْحِ الْبَصَرِ اَوْ هُوَ اَقْرَبُ",
+          "red": true
+        },
+        {
+          "text": " âyeti ne kadar hakikatli ve doğru ve yüksek bir hakikati ifâde ettiğini bil!"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Üçüncü Suâl"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eskiden düşman, şimdi dost olan mühtedî diyor ki: Şu zamanda çok ileri giden feylesoflar diyorlar ki; “Hiçten, hiçbir şey icâd edilmiyor ve hiçbir şey i'dâm edilmiyor; yalnız bir terkîb, bir tahlildir ki, kâinât fabrikasını işlettiriyor.”"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elcevab:",
+          "bold": true
+        },
+        {
+          "text": " Nur-u Kur'ân ile mevcûdâta bakmayan feylesofların en ileri gidenleri bakmışlar ki, tabiat ve esbâb vâsıtasıyla bu mevcûdâtın teşekkülât ve vücûdlarını – sâbıkan isbât ettiğimiz tarzda – imtina' derecesinde müşkülâtlı gördüklerinden, iki kısma ayrıldılar."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Bir kısmı Sofestâi olup, insanın hàssası olan akıldan istifâ ederek, ahmak hayvanlardan daha aşağı düşerek, kâinâtın vücûdunu inkâr etmeyi, hattâ kendilerinin vücûdlarını dahi inkâr etmesini, dalâlet mesleğinde esbâb ve tabiatın icâd sâhibi olmalarından daha ziyâde kolay gördüklerinden; hem kendilerini, hem kâinâtı inkâr edip, cehl-i mutlaka düşmüşler."
+    },
+    {
+      "type": "paragraph",
+      "text": "İkinci gürûh bakmışlar ki; dalâlette, esbâb ve tabiat mûcid olmak noktasında, bir sinek ve bir çekirdeğin icâdı, hadsiz müşkülâtı var. Ve tavr-ı aklın haricinde bir iktidar iktiza ediyor. Onun için, bilmecbûriye, icâdı inkâr ediyorlar, “Yoktan var olmaz” diyorlar. Ve i'dâmı da muhâl görüyorlar, “Var yok olmaz” hükmediyorlar. Yalnız, harekât-ı zerrât ile, tesâdüf rüzgârlarıyla bir terkîb ve tahlil ve dağılmak ve toplanmak sûretinde bir vaziyet-i itibariye tahayyül ediyorlar."
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte, sen gel, ahmaklığın ve cehâletin en aşağı derecesinde, en yüksek akıllı kendini zanneden adamları gör! Ve dalâlet, insanı ne kadar maskara ve süflî ve echel yaptığını bil, ibret al!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Acaba her senede dört yüz bin envâ'ı birden zemin yüzünde icâd eden; ve semâvât ve arzı altı günde halk eden; ve altı haftada, her baharda, kâinâttan daha san'atlı, hikmetli, zîhayat bir kâinâtı inşâ eden bir Kudret-i Ezeliye, bir İlm-i Ezelînin dâiresinde plânları ve mikdarları taayyün eden mevcûdât-ı ilmiyeyi, göze göstermeyen bir eczâ ile yazılan ve görünmeyen bir yazıyı göstermek için sürülen bir eczâ misillû, gayet kolay o ma'dûmât-ı hariciye olan mevcûdât-ı ilmiyeye vücûd-u haricî vermeyi O Kudret-i Ezeliyeden uzak görmek ve icâdı inkâr etmek, evvelki gürûh olan Sofestâilerden daha ziyâde ahmakàne ve câhilânedir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bu bedbahtlar, âciz-i mutlak ve yalnız bir cüz'-ü ihtiyarîden başka ellerinde olmayan, fir'avunlaşmış kendi nefisleri hiçbir şeyi i'dâm ve yok edemediklerinden ve hiçbir zerreyi, bir maddeyi hiçten, yoktan icâd edemediklerinden ve güvendikleri esbâb ve tabiatın ellerinde hiçten icâd gelmediği cihetle, ahmaklıklarından diyorlar: “Yoktan var olmaz, var da yok olmaz” deyip, bu bâtıl ve hatâ düsturu, Kadîr-i Mutlak’a teşmîl etmek istiyorlar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Evet, Kadîr-i Zülcelâl’in iki tarzda icâdı var. Biri ihtirâ' ve ibdâ' iledir. Yani; hiçten, yoktan vücûd veriyor ve ona lâzım herşeyi de hiçten icâd edip eline veriyor. Diğeri inşâ ile, san'at iledir. Yani; kemâl-i hikmetini ve çok esmâsının cilvelerini göstermek gibi çok dakîk hikmetler için, kâinâtın anâsırından bir kısım mevcûdâtı inşâ ediyor; her emrine tâbi olan zerrâtları ve maddeleri, rezzâkıyet kanunuyla onlara gönderir ve onlarda çalıştırır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Evet, Kadîr-i Mutlak’ın iki tarzda; hem ibdâ', hem inşâ sûretinde icâdı var. Varı yok etmek ve yoğu var etmek en kolay, en sühûletli, belki dâimî, umumî bir kanunudur. Bir baharda, üç yüz bin envâ'-ı zîhayat mahlûkatın şekillerini, sıfatlarını, belki zerrâtlarından başka bütün keyfiyât ve ahvâllerini hiçten var eden bir Kudrete karşı “Yoğu var edemez” diyen adam, yok olmalı!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tabiatı bırakan ve hakikate geçen zât diyor ki: Cenâb-ı Hakk’a zerrât adedince şükür ve hamd ve senâ ediyorum ki; kemâl-i îmânı kazandım, evhâm ve dalâletlerden kurtuldum ve hiçbir şübhem de kalmadı."
+    },
+    {
+      "type": "arabic",
+      "text": "اَلْحَمْدُ لِلّٰهِ عَلٰى د۪ينِ الْاِسْلَامِ وَكَمَالِ الْا۪يمَانِ",
+      "red": true
+    },
+    {
+      "type": "arabic",
+      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَٓا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
+      "red": true
+    }
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "text": "Bu risalenin sebeb-i te'lifi; gayet mütecâvizâne ve gayet çirkin bir tarz ile, hakàik-ı îmâniyeyi tezyif edip, bozulmuş aklı yetişmediği şeye hurâfe deyip, dinsizliği tabiata bağlayarak, Kur'ân’a hücum edilmesidir. O hücum ise şiddetli bir hiddeti kalbe (kaleme) verdi ki, şiddetli ve galîz tokatları o mülhidlere ve haktan yüz çeviren bâtıl mezheblilere yedirdi. Yoksa, Risale-i Nur’un mesleği, nezîhâne ve nâzikâne ve kavl-i leyyindir."
+    },
+    {
+      "id": "2",
+      "text": "Evet, eğer intisab olsa, o çekirdek, kader-i İlâhî’den bir emir alır, o hàrika işlere mazhar olur. Eğer o intisab kesilse, o çekirdeğin hilkati, koca çam ağacının hilkatinden daha ziyâde cihâzât ve iktidar ve san'atı iktiza eder. Çünkü; dağdaki, kudret eseri olan mücessem çam ağacının, bütün a'zâları ve cihâzâtıyla, o çekirdekteki kader eseri olan manevî ağaçta mevcûd bulunması lâzım gelir. Çünkü o koca ağacın fabrikası, o çekirdektir. İçindeki kaderî ağaç, kudretle hariçte tezâhür eder, cismânî çam ağacı olur."
+    }
+  ]
+}

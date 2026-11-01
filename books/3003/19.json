@@ -1,0 +1,538 @@
+{
+  "n": 19,
+  "title": "Ondokuzuncu Lem'a İktisad Risalesi",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İktisad ve kanâate, isrâf ve tebzîre dairdir.",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "arabic",
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
+    },
+    {
+      "type": "arabic",
+      "text": "كُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا",
+      "red": true
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Şu âyet-i kerîme, iktisada kat'î emir ve isrâftan nehy-i sarîh sûretinde gayet mühim bir ders-i hikmet veriyor. Şu mes'elede "
+        },
+        {
+          "text": "“Yedi Nükte”",
+          "bold": true
+        },
+        {
+          "text": " var."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Birinci Nükte"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hàlık-ı Rahîm, nev'-i beşere verdiği ni'metlerin mukâbilinde şükür istiyor. İsrâf ise şükre zıttır, ni'mete karşı hasâretli bir istihfaftır. İktisad ise, ni'mete karşı ticâretli bir ihtiramdır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Evet, iktisad; hem bir şükr-ü manevî, hem ni'metlerdeki Rahmet-i İlâhiye’ye karşı bir hürmet, hem kat'î bir sûrette sebeb-i bereket, hem bedene perhiz gibi bir medâr-ı sıhhat, hem manevî dilencilik zilletinden kurtaracak bir sebeb-i izzet, hem ni'met içindeki lezzeti hissetmesine ve zâhiren lezzetsiz görünen ni'metlerdeki lezzeti tatmasına kuvvetli bir sebebdir. İsrâf ise, mezkûr hikmetlere muhâlif olduğundan, vahîm neticeleri vardır."
+    },
+    {
+      "type": "heading",
+      "text": "İkinci Nükte"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fâtır-ı Hakîm, insanın vücûdunu mükemmel bir saray sûretinde ve muntazam bir şehir misâlinde yaratmış. Ağızdaki kuvve-i zâikayı bir kapıcı, a'sâb ve damarları telefon ve telgraf telleri gibi – kuvve-i zâika ile, merkez-i vücûddaki mide ile bir medâr-ı muhâbereleridir – ki, ağıza gelen maddeyi o damarlarla haber verir. Bedene, mideye lüzumu yoksa “Yasaktır!” der, dışarı atar. Bazen de, bedene menfaati olmamakla beraber, zararlı ve acı ise, hemen dışarı atar, yüzüne tükürür."
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte, mâdem ağızdaki kuvve-i zâika bir kapıcıdır; mide, cesedin idaresi noktasında bir efendi ve bir hâkimdir. O saraya veyâhut o şehre gelen ve sarayın hâkimine verilen hediyenin yüz derece kıymeti varsa, kapıcıya bahşiş nev'inden ancak beş derecesi muvâfık olur, fazla olamaz. Tâ ki, kapıcı gururlanıp, baştan çıkıp, vazifeyi unutup, fazla bahşiş veren ihtilâlcileri saray dâhiline sokmasın."
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte, bu sırra binâen, şimdi iki lokma farz ediyoruz. Bir lokma, peynir ve yumurta gibi mugaddî maddeden kırk para, diğer lokma, en a'lâ baklavadan on kuruş olsa; bu iki lokma, ağıza girmeden, beden itibariyle farkları yoktur, müsâvîdirler. Boğazdan geçtikten sonra, cesed beslemesinde yine müsâvîdirler. Belki, bazen kırk paralık peynir daha iyi besler. Yalnız, ağızdaki kuvve-i zâikayı okşamak noktasında yarım dakika bir fark var. Yarım dakika hatırı için kırk paradan on kuruşa çıkmak ne kadar mânâsız ve zararlı bir isrâf olduğu kıyâs edilsin. Şimdi, saray hâkimine gelen hediye kırk para olmakla beraber, kapıcıya dokuz defa fazla bahşiş vermek, kapıcıyı baştan çıkarır. “Hâkim benim” der. Kim fazla bahşiş ve lezzet verse onu içeriye sokacak, ihtilâl verecek, yangın çıkaracak, “Aman! Doktor gelsin, harâretimi teskin etsin, ateşimi söndürsün” dedirmeye mecbur edecek."
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte, iktisad ve kanâat, Hikmet-i İlâhiye’ye tevfik-i harekettir; kuvve-i zâikayı kapıcı hükmünde tutup, ona göre bahşiş verir. İsrâf ise, o hikmete zıt hareket ettiği için çabuk tokat yer, mideyi karıştırır, iştihâ-yı hakîkiyi kaybeder. Tenevvü'-ü et'imeden gelen sun'î bir iştihâ-yı kâzibe ile yedirir, hazımsızlığa sebebiyet verir, hasta eder."
+    },
+    {
+      "type": "heading",
+      "text": "Üçüncü Nükte"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sâbık “İkinci Nükte”de, “Kuvve-i zâika kapıcıdır” dedik. Evet, ehl-i gaflet ve rûhen terakkî etmeyen ve şükür mesleğinde ileri gitmeyen insanlar için bir kapıcı hükmündedir. Onun telezzüzü hatırı için isrâfâta ve bir dereceden on derece fiata çıkmamak gerektir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fakat, hakîki ehl-i şükrün ve ehl-i hakikatin ve ehl-i kalbin kuvve-i zâikası – “Altıncı Söz”deki muvâzenede beyân edildiği gibi kuvve-i zâikası – Rahmet-i İlâhiye’nin matbahlarına bir nâzır ve bir müfettiş hükmündedir. Ve o kuvve-i zâikada taamlar adedince mîzancıklarla ni'met-i İlâhiye’nin envâ'ını tartmak ve tanımak, bir şükr-ü manevî sûretinde cesede, mideye haber vermektir. İşte, bu sûrette kuvve-i zâika, yalnız maddî cesede bakmıyor. Belki kalbe, rûha, akla dahi baktığı cihetle, midenin fevkınde hükmü var, makamı var."
+    },
+    {
+      "type": "paragraph",
+      "text": "İsrâf etmemek şartıyla ve sırf vazife-i şükrâniyeyi yerine getirmek ve envâ'-ı niam-ı İlâhiye’yi hissedip tanımak kaydıyla ve meşrû olmak ve zillet ve dilenciliğe vesile olmamak şartıyla, lezzetini takib edebilir. Ve o kuvve-i zâikayı taşıyan lisânı şükürde isti'mâl etmek için lezîz taamları tercih edebilir. Bu hakikate işâret eden bir hâdise ve bir kerâmet-i Gavsiye:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bir zaman Hazret-i Gavs-ı A'zam Şeyh Geylânî’nin terbiyesinde, nâzdâr ve ihtiyare bir hanımın bir tek evlâdı bulunuyormuş. O muhterem ihtiyare, gitmiş oğlunun hücresine; bakıyor ki, oğlu bir parça kuru ve siyah ekmek yiyor. O riyâzâttan za'fiyetiyle, vâlidesinin şefkatini celb etmiş. Ona acımış. Sonra Hazret-i Gavs’ın yanına şekvâ için gitmiş. Bakmış ki, Hazret-i Gavs, kızartılmış bir tavuk yiyor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nâzdârlığından demiş: “Yâ Üstad! Benim oğlum açlıktan ölüyor; sen tavuk yersin!”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hazret-i Gavs tavuğa demiş: “Kum biiznillâh!” O pişmiş tavuğun kemikleri toplanıp tavuk olarak yemek kabından dışarı atıldığını, mu'temed ve mevsûk çok zâtlardan, Hazret-i Gavs gibi kerâmât-ı hàrikaya mazhariyeti dünyaca meşhûr bir zâtın bir kerâmeti olarak, manevî tevâtürle nakledilmiş."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hazret-i Gavs demiş: “Ne vakit senin oğlun da bu dereceye gelirse, o zaman o da tavuk yesin.”"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İşte, Hazret-i Gavs’ın bu emrinin mânâsı şudur ki: Ne vakit senin oğlun da "
+        },
+        {
+          "text": "rûhu cesedine, kalbi nefsine, aklı midesine hâkim olsa ve lezzeti şükür için istese, o vakit lezîz şeyleri yiyebilir.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Dördüncü Nükte"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "“İktisad eden, maîşetçe aile belâsını çekmez” meâlindeki "
+        },
+        {
+          "text": "لَا يَعُولُ مَنِ اقْتَصَدَ",
+          "red": true
+        },
+        {
+          "text": " Hadîs-i Şerîfi sırrıyla, iktisad eden, maîşetçe aile zahmet ve meşakkatini çok çekmez. Evet, iktisad kat'î bir sebeb-i bereket ve medâr-ı hüsn-ü maîşet olduğuna o kadar kat'î deliller var ki, had ve hesaba gelmez."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ezcümle; ben kendi şahsımda gördüğüm ve bana hizmet ve arkadaşlık eden zâtların şehâdetleriyle diyorum ki; iktisad vâsıtasıyla bazen bire on bereket gördüm ve arkadaşlarım gördüler. Hattâ dokuz sene – şimdi otuz sene – evvel benimle beraber Burdur’a nefyedilen reislerden bir kısmı, parasızlıktan zillet ve sefâlete düşmemekliğim için, zekâtlarını bana kabûl ettirmeğe çok çalıştılar. O zengin reislere dedim: “Gerçi param pek azdır. Fakat iktisadım var. Kanâate alışmışım. Ben sizden daha zenginim.” Mükerrer ve musırrâne tekliflerini reddettim. Cây-i dikkattir ki, iki sene sonra, bana zekâtlarını teklif edenlerin bir kısmı, iktisadsızlık yüzünden borçlandılar. Lillâhi'l-Hamd, onlardan yedi sene sonra, o az para, iktisad bereketiyle bana kâfî geldi, benim yüz suyumu döktürmedi, beni halklara arz-ı hâcete mecbur etmedi. Hayatımın bir düsturu olan “nâstan istiğnâ” mesleğimi bozmadı."
+    },
+    {
+      "type": "paragraph",
+      "text": "Evet, iktisad etmeyen, zillete ve ma'nen dilenciliğe ve sefâlete düşmeğe namzeddir. Bu zamanda isrâfâta medâr olacak para çok pahalıdır. Mukâbilinde bazen haysiyet, nâmus, rüşvet alınıyor. Bazen mukaddesât-ı diniye mukâbil alınıyor, sonra menhus bir para veriliyor. Demek, manevî yüz lira zarar ile maddî yüz paralık bir mal alınır."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Eğer iktisad edip hâcât-ı zarûriyeye iktısar ve ihtisar ve hasretse; "
+        },
+        {
+          "text": "اِنَّ اللّٰهَ هُوَ الرَّزَّاقُ ذُو الْقُوَّةِ الْمَت۪ينُ",
+          "red": true
+        },
+        {
+          "text": " sırrıyla, "
+        },
+        {
+          "text": "وَمَا مِنْ دَٓابَّةٍ فِي الْاَرْضِ اِلَّا عَلَى اللّٰهِ رِزْقُهَا",
+          "red": true
+        },
+        {
+          "text": " sarâhatiyle, ummadığı tarzda, yaşayacak kadar rızkını bulacak. Çünkü şu âyet taahhüd ediyor. Evet, rızık ikidir:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Biri; hakîki rızıktır ki, onunla yaşayacak. Bu âyetin hükmü ile, o rızık taahhüd-ü Rabbânî altındadır. Beşerin sû-i ihtiyarı karışmazsa, o zarûrî rızkı herhalde bulabilir. Ne dinini, ne nâmusunu, ne izzetini fedâ etmeğe mecbur olmaz."
+    },
+    {
+      "type": "paragraph",
+      "text": "İkincisi; rızk-ı mecâzîdir ki, sû-i isti'mâlât ile hâcât-ı gayr-ı zarûriye hâcât-ı zarûriye hükmüne geçip, görenek belâsıyla tiryâki olup, terk edemiyor. İşte bu rızık taahhüd-ü Rabbânî altında olmadığı için, bu rızkı tahsil etmek, hususan bu zamanda, çok pahalıdır. Başta izzetini fedâ edip zilleti kabûl etmek, bazen alçak insanların ayaklarını öpmek kadar ma'nen bir dilencilik vaziyetine düşmek, bazen hayat-ı ebediyesinin nuru olan mukaddesât-ı diniyesini fedâ etmek sûretiyle o bereketsiz, menhus malı alır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem bu fakr u zarûret zamanında, aç ve muhtaç olanların elemlerinden ehl-i vicdâna rikkat-i cinsiye vâsıtasıyla gelen teellüm, o gayr-ı meşrû bir sûrette kazandığı para ile aldığı lezzeti, vicdânı varsa acılaştırıyor."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Böyle acîb bir zamanda, şübheli mallarda, zarûret derecesinde iktifâ etmek lâzımdır. Çünkü "
+        },
+        {
+          "text": "اِنَّ الضَّرُورَةَ تُقَدَّرُ بِقَدْرِهَا",
+          "red": true
+        },
+        {
+          "text": " sırrıyla; haram maldan, mecburiyetle zarûret derecesini alabilir, fazlasını alamaz. Evet, muztar adam, murdar etten tok oluncaya kadar yiyemez. Belki ölmeyecek kadar yiyebilir. Hem, yüz aç adamın huzurunda kemâl-i lezzet ile fazla yenilmez."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İktisad, sebeb-i izzet ve kemâl olduğuna delâlet eden bir vâkıa:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Bir zaman, dünyaca sehàvetle meşhûr Hâtem-i Tâî, mühim bir ziyâfet veriyor. Misâfirlerine gayet fazla hediyeler verdiği vakit, çölde gezmeye çıkıyor. Bakar ki; bir ihtiyar fakir adam, bir yük dikenli çalı ve gevenleri beline yüklemiş, cesedine batıyor, kanatıyor. Hâtem ona dedi:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Hâtem-i Tâî, hediyelerle beraber mühim bir ziyâfet veriyor. Sen de oraya git; beş kuruşluk çalı yüküne bedel beş yüz kuruş alırsın.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "O muktesid ihtiyar demiş ki: “Ben bu dikenli yükümü izzetimle çekerim, kaldırırım; Hâtem-i Tâî’nin minnetini almam.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sonra Hâtem-i Tâî’den sormuşlar: “Sen kendinden daha civanmerd, azîz, kimi bulmuşsun?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Demiş: “İşte o sahrâda rast geldiğim o muktesid ihtiyarı benden daha azîz, daha yüksek, daha civanmerd gördüm.”"
+    },
+    {
+      "type": "heading",
+      "text": "Beşinci Nükte"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cenâb-ı Hak, kemâl-i kereminden, en fakir adama en zengin adam gibi ve gedâya (yani fakire) pâdişah gibi, lezzet-i ni'metini ihsâs ettiriyor. Evet, bir fakirin, kuru bir parça siyah ekmekten açlık ve iktisad vâsıtasıyla aldığı lezzet, bir pâdişahın ve bir zenginin isrâftan gelen usanç ve iştahsızlıkla yediği en a'lâ baklavadan aldığı lezzetten daha ziyâde lezzetlidir. Cây-i hayrettir ki, bazı müsrif ve mübezzir insanlar, böyle iktisadçıları “hısset” ile itham ediyorlar. Hâşâ! İktisad, izzet ve cömertliktir. Hısset ve zillet, ehl-i isrâf ve tebzîrin zâhirî merdâne keyfiyetlerinin iç yüzüdür. Bu hakikati te'yid eden, bu risalenin te'lifi senesinde, Isparta’da hücremde cereyan eden bir vâkıa var. Şöyle ki:"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Kaideme ve düstur-u hayatıma muhâlif bir sûrette, bir talebem iki buçuk okkaya yakın bir balı, bana hediye kabûl ettirmeye ısrar etti. Ne kadar kaidemi ileri sürdüm, kanmadı. Bilmecbûriye, yanımdaki üç kardeşime yedirmek ve Şâbân-ı Şerîf ve Ramazan’da o baldan iktisad ile otuz-kırk gün üç adam yesin ve getiren de sevâb kazansın ve kendileri de tatlısız kalmasın diyerek, “Alınız” dedim. Bir okka bal da benim vardı. O üç arkadaşım, gerçi müstakîm ve iktisadı takdir edenlerdendi. Fakat, her ne ise, birbirine ikram etmek ve herbiri ötekinin nefsini okşamak ve kendi nefsine tercih etmek olan, bir cihette ulvî bir haslet ile, iktisadı unuttular. Üç gecede iki buçuk okka balı bitirdiler. Ben gülerek dedim: “Sizi, otuz-kırk gün, o bal ile tatlandıracaktım. Siz otuz günü üçe indirdiniz. Âfiyet olsun!” dedim. Fakat ben, kendi o bir okka balımı iktisad ile sarf ettim. Bütün Şâbân ve Ramazan’da hem ben yedim, hem, Lillâhi'l-Hamd, o kardeşlerimin herbirisine iftar vaktinde birer kaşık "
+        },
+        {
+          "note": "1"
+        },
+        {
+          "text": " verip, mühim sevâba medâr oldu."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Benim hâlimi görenler, o vaziyetimi belki hısset telâkki etmişlerdir. Öteki kardeşlerimin üç gecelik vaziyetlerini bir civanmerdlik telâkki edebilirler. Fakat, hakikat noktasında, o zâhirî hısset altında ulvî bir izzet ve büyük bir bereket ve yüksek bir sevâb gizlendiğini gördük. Ve o civanmerdlik ve isrâf altında, eğer vazgeçilmese idi, bir dilencilik ve gayrın eline tama'kârâne ve muntazırâne bakmak gibi, hıssetten çok aşağı bir hâleti netice verir idi."
+    },
+    {
+      "type": "heading",
+      "text": "Altıncı Nükte"
+    },
+    {
+      "type": "paragraph",
+      "text": "İktisad ve hıssetin çok farkı var. Tevâzu'; nasıl ki, ahlâk-ı seyyieden olan tezellülden ma'nen ayrı ve sûreten benzer bir haslet-i memdûhadır. Ve vakar, nasıl ki kötü hasletlerden olan tekebbürden ma'nen ayrı ve sûreten benzer bir haslet-i memdûhadır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Öyle de; ahlâk-ı àliye-i Peygamberiyeden olan ve belki kâinâttaki nizâm-ı hikmet-i İlâhiye’nin medârlarından olan iktisad ise, sefillik ve bahillik ve tama'kârlık ve hırsın bir halîtası olan hısset ile hiç münâsebeti yok. Yalnız sûreten bir benzeyiş var. Bu hakikati te'yid eden bir vâkıa:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sahâbenin Abâdile-i Seb'a-i meşhûresinden olan Abdullâh İbn-i Ömer Hazretleri ki; Halife-i Resûlullâh olan Fâruk-u A'zam Hazret-i Ömer’in (ra) en mühim ve büyük mahdumu ve sahâbe âlimlerinin içinde en mümtâzlarından olan O Zât-ı mübârek çarşı içinde, alışverişte, kırk paralık bir mes'eleden iktisad için ve ticâretin medârı olan emniyet ve istikameti muhâfaza için şiddetli münâkaşa etmiş. Bir sahâbe ona bakmış; rû-yi zeminin halife-i zîşanı olan Hazret-i Ömer’in mahdumunun kırk para için münâkaşasını acîb bir hısset tevehhüm ederek, o imâmın arkasına düşüp, ahvâlini anlamak ister. Baktı ki, Hazret-i Abdullâh hâne-i mübârekine girdi. Kapıda bir fakir adam gördü. Bir parça eğlendi, ayrıldı, gitti. Sonra hânesinin ikinci kapısından çıktı, diğer bir fakiri orada da gördü. Onun yanında da bir parça eğlendi, ayrıldı, gitti. Uzaktan bakan sahâbe merak etti."
+    },
+    {
+      "type": "paragraph",
+      "text": "Gitti, o fakirlere sordu: “İmâm sizin yanınızda durdu, ne yaptı?”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Herbirisi dedi: “Bana bir altın verdi.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "O Sahâbe dedi: “Fesübhânallâh! Çarşı içinde kırk para için böyle münâkaşa etsin de, sonra hânesinde iki yüz kuruşu kimseye sezdirmeden, kemâl-i rızâ-yı nefisle versin!” diye düşündü. Gitti, Hazret-i Abdullâh İbn-i Ömer’i gördü, dedi:"
+    },
+    {
+      "type": "paragraph",
+      "text": "“Yâ imâm! Bu müşkülümü hallet. Sen çarşıda böyle yaptın. Hânende de şöyle yapmışsın.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ona cevaben dedi ki: “Çarşıdaki vaziyet; iktisaddan ve kemâl-i akıldan ve alışverişin esâsı ve rûhu olan emniyetin, sadâkatin muhâfazasından gelmiş bir hâlettir, hısset değildir. Hânemdeki vaziyet, kalbin şefkatinden ve rûhun kemâlinden gelmiş bir hâlettir. Ne o hıssettir ve ne de bu isrâftır.”"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İmâm-ı A'zam, bu sırra bir işâret olarak, "
+        },
+        {
+          "text": "لَا اِسْرَافَ فِي الْخَيْرِ كَمَا لَا خَيْرَ فِي الْاِسْرَافِ",
+          "red": true
+        },
+        {
+          "text": " demiş. Yani; “Hayırda ve ihsânda – fakat müstehak olanlara – isrâf olmadığı gibi, isrâfta da hiçbir hayır yoktur.”"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Yedinci Nükte"
+    },
+    {
+      "type": "paragraph",
+      "text": "İsrâf, hırsı intac eder. Hırs üç neticeyi verir:"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Birincisi:",
+          "bold": true
+        },
+        {
+          "text": " Kanâatsizliktir. Kanâatsizlik ise sa'ye, çalışmaya şevki kırar. Şükür yerine şekvâ ettirir, tenbelliğe atar. Ve meşrû, helâl, az malı "
+        },
+        {
+          "note": "2"
+        },
+        {
+          "text": " terk edip; gayr-ı meşrû, külfetsiz bir malı arar. Ve o yolda izzetini, belki haysiyetini fedâ eder."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Hırsın İkinci Neticesi:",
+          "bold": true
+        },
+        {
+          "text": " Haybet ve hasârettir. Maksûdunu kaçırmak ve istiskàle ma'rûz kalıp, teshîlât ve muâvenetten mahrum kalmak; hattâ, "
+        },
+        {
+          "text": "اَلْحَر۪يصُ خَائِبٌ خَاسِرٌ",
+          "red": true
+        },
+        {
+          "text": " yani, “Hırs, hasâret ve muvaffakıyetsizliğin sebebidir.” olan darb-ı mesele mâsadak olur."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Hırs ve kanâatin te'sirâtı, zîhayat âleminde gayet geniş bir düstur ile cereyan ediyor."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Ezcümle:",
+          "bold": true
+        },
+        {
+          "text": " Rızka muhtaç ağaçların fıtrî kanâatleri, onların rızkını onlara koşturduğu gibi, hayvanatın hırs ile meşakkat ve noksaniyet içinde rızka koşmaları, hırsın büyük zararını ve kanâatin azîm menfaatini gösterir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem zaîf umum yavruların lisân-ı hâlleriyle kanâatleri, süt gibi latîf bir gıdânın, ummadığı bir yerden onlara akması ve canavarların hırs ile noksan ve mülevves rızıklarına saldırması, da'vâmızı parlak bir sûrette isbât ediyor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem semiz balıkların vaziyet-i kanâatkârânesi, mükemmel rızıklarına medâr olması ve tilki ve maymun gibi zekî hayvanların hırs ile rızıkları peşinde dolaşmakla beraber kâfî derecede bulmamalarından cılız ve zaîf kalmaları, yine hırs ne derece sebeb-i meşakkat ve kanâat ne derece medâr-ı rahat olduğunu gösterir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem Yahudî milleti hırs ile, ribâ ile, hile dolabı ile rızıklarını zilletli ve sefâletli, gayr-ı meşrû ve ancak yaşayacak kadar rızıklarını bulması ve sahrâ-nişînlerin (yani bedevîlerin) kanâatkârâne vaziyetleri, izzetle yaşaması ve kâfî rızkı bulması, yine mezkûr da'vâmızı kat'î isbât eder."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Hem çok âlimlerin "
+        },
+        {
+          "note": "3"
+        },
+        {
+          "text": " ve edîblerin "
+        },
+        {
+          "note": "4"
+        },
+        {
+          "text": " zekâvetlerinin verdiği bir hırs sebebiyle fakr-ı hâle düşmeleri ve çok aptal ve iktidarsızların, fıtrî kanâatkârâne vaziyetleri ile zenginleşmeleri kat'î bir sûrette isbât eder ki; rızk-ı helâl, acz ve iftikàra göre gelir, iktidar ve ihtiyar ile değil. Belki o rızk-ı helâl, iktidar ve ihtiyar ile ma'kûsen mütenâsibdir. Çünkü; çocukların iktidar ve ihtiyarı geldikçe rızkı azalır, uzaklaşır, sakîlleşir. "
+        },
+        {
+          "text": "اَلْقَنَاعَةُ كَنْزٌ لَا يَفْنٰى",
+          "red": true
+        },
+        {
+          "text": " hadîsinin sırrıyla; kanâat bir define-i hüsn-ü maîşet ve rahat-ı hayattır. Hırs ise, bir mâden-i hasâret ve sefâlettir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Üçüncü Netice:",
+          "bold": true
+        },
+        {
+          "text": " Hırs, ihlâsı kırar, amel-i uhreviyeyi zedeler. Çünkü; bir ehl-i takvânın hırsı varsa, teveccüh-ü nâsı ister. Teveccüh-ü nâsı mürâat eden, ihlâs-ı tâmmı bulamaz. Bu netice çok ehemmiyetli, çok cây-i dikkattir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elhâsıl;",
+          "bold": true
+        },
+        {
+          "text": " isrâf, kanâatsizliği intac eder. Kanâatsizlik ise, çalışmanın şevkini kırar, tenbelliğe atar, hayatından şekvâ kapısını açar, mütemâdiyen şekvâ ettirir. "
+        },
+        {
+          "note": "5"
+        },
+        {
+          "text": " Hem ihlâsı kırar, riyâ kapısını açar. Hem izzetini kırar, dilencilik yolunu gösterir. İktisad ise, kanâati intac eder. "
+        },
+        {
+          "text": "عَزَّ مَنْ قَنَعَ ذَلَّ مَنْ طَمَعَ",
+          "red": true
+        },
+        {
+          "text": " hadîsin sırrıyla; kanâat, izzeti intac eder. Hem sa'ye ve çalışmaya teşci' eder. Şevkini ziyâdeleştirir, çalıştırır."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Çünkü, meselâ bir gün çalıştı. Akşamda aldığı cüz'î bir ücrete kanâat sırrıyla, ikinci gün yine çalışır. Müsrif ise, kanâat etmediği için, ikinci gün daha çalışmaz. Çalışsa da şevksiz çalışır. Hem iktisaddan gelen kanâat, şükür kapısını açar, şekvâ kapısını kapatır. Hayatında dâima şâkir olur. Hem kanâat vâsıtasıyla insanlardan istiğnâ etmek cihetinde, teveccühlerini aramaz. İhlâs kapısı açılır, riyâ kapısı kapanır."
+    },
+    {
+      "type": "paragraph",
+      "text": "İktisadsızlık ve isrâfın dehşetli zararlarını geniş bir dâirede müşâhede ettim. Şöyle ki: Ben, dokuz sene evvel mübârek bir şehre geldim. Kış münâsebetiyle o şehrin menâbi'-i servetini göremedim. Allah rahmet etsin, oranın müftüsü birkaç defa bana dedi: “Ahâlimiz fakirdir.” Bu söz benim rikkatime dokundu. Beş-altı sene sonraya kadar, dâima o şehir ahâlisine acıyordum. Sekiz sene sonra yazın yine o şehre geldim. Bağlarına baktım. Merhum müftünün sözü hâtırıma geldi. “Fesübhânallâh” dedim. “Bu bağların mahsulâtı, şehrin hâcetinin pek fevkındedir. Bu şehir ahâlisi pek çok zengin olmak lâzım gelir.” Hayret ettim. Beni aldatmayan ve hakikatlerin derkinde bir rehberim olan bir hâtıra-i hakikatle anladım: İktisadsızlık ve isrâf yüzünden bereket kalkmış ki, o kadar menâbi'-i servetle beraber, o merhum müftü “Ahâlimiz fakirdir” diyordu."
+    },
+    {
+      "type": "paragraph",
+      "text": "Evet, zekât vermek ve iktisad etmek, malda bittecrübe sebeb-i bereket olduğu gibi; isrâf etmek ile zekât vermemek, sebeb-i ref'-i bereket olduğuna hadsiz vâkıât vardır."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İslâm hükemâsının Eflâtun’u ve hekimlerin şeyhi ve feylesofların üstadı, dâhî-i meşhûr Ebû Ali İbn-i Sînâ, yalnız tıb noktasında, "
+        },
+        {
+          "text": "كُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا",
+          "red": true
+        },
+        {
+          "text": " âyetini şöyle tefsir etmiş, demiş:"
+        }
+      ]
+    },
+    {
+      "type": "arabic",
+      "text": "جَمَعْتُ الطِّبَّ ف۪ي بَيْتَيْنِ جَمْعًاوَحُسْنُ الْقَوْلِ ف۪ي قَصْرِ الْكَلَامِ",
+      "red": true
+    },
+    {
+      "type": "arabic",
+      "text": "فَقَلِّلْ اِنْ اَكَلْتَ وَبَعْدَ اَكْلٍ تَجَنَّبْوَالشِّفَاءُ فِي الْاِنْهِضَامِ",
+      "red": true
+    },
+    {
+      "type": "arabic",
+      "text": "وَلَيْسَ عَلَى النُّفُوسِ اَشَدُّ حَالًامِنْ اِدْخَالِ الطَّعَامِ عَلَى الطَّعَامِ",
+      "red": true
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Yani: "
+        },
+        {
+          "text": "“İlm-i tıbbı iki satırla topluyorum. Sözün güzelliği kısalığındadır. Yediğin vakit, az ye. Yedikten sonra dört-beş saat kadar daha yeme. Şifâ hazımdadır. Yani; kolayca hazmedeceğin mikdarı ye. Nefse ve mideye en ağır ve yorucu hâl, taam taam üstüne yemektir.”",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "note": "6"
+        }
+      ]
+    },
+    {
+      "type": "arabic",
+      "text": "سُبْحَانَكَ لَا عِلْمَ لَنَٓا اِلَّا مَا عَلَّمْتَنَا اِنَّكَ اَنْتَ الْعَل۪يمُ الْحَك۪يمُ",
+      "red": true
+    },
+    {
+      "type": "heading",
+      "text": "Cây-i Hayret ve Medâr-ı İbret Bir Tevâfuk"
+    },
+    {
+      "type": "quote",
+      "text": "İktisad Risalesi’ni, üçü acemî olarak, beş-altı ayrı ayrı müstensih, ayrı ayrı yerde, ayrı ayrı nüshadan yazıp, birbirinden uzak, hatları birbirinden ayrı, hiç elifleri düşünmeyerek yazdıkları herbir nüshanın elifleri, duâsız elli bir, duâ ile beraber elli üçte tevâfuk etmekle beraber; İktisad Risalesi’nin tarih-i te'lif ve istinsahı olan Rûmîce elli bir ve Arabî elli üç tarihinde tevâfuku ise, şüphesiz tesâdüf olamaz. İktisaddaki bereketin kerâmet derecesine çıktığına bir işârettir. Ve bu seneye “Sene-i İktisad” tesmiyesi lâyıktır."
+    },
+    {
+      "type": "quote",
+      "text": "Evet, zaman iki sene sonra bu kerâmet-i iktisadiyeyi, İkinci Harb-i Umumiyede her taraftaki açlık ve tahribât ve isrâfâtla ve nev'-i beşer ve herkes iktisada mecbur olmasıyla isbât etti."
+    }
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "text": "Yani; büyükçe bir çay kaşığı iledir."
+    },
+    {
+      "id": "2",
+      "text": "İktisadsızlık yüzünden müstehlikler çoğalır, müstahsiller azalır. Herkes gözünü hükûmet kapısına diker. O vakit hayat-ı ictimâiyenin medârı olan “San'at, ticâret, zirâat” tenâkus eder. O millet de tedennî edip sukùt eder. Fakir düşer."
+    },
+    {
+      "id": "3",
+      "text": "İran’ın âdil pâdişahlarından Nûşirevân-ı Âdil’in veziri, akılca meşhûr âlim olan Büzürcmihr’den (Büzürg-Mihr) sormuşlar: “Neden ulemâ, ümerâ kapısında görünüyor da, ümerâ ulemâ kapısında görünmüyor. Hâlbuki; ilim, emâretin fevkındedir?” Cevaben demiş ki: “Ulemânın ilminden, ümerânın cehlindendir.” Yani; ümerâ, cehlinden ilmin kıymetini bilmiyorlar ki, ulemânın kapısına gidip ilmi arasınlar. Ulemâ ise, mârifetlerinden mallarının kıymetini dahi bildikleri için ümerâ kapısında arıyorlar. İşte Büzürcmihr, ulemânın arasında fakr ve zilletlerine sebeb olan zekâvetlerinin neticesi bulunan hırslarını, zarîf bir sûrette te'vil ederek nâzikâne cevab vermiştir.\nHusrev"
+    },
+    {
+      "id": "4",
+      "text": "Bunu te'yid eden bir hâdise: Fransa’da edîblere, iyi dilencilik yaptıkları için dilencilik vesikası veriliyor.\nSüleyman Rüşdü"
+    },
+    {
+      "id": "5",
+      "text": "Evet, hangi müsrif ile görüşsen, şekvâlar işiteceksin. Ne kadar zengin olsa da, yine dili şekvâ edecektir. En fakir, fakat kanâatkâr bir adamla görüşsen, şükür işiteceksin."
+    },
+    {
+      "id": "6",
+      "text": "Yani; vücûda en muzır, dört-beş saat fâsıla vermeden yemek yemek, veyâhut telezzüz için mütenevvi' yemekleri birbiri üstüne mideye doldurmaktır."
+    }
+  ]
+}

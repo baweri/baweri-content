@@ -1,0 +1,33 @@
+{
+  "n": 37,
+  "title": "Dua",
+  "blocks": [
+    {
+      "type": "arabic",
+      "text": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّح۪يمِ",
+      "red": true
+    },
+    {
+      "type": "arabic",
+      "text": "يَا اَللّٰهُ ❋ يَا رَحْمٰنُ ❋ يَا رَح۪يمُ ❋ يَا فَرْدُ ❋ يَا حَيُّ ❋ يَا قَيُّومُ ❋ يَا حَكَمُ ❋ يَا عَدْلُ ❋ يَا قُدُّوسُ ❋",
+      "red": true
+    },
+    {
+      "type": "quote",
+      "text": "İsm-i A'zamın hakkına ve Kur'ân-ı Mu'cizü'l-Beyân’ın hürmetine ve Resûl-i Ekrem Aleyhissalâtü Vesselâm’ın şerefine; bu “Mektûbat”ı bastıranları ve mübârek yardımcılarını ve Risale-i Nur Talebelerini Cennetü'l-Firdevs’te saâdet-i ebediyeye mazhar eyle, âmîn! Ve hizmet-i îmâniye ve Kur'âniye’de dâima muvaffak eyle, âmîn! Ve defter-i hasenâtlarına bu “Mektûbat Mecmuası”nın herbir harfine mukâbil bin hasene yazdır, âmîn! Ve Nur’ların neşrinde sebat ve devam ve ihlâs ihsân eyle, âmîn!"
+    },
+    {
+      "type": "quote",
+      "text": "Yâ Erhamerrâhimîn! Umum Risale-i Nur şâkirdlerini iki cihanda mes'ûd eyle, âmîn! İnsî ve cinnî şeytanların şerlerinden muhâfaza eyle, âmîn! Ve bu âciz ve bîçâre Said’in kusurâtını affeyle, âmîn!"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Umum Nur Şâkirdleri nâmına Said Nursî",
+          "bold": true
+        }
+      ]
+    }
+  ]
+}

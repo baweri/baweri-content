@@ -1,0 +1,751 @@
+{
+  "n": 15,
+  "title": "Onbeşinci Mektûb",
+  "blocks": [
+    {
+      "type": "arabic",
+      "text": "بِاسْمِهِ سُبْحَانَهُ",
+      "red": true
+    },
+    {
+      "type": "arabic",
+      "text": "وَاِنْ مِنْ شَيْءٍ اِلَّا يُسَبِّحُ بِحَمْدِهِ",
+      "red": true
+    },
+    {
+      "type": "paragraph",
+      "text": "Azîz kardeşim!"
+    },
+    {
+      "type": "heading",
+      "text": "Senin Birinci Suâlin Ki"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sahâbeler nazar-ı velâyetle müfsidleri neden keşfedemediler? Tâ Hulefâ-i Râşidîn’in üçünün şehâdetini netice verdi. Hâlbuki küçük sahâbelere, büyük velîlerden daha büyük deniliyor?"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elcevab:",
+          "bold": true
+        },
+        {
+          "text": " Bunda iki makam var."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Birinci Makam"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dakîk bir sırr-ı velâyetin beyânıyla suâl halledilir. Şöyle ki:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sahâbelerin velâyeti; velâyet-i kübrâ denilen, veraset-i Nübüvvetten gelen, berzah tarîkine uğramayarak, doğrudan doğruya zâhirden hakikate geçip, akrebiyet-i İlâhiye’nin inkişafına bakan bir velâyettir ki; o velâyet yolu, gayet kısa olduğu hâlde gayet yüksektir. Hàrikaları az, fakat meziyâtı çoktur. Keşif ve kerâmet orada az görünür."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hem evliyânın kerâmetleri ise, ekserîsi ihtiyarî değil. Ummadığı yerden, ikram-ı İlâhî olarak bir hàrika ondan zuhûr eder. Bu keşif ve kerâmetlerin ekserîsi de, seyr ü sülûk zamanında, tarîkat berzahından geçtikleri vakit, âdi beşeriyetten bir derece tecerrüd ettiklerinden, hilâf-ı âdet hâlâta mazhar olurlar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sahâbeler ise, sohbet-i nübüvvetin in'ikâsıyla ve incizabıyla ve iksîriyle tarîkattaki seyr ü sülûk dâire-i azîminin tayyına mecbur değildirler. Bir kademde ve bir sohbette zâhirden hakikate geçebilirler."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meselâ: Nasıl ki, dün geceki Leyle-i Kadr’e ulaşmak için iki yol var:"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Biri:",
+          "bold": true
+        },
+        {
+          "text": " Bir sene gezip dolaşıp, tâ o geceye gelmektir. Bu kurbiyeti kazanmak için bir sene mesâfeyi tayyetmek lâzım gelir. Şu ise, ehl-i sülûkün mesleğidir ki, ehl-i tarîkatın çoğu bununla gider."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İkincisi:",
+          "bold": true
+        },
+        {
+          "text": " Zamanla mukayyed olan cism-i maddî gılâfından sıyrılıp, tecerrüdle rûhen yükselip, dün geceki Leyle-i Kadr’i öbür gün Leyle-i Îd ile beraber bugünkü gibi hazır görmektir. Çünkü rûh zamanla mukayyed değil. Hissiyat-ı insaniye rûh derecesine çıktığı vakit, o hazır zaman genişlenir. Başkalarına nisbeten mâzi ve müstakbel olan vakitler, ona nisbeten hazır hükmündedir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte bu temsîle göre, dün geceki Leyle-i Kadr’e geçmek için, mertebe-i rûha çıkıp, mâziyi hazır derecesinde görmektir. Şu sırr-ı gâmızın esâsı, akrebiyet-i İlâhiye’nin inkişafıdır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meselâ: Güneş bize yakındır; çünkü ziyâsı, harâreti ve misâli âyinemizde ve elimizdedir. Fakat biz ondan uzağız. Eğer biz, nurâniyet noktasında onun akrebiyetini hissetsek, âyinemizdeki misâli olan timsâline münâsebetimizi anlasak, o vâsıta ile onu tanısak; ziyâsı, harâreti, hey'eti ne olduğunu bilsek; onun akrebiyeti bize inkişaf eder ve yakınımızda onu tanıyıp münâsebetdâr oluruz."
+    },
+    {
+      "type": "paragraph",
+      "text": "Eğer biz, bu'diyetimiz nokta-i nazarından ona yakınlaşmak ve tanımak istesek, pek çok seyr-i fikrîye ve sülûk-i aklîye mecbur oluruz ki; kavânîn-i fenniye ile fikren semâvâta çıkıp semâdaki güneşi tasavvur ederek, sonra mâhiyetindeki ziyâ ve harâreti ve ziyâsındaki elvân-ı seb'ayı uzun uzadıya tedkîkàt-ı fenniye ile anladıktan sonra, birinci adamın kendi âyinesinde az bir tefekkürle elde ettiği kurbiyet-i maneviyeyi ancak elde edebiliriz."
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte şu temsîl gibi, nübüvvet ve veraset-i Nübüvvetteki velâyet, sırr-ı akrebiyetin inkişafına bakar. Velâyet-i sâire ise, ekserî kurbiyet esâsı üzerine gider. Bir çok merâtibde seyr ü sülûke mecbur olur."
+    },
+    {
+      "type": "heading",
+      "text": "İkinci Makam"
+    },
+    {
+      "type": "paragraph",
+      "text": "O hâdisâta sebebiyet veren ve fesâdı çeviren, birkaç yahudîden ibaret değildir ki, onları keşfetmekle fesâdın önü alınsın. Çünkü pek çok muhtelif milletlerin İslâmiyete girmeleriyle birbirine zıd ve muhâlif çok cereyanlar ve efkâr karıştı. Bâhusus bazıların gurur-u millîleri, Hazret-i Ömer’in (ra) darbeleriyle dehşetli yaralandığından, seciyeten intikama fırsat beklerlerdi. Çünkü onların hem eski dini ibtal edilmiş, hem medâr-ı şerefi olan eski hükûmeti ve saltanatı tahrib edilmiş. İntikamını, bilerek veya bilmeyerek Hâkimiyet-i İslâmiye’den almaya hissen tarafdâr bir sûret almış. Onun için, yahudî gibi zekî ve dessâs bir kısım münâfıklar, o hâlet-i ictimâiyeden istifade ettiler denilmiş."
+    },
+    {
+      "type": "paragraph",
+      "text": "Demek o hâdisâtın önünü almak, o vakitteki hayat-ı ictimâiyeyi ve muhtelif efkârı ıslahla olurdu. Yoksa bir-iki müfsidin keşfedilmesiyle olmazdı."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Eğer denilse:",
+          "bold": true
+        },
+        {
+          "text": " Hazret-i Ömer’in (ra) minber üstünde, bir aylık mesâfede bulunan Sâriye nâmındaki bir kumandanına: "
+        },
+        {
+          "text": "يَا سَارِيَةُ اَلْجَبَلَ اَلْجَبَلَ",
+          "red": true
+        },
+        {
+          "text": " deyip, Sâriye’ye işittirip, sevku'l-ceyş noktasından zaferine sebebiyet veren kerâmetkârâne kumandası ne derece keskin nazarlı olduğunu gösterdiği hâlde, neden yanındaki kàtili Firuz’u o keskin nazar-ı velâyetiyle görmedi?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elcevab:",
+          "bold": true
+        },
+        {
+          "text": " Hazret-i Yakub Aleyhisselâm’ın verdiği cevab ile cevab veririz. "
+        },
+        {
+          "note": "1"
+        },
+        {
+          "text": " Yani; Hazret-i Yakub’dan sorulmuş ki: “Ne için Mısır’dan gelen gömleğinin kokusunu işittin de, yakınında bulunan Kenan kuyusundaki Yûsuf’u görmedin?” Cevaben demiş ki: “Bizim hâlimiz şimşekler gibidir; bazen görünür, bazen saklanır. Bazı vakit olur ki, en yüksek mevkide oturup her tarafı görüyoruz gibi oluruz. Bazı vakitte de ayağımızın üstünü göremiyoruz.”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elhâsıl:",
+          "bold": true
+        },
+        {
+          "text": " İnsan her ne kadar fâil-i muhtar ise de, fakat "
+        },
+        {
+          "text": "وَمَا تَشَٓاؤُنَ اِلَّٓا اَنْ يَشَٓاءَ اللّٰهُ",
+          "red": true
+        },
+        {
+          "text": " sırrınca; meşîet-i İlâhiye asıldır, Kader hâkimdir. Meşîet-i İlâhiye, meşîet-i insaniyeyi geri verir. "
+        },
+        {
+          "text": "اِذَا جَاءَ الْقَدَرُ عُمِيَ الْبَصَرُ",
+          "red": true
+        },
+        {
+          "text": " hükmünü icra eder. "
+        },
+        {
+          "text": "Kader söylese; iktidar-ı beşer konuşmaz, ihtiyar-ı cüz'î susar.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "İkinci Suâlinizin Meâli"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hazret-i Ali (ra) zamanında başlayan muhârebelerin mâhiyeti nedir? Muhâriblere ve o harpte ölen ve öldürenlere ne nâm verebiliriz?"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elcevab:",
+          "bold": true
+        },
+        {
+          "text": " “Cemel Vak'ası” denilen Hazret-i Ali ile Hazret-i Talha ve Hazret-i Zübeyr ve Âişe-i Sıddıka (Radıyallahu Teâlâ Anhüm Ecmaîn) arasında olan muhârebe; "
+        },
+        {
+          "text": "“adâlet-i mahzâ”",
+          "bold": true
+        },
+        {
+          "text": " ile, "
+        },
+        {
+          "text": "“adâlet-i izafiye”",
+          "bold": true
+        },
+        {
+          "text": "nin mücâdelesidir. Şöyle ki:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Hazret-i Ali, "
+        },
+        {
+          "text": "“adâlet-i mahzâ”",
+          "bold": true
+        },
+        {
+          "text": "yı esâs edip, Şeyheyn zamanındaki gibi o esâs üzerine gitmek için ictihâd etmiş. Muârızları ise, Şeyheyn zamanındaki safvet-i İslâmiye adâlet-i mahzâya müsâid idi; fakat mürûr-u zamanla İslâmiyetleri zaîf muhtelif akvâm hayat-ı ictimâiye-i İslâmiye’ye girdikleri için, adâlet-i mahzânın tatbikatı çok müşkül olduğundan, “ehvenü'ş-şerri ihtiyar” denilen adâlet-i nisbiye esâsı üzerine ictihâd ettiler. Münâkaşa-i ictihâdiye siyasete girdiği için muhârebeyi intac etmiştir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Mâdem sırf “Lillâh” için ve İslâmiyetin menâfi'i için ictihâd edilmiş ve ictihâddan muhârebe tevellüd etmiş; elbette hem kàtil, hem maktûl ikisi de ehl-i Cennet’tir‥ ikisi de ehl-i sevâbdır diyebiliriz. Her ne kadar Hazret-i Ali’nin ictihâdı musîb ve mukâbilindekilerin hatâ ise de, yine azâba müstehak değiller. Çünkü ictihâd eden hakkı bulsa, iki sevâb var. Bulmazsa, bir nev'i ibâdet olan ictihâd sevâbı olarak bir sevâb alır. Hatâsından mâzûrdur."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Bizde gayet meşhûr ve sözü hüccet bir zât-ı muhakkìk Kürtçe demiş ki: "
+        },
+        {
+          "text": "ژِى شَرِّ صَحَابَانْ مَكَه قَالُ و قِيلْ لَوْ رَا جَنَّتِينَه قَاتِلُ و هَمْ قَتِيلْ",
+          "red": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Yani: "
+        },
+        {
+          "text": "Sahâbelerin muhârebesinde kıyl ü kàl etme. Çünkü hem kàtil ve hem maktûl, ikisi de ehl-i Cennet’tirler.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Adâlet-i mahzâ ile adâlet-i izafiyenin izâhı şudur ki: "
+        },
+        {
+          "text": "مَنْ قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ اَوْ فَسَادٍ فِي الْاَرْضِ فَكَاَنَّمَا قَتَلَ النَّاسَ جَم۪يعًا",
+          "red": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Âyetin mânâ-yı işârîsiyle; "
+        },
+        {
+          "text": "bir masûmun hakkı, bütün halk için dahi ibtal edilmez. Bir ferd dahi, umumun selâmeti için fedâ edilmez‥ Cenâb-ı Hakk’ın nazar-ı merhametinde hak haktır, küçüğüne büyüğüne bakılmaz. Küçük, büyük için ibtal edilmez. Bir cemâatin selâmeti için, bir ferdin rızâsı bulunmadan hayatı ve hakkı fedâ edilmez. Hamiyet nâmına rızâsıyla olsa, o başka mes'eledir.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "“Adâlet-i izafiye” ise; küllün selâmeti için, cüz'ü fedâ eder. Cemâat için, ferdin hakkını nazara almaz. Ehvenü'ş-şer diye bir nev'i adâlet-i izafiyeyi yapmaya çalışır. Fakat, adâlet-i mahzâ kàbil-i tatbik ise, adâlet-i izafiyeye gidilmez; gidilse zulümdür.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte İmâm-ı Ali Radıyallahu Anh, adâlet-i mahzâyı “Şeyheyn zamanındaki gibi kàbil-i tatbiktir” deyip, hilâfet-i İslâmiyeyi o esâs üzerine bina ediyordu. Mukâbilleri ve muârızları ise, “kàbil-i tatbik değil, çok müşkülâtı var” diye adâlet-i izafiye üzerine ictihâd etmişler. Tarihin gösterdiği sâir esbâb ise, hakîki sebeb değiller, bahânelerdir."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Eğer desen:",
+          "bold": true
+        },
+        {
+          "text": " “Hilâfet-i İslâmiye noktasında İmâm-ı Ali’nin fevkalâde iktidarı, hàrikulâde zekâsı ve yüksek liyâkatiyle beraber, seleflerine nisbeten muvaffakıyetsizliği nedendir?”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elcevab:",
+          "bold": true
+        },
+        {
+          "text": " O mübârek zât, siyaset ve saltanattan ziyâde, daha çok mühim, başka vazifelere lâyık idi. Eğer tam muvaffakıyet-i siyâsiye ve tamam saltanat olsaydı, “Şah-ı Velâyet” ünvân-ı mânidârını bihakkın kazanamayacaktı. Hâlbuki zâhirî ve siyâsî hilâfetin pek çok fevkınde manevî bir saltanat kazandı ve Üstad-ı Küll hükmüne geçti; hattâ kıyâmete kadar saltanat-ı manevîsi bâkî kaldı."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Amma Hazret-i İmâm-ı Ali’nin vak'a-i Sıffîn’de, Hazret-i Muâviye’nin tarafdârlarıyla muhârebesi ise, hilâfet ve saltanatın muhârebesidir. Yani: Hazret-i İmâm-ı Ali, ahkâm-ı dini ve hakàik-ı İslâmiyeyi ve âhireti esâs tutup, saltanatın bir kısım kanunlarını ve siyasetin merhametsiz mukteziyâtlarını onlara fedâ ediyordu. Hazret-i Muâviye ve tarafdârları ise; hayat-ı ictimâiye-i İslâmiye’yi, saltanat siyasetleriyle takviye etmek için, azîmeti bırakıp ruhsatı iltizam ettiler; siyaset âleminde kendilerini mecbur zannedip ruhsatı tercih ettiler, hatâya düştüler."
+    },
+    {
+      "type": "paragraph",
+      "text": "Amma Hazret-i Hasan ve Hüseyin’in Emevîlere karşı mücâdeleleri ise, din ile milliyet muhârebesi idi. Yani: Emevîler, Devlet-i İslâmiye’yi, Arab milliyeti üzerine istinâd ettirip râbıta-i İslâmiyeti, râbıta-i milliyetten geri bıraktıklarından, iki cihetle zarar verdiler."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Birisi:",
+          "bold": true
+        },
+        {
+          "text": " Milel-i sâireyi rencîde ederek tevhîş ettiler."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Diğeri:",
+          "bold": true
+        },
+        {
+          "text": " Unsuriyet ve milliyet esâsları, adâleti ve hakkı takib etmediğinden zulmeder; adâlet üzerine gitmez. Çünkü; unsuriyet-perver bir hâkim, millettaşını tercih eder, adâlet edemez. "
+        },
+        {
+          "text": "اَلْاِسْلَامِيَّةُ جَبَّتِ الْعَصَبِيَّةَ الْجَاهِلِيَّةَ لَا فَرْقَ بَيْنَ عَبْدٍ حَبَشِيٍّ وَسَيِّدٍ قُرَيْشِيٍّ اِذَا اَسْلَمَا",
+          "red": true
+        },
+        {
+          "text": " fermân-ı kat'îsiyle, râbıta-i diniye yerine râbıta-i milliye ikame edilmez; edilse, adâlet edilmez, hakkâniyet gider."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte Hazret-i Hüseyin, râbıta-i diniyeyi esâs tutup, muhikk olarak onlara karşı mücâdele etmiş, tâ makam-ı şehâdeti ihrâz etmiş."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Eğer denilse:",
+          "bold": true
+        },
+        {
+          "text": " Bu kadar haklı ve hakikatli olduğu hâlde, neden muvaffak olmadı? Hem neden Kader-i İlâhî ve Rahmet-i İlâhiye onların fecî bir âkıbete uğramasına müsâade etmiş?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elcevab:",
+          "bold": true
+        },
+        {
+          "text": " Hazret-i Hüseyin’in yakın tarafdârları değil, fakat cemâatine iltihak eden sâir milletlerde, yaralanmış gurur-u milliyeleri cihetiyle Arab milletine karşı bir fikr-i intikam bulunması, Hazret-i Hüseyin ve tarafdârlarının sâfî ve parlak mesleklerine halel verip, mağlûbiyetlerine sebeb olmuş."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Amma Kader nokta-i nazarında fecî âkıbetin hikmeti ise: Hasan ve Hüseyin ve onların hânedânları ve nesilleri, manevî bir saltanata namzed idiler. Dünya saltanatı ile manevî saltanatın cem'i gayet müşküldür. Onun için onları dünyadan küstürdü, dünyanın çirkin yüzünü gösterdi. Tâ, kalben dünyaya karşı alâkaları kalmasın. Onların elleri muvakkat ve sûrî bir saltanattan çekildi; fakat parlak ve dâimî bir saltanat-ı maneviyeye ta'yin edildiler. Âdi vâliler yerine, evliyâ aktâblarına merci' oldular."
+    },
+    {
+      "type": "heading",
+      "text": "Üçüncü Suâliniz"
+    },
+    {
+      "type": "paragraph",
+      "text": "“O mübârek zâtların başına gelen o fecî, gaddârâne muâmelenin hikmeti nedir?” diyorsunuz."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elcevab:",
+          "bold": true
+        },
+        {
+          "text": " Sâbıkan beyân ettiğimiz gibi, Hazret-i Hüseyin’in muârızları olan Emevîler saltanatında, merhametsiz gadre sebebiyet verecek üç esâs vardı:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Birisi:",
+          "bold": true
+        },
+        {
+          "text": " Merhametsiz siyasetin bir düsturu olan; “Hükûmetin selâmeti ve âsâyişin devamı için, eşhâs fedâ edilir.”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İkincisi:",
+          "bold": true
+        },
+        {
+          "text": " Onların saltanatı, unsuriyet ve milliyete istinâd ettiği için, milliyetin gaddârâne bir düsturu olan; “Milletin selâmeti için herşey fedâ edilir.”"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Üçüncüsü:",
+          "bold": true
+        },
+        {
+          "text": " Emevîlerin, Hâşimîlere karşı an'anesindeki rekabet damarı, Yezid gibi bazılarda bulunduğu için, şefkatsiz bir gadre kàbiliyet göstermişti."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Dördüncü bir sebeb de:",
+          "bold": true
+        },
+        {
+          "text": " Hazret-i Hüseyin’in tarafdârlarında bulunuyordu ki; Emevîlerin, Arab milliyetini esâs tutup, sâir milletlerin efrâdına “memâlik” tâbir ederek köle nazarıyla bakmaları ve gurur-u milliyelerini kırmaları yüzünden, milel-i sâire Hazret-i Hüseyin’in cemâatine intikamkârâne ve müşevveş bir niyetle iltihak ettiklerinden, Emevîlerin asabiyet-i milliyelerine fazla dokunmuş, gayet gaddârâne ve merhametsizcesine meşhûr fâciaya sebebiyet vermişlerdir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Mezkûr dört esbâb, zâhirîdir. Kader noktasından bakıldığı vakit; Hazret-i Hüseyin ve akrabasına o fâcia sebebiyle hâsıl olan netâic-i uhreviye ve saltanat-ı rûhâniye ve terakkiyât-ı maneviye, o kadar kıymetdârdır ki, o fâcia ile çektikleri zahmet, gayet kolay ve ucuz düşer. Nasıl ki bir nefer, bir saat işkence altında şehîd edilse; öyle bir mertebeyi bulur ki, on sene başkası çalışsa, ancak o mertebeyi bulur. Eğer o nefer şehîd olduktan sonra ona sorulabilse; “Az bir şey ile pek çok şeyler kazandım.” diyecektir."
+    },
+    {
+      "type": "heading",
+      "text": "Dördüncü Suâlinizin Meâli"
+    },
+    {
+      "type": "paragraph",
+      "text": "Âhirzamanda Hazret-i İsâ Aleyhisselâm Deccâlı öldürdükten sonra, insanlar ekseriyetle din-i Hakka girerler. Hâlbuki rivâyetlerde gelmiştir ki; “Yeryüzünde, Allah‥ Allah‥ diyenler bulundukça kıyâmet kopmaz.” Böyle umumiyetle îmâna geldikten sonra nasıl umumiyetle küfre giderler?"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elcevab:",
+          "bold": true
+        },
+        {
+          "text": " Hadîs-i sahîhte rivâyet edilen; “Hazret-i İsâ Aleyhisselâm’ın geleceğini ve Şerîat-ı İslâmiye ile amel edeceğini, Deccâlı öldüreceğini” îmânı zaîf olanlar istib'âd ediyorlar. Onun hakikati izâh edilse, hiç istib'âd yeri kalmaz. Şöyle ki:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "O hadîsin ve Süfyân ve Mehdi hakkındaki hadîslerin ifâde ettikleri mânâ budur ki: Âhirzamanda dinsizliğin iki cereyanı kuvvet bulacak:"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Birisi:",
+          "bold": true
+        },
+        {
+          "text": " Nifâk perdesi altında Risalet-i Ahmediye’yi (asm) inkâr edecek "
+        },
+        {
+          "text": "“Süfyân”",
+          "bold": true
+        },
+        {
+          "text": " nâmında müdhiş bir şahıs, ehl-i nifâkın başına geçecek, Şerîat-ı İslâmiyenin tahribine çalışacaktır. Ona karşı Âl-i Beyt-i Nebevî’nin silsile-i nurânîsine bağlanan, ehl-i velâyet ve ehl-i kemâlin başına geçecek Âl-i Beyt’ten Muhammed Mehdi isminde bir zât-ı nurânî, o Süfyânın şahs-ı manevîsi olan cereyan-ı münâfıkâneyi öldürüp dağıtacaktır."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İkinci cereyan ise:",
+          "bold": true
+        },
+        {
+          "text": " Tabîiyyûn, maddiyûn felsefesinden tevellüd eden bir cereyan-ı nemrûdâne, gittikçe âhirzamanda felsefe-i maddiye vâsıtasıyla intişar ederek kuvvet bulup, ulûhiyeti inkâr edecek bir dereceye gelir. Nasıl bir pâdişahı tanımayan ve ordudaki zâbitân ve efrâd onun askerleri olduğunu kabûl etmeyen vahşî bir adam, herkese, her askere bir nev'i pâdişahlık ve bir gûnâ hâkimiyet verir."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Öyle de; Allah’ı inkâr eden o cereyan efrâdları, birer küçük Nemrud hükmünde nefislerine birer rubûbiyet verir. Ve onların başına geçen en büyükleri, ispirtizma ve manyetizmanın hâdisâtı nev'inden müdhiş hàrikalara mazhar olan Deccâl ise; daha ileri gidip, cebbârâne sûrî hükûmetini bir nev'i rubûbiyet tasavvur edip ulûhiyetini ilân eder. Bir sineğe mağlûb olan ve bir sineğin kanadını bile icâd edemeyen âciz bir insanın ulûhiyet da'vâ etmesi, ne derece ahmakçasına bir maskaralık olduğu ma'lûmdur."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "İşte böyle bir sırada, o cereyan pek kuvvetli göründüğü bir zamanda, "
+        },
+        {
+          "text": "Hazret-i İsâ Aleyhisselâm’ın şahsiyet-i maneviyesinden ibaret olan hakîki İsevîlik dini zuhûr edecek, yani Rahmet-i İlâhiye’nin semâsından nüzûl edecek; hâl-i hâzır Hıristiyanlık dini o hakikate karşı tasaffî edecek, hurâfâttan ve tahrifattan sıyrılacak, hakàik-ı İslâmiye ile birleşecek; ma'nen, Hıristiyanlık bir nev'i İslâmiyete inkılâb edecektir… Ve Kur'ân’a iktidâ ederek, o İsevîlik şahs-ı manevîsi, tâbi ve İslâmiyet, metbû' makamında kalacak.",
+          "bold": true
+        },
+        {
+          "text": " Din-i hak, bu iltihak neticesinde azîm bir kuvvet bulacaktır."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Dinsizlik cereyanına karşı ayrı ayrı iken mağlûb olan İsevîlik ve İslâmiyet, ittihâd neticesinde, dinsizlik cereyanına galebe edip dağıtacak isti'dâdında iken; âlem-i semâvâtta cism-i beşerîsiyle bulunan şahs-ı İsâ Aleyhisselâm, o din-i Hak cereyanının başına geçeceğini, bir Muhbir-i Sâdık, bir Kadîr-i Külli Şey’in va'dine istinâd ederek haber vermiştir. Mâdem haber vermiş, haktır; mâdem Kàdir-i Külli Şey va'detmiş, elbette yapacaktır."
+    },
+    {
+      "type": "paragraph",
+      "text": "Evet, her vakit semâvâttan melâikeleri yere gönderen ve bazı vakitte insan sûretine vaz'eden (Hazret-i Cibrîl’in “Dihye” sûretine girmesi gibi) ve rûhânileri âlem-i ervâhtan gönderip beşer sûretine temessül ettiren, hattâ ölmüş evliyâların çoklarının ervâhlarını cesed-i misâliyle dünyaya gönderen bir Hakîm-i Zülcelâl; Hazret-i İsâ Aleyhisselâm’ı, İsâ dinine ait en mühim bir hüsn-ü hâtimesi için, değil semâ-i dünyada cesediyle bulunan ve hayatta olan Hazret-i İsâ, belki âlem-i Âhiretin en uzak köşesine gitseydi ve hakikaten ölseydi, yine şöyle bir netice-i azîme için ona yeniden cesed giydirip dünyaya göndermek, O Hakîmin hikmetinden uzak değil‥ belki onun hikmeti öyle iktiza ettiği için va'detmiş ve va'dettiği için elbette gönderecek."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hazret-i İsâ Aleyhisselâm geldiği vakit, herkes O’nun hakîki İsâ olduğunu bilmek lâzım değildir. O’nun mukarreb ve hàvâssı, nur-u îmân ile O’nu tanır. Yoksa bedâhet derecesinde herkes O’nu tanımayacaktır."
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Suâl:",
+          "bold": true
+        },
+        {
+          "text": " Rivâyetlerde gelmiş ki: “Deccâlın bir yalancı Cennet’i var; kendine tâbi olanları ona atar. Hem yalancı bir Cehennem’i var; tâbi olmayanları ona atar. Hattâ o kendi merkebinin de bir kulağını Cennet gibi, bir kulağını da Cehennem gibi yapmış… Azamet-i bedeniyesi bu kadardır, şu kadardır…” diye ta'rifat var?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elcevab:",
+          "bold": true
+        },
+        {
+          "text": " Deccâlın şahs-ı sûrîsi insan gibidir. Mağrûr, fir'avunlaşmış, Allah’ı unutmuş olduğundan; sûrî, cebbârâne olan hâkimiyetine, ulûhiyet nâmını vermiş bir şeytan-ı ahmaktır ve bir insan-ı dessâstır. Fakat şahs-ı manevîsi olan dinsizlik cereyan-ı azîmi, pek cesîmdir. Rivâyetlerde Deccâla ait tavsifât-ı müdhişe ona işâret eder. Bir vakit Japonya’nın başkumandanının resmi, bir ayağı Bahr-i Muhît’te, diğer ayağı on günlük mesâfedeki Port Artür Kalesinde tasvir edilmiş. O küçük Japon kumandanının bu sûrette tasviriyle, ordusunun şahs-ı manevîsi gösterilmiş."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Amma Deccâlın yalancı Cennet’i ise, medeniyetin câzibedâr lehviyâtı ve fantaziyeleridir. Merkebi ise, şimendifer gibi bir vâsıtadır ki; bir başında ateş ocağı bulunur, kendine tâbi olmayanları bazen ateşe atar. O merkebin bir kulağı, yani diğer başı Cennet gibi tefriş edilmiş; tâbi olanları oraya oturtur. Zâten sefîh ve gaddâr medeniyetin mühim bir merkebi olan şimendifer, ehl-i sefâhet ve dünya için yalancı bir Cennet getirir. Bîçâre ehl-i diyânet ve Ehl-i İslâm için medeniyet elinde Cehennem zebânisi gibi tehlike getirir, esâret ve sefâlet altına atar."
+    },
+    {
+      "type": "paragraph",
+      "text": "İşte İsevîliğin din-i hakîkisi zuhûr ile ve İslâmiyete inkılâb etmesiyle, çendan âlemde ekseriyet-i mutlakaya nurunu neşreder. Fakat yine kıyâmet kopmasına yakın tekrar bir dinsizlik cereyanı baş gösterir, galebe eder. Ve “El-hükmü-li'l-ekser” kaidesince, yeryüzünde “Allah‥ Allah‥” diyecek kalmayacak; yani ehemmiyetli bir cemâat, küre-i arzda mühim bir mevkie sâhib olacak bir sûrette “Allah‥ Allah‥” denilmeyecek demektir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yoksa ekalliyette kalan veyâhut mağlûb düşen ehl-i hak, kıyâmete kadar bâkî kalacak. Yalnız, kıyâmetin kopacağı ânında, kıyâmetin dehşetlerini görmemek için, bir eser-i rahmet olarak, ehl-i îmânın rûhları daha evvel kabzedilecek; kıyâmet, kâfirlerin başına kopacaktır."
+    },
+    {
+      "type": "heading",
+      "text": "Beşinci Suâlinizin Meâli"
+    },
+    {
+      "type": "paragraph",
+      "text": "Kıyâmetin hâdisâtından ervâh-ı bâkiye müteessir olacaklar mı?"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elcevab:",
+          "bold": true
+        },
+        {
+          "text": " Derecâtlarına göre müteessir olacaklar. Melâikelerin tecelliyât-ı kahriyede kendilerine göre müteessir oldukları gibi müteessir olurlar. Nasıl ki; bir insan, sıcak bir yerde iken, hariçte kar ve tipi içinde titreyenleri görse akıl ve vicdân itibariyle müteessir olur, öyle de; zîşuûr olan ervâh-ı bâkiye, kâinâtla alâkadar oldukları için, kâinâtın hâdisât-ı azîmesinden derecelerine göre müteessir olmalarını; ehl-i azâb ise, elemkârâne‥ ehl-i saâdet ise, hayretkârâne, istiğrabkârâne, belki bir cihette istibşârkârâne teessürâtları bulunmasını, işârât-ı Kur'âniye gösteriyor. Zîra Kur'ân-ı Hakîm, her zaman kıyâmetin acâibini tehdid sûretinde zikrediyor. “Göreceksiniz…” diyor. Hâlbuki cism-i insanî ile onu görenler, kıyâmete yetişenlerdir. Demek, kabirde cesedleri çürüyen ervâhların da o tehdid-i Kur'âniye’den hisseleri var."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Altıncı Suâlinizin Meâli"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "كُلُّ شَيْءٍ هَالِكٌ اِلَّا وَجْهَهُ",
+          "red": true
+        },
+        {
+          "text": " Bu âyetin Âhirete, Cennet’e, Cehennem’e ve ehillerine şümûlü var mı, yok mu?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elcevab:",
+          "bold": true
+        },
+        {
+          "text": " Şu mes'ele, pek çok ehl-i tahkîk ve ehl-i keşf ve ehl-i velâyetin medâr-ı bahsi olmuş. Şu mes'elede söz, onlarındır. Hem de şu âyetin çok genişliği ve çok merâtibi var. Ehl-i tahkîkin bir kısm-ı ekseri demişler ki; âlem-i bekàya şümûlü yok. Diğer kısmı ise; ânî olarak onlar da az bir zamanda, bir nev'i helâkete mazhar olurlar. O kadar az bir zamanda oluyor ki, fenâya gidip gelmiş hissetmeyecekler."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Amma bazı müfrit fikirli ehl-i keşfin hükmettikleri fenâ-yı mutlak ise, hakikat değildir. Çünkü "
+        },
+        {
+          "text": "Zât-ı Akdes-i İlâhî, mâdem sermedî ve dâimîdir; elbette sıfâtı ve esmâsı dahi sermedî ve dâimîdirler. Mâdem sıfâtı ve esmâsı dâimî ve sermedîdirler; elbette onların âyineleri ve cilveleri ve nakışları ve mazharları olan âlem-i bekàdaki bâkiyât ve ehl-i bekà, fenâ-yı mutlaka bizzarûre gidemez.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Kur'ân-ı Hakîm’in feyzinden şimdilik iki nokta hâtıra gelmiş, icmâlen yazacağız."
+    },
+    {
+      "type": "heading",
+      "text": "Birincisi"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cenâb-ı Hak öyle bir Kadîr-i Mutlak’tır ki; adem ve vücûd, kudretine ve irâdesine nisbeten iki menzil gibi, gayet kolay bir sûrette oraya gönderir ve getirir. İsterse bir günde, isterse bir ânda oradan çevirir. Hem adem-i mutlak zâten yoktur; çünkü bir ilm-i muhît var. Hem dâire-i ilm-i İlâhî’nin harici yok ki, bir şey ona atılsın. Dâire-i ilim içinde bulunan adem ise, adem-i haricîdir ve vücûd-u ilmîye perde olmuş bir ünvândır. Hattâ bu mevcûdât-ı ilmiyeye bazı ehl-i tahkîk “A'yân-ı Sâbite” tâbir etmişler."
+    },
+    {
+      "type": "paragraph",
+      "text": "Öyle ise, fenâya gitmek; muvakkaten haricî libâsını çıkarıp, vücûd-u manevîye ve ilmîye girmektir. Yani hêlik ve fânî olanlar; vücûd-u haricîyi bırakıp, mâhiyetleri bir vücûd-u manevî giyer, dâire-i kudretten çıkıp dâire-i ilme girer."
+    },
+    {
+      "type": "heading",
+      "text": "İkincisi"
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Çok Söz’lerde izâh ettiğimiz gibi; herşey, mânâ-yı ismiyle ve kendine bakan vecihte hiçtir. Kendi zâtında müstakil ve bizâtihi sâbit bir vücûdu yok. Ve yalnız kendi başıyla kàim bir hakikati yok. Fakat Cenâb-ı Hakk’a bakan vecihte ise; yani mânâ-yı harfiyle olsa, hiç değil; çünkü onda cilvesi görünen esmâ-i bâkiye var. Ma'dûm değil; çünkü sermedî bir vücûdun gölgesini taşıyor. Hakikati vardır, sâbittir, hem yüksektir; çünkü mazhar olduğu bâkî bir ismin sâbit bir nev'i gölgesidir.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Hem",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "كُلُّ شَيْءٍ هَالِكٌ اِلَّا وَجْهَهُ",
+          "red": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "insanın elini mâsivâdan kesmek için bir kılınçtır ki; o da Cenâb-ı Hakk’ın hesabına olmayan fânî dünyada, fânî şeylere karşı alâkaları kesmek için; hükmü, dünyadaki fâniyâta bakar. Demek Allah hesabına olsa, mânâ-yı harfiyle olsa, livechillâh olsa; mâsivâya girmez ki,",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "كُلُّ شَيْءٍ هَالِكٌ اِلَّا وَجْهَهُ",
+          "red": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "kılıncıyla başı kesilsin.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "Elhâsıl:",
+          "bold": true
+        },
+        {
+          "text": " Eğer Allah için olsa, Allah’ı bulsa; gayr kalmaz ki, başı kesilsin. Eğer Allah’ı bulmazsa ve hesabıyla bakmazsa, herşey gayrdır. "
+        },
+        {
+          "text": "كُلُّ شَيْءٍ هَالِكٌ اِلَّا وَجْهَهُ",
+          "red": true
+        },
+        {
+          "text": " kılıncını isti'mâl etmeli, perdeyi yırtmalı, tâ O’nu bulmalı!‥"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "parts": [
+        {
+          "text": "اَلْبَاق۪ي هُوَ الْبَاق۪ي",
+          "bold": true,
+          "red": true
+        },
+        {
+          "text": "Said Nursî",
+          "bold": true
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "text": "زِمِصْرَشْ بُوىِ پِيرَاهَنْ شِنِيدِى\nچَرَا دَرْ چَاهِ كَنْعَانَشْ نَدِيدِى\nبَگُفْت اَحْوَالِ مَا بَرْقِ جِهَانَسْت\nدَمِى پَيْدَا دِيگَرْ دَمْ نِهَانَسْت\nگَهِى بَرْ طَارُمِ اَعْلَى نِشِينَمْ\nگَهِى بَرْ پُشْتِ پَاىِ خُودْ نَبِينَمْ"
+    }
+  ]
+}

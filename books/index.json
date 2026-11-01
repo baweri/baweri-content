@@ -297,6 +297,33 @@
       "category": "tefsir",
       "cover": null,
       "hasText": true
+    },
+    {
+      "id": 3002,
+      "title": "Mektubat",
+      "author": "Bediüzzaman Said Nursî",
+      "language": "tr",
+      "category": "tefsir",
+      "cover": null,
+      "hasText": true
+    },
+    {
+      "id": 3003,
+      "title": "Lem'alar",
+      "author": "Bediüzzaman Said Nursî",
+      "language": "tr",
+      "category": "tefsir",
+      "cover": null,
+      "hasText": true
+    },
+    {
+      "id": 3004,
+      "title": "Şualar",
+      "author": "Bediüzzaman Said Nursî",
+      "language": "tr",
+      "category": "tefsir",
+      "cover": null,
+      "hasText": true
     }
   ]
 }
