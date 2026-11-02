@@ -1,0 +1,43 @@
+{
+  "id": 7001,
+  "title": "Qeder",
+  "version": 1,
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Pêşgotina wergêr"
+    },
+    {
+      "n": 2,
+      "title": "Pêşgotin"
+    },
+    {
+      "n": 3,
+      "title": "Hukmê qederê"
+    },
+    {
+      "n": 4,
+      "title": "Di Qur’an, Sunnet û luxetê de qeder"
+    },
+    {
+      "n": 5,
+      "title": "Qeder û qudret"
+    },
+    {
+      "n": 6,
+      "title": "Qeder û teklîf"
+    },
+    {
+      "n": 7,
+      "title": "Qeder û qanûnên şer‘î û tebi‘î"
+    },
+    {
+      "n": 8,
+      "title": "Cebrî û Qederî"
+    },
+    {
+      "n": 9,
+      "title": "Derbarê mezhebên Qederê de paşgotin"
+    }
+  ]
+}

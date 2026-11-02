@@ -324,6 +324,42 @@
       "category": "tefsir",
       "cover": null,
       "hasText": true
+    },
+    {
+      "id": 7001,
+      "title": "Qeder",
+      "author": "M. Salih Gaborî",
+      "language": "ku",
+      "category": "ilmihal",
+      "cover": null,
+      "hasText": true
+    },
+    {
+      "id": 7002,
+      "title": "Qûtê Axretê",
+      "author": "Mele Huseyn Êsî",
+      "language": "ku",
+      "category": "ilmihal",
+      "cover": null,
+      "hasText": true
+    },
+    {
+      "id": 7003,
+      "title": "Tewhîd",
+      "author": "Mele Huseyn Êsî",
+      "language": "ku",
+      "category": "ilmihal",
+      "cover": null,
+      "hasText": true
+    },
+    {
+      "id": 7004,
+      "title": "Kela Mirovê Misilman",
+      "author": "Seʿîd el-Qehtanî",
+      "language": "ku",
+      "category": "hadis",
+      "cover": null,
+      "hasText": true
     }
   ]
 }

@@ -1,0 +1,543 @@
+{
+  "id": 7004,
+  "title": "Kela Mirovê Misilman",
+  "version": 1,
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Pêşgotin"
+    },
+    {
+      "n": 2,
+      "title": "Fezîleta zikirkirina Xwedê"
+    },
+    {
+      "n": 3,
+      "title": "Li nik şiyarbûna ji xewê"
+    },
+    {
+      "n": 4,
+      "title": "Li nik cilvergirtinê"
+    },
+    {
+      "n": 5,
+      "title": "Li nik wergirtina cilek nû"
+    },
+    {
+      "n": 6,
+      "title": "Ji bona yê ku cileke nû li xwe ke"
+    },
+    {
+      "n": 7,
+      "title": "Li nik ciljixwekirinê"
+    },
+    {
+      "n": 8,
+      "title": "Li cem çûyîna destavxaneyê"
+    },
+    {
+      "n": 9,
+      "title": "Derketina ji destavxaneyê"
+    },
+    {
+      "n": 10,
+      "title": "Duayê li nik destnimêjgirtinê"
+    },
+    {
+      "n": 11,
+      "title": "Piştî destnimêjgirtinê"
+    },
+    {
+      "n": 12,
+      "title": "Li nik derketina ji malê"
+    },
+    {
+      "n": 13,
+      "title": "Laveya li nik ketina hundir"
+    },
+    {
+      "n": 14,
+      "title": "Li nik çûna mizgeftê"
+    },
+    {
+      "n": 15,
+      "title": "Li nik ketina mizgeftê"
+    },
+    {
+      "n": 16,
+      "title": "Li nik ji derkertina ji mizgeftê"
+    },
+    {
+      "n": 17,
+      "title": "Zikrê li nik bang (azan)ê"
+    },
+    {
+      "n": 18,
+      "title": "Du’aya piştî tekbîra niyetê"
+    },
+    {
+      "n": 19,
+      "title": "Zikrê di rikû’ê de"
+    },
+    {
+      "n": 20,
+      "title": "Li nik rabûna ji rikû’ê"
+    },
+    {
+      "n": 21,
+      "title": "Zikrê di secdê de"
+    },
+    {
+      "n": 22,
+      "title": "Di navbera herdû secdeyan de"
+    },
+    {
+      "n": 23,
+      "title": "Di secdebirina xwendina Qur’anê"
+    },
+    {
+      "n": 24,
+      "title": "Ettehiyatû"
+    },
+    {
+      "n": 25,
+      "title": "Piştî Ettehiyatû"
+    },
+    {
+      "n": 26,
+      "title": "Di berî silavê de"
+    },
+    {
+      "n": 27,
+      "title": "Piştî silavê"
+    },
+    {
+      "n": 28,
+      "title": "Du’aya îstîxareyê"
+    },
+    {
+      "n": 29,
+      "title": "Zikrê sibe û êvarê"
+    },
+    {
+      "n": 30,
+      "title": "Zikrê li nik razanê"
+    },
+    {
+      "n": 31,
+      "title": "Dema mirov xwe ji teniştekê wergerîne ser tenişta dî"
+    },
+    {
+      "n": 32,
+      "title": "Ji bona yê di xew de bibizde"
+    },
+    {
+      "n": 33,
+      "title": "Ji bona yê kabûs pêlê ke yan xewneke nexweş bibîne"
+    },
+    {
+      "n": 34,
+      "title": "Du’aya Qunûtê"
+    },
+    {
+      "n": 35,
+      "title": "Piştî silava nimêja witir"
+    },
+    {
+      "n": 36,
+      "title": "Laveya li nik xemgînîyê"
+    },
+    {
+      "n": 37,
+      "title": "Ji bo rabûna û tengezariyê"
+    },
+    {
+      "n": 38,
+      "title": "Du’aya li hember neyaran yan jî zordaran"
+    },
+    {
+      "n": 39,
+      "title": "Yê ku ji zulma padîşaha bitirse"
+    },
+    {
+      "n": 40,
+      "title": "Li hember dijminan"
+    },
+    {
+      "n": 41,
+      "title": "Du’aya yê ku ji civatekê bitirse"
+    },
+    {
+      "n": 42,
+      "title": "Laveya ê ku di baweriya xwe de biguman bikeve"
+    },
+    {
+      "n": 43,
+      "title": "Ji bona dayîna deyn"
+    },
+    {
+      "n": 44,
+      "title": "Ji bona tasewasa di nav nimêjê û xwendina Qur’anê de"
+    },
+    {
+      "n": 45,
+      "title": "Dema tiştek li mirov zor bê"
+    },
+    {
+      "n": 46,
+      "title": "Dema mirov guneha bike"
+    },
+    {
+      "n": 47,
+      "title": "Ji bona mirov şeytan û tasewasa wî ji xwe dûr bike"
+    },
+    {
+      "n": 48,
+      "title": "Dema tiştek bi mirov xweş neyê yan ya ku mirov bixwaze, pêk neyê"
+    },
+    {
+      "n": 49,
+      "title": "Yê ku zarok jê re çêbibe"
+    },
+    {
+      "n": 50,
+      "title": "Ji bo parastina zarokê"
+    },
+    {
+      "n": 51,
+      "title": "Li nik serdana nexweşan"
+    },
+    {
+      "n": 52,
+      "title": "Xêra serdana nexweşan"
+    },
+    {
+      "n": 53,
+      "title": "Ê ku ji jiyanê bêhêvî bibe"
+    },
+    {
+      "n": 54,
+      "title": "Serwextkirina yê di ber mirinê de"
+    },
+    {
+      "n": 55,
+      "title": "Dema musîbetek bê serê mirov"
+    },
+    {
+      "n": 56,
+      "title": "Dema mirov çavê mirî bigre"
+    },
+    {
+      "n": 57,
+      "title": "Du’aya di nav nimêja li ser mirî"
+    },
+    {
+      "n": 58,
+      "title": "Du’aya di nimêja ser zaroka mirî"
+    },
+    {
+      "n": 59,
+      "title": "Sersaxiya malbata yê mirî"
+    },
+    {
+      "n": 60,
+      "title": "Dema mirov mirî têxê gorê"
+    },
+    {
+      "n": 61,
+      "title": "Du’aya piştî veşartina mirî"
+    },
+    {
+      "n": 62,
+      "title": "Serdana goristanê"
+    },
+    {
+      "n": 63,
+      "title": "Dema ba gur bibe"
+    },
+    {
+      "n": 64,
+      "title": "Li nik dengdana ‘ewra"
+    },
+    {
+      "n": 65,
+      "title": "Du’aya xwestina baranê"
+    },
+    {
+      "n": 66,
+      "title": "Li nik hatina baranê"
+    },
+    {
+      "n": 67,
+      "title": "Piştî hatina baranê"
+    },
+    {
+      "n": 68,
+      "title": "Du’aya belavbûna ‘ewra"
+    },
+    {
+      "n": 69,
+      "title": "Li nik dîtina hîva yekşevî"
+    },
+    {
+      "n": 70,
+      "title": "Li cem fitarvekirinê"
+    },
+    {
+      "n": 71,
+      "title": "Li nik destpêka xwarinê"
+    },
+    {
+      "n": 72,
+      "title": "Di piştî xwarinê de"
+    },
+    {
+      "n": 73,
+      "title": "Du’aya mêvan ji ma’zulvan re"
+    },
+    {
+      "n": 74,
+      "title": "Ji bona yê ku avê bidê mirov"
+    },
+    {
+      "n": 75,
+      "title": "Ji bona yê xwarina fitarê bide"
+    },
+    {
+      "n": 76,
+      "title": "Yê birojî jibo xwarinê bête gazîkirin"
+    },
+    {
+      "n": 77,
+      "title": "Dema peyveke nexweş ji yê birojî re bê gotin"
+    },
+    {
+      "n": 78,
+      "title": "Li nik dîtina mêweyê salê yê pêşî"
+    },
+    {
+      "n": 79,
+      "title": "Li cem pişkandinê"
+    },
+    {
+      "n": 80,
+      "title": "Dema yê gawir bipişke"
+    },
+    {
+      "n": 81,
+      "title": "Ji bona yê zewacê"
+    },
+    {
+      "n": 82,
+      "title": "Du’aya yê ku dizewice yan jî heywanekî dikire"
+    },
+    {
+      "n": 83,
+      "title": "Dema mirov here livîna kebaniya xwe"
+    },
+    {
+      "n": 84,
+      "title": "Du’aya li nik hêrsbûnê"
+    },
+    {
+      "n": 85,
+      "title": "Du’aya dema mirov yekî xwedan mûsîbet bibîne"
+    },
+    {
+      "n": 86,
+      "title": "Di her rûniştinê de"
+    },
+    {
+      "n": 87,
+      "title": "Kefaretê rûniştina civatê"
+    },
+    {
+      "n": 88,
+      "title": "Yekî ku bêje: Ellah li te bibore"
+    },
+    {
+      "n": 89,
+      "title": "Ê ku qenciyê bi mirov bike"
+    },
+    {
+      "n": 90,
+      "title": "Du’aya parastina ji şerrê deccal"
+    },
+    {
+      "n": 91,
+      "title": "Ji yê ku ji mirov re bibêje: «Ez ji bo Xwedê ji te hez dikim»"
+    },
+    {
+      "n": 92,
+      "title": "Yê ku teklîfa mal û dirav li te bike"
+    },
+    {
+      "n": 93,
+      "title": "Ji bona yê ku di dema hewcedariyê de, deyn bide mirov"
+    },
+    {
+      "n": 94,
+      "title": "Ji bo mirov nekeve muşrikîtiyê"
+    },
+    {
+      "n": 95,
+      "title": "Yê ku ji te re bibêje: «Ellah te’ala te bi xêr û bêr bike» tu yê jê re bibêjî"
+    },
+    {
+      "n": 96,
+      "title": "Di dema bêoxiriyê de"
+    },
+    {
+      "n": 97,
+      "title": "Li nik siwarbûnê"
+    },
+    {
+      "n": 98,
+      "title": "Du’aya seferê (rêwîtî)"
+    },
+    {
+      "n": 99,
+      "title": "Dema ketina nav gundekî yan bajarekî"
+    },
+    {
+      "n": 100,
+      "title": "Dema mirov bikeve bazargehê"
+    },
+    {
+      "n": 101,
+      "title": "Li nik terpilîna heywana mirov"
+    },
+    {
+      "n": 102,
+      "title": "Dema rêwî bixwaze xatir"
+    },
+    {
+      "n": 103,
+      "title": "Du’aya yên mayî ji rêwî re"
+    },
+    {
+      "n": 104,
+      "title": "Tekbîr û tesbîhên di seferê de"
+    },
+    {
+      "n": 105,
+      "title": "Gava rêwingî bikeve ber banga sibê"
+    },
+    {
+      "n": 106,
+      "title": "Dema li qonaxekê raweste"
+    },
+    {
+      "n": 107,
+      "title": "Dema ji seferê vegere"
+    },
+    {
+      "n": 108,
+      "title": "Li cem rast hatina tiştekî xweş yan nexweş"
+    },
+    {
+      "n": 109,
+      "title": "Xêra selewatên li ser pêxember"
+    },
+    {
+      "n": 110,
+      "title": "Silavkirina li her kesî"
+    },
+    {
+      "n": 111,
+      "title": "Dema yê ne misilman silav bide"
+    },
+    {
+      "n": 112,
+      "title": "Dema dîk bang bide û ker bizire"
+    },
+    {
+      "n": 113,
+      "title": "Ewtîna kûçika bişev"
+    },
+    {
+      "n": 114,
+      "title": "Ji bo kesê ku te seba wî kirî"
+    },
+    {
+      "n": 115,
+      "title": "Dema misilmanek pesnê misilmanekî bide"
+    },
+    {
+      "n": 116,
+      "title": "Dema pesnê mirov bête dayîn"
+    },
+    {
+      "n": 117,
+      "title": "Dema ji bona heccê yan ‘umreyê bikevê ihrama"
+    },
+    {
+      "n": 118,
+      "title": "Du’aya hatina nik riknê berêreş"
+    },
+    {
+      "n": 119,
+      "title": "Du’aya di nabeyna riknê yemanî û hecer-ul eswed de"
+    },
+    {
+      "n": 120,
+      "title": "Du’aya di sekna sefa û merwa yê de"
+    },
+    {
+      "n": 121,
+      "title": "Du’aya roja ‘Erefeyê"
+    },
+    {
+      "n": 122,
+      "title": "Zikrê li Muzdelifeyê"
+    },
+    {
+      "n": 123,
+      "title": "Li nik keviravêtina cemeratan (kortikê şeytên)"
+    },
+    {
+      "n": 124,
+      "title": "Dema ‘ecebmayîn û kêfxweşbûnê de"
+    },
+    {
+      "n": 125,
+      "title": "Dema dilşadiyê de"
+    },
+    {
+      "n": 126,
+      "title": "Dema mirov di canê xwe de bi janekê bihisê"
+    },
+    {
+      "n": 127,
+      "title": "Du’aya çavpêvedanê"
+    },
+    {
+      "n": 128,
+      "title": "Du’aya dema tirsê de"
+    },
+    {
+      "n": 129,
+      "title": "Dema serjêkirina boraqê de"
+    },
+    {
+      "n": 130,
+      "title": "Ji bo pûçkirina deka şeytanên fermanşikên"
+    },
+    {
+      "n": 131,
+      "title": "Tobedarî û bexşînxwazî"
+    },
+    {
+      "n": 132,
+      "title": "Tesbîh, tehmîd, tehlîl, tekbîr"
+    },
+    {
+      "n": 133,
+      "title": "Pêxember (s.a.w) çawa Tesbîh dikir?"
+    },
+    {
+      "n": 134,
+      "title": "Hinek numûneyên xêr û toreyên pêxember"
+    }
+  ]
+}
