@@ -36,6 +36,7 @@ Everything here is public, and the app reads it as is. Change a file and push to
 | `category` | One of the values below, or `null`. A book without one shows only under "All". |
 | `cover` | Cover image address, or `null` for a plain cover. |
 | `hasText` | `true` once the book's text is in `books/{id}/` and it can be read in the app. |
+| `pdf` | Optional: where the book's PDF is, for a book read as printed rather than as text. These are the `pdf-v1` release's files in [baweri-books](https://github.com/baweri/baweri-books), since jsDelivr refuses a repository over 50 MB. |
 
 **Categories:** `fikih`, `hadis`, `ilmihal`, `tefsir`, `siyer`, `tasavvuf` (religious books); `edebiyat`, `tarih`, `cocuk` (other books). A new category also needs adding to the app.
 

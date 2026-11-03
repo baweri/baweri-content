@@ -360,6 +360,786 @@
       "category": "hadis",
       "cover": null,
       "hasText": true
+    },
+    {
+      "id": 7101,
+      "title": "Cînav di Zimanê Kurdî de",
+      "author": "Deham Ebdulfettah",
+      "language": "ku",
+      "category": "ziman",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7101.pdf"
+    },
+    {
+      "id": 7102,
+      "title": "Alfabe",
+      "author": "Remzî Bucak",
+      "language": "ku",
+      "category": "ziman",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7102.pdf"
+    },
+    {
+      "id": 7103,
+      "title": "Antolojiya Çîroka Nû ya Kurmancên Başûr",
+      "author": "Xelîl Duhokî",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7103.pdf"
+    },
+    {
+      "id": 7104,
+      "title": "Armonîkaya Hêşîn",
+      "author": "Cîhan Roj",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7104.pdf"
+    },
+    {
+      "id": 7105,
+      "title": "Awaza Serpêhatîyan",
+      "author": "Evîn Çîçek",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7105.pdf"
+    },
+    {
+      "id": 7106,
+      "title": "Bilîcan",
+      "author": "Perwîz Cihanî",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7106.pdf"
+    },
+    {
+      "id": 7107,
+      "title": "Deqê Dadgehîkirina Pêşewa Qazî Mihemed",
+      "author": null,
+      "language": "ku",
+      "category": "tarih",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7107.pdf"
+    },
+    {
+      "id": 7108,
+      "title": "Dersên Diyanetê û Hedîsên Cenabî Pêxember",
+      "author": "Kamran Bedir-Xan",
+      "language": "ku",
+      "category": "hadis",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7108.pdf"
+    },
+    {
+      "id": 7109,
+      "title": "Dersên Şerîetê",
+      "author": "Kamiran Alî Bedir-Xan",
+      "language": "ku",
+      "category": "ilmihal",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7109.pdf"
+    },
+    {
+      "id": 7110,
+      "title": "Destana Kawayê Hesinger",
+      "author": "Abdusamet Yîgît",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7110.pdf"
+    },
+    {
+      "id": 7111,
+      "title": "Destana Mihemed Axayê Kelhokî",
+      "author": "Şakir Epözdemir",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7111.pdf"
+    },
+    {
+      "id": 7112,
+      "title": "Di Folklora Kurdî de Serdestiyeke Jinan",
+      "author": "Rohat",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7112.pdf"
+    },
+    {
+      "id": 7113,
+      "title": "Dîrok Navîn 1",
+      "author": "Egîd Nasiro, Mihemed Elî",
+      "language": "ku",
+      "category": "tarih",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7113.pdf"
+    },
+    {
+      "id": 7114,
+      "title": "Dîrok Navîn 2",
+      "author": "Egîd Nasiro, Mihemed Elî",
+      "language": "ku",
+      "category": "tarih",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7114.pdf"
+    },
+    {
+      "id": 7115,
+      "title": "Dîrok Navîn 3",
+      "author": "Egîd Nasiro, Mihemed Elî",
+      "language": "ku",
+      "category": "tarih",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7115.pdf"
+    },
+    {
+      "id": 7116,
+      "title": "Dîroka Felsefeyê li Kurdistanê",
+      "author": "Abdusamet Yîgît",
+      "language": "ku",
+      "category": "tarih",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7116.pdf"
+    },
+    {
+      "id": 7117,
+      "title": "Dîroka Xwendina Medreseyên Kurdistanê",
+      "author": null,
+      "language": "ku",
+      "category": "tarih",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7117.pdf"
+    },
+    {
+      "id": 7118,
+      "title": "Dîwan",
+      "author": "Umîd Demîrhan",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7118.pdf"
+    },
+    {
+      "id": 7119,
+      "title": "Nûbihar",
+      "author": "Ehmedê Xanî",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7119.pdf"
+    },
+    {
+      "id": 7120,
+      "title": "Dîwana Şêx Qutbê Exlatî",
+      "author": "Şêx Qutbê Exlatî",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7120.pdf"
+    },
+    {
+      "id": 7121,
+      "title": "Efrîn Destane û Birîn",
+      "author": "Merwan Berekat",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7121.pdf"
+    },
+    {
+      "id": 7122,
+      "title": "Ferheng Pîşkên Kurdî",
+      "author": "Îbrahîm Remezan Zaxoyî",
+      "language": "ku",
+      "category": "ziman",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7122.pdf"
+    },
+    {
+      "id": 7123,
+      "title": "Feqiyê Teyran: Jiyan, Berhem û Helbestên Wî",
+      "author": "M. Xalid Sadînî",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7123.pdf"
+    },
+    {
+      "id": 7124,
+      "title": "Ferheng Somerî-Kurdî û Kurdî-Somerî",
+      "author": null,
+      "language": "ku",
+      "category": "ziman",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7124.pdf"
+    },
+    {
+      "id": 7125,
+      "title": "Ferhenga Zaravên Teknîkî",
+      "author": null,
+      "language": "ku",
+      "category": "ziman",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7125.pdf"
+    },
+    {
+      "id": 7126,
+      "title": "Folklora Kurda",
+      "author": "Heciyê Cindî",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7126.pdf"
+    },
+    {
+      "id": 7127,
+      "title": "Gardiyan",
+      "author": "Bûbê Eser",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7127.pdf"
+    },
+    {
+      "id": 7128,
+      "title": "Dîwana Hacî Qadirê Koyî",
+      "author": "Hacî Qadirê Koyî",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7128.pdf"
+    },
+    {
+      "id": 7129,
+      "title": "Helwesta Netewî: Pirs û Mijarên Zimanê Kurdî",
+      "author": null,
+      "language": "ku",
+      "category": "ziman",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7129.pdf"
+    },
+    {
+      "id": 7130,
+      "title": "Heskîf Dîwan e",
+      "author": "Cîhan Roj",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7130.pdf"
+    },
+    {
+      "id": 7131,
+      "title": "Hêjmar",
+      "author": null,
+      "language": "ku",
+      "category": "cocuk",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7131.pdf"
+    },
+    {
+      "id": 7132,
+      "title": "Komxebata Zaravên Teknîkî",
+      "author": null,
+      "language": "ku",
+      "category": "ziman",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7132.pdf"
+    },
+    {
+      "id": 7133,
+      "title": "Kultur, Huner û Edebiyat",
+      "author": "Firat Cewerî",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7133.pdf"
+    },
+    {
+      "id": 7134,
+      "title": "Kurd: Nevîyên Mîdiyan",
+      "author": "V. F. Mînorskî",
+      "language": "ku",
+      "category": "tarih",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7134.pdf"
+    },
+    {
+      "id": 7135,
+      "title": "Kurdên Haymanayê",
+      "author": "Georges Perrot",
+      "language": "ku",
+      "category": "tarih",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7135.pdf"
+    },
+    {
+      "id": 7136,
+      "title": "Kurtîyek ji Mêjûwa Kurd û Kurdistan",
+      "author": null,
+      "language": "ku",
+      "category": "tarih",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7136.pdf"
+    },
+    {
+      "id": 7137,
+      "title": "Kurê Zinarê Serbilind",
+      "author": "Sidqiyê Hirorî",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7137.pdf"
+    },
+    {
+      "id": 7138,
+      "title": "Kîme Ez: Dîwana III",
+      "author": "Cigerxwîn",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7138.pdf"
+    },
+    {
+      "id": 7139,
+      "title": "Labîrenta Cinan",
+      "author": "Hesenê Metê",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7139.pdf"
+    },
+    {
+      "id": 7140,
+      "title": "Le kurde de ʿAmādiya et de Djabal Sindjār",
+      "author": "Joyce Blau",
+      "language": "ku",
+      "category": "ziman",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7140.pdf"
+    },
+    {
+      "id": 7141,
+      "title": "Li ser Têgîna Mantiqê",
+      "author": "Abdusamet Yîgît",
+      "language": "ku",
+      "category": "tarih",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7141.pdf"
+    },
+    {
+      "id": 7142,
+      "title": "Dîwana Mehwî",
+      "author": "Mehwî",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7142.pdf"
+    },
+    {
+      "id": 7143,
+      "title": "Mafname",
+      "author": "Husein Muhammed",
+      "language": "ku",
+      "category": "ziman",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7143.pdf"
+    },
+    {
+      "id": 7144,
+      "title": "Mem û Zîn",
+      "author": "Ehmedê Xanî",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7144.pdf"
+    },
+    {
+      "id": 7145,
+      "title": "Mêjûwa Dewlet û Mîrnešînîyên Kurd di Pêla Musulmantîyê de",
+      "author": null,
+      "language": "ku",
+      "category": "tarih",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7145.pdf"
+    },
+    {
+      "id": 7146,
+      "title": "Navên Fêkîya",
+      "author": null,
+      "language": "ku",
+      "category": "cocuk",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7146.pdf"
+    },
+    {
+      "id": 7147,
+      "title": "Nehc-ul Enam",
+      "author": "Mele Xelîlê Sêrtî",
+      "language": "ku",
+      "category": "ilmihal",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7147.pdf"
+    },
+    {
+      "id": 7148,
+      "title": "Pirtûka Min",
+      "author": null,
+      "language": "ku",
+      "category": "cocuk",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7148.pdf"
+    },
+    {
+      "id": 7149,
+      "title": "Dîwana Pîremêrd",
+      "author": "Pîremêrd",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7149.pdf"
+    },
+    {
+      "id": 7150,
+      "title": "Tarîxa Edebiyata Kurdî 1",
+      "author": "Qenatê Kurdo",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7150.pdf"
+    },
+    {
+      "id": 7151,
+      "title": "Tarîxa Edebiyata Kurdî 2",
+      "author": "Qenatê Kurdo",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7151.pdf"
+    },
+    {
+      "id": 7152,
+      "title": "Rêber: Rêbernameya Rastnivîsîna Kurdî",
+      "author": "Husein Muhammed",
+      "language": "ku",
+      "category": "ziman",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7152.pdf"
+    },
+    {
+      "id": 7153,
+      "title": "Reş û Spî",
+      "author": "Îbrahîm Seydo Aydogan",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7153.pdf"
+    },
+    {
+      "id": 7154,
+      "title": "3 Gav û 3 Darek",
+      "author": "Jan Dost",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7154.pdf"
+    },
+    {
+      "id": 7155,
+      "title": "Rêzimana Kurdî Amadeyî 3",
+      "author": "Ebdilstar Seyid Elî, Ehmed Derwîş",
+      "language": "ku",
+      "category": "ziman",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7155.pdf"
+    },
+    {
+      "id": 7156,
+      "title": "Rêzimana Kurdî",
+      "author": "Brûsk Agirî",
+      "language": "ku",
+      "category": "ziman",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7156.pdf"
+    },
+    {
+      "id": 7157,
+      "title": "Kurtenerînek li Hin Beşên Rêzimana Kurdî",
+      "author": "Husein Muhammed",
+      "language": "ku",
+      "category": "ziman",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7157.pdf"
+    },
+    {
+      "id": 7158,
+      "title": "Sorê Gulê",
+      "author": "Silêman Demir",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7158.pdf"
+    },
+    {
+      "id": 7159,
+      "title": "Sê Şev û Sê Roj",
+      "author": "Laleş Qaso",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7159.pdf"
+    },
+    {
+      "id": 7160,
+      "title": "Di Dewra Osmaniyan de Weşangeriya Kitêbên Kurdî",
+      "author": null,
+      "language": "ku",
+      "category": "tarih",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7160.pdf"
+    },
+    {
+      "id": 7161,
+      "title": "Edebîyata Modern a Kurdî",
+      "author": "Cîhan Roj",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7161.pdf"
+    },
+    {
+      "id": 7162,
+      "title": "Ferhenga Destî",
+      "author": "Umîd Demîrhan",
+      "language": "ku",
+      "category": "ziman",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7162.pdf"
+    },
+    {
+      "id": 7163,
+      "title": "Hawara Dîcleyê 1",
+      "author": "Mehmed Uzun",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7163.pdf"
+    },
+    {
+      "id": 7164,
+      "title": "Kürtçe Dersleri",
+      "author": null,
+      "language": "ku",
+      "category": "ziman",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7164.pdf"
+    },
+    {
+      "id": 7165,
+      "title": "Bîra Qederê",
+      "author": "Mehmed Uzun",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7165.pdf"
+    },
+    {
+      "id": 7166,
+      "title": "Hêz û Bedewiya Pênûsê",
+      "author": "Mehmed Uzun",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7166.pdf"
+    },
+    {
+      "id": 7167,
+      "title": "Evîn û Şewat",
+      "author": "Sidqî Hirorî",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7167.pdf"
+    },
+    {
+      "id": 7168,
+      "title": "Rêzimana Inglîzî bi Zimanê Kurdî",
+      "author": "Husein Muhammed",
+      "language": "ku",
+      "category": "ziman",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7168.pdf"
+    },
+    {
+      "id": 7169,
+      "title": "Kürtçe-Türkçe Sözlük",
+      "author": "Yusuf Ziyaeddin Paşa",
+      "language": "ku",
+      "category": "ziman",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7169.pdf"
+    },
+    {
+      "id": 7170,
+      "title": "Zembîlfiroş",
+      "author": null,
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7170.pdf"
+    },
+    {
+      "id": 7171,
+      "title": "Epîlog",
+      "author": "Hesenê Metê",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7171.pdf"
+    },
+    {
+      "id": 7172,
+      "title": "Destana Kela Dimdim",
+      "author": "Yaşar Kaplan",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7172.pdf"
+    },
+    {
+      "id": 7173,
+      "title": "Behlûlê Dîn",
+      "author": "Hans Christian Andersen",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7173.pdf"
+    },
+    {
+      "id": 7174,
+      "title": "Şevên Zengîn",
+      "author": "Newafê Gedo",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7174.pdf"
+    },
+    {
+      "id": 7175,
+      "title": "Gopalê Sor",
+      "author": "Meşal Temo",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7175.pdf"
+    },
+    {
+      "id": 7176,
+      "title": "Girtî",
+      "author": "Firat Cewerî",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7176.pdf"
+    },
+    {
+      "id": 7177,
+      "title": "Xezal",
+      "author": "Sîma Semend",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7177.pdf"
+    },
+    {
+      "id": 7178,
+      "title": "Şîn û Şadî",
+      "author": "Sebrî Botanî",
+      "language": "ku",
+      "category": "edebiyat",
+      "cover": null,
+      "hasText": false,
+      "pdf": "https://github.com/baweri/baweri-books/releases/download/pdf-v1/7178.pdf"
     }
   ]
 }
